@@ -1,4 +1,4 @@
-name: Update EPG (meWatch, RTMKlik, UnifiTV)
+name: Update EPG (meWatch, RTMKlik, RTB Go)
 
 on:
   schedule:
@@ -29,19 +29,21 @@ jobs:
           cd grabber
           export TZ="Asia/Kuala_Lumpur"
           
-          # Grab meWatch
+          # Grab meWatch (SG)
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           
-          # Grab RTMKlik
+          # Grab RTMKlik (MY)
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           
-          # Grab UnifiTV
-          npm run grab -- --site=unifi.com.my --days=2 --output=../unifitv.xml
+          # Grab RTB Go (BN)
+          npm run grab -- --site=rtbgo.bn --days=2 --output=../rtbgo.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add mewatch.xml rtmklik.xml unifitv.xml
-          git commit -m "Update EPG (meWatch, RTM, Unifi): $(date)" || echo "Tiada perubahan"
+          # Menambah rtbgo.xml dan membuang unifitv.xml jika ada
+          git add mewatch.xml rtmklik.xml rtbgo.xml
+          git rm unifitv.xml --ignore-unmatch
+          git commit -m "Update EPG: meWatch, RTM, RTB Go ($(date))" || echo "Tiada perubahan"
           git push
