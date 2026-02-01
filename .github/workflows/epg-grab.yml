@@ -1,0 +1,47 @@
+name: Update EPG (meWatch, RTMKlik, UnifiTV)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install IPTV-org EPG Grabber
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
+          cd grabber
+          npm install
+
+      - name: Grab All EPGs
+        run: |
+          cd grabber
+          export TZ="Asia/Kuala_Lumpur"
+          
+          # Grab meWatch
+          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
+          
+          # Grab RTMKlik
+          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
+          
+          # Grab UnifiTV
+          npm run grab -- --site=unifi.com.my --days=2 --output=../unifitv.xml
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add mewatch.xml rtmklik.xml unifitv.xml
+          git commit -m "Update EPG (meWatch, RTM, Unifi): $(date)" || echo "Tiada perubahan"
+          git push
