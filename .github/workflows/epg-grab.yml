@@ -35,17 +35,17 @@ jobs:
           # Grab RTMKlik (MY)
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           
-          # Grab Vision+ (ID)
-          npm run grab -- --site=visionplus.id --days=2 --output=../visionplus.xml
+          # Grab IndiHome TV (ID)
+          npm run grab -- --site=indihometv.com --days=2 --output=../indihome.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Tambah fail baru dan buang fail lama yang tidak diperlukan
-          git add mewatch.xml rtmklik.xml visionplus.xml
-          git rm rtbgo.xml unifitv.xml --ignore-unmatch
+          # Tambah fail baru dan buang fail lama (visionplus/rtbgo/unifi)
+          git add mewatch.xml rtmklik.xml indihome.xml
+          git rm visionplus.xml rtbgo.xml unifitv.xml --ignore-unmatch
           
-          git commit -m "Update EPG: meWatch, RTM, Vision+ ($(date))" || echo "Tiada perubahan"
+          git commit -m "Update EPG: meWatch, RTM, IndiHome ($(date))" || echo "Tiada perubahan"
           git push
