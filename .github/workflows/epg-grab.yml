@@ -1,4 +1,4 @@
-name: Update EPG (meWatch, RTMKlik, RTB Go)
+name: Update EPG
 
 on:
   schedule:
@@ -35,15 +35,17 @@ jobs:
           # Grab RTMKlik (MY)
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           
-          # Grab RTB Go (BN)
-          npm run grab -- --site=rtbgo.bn --days=2 --output=../rtbgo.xml
+          # Grab Vision+ (ID)
+          npm run grab -- --site=visionplus.id --days=2 --output=../visionplus.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # Menambah rtbgo.xml dan membuang unifitv.xml jika ada
-          git add mewatch.xml rtmklik.xml rtbgo.xml
-          git rm unifitv.xml --ignore-unmatch
-          git commit -m "Update EPG: meWatch, RTM, RTB Go ($(date))" || echo "Tiada perubahan"
+          
+          # Tambah fail baru dan buang fail lama yang tidak diperlukan
+          git add mewatch.xml rtmklik.xml visionplus.xml
+          git rm rtbgo.xml unifitv.xml --ignore-unmatch
+          
+          git commit -m "Update EPG: meWatch, RTM, Vision+ ($(date))" || echo "Tiada perubahan"
           git push
