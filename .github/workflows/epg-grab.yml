@@ -24,44 +24,35 @@ jobs:
           cd grabber
           npm install
 
-      - name: Grab All EPGs
+      - name: Grab Main EPGs
         run: |
           cd grabber
           export TZ="Asia/Kuala_Lumpur"
-          
-          # meWatch (SG)
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
-          
-          # RTMKlik (MY)
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
-          
-          # IndiHome TV (ID)
           npm run grab -- --site=indihometv.com --days=2 --output=../indihome.xml
 
-      - name: Download External EPGs (epg.pw)
+      - name: Download Sport EPGs (epg.pw)
         run: |
-          # FS1
-          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" -o channel_1.xml
-          
-          # FS2
-          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" -o channel_2.xml
-          
-          # Gabungkan atau namakan semula kepada myepg.xml
-          # Jika anda hanya mahu fail terakhir, gunakan cat atau curl terus ke myepg.xml
-          # Di sini saya muat turun terus ke myepg.xml (menindih fail lama)
-          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" > myepg.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" >> myepg.xml
+          # EPG
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=411979" -o sportstar3.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=172008" -o sportstar4.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" -o fs1.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" -o fs2.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Tambah fail XML yang dikekalkan
-          git add mewatch.xml rtmklik.xml indihome.xml myepg.xml
+          # Tambah semua fail XML baru
+          git add *.xml
           
-          # Buang fail lama termasuk nama fail lama (external_epg.xml)
-          git rm external_epg.xml cignal.xml starhub.xml visionplus.xml rtbgo.xml unifitv.xml --ignore-unmatch
+          # Bersihkan fail lama yang sudah tidak digunakan
+          git rm external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          git commit -m "Update EPG: meWatch, RTM, IndiHome & myepg.xml ($(date))" || echo "Tiada perubahan"
+          git commit -m "Update EPG: Added Soccer & Sportstar Channels ($(date))" || echo "Tiada perubahan"
           git push
