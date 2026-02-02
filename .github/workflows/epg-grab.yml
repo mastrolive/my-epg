@@ -29,28 +29,39 @@ jobs:
           cd grabber
           export TZ="Asia/Kuala_Lumpur"
           
-          # Grab meWatch (SG)
+          # meWatch (SG)
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           
-          # Grab RTMKlik (MY)
+          # RTMKlik (MY)
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           
-          # Grab IndiHome TV (ID)
+          # IndiHome TV (ID)
           npm run grab -- --site=indihometv.com --days=2 --output=../indihome.xml
 
-          # Grab Cignal Play (PH)
-          npm run grab -- --site=cignalplay.com --days=2 --output=../cignal.xml
+      - name: Download External EPGs (epg.pw)
+        run: |
+          # FS1
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" -o channel_1.xml
+          
+          # FS2
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" -o channel_2.xml
+          
+          # Gabungkan atau namakan semula kepada myepg.xml
+          # Jika anda hanya mahu fail terakhir, gunakan cat atau curl terus ke myepg.xml
+          # Di sini saya muat turun terus ke myepg.xml (menindih fail lama)
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" > myepg.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" >> myepg.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Tambah fail XML yang aktif
-          git add mewatch.xml rtmklik.xml indihome.xml cignal.xml
+          # Tambah fail XML yang dikekalkan
+          git add mewatch.xml rtmklik.xml indihome.xml myepg.xml
           
-          # Buang fail StarHub dan fail lama yang lain
-          git rm starhub.xml visionplus.xml rtbgo.xml unifitv.xml --ignore-unmatch
+          # Buang fail lama termasuk nama fail lama (external_epg.xml)
+          git rm external_epg.xml cignal.xml starhub.xml visionplus.xml rtbgo.xml unifitv.xml --ignore-unmatch
           
-          git commit -m "Update EPG: meWatch, RTM, IndiHome, Cignal ($(date))" || echo "Tiada perubahan"
+          git commit -m "Update EPG: meWatch, RTM, IndiHome & myepg.xml ($(date))" || echo "Tiada perubahan"
           git push
