@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260202">
 <channel id="TV1.my@SD"><display-name>TV1</display-name><icon src="https://i.imgur.com/wSyPmiY.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
-<channel id="TV2.my@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/LGEdeyJ.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
-<channel id="SukanRTM.my@SD"><display-name>Sukan RTM</display-name><icon src="https://i.imgur.com/1pYYSu2.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
+<channel id="10"><display-name>Dewan Negara</display-name><url>https://rtmklik.rtm.gov.my</url></channel>
 <channel id="9"><display-name>Dewan Rakyat</display-name><url>https://rtmklik.rtm.gov.my</url></channel>
 <channel id="TV6.my@SD"><display-name>TV6</display-name><icon src="https://i.imgur.com/bK8UH9D.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
 <channel id="BeritaRTM.my@SD"><display-name>Berita RTM</display-name><icon src="https://i.imgur.com/1Xzxsgl.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
+<channel id="SukanRTM.my@SD"><display-name>Sukan RTM</display-name><icon src="https://i.imgur.com/1pYYSu2.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
 <channel id="Okey.my@SD"><display-name>Okey</display-name><icon src="https://i.imgur.com/V2jREQ5.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
-<channel id="10"><display-name>Dewan Negara</display-name><url>https://rtmklik.rtm.gov.my</url></channel>
+<channel id="TV2.my@SD"><display-name>TV2</display-name><icon src="https://i.imgur.com/LGEdeyJ.png"/><url>https://rtmklik.rtm.gov.my</url></channel>
 <programme start="20260129063000 +0000" stop="20260204020000 +0000" channel="9"><title lang="ms">Parlimen Kelima Belas 2026 (Penggal Kelima) : Mesyuarat Pertama</title></programme>
 <programme start="20260129063000 +0000" stop="20260204020000 +0000" channel="9"><title lang="ms">Parlimen Kelima Belas 2026 (Penggal Kelima) : Mesyuarat Pertama</title></programme>
 <programme start="20260119020000 +0000" stop="20260223020000 +0000" channel="10"><title lang="ms">Parlimen Kelima Belas 2026 (Penggal Kelima) : Mesyuarat Pertama</title></programme>
