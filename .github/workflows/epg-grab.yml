@@ -32,6 +32,9 @@ jobs:
           # Grab meWatch (SG)
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           
+          # Grab StarHub (SG) - BARU
+          npm run grab -- --site=starhubtvplus.com --days=2 --output=../starhub.xml
+          
           # Grab RTMKlik (MY)
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           
@@ -43,9 +46,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Tambah fail baru dan buang fail lama (visionplus/rtbgo/unifi)
-          git add mewatch.xml rtmklik.xml indihome.xml
+          # Tambah fail baru (termasuk starhub.xml)
+          git add mewatch.xml starhub.xml rtmklik.xml indihome.xml
+          
+          # Buang fail lama yang tidak lagi digunakan
           git rm visionplus.xml rtbgo.xml unifitv.xml --ignore-unmatch
           
-          git commit -m "Update EPG: meWatch, RTM, IndiHome ($(date))" || echo "Tiada perubahan"
+          git commit -m "Update EPG: meWatch, StarHub, RTM, IndiHome ($(date))" || echo "Tiada perubahan"
           git push
