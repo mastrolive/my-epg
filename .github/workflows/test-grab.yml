@@ -1,0 +1,68 @@
+name: Update EPG (Astro & StarHub Only)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install IPTV-org EPG Grabber
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
+          cd grabber
+          npm install
+
+      - name: Create Channels Filter
+        run: |
+          # Filter untuk Astro Malaysia
+          cat <<EOF > grabber/astro.channels.xml
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+            <channel site="astro.com.my" lang="ms" xmltv_id="AstroSensasi.my" site_id="141">Astro Sensasi</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="AstroWarna.my" site_id="111">Astro Warna</channel>
+          </channels>
+          EOF
+
+          # Filter untuk StarHub Singapura
+          cat <<EOF > grabber/starhub.channels.xml
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+            <channel site="starhubtvplus.com" lang="en" xmltv_id="Sensasi.sg" site_id="2060">Sensasi (StarHub)</channel>
+            <channel site="starhubtvplus.com" lang="en" xmltv_id="AstroWarna.sg" site_id="2061">Astro Warna (StarHub)</channel>
+          </channels>
+          EOF
+
+      - name: Grab EPGs
+        run: |
+          cd grabber
+          export TZ="Asia/Kuala_Lumpur"
+          
+          # Grab Astro & StarHub sahaja
+          npm run grab -- --channels=astro.channels.xml --days=2 --output=../astro.xml
+          npm run grab -- --channels=starhub.channels.xml --days=2 --output=../starhub.xml
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Tambah fail baru
+          git add astro.xml starhub.xml
+          
+          # Padam fail-fail lama yang tidak lagi diperlukan
+          git rm mewatch.xml rtmklik.xml indihome.xml visionplus.xml rtbgo.xml unifitv.xml --ignore-unmatch
+          
+          git commit -m "Update EPG: Only Astro & StarHub ($(date))" || echo "Tiada perubahan"
+          git push
