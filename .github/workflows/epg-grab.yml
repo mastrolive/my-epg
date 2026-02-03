@@ -31,6 +31,7 @@ jobs:
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           npm run grab -- --site=indihometv.com --days=2 --output=../indihome.xml
+          npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
 
       - name: Download Sport EPGs (epg.pw)
         run: |
