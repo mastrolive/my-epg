@@ -35,10 +35,10 @@ jobs:
           npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
           
           # Grab Saluran Spesifik dari IndiHome
-          npm run grab -- --site=indihome.co.id --channel=BioskopIndonesia.id --days=2 --output=../bioskop_indonesia.xml
-          npm run grab -- --site=indihome.co.id --channel=DuniaLain.id --days=2 --output=../dunialain.xml
-          npm run grab -- --site=indihome.co.id --channel=Flik.id --days=2 --output=../flik.xml
-          npm run grab -- --site=indihome.co.id --channel=Maxstream.id --days=2 --output=../maxstream.xml
+          npm run grab -- --site=indihometv.com --channel=Bioskop Indonesia --days=2 --output=../bioskop_indonesia.xml
+          npm run grab -- --site=indihometv.com --channel=Dunia Lain --days=2 --output=../dunialain.xml
+          npm run grab -- --site=indihometv.com --channel=Flik --days=2 --output=../flik.xml
+          npm run grab -- --site=indihometv.com --channel=Maxstream --days=2 --output=../maxstream.xml
 
       - name: Download Sport EPGs (epg.pw)
         run: |
