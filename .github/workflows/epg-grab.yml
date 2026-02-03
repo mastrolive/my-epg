@@ -39,6 +39,8 @@ jobs:
           curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o citradrama.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o gtv.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=411936" -o maxstream.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=411915" -o mdtv.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
