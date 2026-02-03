@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,12 +31,14 @@ jobs:
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
-          npm run grab -- --site=sooka.my --days=2 --output=../sooka.xml
 
       - name: Download Sport EPGs (epg.pw)
         run: |
           # Muat turun setiap saluran secara berasingan
           curl -L "https://epg.pw/api/epg.xml?channel_id=411967" -o bioskopindo.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o citradrama.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o gtv.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
@@ -52,8 +54,8 @@ jobs:
           
           git add *.xml
           
-          # Bersihkan fail lama (rctiplus dibuang, sooka ditambah ke repo)
-          git rm rctiplus.xml indihome.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
+          # Bersihkan fail lama yang tidak digunakan lagi
+          git rm sooka.xml rctiplus.xml indihome.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          git commit -m "Update EPG: Added Sooka, Removed RCTI+ ($(date))" || echo "Tiada perubahan"
+          git commit -m "Update EPG: Removed Sooka & RCTI+, Scheduled at 07:00 MYT ($(date))" || echo "Tiada perubahan"
           git push
