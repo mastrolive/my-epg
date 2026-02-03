@@ -1,30 +1,30 @@
 name: Update EPG
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  grab:
-    runs-on: ubuntu-latest
+  grab:
+    runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-      - name: Install IPTV-org EPG Grabber
-        run: |
-          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
-          cd grabber
-          npm install
+      - name: Install IPTV-org EPG Grabber
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
+          cd grabber
+          npm install
 
-      - name: Grab Main EPGs
+      - name: Grab Main EPGs
         run: |
           cd grabber
           export TZ="Asia/Kuala_Lumpur"
@@ -35,6 +35,7 @@ jobs:
 
       - name: Download Sport EPGs (epg.pw)
         run: |
+          # Muat turun setiap saluran sport secara berasingan
           curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
