@@ -2,14 +2,12 @@ name: Update EPG
 
 on:
   schedule:
-    # 23:00 UTC bersamaan 07:00 AM Waktu Malaysia (GMT+8)
     - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
   grab:
     runs-on: ubuntu-latest
-    # Menambah kebenaran menulis (permissions) untuk mengelakkan ralat 'push'
     permissions:
       contents: write
 
@@ -21,29 +19,24 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: grabber/package-lock.json
+          # Cache dibuang untuk mengelakkan ralat path not found
 
-      - name: Install IPTV-org EPG Grabber
+      - name: Install and Grab EPG
         run: |
+          # 1. Setup Grabber
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
-
-      - name: Grab Main EPGs
-        run: |
-          cd grabber
+          
+          # 2. Jalankan Proses Grab
           export TZ="Asia/Kuala_Lumpur"
-          # Menggunakan loop untuk lebih kemas
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
-          # Pembetulan: Sebelum ini output indihometv bertindih dengan vidio.xml
           npm run grab -- --site=indihometv.com --days=2 --output=../indihometv.xml
 
       - name: Download Sport EPGs (epg.pw)
         run: |
-          # Muat turun menggunakan satu command untuk kelajuan
           curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
@@ -57,16 +50,14 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Hapus grabber folder supaya tidak masuk dalam commit
+          # Pastikan folder grabber dibuang sebelum add/commit
           rm -rf grabber
           
-          # Tambah semua fail XML yang baru
           git add *.xml
           
-          # Bersihkan fail lama yang sudah tidak digunakan
+          # Hapus fail lama jika wujud
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          # Commit jika ada perubahan sahaja
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
           git commit -m "Update EPG: $TIMESTAMP" || exit 0
           git push
