@@ -29,20 +29,21 @@ jobs:
         run: |
           cd grabber
           export TZ="Asia/Kuala_Lumpur"
-          # Grab dari pelbagai site
-          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
-          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
-          npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
           
-          # Grab Saluran Spesifik dari IndiHome
-          npm run grab -- --site=indihometv.com --channel=BioskopIndonesia.id@SD --days=2 --output=../bioskop_indonesia.xml
-          npm run grab -- --site=indihometv.com --channel=DuniaLain.id@SD --days=2 --output=../dunialain.xml
-          npm run grab -- --site=indihometv.com --channel=Flik.id@SD --days=2 --output=../flik.xml
-          npm run grab -- --site=indihometv.com --channel=MAXStream.id@SD --days=2 --output=../maxstream.xml
+          # Grab EPG utama
+          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || true
+          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || true
+          npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml || true
+          
+          # Grab dari indihometv.com
+          # Menggunakan ID saluran yang biasa digunakan untuk sumber ini
+          npm run grab -- --site=indihometv.com --channel=89 --days=2 --output=../bioskop_indonesia.xml || true
+          npm run grab -- --site=indihometv.com --channel=162 --days=2 --output=../dunialain.xml || true
+          npm run grab -- --site=indihometv.com --channel=157 --days=2 --output=../flik.xml || true
+          npm run grab -- --site=indihometv.com --channel=184 --days=2 --output=../maxstream.xml || true
 
       - name: Download Sport EPGs (epg.pw)
         run: |
-          # Muat turun saluran sukan & hiburan lain dari epg.pw
           curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o citradrama.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o gtv.xml
@@ -61,8 +62,8 @@ jobs:
           
           git add *.xml
           
-          # Bersihkan fail lama (indihome.xml dibuang dari senarai rm supaya tidak terpadam)
+          # Kekalkan fail indihome baru, buang fail lama yang tidak relevan
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          git commit -m "Update EPG: Added Bioskop Indo, Dunia Lain, Flik, Maxstream ($(date))" || echo "Tiada perubahan"
+          git commit -m "Update EPG: Added indihometv.com channels ($(date))" || echo "No changes"
           git push
