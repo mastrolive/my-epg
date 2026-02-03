@@ -2,13 +2,15 @@ name: Update EPG
 
 on:
   schedule:
-    # 23:00 UTC bersamaan 07:00 AM Waktu Malaysia (GMT+8)
     - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
   grab:
     runs-on: ubuntu-latest
+    # Added permissions to allow the bot to push changes
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -35,10 +37,9 @@ jobs:
 
       - name: Download Sport EPGs (epg.pw)
         run: |
-          # Muat turun setiap saluran secara berasingan
           curl -L "https://epg.pw/api/epg.xml?channel_id=411967" -o bioskopindo.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o citradrama.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o gtv.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
@@ -53,10 +54,15 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add *.xml
-          
-          # Bersihkan fail lama yang tidak digunakan lagi
+          # Remove specific files only if they exist
           git rm sooka.xml rctiplus.xml indihome.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          git commit -m "Update EPG: Removed Sooka & RCTI+, Scheduled at 07:00 MYT ($(date))" || echo "Tiada perubahan"
-          git push
+          git add *.xml
+          
+          # Only commit if there are actual changes to prevent "nothing to commit" errors
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update EPG: $(date +'%Y-%m-%d %H:%M:%S') MYT"
+            git push
+          fi
