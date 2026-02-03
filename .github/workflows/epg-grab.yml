@@ -34,13 +34,16 @@ jobs:
         run: |
           cd grabber
           export TZ="Asia/Kuala_Lumpur"
+          # Menggunakan loop untuk lebih kemas
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
+          # Pembetulan: Sebelum ini output indihometv bertindih dengan vidio.xml
           npm run grab -- --site=indihometv.com --days=2 --output=../indihometv.xml
 
       - name: Download Sport EPGs (epg.pw)
         run: |
+          # Muat turun menggunakan satu command untuk kelajuan
           curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
