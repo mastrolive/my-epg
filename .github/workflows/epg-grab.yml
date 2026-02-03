@@ -2,6 +2,7 @@ name: Update EPG
 
 on:
   schedule:
+    # 23:00 UTC bersamaan 07:00 AM Waktu Malaysia (GMT+8)
     - cron: '0 23 * * *'
   workflow_dispatch:
 
