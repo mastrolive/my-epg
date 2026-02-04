@@ -69,10 +69,18 @@ jobs:
             count=$((count+1))
           done
 
-          # Cipta fail epg.xml (Channel atas, Programme bawah)
-          echo '<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="epg.pw-Combined">' > epg.xml
-          grep -hE '<channel' temp_epg/*.xml >> epg.xml || true
+          # Cipta fail epg.xml yang tersusun
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
+          echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
+          
+          # BAHAGIAN ATAS: Masukkan semua tag <channel> ... </channel>
+          # Mengambil blok penuh channel
+          sed -nh '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
+          
+          # BAHAGIAN BAWAH: Masukkan semua tag <programme start=" ... </programme>
+          # Mengambil blok penuh programme
           sed -nh '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
+          
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
@@ -82,10 +90,10 @@ jobs:
           
           rm -rf grabber temp_epg
           
-          # Tambah fail yang dikehendaki sahaja
+          # Update fail dalam repo
           git add mewatch.xml rtmklik.xml vidio.xml epg.xml
           
-          # Buang fail lama yang tidak relevan
+          # Buang fail lama yang tidak diperlukan
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
