@@ -22,13 +22,10 @@ jobs:
 
       - name: Grab Specific Sites (Separate Files)
         run: |
-          # 1. Setup Grabber
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
           export TZ="Asia/Kuala_Lumpur"
-          
-          # 2. Grab dan simpan fail berasingan
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
@@ -38,7 +35,6 @@ jobs:
         run: |
           mkdir -p temp_epg
           
-          # Senarai URL epg.pw
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=369742" # citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # citraenter
@@ -62,24 +58,21 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
           )
 
-          # Download fail epg.pw
-          count=1
           for url in "${urls[@]}"; do
-            curl -L "$url" -o "temp_epg/file$count.xml"
-            count=$((count+1))
+            # Gunakan -s (silent) dan pastikan fail tidak kosong
+            curl -sL "$url" > temp_epg/$(date +%s%N).xml
           done
 
-          # Cipta fail epg.xml yang tersusun
+          # Cipta fail epg.xml
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
           
-          # BAHAGIAN ATAS: Masukkan semua tag <channel> ... </channel>
-          # Mengambil blok penuh channel
-          sed -nh '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
+          # Ambil semua tag <channel> (menggunakan grep lebih selamat untuk epg.pw)
+          grep -h "<channel" temp_epg/*.xml >> epg.xml || true
           
-          # BAHAGIAN BAWAH: Masukkan semua tag <programme start=" ... </programme>
-          # Mengambil blok penuh programme
-          sed -nh '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
+          # Ambil semua tag <programme>
+          # Kita gunakan grep untuk mencari baris yang bermula dengan <programme
+          grep -h "<programme" temp_epg/*.xml >> epg.xml || true
           
           echo '</tv>' >> epg.xml
 
@@ -87,15 +80,9 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
           rm -rf grabber temp_epg
-          
-          # Update fail dalam repo
           git add mewatch.xml rtmklik.xml vidio.xml epg.xml
-          
-          # Buang fail lama yang tidak diperlukan
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
-          
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
           git commit -m "Update EPG: $TIMESTAMP" || exit 0
           git push
