@@ -22,52 +22,58 @@ jobs:
 
       - name: Install and Grab EPG
         run: |
+          # Sediakan folder sementara
+          mkdir -p temp_epg
+          
+          # Setup Grabber
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
           export TZ="Asia/Kuala_Lumpur"
-          # Simpan hasil grab terus ke root
-          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
-          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
-          npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
+          
+          # Grab dan simpan ke folder sementara
+          npm run grab -- --site=mewatch.sg --days=2 --output=../temp_epg/mewatch.xml
+          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../temp_epg/rtmklik.xml
+          npm run grab -- --site=vidio.com --days=2 --output=../temp_epg/vidio.xml
+          cd ..
 
       - name: Download Sport EPGs (epg.pw)
         run: |
-          # Download fail tambahan dari epg.pw
-          curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o citradrama.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o gtv.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=411936" -o maxstream.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=411915" -o mdtv.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o soccer.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o sportstar1.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o sportstar2.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=411979" -o sportstar3.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=172008" -o sportstar4.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" -o fs1.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" -o fs2.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=6317" -o skyf1.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=5791" -o skyfootball.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=6445" -o skygolf.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=7673" -o skyme.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=6958" -o skypl.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=464912" -o nbatv.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=322490" -o onesports.xml
-          curl -L "https://epg.pw/api/epg.xml?channel_id=322516" -o onesportsplus.xml
+          # Download terus ke folder sementara
+          curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o temp_epg/citradrama.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o temp_epg/citraenter.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o temp_epg/gtv.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=411936" -o temp_epg/maxstream.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=411915" -o temp_epg/mdtv.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171939" -o temp_epg/soccer.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171988" -o temp_epg/sportstar1.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=171965" -o temp_epg/sportstar2.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=411979" -o temp_epg/sportstar3.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=172008" -o temp_epg/sportstar4.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465248" -o temp_epg/fs1.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=465280" -o temp_epg/fs2.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=6317" -o temp_epg/skyf1.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=5791" -o temp_epg/skyfootball.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=6445" -o temp_epg/skygolf.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=7673" -o temp_epg/skyme.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=6958" -o temp_epg/skypl.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=464912" -o temp_epg/nbatv.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=322490" -o temp_epg/onesports.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=322516" -o temp_epg/onesportsplus.xml
 
-      - name: Combine All into epg.xml
+      - name: Combine and Sort into epg.xml
         run: |
-          # Cipta struktur header XMLTV
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="Combined-EPG">' >> epg.xml
           
-          # Cantumkan semua kandungan dalam fail .xml (kecuali epg.xml itu sendiri)
-          # sed akan membuang header <?xml...?> dan tag pembuka/penutup <tv>
-          for f in *.xml; do
-            if [ "$f" != "epg.xml" ]; then
-              echo "Merging $f..."
-              sed -e '1,/^<tv[^>]*>/d' -e '/<\/tv>/,$d' "$f" >> epg.xml
-            fi
+          # Gabungkan semua <channel> ke atas
+          for f in temp_epg/*.xml; do
+            grep -E '<channel' "$f" >> epg.xml || true
+          done
+          
+          # Gabungkan semua <programme> ke bawah
+          for f in temp_epg/*.xml; do
+            sed -n '/<programme/,/<\/programme>/p' "$f" >> epg.xml || true
           done
           
           echo '</tv>' >> epg.xml
@@ -77,15 +83,14 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Buang folder grabber sebelum commit
-          rm -rf grabber
+          # Bersihkan folder sampah
+          rm -rf grabber temp_epg
           
-          # Pilih fail yang ingin disimpan. 
-          # Jika anda HANYA mahukan epg.xml, tukar 'git add *.xml' kepada 'git add epg.xml'
-          git add *.xml
+          # Hapus fail .xml lama jika masih ada dalam repo (kecuali epg.xml)
+          # Ini untuk pastikan repo anda benar-benar bersih
+          find . -maxdepth 1 -name "*.xml" ! -name "epg.xml" -exec git rm {} --ignore-unmatch \;
           
-          # Bersihkan fail lama yang tidak digunakan
-          git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
+          git add epg.xml
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
           git commit -m "Update EPG: $TIMESTAMP" || exit 0
