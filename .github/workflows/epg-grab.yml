@@ -59,20 +59,19 @@ jobs:
           )
 
           for url in "${urls[@]}"; do
-            # Gunakan -s (silent) dan pastikan fail tidak kosong
             curl -sL "$url" > temp_epg/$(date +%s%N).xml
           done
 
-          # Cipta fail epg.xml
+          # Cipta fail epg.xml dengan struktur yang betul
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
           
-          # Ambil semua tag <channel> (menggunakan grep lebih selamat untuk epg.pw)
-          grep -h "<channel" temp_epg/*.xml >> epg.xml || true
+          # 1. Ambil SEMUA blok <channel> ... </channel>
+          sed -n '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
           
-          # Ambil semua tag <programme>
-          # Kita gunakan grep untuk mencari baris yang bermula dengan <programme
-          grep -h "<programme" temp_epg/*.xml >> epg.xml || true
+          # 2. Ambil SEMUA blok <programme/ ... </programme>
+          # Ini akan menarik semua baris termasuk title, desc, dll.
+          sed -n '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
           
           echo '</tv>' >> epg.xml
 
