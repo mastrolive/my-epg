@@ -36,6 +36,8 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
+            "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
+            "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
             "https://epg.pw/api/epg.xml?channel_id=369742" # citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # citraenter
             "https://epg.pw/api/epg.xml?channel_id=171947" # gtv
@@ -48,11 +50,11 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=172008" # sportstar4
             "https://epg.pw/api/epg.xml?channel_id=465248" # fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # fs2
-            "https://epg.pw/api/epg.xml?channel_id=6317"   # skyf1
-            "https://epg.pw/api/epg.xml?channel_id=5791"   # skyfootball
-            "https://epg.pw/api/epg.xml?channel_id=6445"   # skygolf
-            "https://epg.pw/api/epg.xml?channel_id=7673"   # skyme
-            "https://epg.pw/api/epg.xml?channel_id=6958"   # skypl
+            "https://epg.pw/api/epg.xml?channel_id=6317" # skyf1
+            "https://epg.pw/api/epg.xml?channel_id=5791" # skyfootball
+            "https://epg.pw/api/epg.xml?channel_id=6445" # skygolf
+            "https://epg.pw/api/epg.xml?channel_id=7673" # skyme
+            "https://epg.pw/api/epg.xml?channel_id=6958 # skypl
             "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
             "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
             "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
