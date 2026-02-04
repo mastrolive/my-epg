@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epg.pw-Combined">
+  <channel id="412113">
+    <display-name lang="Singapore">Astro Sensasi HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042253399082_85.png" />
+  </channel>
+  <channel id="412155">
+    <display-name lang="Singapore">Astro Warna HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042632173633_12.png" />
+  </channel>
   <channel id="369742">
     <display-name lang="Singapore">Citra Drama (HD)</display-name>
     <icon src="" />
@@ -80,6 +88,651 @@
     <display-name lang="Philippines">Premier Tennishd</display-name>
     <icon src="" />
   </channel>
+  <programme channel="412113" start="20260204003000 +0000" stop="20260204010000 +0000">
+    <title lang="zh">Halal Maps</title>
+    <desc>Menampilkan sajian kulinari seluruh dunia, Halal Maps menemui penduduk tempatan yang berkongsi hidangan Halal kegemaran di bandar mereka, di mana mendapatkannya dan bagaimana menuju ke sana.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204010000 +0000" stop="20260204013000 +0000">
+    <title lang="zh">Strawberi Karipap Musim 3</title>
+    <desc>Kisah Nini dan Haikal yang berpindah ke Hong Kong dan tinggal bersama ibubapa mereka, Maya dan Faris.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204013000 +0000" stop="20260204020000 +0000">
+    <title lang="zh">Eat Clean With Anis</title>
+    <desc>Dalam kehidupan yang sentiasa sibuk, kita punya masa yang singkat untuk menyediakan makanan. Tiada yang lebih sempurna jika kita dapat menyediakan hidangan yang pantas, sihat, seimbang serta berkhasiat.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204020000 +0000" stop="20260204023000 +0000">
+    <title lang="zh">Impiana S2</title>
+    <desc>Impiana musim ke-2 kali ini berkonsepkan tentang "Ihlam Dekor" bahagian di dalam rumah bagi memenuhi citarasa pemilik rumah, bersama hos Shalma Ainaa</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204023000 +0000" stop="20260204030000 +0000">
+    <title lang="zh">Kutinggalkan Cinta di Okinawa</title>
+    <desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204030000 +0000" stop="20260204033000 +0000">
+    <title lang="zh">expeRIAnce: RIAlisasi Job Selebriti</title>
+    <desc>Penonton berpeluang menyaksikan selebriti kesayangan mereka melakukan kerja yang tidak berkaitan dengan karier asalnya.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204033000 +0000" stop="20260204040000 +0000">
+    <title lang="zh">Dapur Chef Ammar</title>
+    <desc>Saksikan kehebatan dan kepakaran Chef Ammar dalam menyediakan pelbagai hidangan masakan dan makanan ala Arab yang lazat lagi penuh berkhasiat ini.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204040000 +0000" stop="20260204050000 +0000">
+    <title lang="zh">Hijrah Jannah</title>
+    <desc>Syawal berasa tertipu selepas mengetahui yang Jannah tinggal di rumah keluarga Zakri selama ini. Jannah pula percaya yang selama ini Syawal mencarinya hanya untuk melepaskan kemarahan kepadanya.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204050000 +0000" stop="20260204060000 +0000">
+    <title lang="zh">Jack Yusof</title>
+    <desc>Suzy cuba menjadi suri rumah yang baik namun Jack sangka mereka tidak serasi. Suzy kemudiannya menolong Aida dalam persiapan perkahwinan, di mana Jack dan Rahmat berasa ragu-ragu tentang kebolehan Zain</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204060000 +0000" stop="20260204063000 +0000">
+    <title lang="zh">Wassup Bro?</title>
+    <desc>Alif Satar meneroka hobi ekstrem baharu sambil mempelajari dan menguasai pelbagai kemahiran daripada penggemar hobi berpengalaman di seluruh Malaysia.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204063000 +0000" stop="20260204070000 +0000">
+    <title lang="zh">Teroka Lokal</title>
+    <desc>Teroka Lokal adalah program travelog dengan hos selebriti yang akan mengembara untuk mencari tempat-tempat tersembunyi yang menarik di Malaysia.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204070000 +0000" stop="20260204073000 +0000">
+    <title lang="zh">Aiman Tempe Mania The Series</title>
+    <desc>Program realiti yang menampilkan 2 kumpulan berentap dan mengharungi cabaran dari Tempat A ke Tempat B ke Tempat C tanpa menggunakan teknologi dan alat teknologi pintar.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204073000 +0000" stop="20260204083000 +0000">
+    <title lang="zh">Indah Pada Waktunya</title>
+    <desc>Salma tidak pernah tahu bahawa Marissa adalah ibu kandungnya, yang meninggalkannya semasa bayi bersama Aisah, rakan sekolah Marissa.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204083000 +0000" stop="20260204093000 +0000">
+    <title lang="zh">Sejuta Rasa Buat Adelia</title>
+    <desc>Chef Adelia terpaksa menempuh sejuta perasaan dan rasa, demi membuktikan kebolehannya untuk memasak apabila mendapat tahu lelaki yang mengkritik makanannya adalah bos barunya, Idlan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204093000 +0000" stop="20260204100000 +0000">
+    <title lang="zh">Naura Shares Season 14</title>
+    <desc>Sesi perkongsian yang memfokuskan pada topik yang dikongsikan dari sudut pandangan penceramah serta pengalaman mereka sendiri.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204100000 +0000" stop="20260204110000 +0000">
+    <title lang="zh">Hijrah Jannah</title>
+    <desc>Penyakit yang menimpa anak Syawal dan Munirah membuatkan Syawal tersepit untuk memberitahu Munirah tentang nasib anak mereka. Zahra masih tidak berpuas hati dengan Iqram.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204110000 +0000" stop="20260204113000 +0000">
+    <title lang="zh">Luahan Selebriti</title>
+    <desc>Memberi peluang kepada selebriti yang mengalami perubahan - secara rohani &amp; emosi untuk menangani dan menjelaskan beberapa isu dan kisah kontroversi mereka yang lalu.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204113000 +0000" stop="20260204120000 +0000">
+    <title lang="zh">Sedapur Bersama</title>
+    <desc>Program masakan yang menambat hati penonton dengan berkongsikan resepi hidangan lazat dan nilai - nilai dalam perhubungan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204120000 +0000" stop="20260204130000 +0000">
+    <title lang="zh">Indah Pada Waktunya</title>
+    <desc>Salma tidak pernah tahu bahawa Marissa adalah ibu kandungnya, yang meninggalkannya semasa bayi bersama Aisah, rakan sekolah Marissa.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204130000 +0000" stop="20260204140000 +0000">
+    <title lang="zh">Jack Yusof</title>
+    <desc>Suzy mula menyedari bahawa Jack telah membelanja banyak harta kayanya untuk Aida dan mula berkomplot untuk menjamin hartanya sendiri.Aida dan Zain berpisah selepas Zain mendapat tahu Aida kehilangan cincin</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204140000 +0000" stop="20260204153000 +0000">
+    <title lang="zh">The Day After</title>
+    <desc>Apabila seorang wanita menemui puisi cinta yang ditulis untuk suaminya, dia tersilap percaya bahawa penulisnya ialah setiausaha baharu suaminya.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204153000 +0000" stop="20260204160000 +0000">
+    <title lang="zh">Jejak Jepun Jihan</title>
+    <desc>Kembara negara matahari terbit dan nikmati keunikan juga realiti kehidupan masyarakat Jepun selain perkongsian info dan tips untuk mereka yang ingin bercuti ke sana.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204160000 +0000" stop="20260204170000 +0000">
+    <title lang="zh">Malaysian Sihir Stories</title>
+    <desc>Perihal adik-beradik yang mempunyai deria keenam dan cuba menyelesaikan kes-kes berkaitan dengan sihir yang mengganggu orang di sekeliling mereka.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204170000 +0000" stop="20260204180000 +0000">
+    <title lang="zh">Hijrah Jannah</title>
+    <desc>Penyakit yang menimpa anak Syawal dan Munirah membuatkan Syawal tersepit untuk memberitahu Munirah tentang nasib anak mereka. Zahra masih tidak berpuas hati dengan Iqram.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204180000 +0000" stop="20260204190000 +0000">
+    <title lang="zh">Naluri Hati</title>
+    <desc>Pada hari perkahwinannya, Dinda teragak-agak kerana dia akan berkahwin dengan orang yang tidak dicintainya. Namun, satu kejadian berlaku dan menyebabkan Dinda mengalami amnesia separa.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204190000 +0000" stop="20260204200000 +0000">
+    <title lang="zh">Hasrat Tersirat</title>
+    <desc>Jarang-jarang untuk keluarga Hamzah berkumpul bersama-sama. Namun, kebahagiaan mereka tidak panjang. Hamzah menjadi bingung selepas menerima sebuah panggilan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204200000 +0000" stop="20260204210000 +0000">
+    <title lang="zh">Sepenggal Puisi</title>
+    <desc>Mengisahkan tentang konflik 2 buah keluarga, satu di Yogyakarta dan satu di Kuala Lumpur. Rahsia yang di simpan selama 30 tahun terbongkar apabila Fariz ke Yogyakarta untuk mendapatkan kepastian.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204210000 +0000" stop="20260204213000 +0000">
+    <title lang="zh">Aiman Tempe Mania The Series</title>
+    <desc>Aiman yang berumur 6 tahun petah bercakap dan berfikiran lebih matang sentiasa membantu orang disekelilingi untuk menyelesaikan masalah mereka.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204213000 +0000" stop="20260204220000 +0000">
+    <title lang="zh">Bas Ria</title>
+    <desc>Bas Ria bakal menyaksikan pasukan Bas Ria "memburu" selebriti-selebriti di dalam "hit list" mereka? Untuk apa? Untuk mendapatkan sesuatu yang berharga dari mereka.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204220000 +0000" stop="20260204230000 +0000">
+    <title lang="zh">Sejuta Rasa Buat Adelia</title>
+    <desc>Chef Adelia terpaksa menempuh sejuta perasaan dan rasa, demi membuktikan kebolehannya untuk memasak apabila mendapat tahu lelaki yang mengkritik makanannya adalah bos barunya, Idlan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260204230000 +0000" stop="20260205000000 +0000">
+    <title lang="zh">6 Hari</title>
+    <desc>Suzi merupakan isteri ketiga dan dia tinggal bersendirian di banglonya kerana suaminya hanya pulang selang enam hari. Semuanya indah sehinggalah pada suatu hari dia didatangi seseorang dari masa silamnya.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412113" start="20260205010000 +0000" stop="20260205013000 +0000">
+    <title lang="zh">Strawberi Karipap Musim 3</title>
+    <desc>Kisah Nini dan Haikal yang berpindah ke Hong Kong dan tinggal bersama ibubapa mereka, Maya dan Faris.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205013000 +0000" stop="20260205020000 +0000">
+    <title lang="zh">Eat Clean With Anis</title>
+    <desc>Dalam kehidupan yang sentiasa sibuk, kita punya masa yang singkat untuk menyediakan makanan. Tiada yang lebih sempurna jika kita dapat menyediakan hidangan yang pantas, sihat, seimbang serta berkhasiat.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205020000 +0000" stop="20260205023000 +0000">
+    <title lang="zh">Impiana S2</title>
+    <desc>Impiana musim ke-2 kali ini berkonsepkan tentang "Ihlam Dekor" bahagian di dalam rumah bagi memenuhi citarasa pemilik rumah, bersama hos Shalma Ainaa</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205023000 +0000" stop="20260205030000 +0000">
+    <title lang="zh">Kutinggalkan Cinta di Okinawa</title>
+    <desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205030000 +0000" stop="20260205033000 +0000">
+    <title lang="zh">expeRIAnce: RIAlisasi Job Selebriti</title>
+    <desc>Penonton berpeluang menyaksikan selebriti kesayangan mereka melakukan kerja yang tidak berkaitan dengan karier asalnya.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205033000 +0000" stop="20260205040000 +0000">
+    <title lang="zh">Dapur Chef Ammar</title>
+    <desc>Saksikan kehebatan dan kepakaran Chef Ammar dalam menyediakan pelbagai hidangan masakan dan makanan ala Arab yang lazat lagi penuh berkhasiat ini.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205040000 +0000" stop="20260205050000 +0000">
+    <title lang="zh">Hijrah Jannah</title>
+    <desc>Penyakit yang menimpa anak Syawal dan Munirah membuatkan Syawal tersepit untuk memberitahu Munirah tentang nasib anak mereka. Zahra masih tidak berpuas hati dengan Iqram.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205050000 +0000" stop="20260205060000 +0000">
+    <title lang="zh">Jack Yusof</title>
+    <desc>Suzy mula menyedari bahawa Jack telah membelanja banyak harta kayanya untuk Aida dan mula berkomplot untuk menjamin hartanya sendiri.Aida dan Zain berpisah selepas Zain mendapat tahu Aida kehilangan cincin</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205060000 +0000" stop="20260205063000 +0000">
+    <title lang="zh">Wassup Bro?</title>
+    <desc>Alif Satar meneroka hobi ekstrem baharu sambil mempelajari dan menguasai pelbagai kemahiran daripada penggemar hobi berpengalaman di seluruh Malaysia.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205063000 +0000" stop="20260205070000 +0000">
+    <title lang="zh">Teroka Lokal</title>
+    <desc>Teroka Lokal adalah program travelog dengan hos selebriti yang akan mengembara untuk mencari tempat-tempat tersembunyi yang menarik di Malaysia.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205070000 +0000" stop="20260205073000 +0000">
+    <title lang="zh">Aiman Tempe Mania The Series</title>
+    <desc>Program realiti yang menampilkan 2 kumpulan berentap dan mengharungi cabaran dari Tempat A ke Tempat B ke Tempat C tanpa menggunakan teknologi dan alat teknologi pintar.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205073000 +0000" stop="20260205083000 +0000">
+    <title lang="zh">Indah Pada Waktunya</title>
+    <desc>Salma tidak pernah tahu bahawa Marissa adalah ibu kandungnya, yang meninggalkannya semasa bayi bersama Aisah, rakan sekolah Marissa.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205083000 +0000" stop="20260205093000 +0000">
+    <title lang="zh">Sejuta Rasa Buat Adelia</title>
+    <desc>Chef Adelia terpaksa menempuh sejuta perasaan dan rasa, demi membuktikan kebolehannya untuk memasak apabila mendapat tahu lelaki yang mengkritik makanannya adalah bos barunya, Idlan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205093000 +0000" stop="20260205100000 +0000">
+    <title lang="zh">Naura Shares Season 14</title>
+    <desc>Sesi perkongsian yang memfokuskan pada topik yang dikongsikan dari sudut pandangan penceramah serta pengalaman mereka sendiri.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205100000 +0000" stop="20260205110000 +0000">
+    <title lang="zh">Hijrah Jannah</title>
+    <desc>Syawal terpaksa berdepan dengan keadaan Munirah yang meroyan kerana tidak dapat menerima anak mereka. Hati Jannah berbelah bahagi apabila Syawal datang memohon maaf dan merayunya untuk kembali.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205110000 +0000" stop="20260205113000 +0000">
+    <title lang="zh">expeRIAnce:Fantasy Escape</title>
+    <desc>Sebuah program yang merealisasikan impian peminat bertuah untuk melakukan aktiviti yang mereka gemari bersama selebriti pilihan mereka yang turut berkongsi pengalaman dan memberi motivasi.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205113000 +0000" stop="20260205120000 +0000">
+    <title lang="zh">Sedapur Bersama</title>
+    <desc>Program masakan yang menambat hati penonton dengan berkongsikan resepi hidangan lazat dan nilai - nilai dalam perhubungan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205120000 +0000" stop="20260205130000 +0000">
+    <title lang="zh">Indah Pada Waktunya</title>
+    <desc>Salma tidak pernah tahu bahawa Marissa adalah ibu kandungnya, yang meninggalkannya semasa bayi bersama Aisah, rakan sekolah Marissa.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205130000 +0000" stop="20260205140000 +0000">
+    <title lang="zh">Jack Yusof</title>
+    <desc>Jack ditahan polis selepas disyaki memukul Suzy. Mereka berurusan di mahkamah, di mana Aida mewakili bapa kandungnya. Dengan bantuan Jack, Rahmat dan keluarga, Aida dan Zain menyelesaikan masalah mereka</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205140000 +0000" stop="20260205160000 +0000">
+    <title lang="zh">Jongkong</title>
+    <desc>Wan Ibrahim perlu mencari penyelesaian segera untuk melarikan diri daripada pakciknya, Wan Usin, dengan menjual beberapa jongkong emas yang dirompak oleh mereka, dan dia perlu melalui pelbagai cabaran.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205160000 +0000" stop="20260205170000 +0000">
+    <title lang="zh">Malaysian Sihir Stories</title>
+    <desc>Perihal adik-beradik yang mempunyai deria keenam dan cuba menyelesaikan kes-kes berkaitan dengan sihir yang mengganggu orang di sekeliling mereka.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205170000 +0000" stop="20260205180000 +0000">
+    <title lang="zh">Hijrah Jannah</title>
+    <desc>Syawal terpaksa berdepan dengan keadaan Munirah yang meroyan kerana tidak dapat menerima anak mereka. Hati Jannah berbelah bahagi apabila Syawal datang memohon maaf dan merayunya untuk kembali.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205180000 +0000" stop="20260205190000 +0000">
+    <title lang="zh">Naluri Hati</title>
+    <desc>Pada hari perkahwinannya, Dinda teragak-agak kerana dia akan berkahwin dengan orang yang tidak dicintainya. Namun, satu kejadian berlaku dan menyebabkan Dinda mengalami amnesia separa.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205190000 +0000" stop="20260205200000 +0000">
+    <title lang="zh">Hasrat Tersirat</title>
+    <desc>Jarang-jarang untuk keluarga Hamzah berkumpul bersama-sama. Namun, kebahagiaan mereka tidak panjang. Hamzah menjadi bingung selepas menerima sebuah panggilan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205200000 +0000" stop="20260205210000 +0000">
+    <title lang="zh">Dendam Cinta Arissa</title>
+    <desc>Perkahwinan Arissa &amp; Zariman musnah apabila Rafeal melanggar Zariman dan melarikan diri untuk mengejar isterinya. Ingin jujur pada Arissa namun Rafeael jatuh cinta dengan Arissa tanpa sengaja.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205210000 +0000" stop="20260205213000 +0000">
+    <title lang="zh">Aiman Tempe Mania The Series</title>
+    <desc>Aiman yang berumur 6 tahun petah bercakap dan berfikiran lebih matang sentiasa membantu orang disekelilingi untuk menyelesaikan masalah mereka.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205213000 +0000" stop="20260205220000 +0000">
+    <title lang="zh">Bas Ria</title>
+    <desc>Bas Ria bakal menyaksikan pasukan Bas Ria "memburu" selebriti-selebriti di dalam "hit list" mereka? Untuk apa? Untuk mendapatkan sesuatu yang berharga dari mereka.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205220000 +0000" stop="20260205230000 +0000">
+    <title lang="zh">Sejuta Rasa Buat Adelia</title>
+    <desc>Chef Adelia terpaksa menempuh sejuta perasaan dan rasa, demi membuktikan kebolehannya untuk memasak apabila mendapat tahu lelaki yang mengkritik makanannya adalah bos barunya, Idlan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412113" start="20260205230000 +0000" stop="20260206000000 +0000">
+    <title lang="zh">Bini Aku Dari...</title>
+    <desc>Lydia dan Rudy telah pun berkahwin. Lydia nak anak walaupun Rudy belum bersedia lagi. Perangai Lydia makin menjadi- jadi apabila mengikut hukum hakam dari kakiberamal.com.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260204000000 +0000" stop="20260204003000 +0000">
+    <title lang="zh">Selera Rasa Seksa</title>
+    <desc>Saksikan Datuk Chef Wan dalam sebuah 'game show' masakan komedi yang riuh! Pedas! Panas! Bersama selebriti terkenal tanah air.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204003000 +0000" stop="20260204013000 +0000">
+    <title lang="zh">Tiga Serumah S2</title>
+    <desc>Sebuah sitcom komedi untuk tontonan semua.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204013000 +0000" stop="20260204020000 +0000">
+    <title lang="zh">CTDK-ation</title>
+    <desc>Program realiti perjalanan Dato Sri Siti Nurhaliza 'VACATION' adalah program menampilkan keluarga besar Dato Sri Siti Nurhaliza.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204020000 +0000" stop="20260204023000 +0000">
+    <title lang="zh">Seminggu Sekali</title>
+    <desc>Bersama Douglas Lim &amp; Adibah Noor, saksikan mereka mengupas dan menyampaikan isu semasa kepada masyarakat secara santai dan lucu.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204023000 +0000" stop="20260204033000 +0000">
+    <title lang="zh">Cinta Tapi Benci</title>
+    <desc>Semua wanita yang didekati Migo hanya untuk memenuhi keperluan pertaruhannya bersamai dengan rakan-rakan dan juga membuktikan dirinya sebagai playboy sejati.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204033000 +0000" stop="20260204040000 +0000">
+    <title lang="zh">Kalau Berani Kampung Stail</title>
+    <desc>Setiap minggu Sherry dan ketua kumpulan akan di bawa ke kampung yang berlainan bersama artis jemputan untuk menolong ketua kumpulan memenangi perlawanan mingguan</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204040000 +0000" stop="20260204060000 +0000">
+    <title lang="zh">Eropah, Here I Am</title>
+    <desc>Bukhary membawa diri ke Pulau Leros, Greece dan menjadi sukarelawan membantu pelarian Syiria. Di situ dia mempelajari nilai kehidupan dan kemanusiaan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204060000 +0000" stop="20260204063000 +0000">
+    <title lang="zh">Akak Akak Sangat</title>
+    <desc>Sebuah rancangan bual bicara mengenai topik- topik hangat yang akan diperbincangkan dalam keadaan yang kasual.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204063000 +0000" stop="20260204070000 +0000">
+    <title lang="zh">Tua Pun Boleh</title>
+    <desc>Rancangan ini menampilkan pelbagai aktiviti lasak penuh aksi yang bakal diharungi oleh para selebriti veteran yang mengikuti aktiviti ini.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204070000 +0000" stop="20260204073000 +0000">
+    <title lang="zh">Lawak Ke Der Tak Coverline</title>
+    <desc>Lawak Ke Der Tak Coverline merupakan sebuah rancangan bual bicara yang menampilkan pelawak-pelawak terkenal Malaysia dan dihoskan oleh Hans Isaac.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204073000 +0000" stop="20260204080000 +0000">
+    <title lang="zh">Semanis Fondant</title>
+    <desc>Trend masa kini pembuatan kek dibawa ke kaca tv mengikut tema unik dan kreatif. Pasukan Semanis Fondant cuba menepati kehendak pelanggan dalam apa jua cara.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204080000 +0000" stop="20260204090000 +0000">
+    <title lang="zh">Layan Je Super Spontan</title>
+    <desc>Sebuah program menarik untuk tontonan semua.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204090000 +0000" stop="20260204110000 +0000">
+    <title lang="zh">Maharaja Lawak Mega 2016</title>
+    <desc>Maharaja Lawak Mega kembali dengan penyertaan para pelawak terbaik di rantau ini merangkumi tiga negara Malaysia, Singapura dan Indonesia.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204110000 +0000" stop="20260204113000 +0000">
+    <title lang="zh">Kau Rasa?</title>
+    <desc>Saksikan mereka 'memanggang' para tetamu dengan soalan-soalan panas tentang kisah lampau dan peribadi mereka.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204113000 +0000" stop="20260204120000 +0000">
+    <title lang="zh">Ngaroot</title>
+    <desc>Sebuah sketsa yang membawakan watak lucu yang bertemakan isu semasa. Selain itu, program ini turut memaparkan nilai murni dan pengajaran yang berguna buat penonton.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204120000 +0000" stop="20260204123000 +0000">
+    <title lang="zh">Karoot Komedia X SR2</title>
+    <desc>Sebuah rancangan komedi muzikal yang menggabungkan muzik, lakonan &amp; sketsa dengan topik-topik menarik yang akan dilakonkan secara spontan oleh pelawak terkenal Malaysia.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204123000 +0000" stop="20260204130000 +0000">
+    <title lang="zh">Betul Ke Bohong? S5</title>
+    <desc>Panel selebriti memilih jawapan berdasarkan kenyataan dan cerita yang mungkin benar atau tidak, 2 kumpulan berentap untuk perolehi markah tertinggi.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204130000 +0000" stop="20260204133000 +0000">
+    <title lang="zh">Travel Lawak</title>
+    <desc>Sebuah program travelog yang menampilkan tiga pelawak popular iaitu Syuk, Sharif Zero dan Mamak Puteh di mana mereka akan mengembara ke luar negara dan meneroka sendiri budaya dan tempat-tempat menarik.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204133000 +0000" stop="20260204140000 +0000">
+    <title lang="zh">Frust Gila</title>
+    <desc>Frust Gila rancangan permainan penuh cabaran untuk 3 peserta, cabaran di sediakan untuk mendapatkan hanya satu pemenang.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204140000 +0000" stop="20260204143000 +0000">
+    <title lang="zh">Tapao</title>
+    <desc>Kembara mencari makan menyajikan keindahan visual. Tapi bagaimana jika hidangan itu dibungkus? Adakah sama enak di meja restoran? Kena dengan namanya, Tapao mencari jawapan di sebalik persoalan ini.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204143000 +0000" stop="20260204153000 +0000">
+    <title lang="zh">Gelak Gempak</title>
+    <desc>Sebuah rancangan pencarian pelawak ‘standup’ paling hebat di Malaysia dan siapakah yang bakal digelar juara musim pertama Gelak Gempak serta membawa pulang wang ganjaran lumayan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204153000 +0000" stop="20260204160000 +0000">
+    <title lang="zh">Motif Sosial?</title>
+    <desc>Kesinambungan Motif Viral, kali ini melalui eksperimen sosial yang viral dengan penampilan selebriti undangan.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204160000 +0000" stop="20260204170000 +0000">
+    <title lang="zh">Chapalrela</title>
+    <desc>Anjang Merah kematian ibu dan terpaksa tinggal dengan ibu tirinya, Mak Jenab dan saudara tirinya Jali Puteh. Anjang Merah sentiasa didera juga ditugaskan menjaga kandang kambing ayahnya, Pak Manap.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204170000 +0000" stop="20260204173000 +0000">
+    <title lang="zh">Expose Mistik: Kisah Seram</title>
+    <desc>Sebuah program mengenai kisah seram yang sering berlaku.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204173000 +0000" stop="20260204183000 +0000">
+    <title lang="zh">Cinta Tapi Benci</title>
+    <desc>Semua wanita yang didekati Migo hanya untuk memenuhi keperluan pertaruhannya bersamai dengan rakan-rakan dan juga membuktikan dirinya sebagai playboy sejati.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204183000 +0000" stop="20260204193000 +0000">
+    <title lang="zh">#havocwarna</title>
+    <desc>Sebuah rancangan yang menggabungkan sketsa, spontan, prank, zumba dan lain lain lagi.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204193000 +0000" stop="20260204200000 +0000">
+    <title lang="zh">Akak Akak Sangat</title>
+    <desc>Sebuah rancangan bual bicara mengenai topik- topik hangat yang akan diperbincangkan dalam keadaan yang kasual.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204200000 +0000" stop="20260204203000 +0000">
+    <title lang="zh">Saka Sisters</title>
+    <desc>Laila &amp; Suri baru saja kematian Ayah. Mereka dikejutkan dengan kehadiran saka. Jamal, ekori mereka ke mana saja. Laila &amp; Suri yang selama ini tidak rapat, terpaksa selesaikan hal Jamal bersama-sama.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204203000 +0000" stop="20260204210000 +0000">
+    <title lang="zh">Kalau Berani Kampung Stail</title>
+    <desc>Setiap minggu Sherry dan ketua kumpulan akan di bawa ke kampung yang berlainan bersama artis jemputan untuk menolong ketua kumpulan memenangi perlawanan mingguan</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204210000 +0000" stop="20260204220000 +0000">
+    <title lang="zh">Aku Bukan BIMBO</title>
+    <desc>Elsuraya percaya Azad adalah punca kematian ibu bapanya dalam satu kemalangan dan membenci lelaki itu yang dalam diam mencintainya. Perkara sebenar disimpan rapi oleh Azad dan sahabat baiknya, Dani Ikram.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204220000 +0000" stop="20260204223000 +0000">
+    <title lang="zh">Black Belt Kaler Pink</title>
+    <desc>Dua lelaki yang tidak sukakan keganasan menjadi pengawal keselamatan kepada seorang bintang popular. Mereka lebih gemar melakukan aktiviti feminin seperti memasak, menjahit dan menonton drama.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204223000 +0000" stop="20260204230000 +0000">
+    <title lang="zh">Gado Gado 2</title>
+    <desc>Siri komedi popular 90an, Gado Gado kini kembali dengan nafas baru dengan mengembalikan konsep komedi sketsa dan satira yang mempunyayi pendekatan seperti slot television asli, iklan, telemovie, drama siri dan juga dokumentari.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204230000 +0000" stop="20260204233000 +0000">
+    <title lang="zh">Tua Pun Boleh</title>
+    <desc>Rancangan ini menampilkan pelbagai aktiviti lasak penuh aksi yang bakal diharungi oleh para selebriti veteran yang mengikuti aktiviti ini.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260204233000 +0000" stop="20260205000000 +0000">
+    <title lang="zh">RSVP Aku Datang</title>
+    <desc>RSVP menonjolkan pelbagai acara dari berbagai kaum diMalaysia dari majlis perkahwinan, majlis aqiqah hinggalah ke majlis Ponggal dan banyak lagi.</desc>
+    <date>2026-02-04</date>
+  </programme>
+  <programme channel="412155" start="20260205000000 +0000" stop="20260205003000 +0000">
+    <title lang="zh">Sembang Pacak</title>
+    <desc>Rancangan temubual bicara bersama pelawak yang di pentas kan di atas trak di kawasan luar bandar</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205003000 +0000" stop="20260205013000 +0000">
+    <title lang="zh">Rumah No 107</title>
+    <desc>Sebuah program bual bicara santai bersama keluarga Tok K, Joey, Man, Ropie &amp; Bibik Cha. Saksikan telatah lucu mereka bersama tetamu undangan dan cameo yang bakal mengejutkan anda sekeluarga.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205013000 +0000" stop="20260205020000 +0000">
+    <title lang="zh">CTDK-ation</title>
+    <desc>Program realiti perjalanan Dato Sri Siti Nurhaliza 'VACATION' adalah program menampilkan keluarga besar Dato Sri Siti Nurhaliza.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205020000 +0000" stop="20260205023000 +0000">
+    <title lang="zh">Seminggu Sekali</title>
+    <desc>Bersama Douglas Lim &amp; Adibah Noor, saksikan mereka mengupas dan menyampaikan isu semasa kepada masyarakat secara santai dan lucu.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205023000 +0000" stop="20260205033000 +0000">
+    <title lang="zh">Cinta Tapi Benci</title>
+    <desc>Semua wanita yang didekati Migo hanya untuk memenuhi keperluan pertaruhannya bersamai dengan rakan-rakan dan juga membuktikan dirinya sebagai playboy sejati.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205033000 +0000" stop="20260205040000 +0000">
+    <title lang="zh">Kalau Berani Kampung Stail</title>
+    <desc>Setiap minggu Sherry dan ketua kumpulan akan di bawa ke kampung yang berlainan bersama artis jemputan untuk menolong ketua kumpulan memenangi perlawanan mingguan</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205040000 +0000" stop="20260205060000 +0000">
+    <title lang="zh">Jula Juli Bintang Cinta</title>
+    <desc>2 gadis kilang memenangi percutian menginap di hotel mewah dan mereka mula bergaya seperti anak orang kaya</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205060000 +0000" stop="20260205063000 +0000">
+    <title lang="zh">Akak Akak Sangat</title>
+    <desc>Sebuah rancangan bual bicara mengenai topik- topik hangat yang akan diperbincangkan dalam keadaan yang kasual.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205063000 +0000" stop="20260205070000 +0000">
+    <title lang="zh">Tua Pun Boleh</title>
+    <desc>Rancangan ini menampilkan pelbagai aktiviti lasak penuh aksi yang bakal diharungi oleh para selebriti veteran yang mengikuti aktiviti ini.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205070000 +0000" stop="20260205073000 +0000">
+    <title lang="zh">Lawak Ke Der Tak Coverline</title>
+    <desc>Lawak Ke Der Tak Coverline merupakan sebuah rancangan bual bicara yang menampilkan pelawak-pelawak terkenal Malaysia dan dihoskan oleh Hans Isaac.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205073000 +0000" stop="20260205080000 +0000">
+    <title lang="zh">Semanis Fondant</title>
+    <desc>Trend masa kini pembuatan kek dibawa ke kaca tv mengikut tema unik dan kreatif. Pasukan Semanis Fondant cuba menepati kehendak pelanggan dalam apa jua cara.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205080000 +0000" stop="20260205090000 +0000">
+    <title lang="zh">Layan Je Super Spontan</title>
+    <desc>Sebuah program menarik untuk tontonan semua.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205090000 +0000" stop="20260205110000 +0000">
+    <title lang="zh">Maharaja Lawak Mega 2016</title>
+    <desc>Maharaja Lawak Mega kembali dengan penyertaan para pelawak terbaik di rantau ini merangkumi tiga negara Malaysia, Singapura dan Indonesia.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205110000 +0000" stop="20260205113000 +0000">
+    <title lang="zh">Kau Rasa?</title>
+    <desc>Saksikan mereka 'memanggang' para tetamu dengan soalan-soalan panas tentang kisah lampau dan peribadi mereka.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205113000 +0000" stop="20260205120000 +0000">
+    <title lang="zh">Sepahtu</title>
+    <desc>Program menarik Sepahtu untuk tontonan anda semua.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205120000 +0000" stop="20260205123000 +0000">
+    <title lang="zh">Karoot Komedia X SR2</title>
+    <desc>Sebuah rancangan komedi muzikal yang menggabungkan muzik, lakonan &amp; sketsa dengan topik-topik menarik yang akan dilakonkan secara spontan oleh pelawak terkenal Malaysia.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205123000 +0000" stop="20260205130000 +0000">
+    <title lang="zh">Betul Ke Bohong? S5</title>
+    <desc>Panel selebriti memilih jawapan berdasarkan kenyataan dan cerita yang mungkin benar atau tidak, 2 kumpulan berentap untuk perolehi markah tertinggi.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205130000 +0000" stop="20260205133000 +0000">
+    <title lang="zh">Legenda Puteri Qaseh</title>
+    <desc>Alkisah di kerajaan Kayajaya, seorang gadis kampung yang baik hati menyedari bahawa dia adalah pewaris takhta yang sah dan mesti segera mempelajari adat-istiadat untuk menjadi seorang permaisuri.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205133000 +0000" stop="20260205140000 +0000">
+    <title lang="zh">Stand Up Comedy Otai</title>
+    <desc>Masihkah anda ingat akan Pi Mai Pi Mai Tang Tu, Senario, Salih Yaacob, dan ramai lagi lagenda komedi tanah air? Kini mereka kembali di atas satu pentas bagi mengubat kerinduan terhadap mereka.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205140000 +0000" stop="20260205143000 +0000">
+    <title lang="zh">Bocey &amp; Friends</title>
+    <desc>Bocey &amp; Friends, rancangan sitcom yang di bintangi oleh Achey, Fad, Abam, Zulin dan artis jemputan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205143000 +0000" stop="20260205153000 +0000">
+    <title lang="zh">Gelak Gempak</title>
+    <desc>Sebuah rancangan pencarian pelawak ‘standup’ paling hebat di Malaysia dan siapakah yang bakal digelar juara musim pertama Gelak Gempak serta membawa pulang wang ganjaran lumayan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205153000 +0000" stop="20260205160000 +0000">
+    <title lang="zh">Motif Sosial?</title>
+    <desc>Kesinambungan Motif Viral, kali ini melalui eksperimen sosial yang viral dengan penampilan selebriti undangan.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205160000 +0000" stop="20260205170000 +0000">
+    <title lang="zh">Chapalrela</title>
+    <desc>Anjang Merah kematian ibu dan terpaksa tinggal dengan ibu tirinya, Mak Jenab dan saudara tirinya Jali Puteh. Anjang Merah sentiasa didera juga ditugaskan menjaga kandang kambing ayahnya, Pak Manap.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205170000 +0000" stop="20260205173000 +0000">
+    <title lang="zh">Expose Mistik: Kisah Seram</title>
+    <desc>Sebuah program mengenai kisah seram yang sering berlaku.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205173000 +0000" stop="20260205183000 +0000">
+    <title lang="zh">Cinta Tapi Benci</title>
+    <desc>Semua wanita yang didekati Migo hanya untuk memenuhi keperluan pertaruhannya bersamai dengan rakan-rakan dan juga membuktikan dirinya sebagai playboy sejati.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205183000 +0000" stop="20260205193000 +0000">
+    <title lang="zh">#havocwarna</title>
+    <desc>Sebuah rancangan yang menggabungkan sketsa, spontan, prank, zumba dan lain lain lagi.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205193000 +0000" stop="20260205200000 +0000">
+    <title lang="zh">Akak Akak Sangat</title>
+    <desc>Sebuah rancangan bual bicara mengenai topik- topik hangat yang akan diperbincangkan dalam keadaan yang kasual.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205200000 +0000" stop="20260205203000 +0000">
+    <title lang="zh">Saka Sisters</title>
+    <desc>Laila &amp; Suri baru saja kematian Ayah. Mereka dikejutkan dengan kehadiran saka. Jamal, ekori mereka ke mana saja. Laila &amp; Suri yang selama ini tidak rapat, terpaksa selesaikan hal Jamal bersama-sama.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205203000 +0000" stop="20260205210000 +0000">
+    <title lang="zh">Kalau Berani Kampung Stail</title>
+    <desc>Setiap minggu Sherry dan ketua kumpulan akan di bawa ke kampung yang berlainan bersama artis jemputan untuk menolong ketua kumpulan memenangi perlawanan mingguan</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205210000 +0000" stop="20260205220000 +0000">
+    <title lang="zh">Aku Bukan BIMBO</title>
+    <desc>Elsuraya percaya Azad adalah punca kematian ibu bapanya dalam satu kemalangan dan membenci lelaki itu yang dalam diam mencintainya. Perkara sebenar disimpan rapi oleh Azad dan sahabat baiknya, Dani Ikram.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205220000 +0000" stop="20260205223000 +0000">
+    <title lang="zh">Black Belt Kaler Pink</title>
+    <desc>Dua lelaki yang tidak sukakan keganasan menjadi pengawal keselamatan kepada seorang bintang popular. Mereka lebih gemar melakukan aktiviti feminin seperti memasak, menjahit dan menonton drama.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205223000 +0000" stop="20260205230000 +0000">
+    <title lang="zh">Gado Gado 2</title>
+    <desc>Siri komedi popular 90an, Gado Gado kini kembali dengan nafas baru dengan mengembalikan konsep komedi sketsa dan satira yang mempunyayi pendekatan seperti slot television asli, iklan, telemovie, drama siri dan juga dokumentari.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205230000 +0000" stop="20260205233000 +0000">
+    <title lang="zh">Tua Pun Boleh</title>
+    <desc>Rancangan ini menampilkan pelbagai aktiviti lasak penuh aksi yang bakal diharungi oleh para selebriti veteran yang mengikuti aktiviti ini.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260205233000 +0000" stop="20260206000000 +0000">
+    <title lang="zh">RSVP Aku Datang</title>
+    <desc>RSVP menonjolkan pelbagai acara dari berbagai kaum diMalaysia dari majlis perkahwinan, majlis aqiqah hinggalah ke majlis Ponggal dan banyak lagi.</desc>
+    <date>2026-02-05</date>
+  </programme>
+  <programme channel="412155" start="20260206000000 +0000" stop="20260207000000 +0000">
+    <title lang="zh">Komedi Unplugged</title>
+    <desc>Bual bicara berbentuk komedi membariskan artis-artis jemputan daripada kalangan pelawak, selebriti, dan juga influencer untuk berkongsi cerita dan rasa.</desc>
+    <date>2026-02-06</date>
+  </programme>
   <programme channel="369742" start="20260204000000 +0000" stop="20260204005500 +0000">
     <title lang="zh">Dia Yang Kau Pilih</title>
     <desc>Kinara, a kind-hearted girl who is the backbone of her family. Maura, Kinara's younger sister, never wants to help and has ambitions to marry a rich man so she can live a luxurious life. Kinara gets a job at Dafa's company. Working together often causes Dafa and Kirana to fall in love. Knowing this, Maura wants to steal Dafa away.</desc>
