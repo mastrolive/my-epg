@@ -19,23 +19,21 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # Cache dibuang untuk mengelakkan ralat path not found
 
       - name: Install and Grab EPG
         run: |
-          # 1. Setup Grabber
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
-          
-          # 2. Jalankan Proses Grab
           export TZ="Asia/Kuala_Lumpur"
+          # Simpan hasil grab terus ke root
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
           npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
 
       - name: Download Sport EPGs (epg.pw)
         run: |
+          # Download fail tambahan dari epg.pw
           curl -L "https://epg.pw/api/epg.xml?channel_id=369742" -o citradrama.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=412104" -o citraenter.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=171947" -o gtv.xml
@@ -48,18 +46,45 @@ jobs:
           curl -L "https://epg.pw/api/epg.xml?channel_id=172008" -o sportstar4.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=465248" -o fs1.xml
           curl -L "https://epg.pw/api/epg.xml?channel_id=465280" -o fs2.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=6317" -o skyf1.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=5791" -o skyfootball.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=6445" -o skygolf.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=7673" -o skyme.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=6958" -o skypl.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=464912" -o nbatv.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=322490" -o onesports.xml
+          curl -L "https://epg.pw/api/epg.xml?channel_id=322516" -o onesportsplus.xml
+
+      - name: Combine All into epg.xml
+        run: |
+          # Cipta struktur header XMLTV
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
+          echo '<tv generator-info-name="Combined-EPG">' >> epg.xml
+          
+          # Cantumkan semua kandungan dalam fail .xml (kecuali epg.xml itu sendiri)
+          # sed akan membuang header <?xml...?> dan tag pembuka/penutup <tv>
+          for f in *.xml; do
+            if [ "$f" != "epg.xml" ]; then
+              echo "Merging $f..."
+              sed -e '1,/^<tv[^>]*>/d' -e '/<\/tv>/,$d' "$f" >> epg.xml
+            fi
+          done
+          
+          echo '</tv>' >> epg.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Pastikan folder grabber dibuang sebelum add/commit
+          # Buang folder grabber sebelum commit
           rm -rf grabber
           
+          # Pilih fail yang ingin disimpan. 
+          # Jika anda HANYA mahukan epg.xml, tukar 'git add *.xml' kepada 'git add epg.xml'
           git add *.xml
           
-          # Hapus fail lama jika wujud
+          # Bersihkan fail lama yang tidak digunakan
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
