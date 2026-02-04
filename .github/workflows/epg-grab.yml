@@ -50,11 +50,11 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=172008" # sportstar4
             "https://epg.pw/api/epg.xml?channel_id=465248" # fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # fs2
-            "https://epg.pw/api/epg.xml?channel_id=6317" # skyf1
-            "https://epg.pw/api/epg.xml?channel_id=5791" # skyfootball
-            "https://epg.pw/api/epg.xml?channel_id=6445" # skygolf
-            "https://epg.pw/api/epg.xml?channel_id=7673" # skyme
-            "https://epg.pw/api/epg.xml?channel_id=6958 # skypl
+            "https://epg.pw/api/epg.xml?channel_id=6317"   # skyf1
+            "https://epg.pw/api/epg.xml?channel_id=5791"   # skyfootball
+            "https://epg.pw/api/epg.xml?channel_id=6445"   # skygolf
+            "https://epg.pw/api/epg.xml?channel_id=7673"   # skyme
+            "https://epg.pw/api/epg.xml?channel_id=6958"   # skypl
             "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
             "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
             "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
@@ -64,15 +64,13 @@ jobs:
             curl -sL "$url" > temp_epg/$(date +%s%N).xml
           done
 
-          # Cipta fail epg.xml dengan struktur yang betul
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
           
-          # 1. Ambil SEMUA blok <channel> ... </channel>
+          # Ambil Channel
           sed -n '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
           
-          # 2. Ambil SEMUA blok <programme/ ... </programme>
-          # Ini akan menarik semua baris termasuk title, desc, dll.
+          # Ambil Programme
           sed -n '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
           
           echo '</tv>' >> epg.xml
