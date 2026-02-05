@@ -28,7 +28,7 @@ jobs:
           export TZ="Asia/Kuala_Lumpur"
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml
-          npm run grab -- --site=vidio.com --days=2 --output=../vidio.xml
+          npm run grab -- --site=vidio.distributed --days=2 --output=../vidio.xml
           cd ..
 
       - name: Download and Combine epg.pw (Into epg.xml)
@@ -38,26 +38,66 @@ jobs:
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
+            "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
+            "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
+            "https://epg.pw/api/epg.xml?channel_id=411774" # Zee Thirai
             "https://epg.pw/api/epg.xml?channel_id=369742" # citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # citraenter
+            "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
             "https://epg.pw/api/epg.xml?channel_id=171947" # gtv
             "https://epg.pw/api/epg.xml?channel_id=411936" # maxstream
             "https://epg.pw/api/epg.xml?channel_id=411915" # mdtv
-            "https://epg.pw/api/epg.xml?channel_id=171939" # soccer
-            "https://epg.pw/api/epg.xml?channel_id=171988" # sportstar1
-            "https://epg.pw/api/epg.xml?channel_id=171965" # sportstar2
-            "https://epg.pw/api/epg.xml?channel_id=411979" # sportstar3
-            "https://epg.pw/api/epg.xml?channel_id=172008" # sportstar4
+            "https://epg.pw/api/epg.xml?channel_id=172005" # Vision Prime
+            "https://epg.pw/api/epg.xml?channel_id=412004" # Buddystar
+            "https://epg.pw/api/epg.xml?channel_id=411923" # Cineedge
+            "https://epg.pw/api/epg.xml?channel_id=171982" # Galaxy
+            "https://epg.pw/api/epg.xml?channel_id=171853" # Galaxy Pre
+            "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Sig
+            "https://epg.pw/api/epg.xml?channel_id=464293" # MN+
+            "https://epg.pw/api/epg.xml?channel_id=463905" # Movies Now
+            "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
+            "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
+            "https://epg.pw/api/epg.xml?channel_id=464016" # Sony Pix
+            "https://epg.pw/api/epg.xml?channel_id=463984" # Star Movies
+            "https://epg.pw/api/epg.xml?channel_id=464114" # Star Movies Select
+            "https://epg.pw/api/epg.xml?channel_id=171864" # Thrill
+            "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
+            "https://epg.pw/api/epg.xml?channel_id=491223" # Outdoor
+            "https://epg.pw/api/epg.xml?channel_id=411954" # Aniplus
+            "https://epg.pw/api/epg.xml?channel_id=486817" # Baby TV
+            "https://epg.pw/api/epg.xml?channel_id=464755" # Boomerang
+            "https://epg.pw/api/epg.xml?channel_id=470691" # Disney Ch
+            "https://epg.pw/api/epg.xml?channel_id=465320" # Disney JR
+            "https://epg.pw/api/epg.xml?channel_id=464807" # Disney XD
+            "https://epg.pw/api/epg.xml?channel_id=417395" # Mentari TV
+            "https://epg.pw/api/epg.xml?channel_id=465038" # Nicktoons
+            "https://epg.pw/api/epg.xml?channel_id=470709" # Treehouse
+            "https://epg.pw/api/epg.xml?channel_id=470671" # Ytv
+            "https://epg.pw/api/epg.xml?channel_id=171962" # Zoomoo
+            "https://epg.pw/api/epg.xml?channel_id=486870" # Mutv
+            "https://epg.pw/api/epg.xml?channel_id=486728" # Lfctv
             "https://epg.pw/api/epg.xml?channel_id=465248" # fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # fs2
+            "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
+            "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
+            "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
             "https://epg.pw/api/epg.xml?channel_id=6317"   # skyf1
             "https://epg.pw/api/epg.xml?channel_id=5791"   # skyfootball
             "https://epg.pw/api/epg.xml?channel_id=6445"   # skygolf
             "https://epg.pw/api/epg.xml?channel_id=7673"   # skyme
             "https://epg.pw/api/epg.xml?channel_id=6958"   # skypl
-            "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
-            "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
-            "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
+            "https://epg.pw/api/epg.xml?channel_id=171939" # soccer
+            "https://epg.pw/api/epg.xml?channel_id=171988" # sportstar1
+            "https://epg.pw/api/epg.xml?channel_id=171965" # sportstar2
+            "https://epg.pw/api/epg.xml?channel_id=411979" # sportstar3
+            "https://epg.pw/api/epg.xml?channel_id=172008" # sportstar4
+            "https://epg.pw/api/epg.xml?channel_id=171998" # Spotv
+            "https://epg.pw/api/epg.xml?channel_id=171878" # Spotv 2
+            "https://epg.pw/api/epg.xml?channel_id=465504" # Sportv
+            "https://epg.pw/api/epg.xml?channel_id=400477" # Tnt 1
+            "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
+            "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
+            "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
           )
 
           for url in "${urls[@]}"; do
