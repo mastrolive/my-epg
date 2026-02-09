@@ -248,6 +248,86 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 4 HD</display-name>
     <icon src="" />
   </channel>
+  <channel id="172012">
+    <display-name lang="Indonesia">ANTV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="188223">
+    <display-name lang="Indonesia">DAAI TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="411916">
+    <display-name lang="Indonesia">Dunia Lain</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="412001">
+    <display-name lang="Indonesia">Flik</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="171980">
+    <display-name lang="Indonesia">IMC</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="411980">
+    <display-name lang="Indonesia">Indosiar HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="171989">
+    <display-name lang="Indonesia">MNCTV HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="171909">
+    <display-name lang="Indonesia">RCTI HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="412011">
+    <display-name lang="Indonesia">Rajawali TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="411917">
+    <display-name lang="Indonesia">SCTV HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="411944">
+    <display-name lang="Indonesia">TransTV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="417399">
+    <display-name lang="Indonesia">Trans7</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="11691">
+    <display-name lang="Indonesia">tvOne</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="172011">
+    <display-name lang="Indonesia">TVRI</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="171851">
+    <display-name lang="Indonesia">Zee Bioskop</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="171877">
+    <display-name lang="Indonesia">KIX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="369727">
+    <display-name lang="Singapore">ROCK Action (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="369719">
+    <display-name lang="Singapore">ROCK Entertainment (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="412015">
+    <display-name lang="Indonesia">Musik Indonesia</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="463924">
+    <display-name lang="India">SONY SPORTS TEN 1 HD</display-name>
+    <icon src="" />
+  </channel>
   <programme channel="412113" start="20260210160000 +0000" stop="20260210170000 +0000">
     <title lang="zh">Malaysian Sihir Stories</title>
     <desc>Perihal adik-beradik yang mempunyai deria keenam dan cuba menyelesaikan kes-kes berkaitan dengan sihir yang mengganggu orang di sekeliling mereka.</desc>
@@ -14427,5 +14507,3965 @@
     <title lang="zh">Isuzu UTE A-League</title>
     <desc>Wellington Phoenix v Melbourne Victory.</desc>
     <date>2026-02-11</date>
+  </programme>
+  <programme channel="172012" start="20260209003000 +0000" stop="20260209013000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209013000 +0000" stop="20260209030000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209030000 +0000" stop="20260209063000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209063000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209080000 +0000" stop="20260209093000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209093000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209110000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209130000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209150000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209170000 +0000" stop="20260209191500 +0000">
+    <title lang="zh">Typhoon</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209191500 +0000" stop="20260209213000 +0000">
+    <title lang="zh">Serie A Liga Italia</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209213000 +0000" stop="20260209233000 +0000">
+    <title lang="zh">Coffin Mountain</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Baalveer Returns</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172012" start="20260210003000 +0000" stop="20260210023000 +0000">
+    <title lang="zh">Janji Inspektur Virat</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210023000 +0000" stop="20260210060000 +0000">
+    <title lang="zh">Dhoom</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210060000 +0000" stop="20260210083000 +0000">
+    <title lang="zh">Jhanak</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210083000 +0000" stop="20260210113000 +0000">
+    <title lang="zh">Vasudha</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210113000 +0000" stop="20260210133000 +0000">
+    <title lang="zh">Langit Untuk Renata</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210133000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">Santet 2: Wanita Harimau</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210150000 +0000" stop="20260210193000 +0000">
+    <title lang="zh">Sengatan Kobra</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210193000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Wild Ghost</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210220000 +0000" stop="20260210233000 +0000">
+    <title lang="zh">Coppa Italia</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172012" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">ANTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260209000000 +0000" stop="20260209003000 +0000">
+    <title lang="zh">dr. Panda</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209003000 +0000" stop="20260209010000 +0000">
+    <title lang="zh">Poppy Cat</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209010000 +0000" stop="20260209013000 +0000">
+    <title lang="zh">Clifford</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209013000 +0000" stop="20260209020000 +0000">
+    <title lang="zh">Peace of mind</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209020000 +0000" stop="20260209023000 +0000">
+    <title lang="zh">Bumiku Satu</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209023000 +0000" stop="20260209030000 +0000">
+    <title lang="zh">Dapur Mama</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209030000 +0000" stop="20260209040000 +0000">
+    <title lang="zh">Bincang Sehati</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209040000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Reborn from the Dust</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209050000 +0000" stop="20260209060000 +0000">
+    <title lang="zh">Halo Indonesia</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209060000 +0000" stop="20260209063000 +0000">
+    <title lang="zh">Tips n Trik</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209063000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">at Jakarta</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209070000 +0000" stop="20260209073000 +0000">
+    <title lang="zh">Bingkai Sumatera</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209073000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Sehat Ala Timur</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209080000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Pasangan Idaman</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209090000 +0000" stop="20260209093000 +0000">
+    <title lang="zh">Keliling Dunia Anak</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209093000 +0000" stop="20260209094500 +0000">
+    <title lang="zh">LIVE Misa Kudus</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209094500 +0000" stop="20260209100000 +0000">
+    <title lang="zh">LIVE Misa Kudus</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209100000 +0000" stop="20260209103000 +0000">
+    <title lang="zh">LIVE Misa Kudus</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209103000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">LIVE Misa Kudus</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209110000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">LIVE Misa Kudus</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209113000 +0000" stop="20260209120000 +0000">
+    <title lang="zh">Dapur Mama</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209120000 +0000" stop="20260209123000 +0000">
+    <title lang="zh">Potret</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209123000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Pelindung Alam</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209130000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Pasangan Idaman</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209140000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Reborn from the Dust</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209150000 +0000" stop="20260209151500 +0000">
+    <title lang="zh">Lentera Kehidupan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209151500 +0000" stop="20260209153000 +0000">
+    <title lang="zh">DAAI Inspirasi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209153000 +0000" stop="20260209160000 +0000">
+    <title lang="zh">Bumiku Satu</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209160000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Halo Indonesia</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209170000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209190000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209210000 +0000" stop="20260209220000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209220000 +0000" stop="20260209223000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209223000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Music Video Galeri Hijau</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209230000 +0000" stop="20260209231500 +0000">
+    <title lang="zh">DAAI Inspirasi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209231500 +0000" stop="20260209233000 +0000">
+    <title lang="zh">Lentera Kehidupan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209233000 +0000" stop="20260209234500 +0000">
+    <title lang="zh">Master Cheng Yen Bercerita</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260209234500 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Kartun Petualangan Xiao Li Zi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="188223" start="20260210000000 +0000" stop="20260210003000 +0000">
+    <title lang="zh">dr. Panda</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210003000 +0000" stop="20260210010000 +0000">
+    <title lang="zh">Poppy Cat</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210010000 +0000" stop="20260210013000 +0000">
+    <title lang="zh">Clifford</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210013000 +0000" stop="20260210020000 +0000">
+    <title lang="zh">Peace of mind</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210020000 +0000" stop="20260210023000 +0000">
+    <title lang="zh">Bumiku Satu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210023000 +0000" stop="20260210030000 +0000">
+    <title lang="zh">Dapur Mama</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210030000 +0000" stop="20260210040000 +0000">
+    <title lang="zh">Bincang Sehati</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210040000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Reborn from the Dust</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210050000 +0000" stop="20260210060000 +0000">
+    <title lang="zh">Halo Indonesia</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210060000 +0000" stop="20260210063000 +0000">
+    <title lang="zh">Tips n Trik</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210063000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">at Jakarta</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210070000 +0000" stop="20260210073000 +0000">
+    <title lang="zh">Bingkai Sumatera</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210073000 +0000" stop="20260210080000 +0000">
+    <title lang="zh">Sehat Ala Timur</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210080000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Pasangan Idaman</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210090000 +0000" stop="20260210093000 +0000">
+    <title lang="zh">Keliling Dunia Anak</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210093000 +0000" stop="20260210094500 +0000">
+    <title lang="zh">Funsciene</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210094500 +0000" stop="20260210100000 +0000">
+    <title lang="zh">Pablo</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210100000 +0000" stop="20260210103000 +0000">
+    <title lang="zh">Clifford</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210103000 +0000" stop="20260210110000 +0000">
+    <title lang="zh">Poppy Cat</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210110000 +0000" stop="20260210113000 +0000">
+    <title lang="zh">dr. Panda</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210113000 +0000" stop="20260210120000 +0000">
+    <title lang="zh">Dapur Mama</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210120000 +0000" stop="20260210123000 +0000">
+    <title lang="zh">Podcast Nusantara</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210123000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">Bumiku Satu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210130000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Pasangan Idaman</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210140000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">Drama Kisah Nyata : Reborn from the Dust</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210150000 +0000" stop="20260210151500 +0000">
+    <title lang="zh">Lentera Kehidupan</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210151500 +0000" stop="20260210153000 +0000">
+    <title lang="zh">DAAI Inspirasi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210153000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">Bumiku Satu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210160000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Halo Indonesia</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210170000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210190000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210210000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210220000 +0000" stop="20260210223000 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210223000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Music Video Galeri Hijau</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210230000 +0000" stop="20260210231500 +0000">
+    <title lang="zh">DAAI Inspirasi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210231500 +0000" stop="20260210233000 +0000">
+    <title lang="zh">Lentera Kehidupan</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210233000 +0000" stop="20260210234500 +0000">
+    <title lang="zh">Master Cheng Yen Bercerita</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260210234500 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Kartun Petualangan Xiao Li Zi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="188223" start="20260211000000 +0000" stop="20260212000000 +0000">
+    <title lang="zh">dr. Panda</title>
+    <desc />
+    <date>2026-02-11</date>
+  </programme>
+  <programme channel="411916" start="20260209000000 +0000" stop="20260209003000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 35</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209003000 +0000" stop="20260209010000 +0000">
+    <title lang="zh">Satpam Horor - Eps. 63</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209010000 +0000" stop="20260209013000 +0000">
+    <title lang="zh">Misteri Dunia - Eps. 157</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209013000 +0000" stop="20260209023000 +0000">
+    <title lang="zh">Zona Angker - Eps. 3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209023000 +0000" stop="20260209033000 +0000">
+    <title lang="zh">Kumis - Eps. 216</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209033000 +0000" stop="20260209041500 +0000">
+    <title lang="zh">Gost - Eps. 3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209041500 +0000" stop="20260209044500 +0000">
+    <title lang="zh">El Adventure Camping Horor - Eps. 178</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209044500 +0000" stop="20260209053000 +0000">
+    <title lang="zh">Centhini - Eps. 17</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209053000 +0000" stop="20260209060000 +0000">
+    <title lang="zh">Pajri - Eps. 27</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209060000 +0000" stop="20260209063000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 36</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209063000 +0000" stop="20260209071500 +0000">
+    <title lang="zh">Secret Story - Eps. 305</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209071500 +0000" stop="20260209074500 +0000">
+    <title lang="zh">Satpam Horor - Eps. 64</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209074500 +0000" stop="20260209081500 +0000">
+    <title lang="zh">Dua Dunia - Eps. 436</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209081500 +0000" stop="20260209091500 +0000">
+    <title lang="zh">Zona Angker - Eps. 2</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209091500 +0000" stop="20260209101500 +0000">
+    <title lang="zh">Kumis - Eps. 215</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209101500 +0000" stop="20260209110000 +0000">
+    <title lang="zh">Jangan Nonton Sendirian - Eps. 3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209110000 +0000" stop="20260209114500 +0000">
+    <title lang="zh">Centhini - Eps. 11</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209114500 +0000" stop="20260209121500 +0000">
+    <title lang="zh">Pajri - Eps. 26</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209121500 +0000" stop="20260209124500 +0000">
+    <title lang="zh">Satpam Horor - Eps. 63</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209124500 +0000" stop="20260209133000 +0000">
+    <title lang="zh">Secret Story - Eps. 646</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209133000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 35</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209140000 +0000" stop="20260209143000 +0000">
+    <title lang="zh">El Adventure Camping Horor - Eps. 177</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209143000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">Misteri Dunia - Eps. 156</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209150000 +0000" stop="20260209160000 +0000">
+    <title lang="zh">Zona Angker 2018 - Eps. 1, 2</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209160000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Kumis - Eps. 216</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209170000 +0000" stop="20260209173000 +0000">
+    <title lang="zh">Dua Dunia - Eps. 436</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209173000 +0000" stop="20260209181500 +0000">
+    <title lang="zh">Jangan Nonton Sendirian - Eps. 3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209181500 +0000" stop="20260209184500 +0000">
+    <title lang="zh">Misteri Dunia - Eps. 157</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209184500 +0000" stop="20260209194500 +0000">
+    <title lang="zh">Kumis - Eps. 216</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209194500 +0000" stop="20260209204500 +0000">
+    <title lang="zh">Zona Angker - Eps. 3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209204500 +0000" stop="20260209213000 +0000">
+    <title lang="zh">Secret Story - Eps. 305</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209213000 +0000" stop="20260209221500 +0000">
+    <title lang="zh">Kisah Nyata - Eps. 1</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209221500 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Centhini - Eps. 17</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209230000 +0000" stop="20260209233000 +0000">
+    <title lang="zh">Pajri - Eps. 27</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">El Adventure Camping Horor - Eps. 178</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411916" start="20260210000000 +0000" stop="20260210003000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 36</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210003000 +0000" stop="20260210010000 +0000">
+    <title lang="zh">Satpam Horor - Eps. 64</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210010000 +0000" stop="20260210013000 +0000">
+    <title lang="zh">Dua Dunia - Eps. 437</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210013000 +0000" stop="20260210023000 +0000">
+    <title lang="zh">Kumis - Eps. 217</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210023000 +0000" stop="20260210033000 +0000">
+    <title lang="zh">Zona Angker - Eps. 4</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210033000 +0000" stop="20260210041500 +0000">
+    <title lang="zh">Kisah Nyata - Eps. 171</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210041500 +0000" stop="20260210044500 +0000">
+    <title lang="zh">El Adventure Camping Horor - Eps. 179</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210044500 +0000" stop="20260210053000 +0000">
+    <title lang="zh">Jangan Nonton Sendirian - Eps. 4</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210053000 +0000" stop="20260210060000 +0000">
+    <title lang="zh">Pajri - Eps. 28</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210060000 +0000" stop="20260210063000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 37</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210063000 +0000" stop="20260210071500 +0000">
+    <title lang="zh">Secret Story - Eps. 306</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210071500 +0000" stop="20260210074500 +0000">
+    <title lang="zh">Satpam Horor - Eps. 65</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210074500 +0000" stop="20260210081500 +0000">
+    <title lang="zh">Misteri Dunia - Eps. 158</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210081500 +0000" stop="20260210091500 +0000">
+    <title lang="zh">Kumis - Eps. 216</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210091500 +0000" stop="20260210101500 +0000">
+    <title lang="zh">Zona Angker - Eps. 3</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210101500 +0000" stop="20260210110000 +0000">
+    <title lang="zh">Liga Paranormal - Eps. 3</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210110000 +0000" stop="20260210114500 +0000">
+    <title lang="zh">Centhini - Eps. 16</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210114500 +0000" stop="20260210121500 +0000">
+    <title lang="zh">Pajri - Eps. 27</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210121500 +0000" stop="20260210124500 +0000">
+    <title lang="zh">Satpam Horor - Eps. 64</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210124500 +0000" stop="20260210133000 +0000">
+    <title lang="zh">Secret Story - Eps. 647</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210133000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 36</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210140000 +0000" stop="20260210143000 +0000">
+    <title lang="zh">El Adventure Camping Horor - Eps. 178</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210143000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">Misteri Dunia - Eps. 157</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210150000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">Zona Angker - Eps. 2</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210160000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Kumis - Eps. 217</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210170000 +0000" stop="20260210173000 +0000">
+    <title lang="zh">Dua Dunia - Eps. 437</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210173000 +0000" stop="20260210181500 +0000">
+    <title lang="zh">Secret Story - Eps. 306</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210181500 +0000" stop="20260210184500 +0000">
+    <title lang="zh">Misteri Dunia - Eps. 158</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210184500 +0000" stop="20260210194500 +0000">
+    <title lang="zh">Zona Angker - Eps. 4</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210194500 +0000" stop="20260210204500 +0000">
+    <title lang="zh">Kumis - Eps. 217</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210204500 +0000" stop="20260210213000 +0000">
+    <title lang="zh">Liga Paranormal - Eps. 4</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210213000 +0000" stop="20260210221500 +0000">
+    <title lang="zh">Centhini - Eps. 18</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210221500 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Kisah Nyata - Eps. 2</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210230000 +0000" stop="20260210233000 +0000">
+    <title lang="zh">Pajri - Eps. 28</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">El Adventure Camping Horor - Eps. 179</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411916" start="20260211000000 +0000" stop="20260212000000 +0000">
+    <title lang="zh">Misteri Tempat Angker - Eps. 37</title>
+    <desc />
+    <date>2026-02-11</date>
+  </programme>
+  <programme channel="412001" start="20260209010000 +0000" stop="20260209030000 +0000">
+    <title lang="zh">Pendekar Mata Satu Lawan Sabuk Badak</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209030000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Eliana Eliana</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209050000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">Gie</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209070000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">Atambua 39° Celsius</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209090000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">Rumah Ketujuh</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209110000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Pelangi Dibalik Awan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209130000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">Saur Sepuh IV : Titisan Darah Biru</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209150000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Flight 555</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209170000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">Bercinta dalam Badai</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209190000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">3 Playboy Galau</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209210000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Perawan Lembah Wilis</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260209230000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Pesona Natalia</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412001" start="20260210010000 +0000" stop="20260210030000 +0000">
+    <title lang="zh">3 Doa 3 Cinta</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210030000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Cakar Harimau</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210050000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">Bluebell</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210070000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">Petualangan Sherina</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210090000 +0000" stop="20260210110000 +0000">
+    <title lang="zh">Laskar Pelangi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210110000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">Bony dan Nancy</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210130000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">Saur Sepuh 3 : Kembang Lawu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210150000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Galih dan Ratna</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210170000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">Penari Malam</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210190000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">Susan Yang Seksi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210210000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Siluman Kera</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412001" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Gie</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260209000500 +0000" stop="20260209023500 +0000">
+    <title lang="zh">Melodi Cinta Rhoma Irama</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209023500 +0000" stop="20260209043500 +0000">
+    <title lang="zh">Si Manis Jembatan Ancol</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209043500 +0000" stop="20260209062000 +0000">
+    <title lang="zh">Maju Kena Mundur Kena...</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209062000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Kuntilanak</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209080000 +0000" stop="20260209094000 +0000">
+    <title lang="zh">Ratu Kostmopolitan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209094000 +0000" stop="20260209110500 +0000">
+    <title lang="zh">Satu Kecupan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209110500 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Jin &amp; Jun</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209130000 +0000" stop="20260209143500 +0000">
+    <title lang="zh">Dunia Mereka</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209143500 +0000" stop="20260209163500 +0000">
+    <title lang="zh">Hattrick</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209163500 +0000" stop="20260209180000 +0000">
+    <title lang="zh">Setannya Kok Masih Ada</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209180000 +0000" stop="20260209193500 +0000">
+    <title lang="zh">Cinta Kembar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209193500 +0000" stop="20260209205000 +0000">
+    <title lang="zh">Pengantin Pantai Biru</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209205000 +0000" stop="20260209223500 +0000">
+    <title lang="zh">Ummi Aminah</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260209223500 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Bila Hati Perempuan Menjerit</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171980" start="20260210003000 +0000" stop="20260210021500 +0000">
+    <title lang="zh">48 Jam Untuk Indah</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210021500 +0000" stop="20260210034500 +0000">
+    <title lang="zh">Abdullah Dan Takeshi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210034500 +0000" stop="20260210052000 +0000">
+    <title lang="zh">Lorong</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210052000 +0000" stop="20260210064500 +0000">
+    <title lang="zh">Blok M</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210064500 +0000" stop="20260210083000 +0000">
+    <title lang="zh">Cintaku Di Kampus Biru</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210083000 +0000" stop="20260210100500 +0000">
+    <title lang="zh">Selamanya</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210100500 +0000" stop="20260210113500 +0000">
+    <title lang="zh">Belahan Jiwa</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210113500 +0000" stop="20260210130000 +0000">
+    <title lang="zh">Kirun+Adul Pengen Punya...</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210130000 +0000" stop="20260210143000 +0000">
+    <title lang="zh">Kangen</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210143000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">Gentayangan</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210160000 +0000" stop="20260210173000 +0000">
+    <title lang="zh">Bidadari Pulau Hantu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210173000 +0000" stop="20260210185000 +0000">
+    <title lang="zh">Jangan Bilang Siapa-Siapa</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210185000 +0000" stop="20260210201500 +0000">
+    <title lang="zh">Setannya Kok Masih Ada</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210201500 +0000" stop="20260210214500 +0000">
+    <title lang="zh">Kawin Kontrak 3</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210214500 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Titisan Si Pitung</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171980" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Satu Kecupan</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260209010000 +0000" stop="20260209030000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209030000 +0000" stop="20260209040000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209040000 +0000" stop="20260209043000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209043000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209050000 +0000" stop="20260209063000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209063000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209080000 +0000" stop="20260209103000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209103000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209113000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209140000 +0000" stop="20260209183000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209183000 +0000" stop="20260209200000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209200000 +0000" stop="20260209213000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209213000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260209230000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411980" start="20260210000000 +0000" stop="20260210013000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210013000 +0000" stop="20260210030000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210030000 +0000" stop="20260210040000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210040000 +0000" stop="20260210043000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210043000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210050000 +0000" stop="20260210063000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210063000 +0000" stop="20260210080000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210080000 +0000" stop="20260210103000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210103000 +0000" stop="20260210120000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210120000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210170000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210190000 +0000" stop="20260210200000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210200000 +0000" stop="20260210213000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210213000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411980" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Indosiar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260209004500 +0000" stop="20260209013000 +0000">
+    <title lang="zh">Kung Fu Panda Dan Sahabat</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209013000 +0000" stop="20260209031500 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209031500 +0000" stop="20260209040000 +0000">
+    <title lang="zh">Lintas iNews Siang</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209040000 +0000" stop="20260209043000 +0000">
+    <title lang="zh">Jurnal Lintas iNews Siang</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209043000 +0000" stop="20260209053000 +0000">
+    <title lang="zh">Seleb On News</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209053000 +0000" stop="20260209073000 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209073000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209100000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209113000 +0000" stop="20260209123000 +0000">
+    <title lang="zh">Entong</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209123000 +0000" stop="20260209131500 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209131500 +0000" stop="20260209160000 +0000">
+    <title lang="zh">DMD Panggung Rezeki (L)</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209160000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Just Wanna Say I Love You</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209170000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">Suparman Reborn</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209190000 +0000" stop="20260209220000 +0000">
+    <title lang="zh">Suparman Reborn</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209220000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Siraman Qolbu</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209230000 +0000" stop="20260209231500 +0000">
+    <title lang="zh">CoComelon</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260209231500 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Kiko</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171989" start="20260210004500 +0000" stop="20260210013000 +0000">
+    <title lang="zh">Kung Fu Panda Dan Sahabat</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210013000 +0000" stop="20260210031500 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210031500 +0000" stop="20260210040000 +0000">
+    <title lang="zh">Lintas iNews Siang</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210040000 +0000" stop="20260210043000 +0000">
+    <title lang="zh">Jurnal Lintas iNews Siang</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210043000 +0000" stop="20260210053000 +0000">
+    <title lang="zh">Seleb On News</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210053000 +0000" stop="20260210073000 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210073000 +0000" stop="20260210100000 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210100000 +0000" stop="20260210113000 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210113000 +0000" stop="20260210123000 +0000">
+    <title lang="zh">Entong</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210123000 +0000" stop="20260210131500 +0000">
+    <title lang="zh">Upin &amp; Ipin</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210131500 +0000" stop="20260210150000 +0000">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210150000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">Super Deal</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210160000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Just Wanna Say I Love You</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210170000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">Suparman Reborn</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210190000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Suparman Reborn</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210220000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Siraman Qolbu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210230000 +0000" stop="20260210231500 +0000">
+    <title lang="zh">CoComelon</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171989" start="20260210231500 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Kiko</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171909" start="20260209010000 +0000" stop="20260209013000 +0000">
+    <title lang="zh">Kiko</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209013000 +0000" stop="20260209033000 +0000">
+    <title lang="zh">Dahsyat (L)</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209033000 +0000" stop="20260209043000 +0000">
+    <title lang="zh">Silet</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209043000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Seputar iNews Siang</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209050000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">Amanah Wali S5</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209070000 +0000" stop="20260209083000 +0000">
+    <title lang="zh">Preman Pensiun S4</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209083000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">Sumpah Terlarang Desa Balung</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209100000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">Aira</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209113000 +0000" stop="20260209124500 +0000">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209124500 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171909" start="20260209140000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Indonesian Idol S14 (L)</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209010000 +0000" stop="20260209020000 +0000">
+    <title lang="zh">Metal Cardbot</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209020000 +0000" stop="20260209023000 +0000">
+    <title lang="zh">Quantum Heroes Dinoster</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209023000 +0000" stop="20260209033000 +0000">
+    <title lang="zh">Boboiboy Galaxy</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209033000 +0000" stop="20260209043000 +0000">
+    <title lang="zh">Blox Buster</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209043000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Tawa Satwa</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209050000 +0000" stop="20260209063000 +0000">
+    <title lang="zh">Boboiboy</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209063000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">Super Wings</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209090000 +0000" stop="20260209093000 +0000">
+    <title lang="zh">Boboiboy</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209093000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">Boboiboy Galaxy</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209113000 +0000" stop="20260209133000 +0000">
+    <title lang="zh">Mechamato</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209133000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Attack On Titan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209140000 +0000" stop="20260209143000 +0000">
+    <title lang="zh">Blox Buster</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209143000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">Terkepo-Kepo</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209150000 +0000" stop="20260209153000 +0000">
+    <title lang="zh">Ijin, Ndan !</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209153000 +0000" stop="20260209160000 +0000">
+    <title lang="zh">Lensa Indonesia Malam</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209160000 +0000" stop="20260209163000 +0000">
+    <title lang="zh">STB (Sangat Tidak Biasa)</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209163000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Top Trending</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209170000 +0000" stop="20260209180000 +0000">
+    <title lang="zh">Di Ujung Rindu</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209180000 +0000" stop="20260209183000 +0000">
+    <title lang="zh">Cahaya Bagi Negeri</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209183000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">Besti (Best Informasi)</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209190000 +0000" stop="20260209203000 +0000">
+    <title lang="zh">Movinesia</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209203000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">Ustadz On The Road</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209210000 +0000" stop="20260209213000 +0000">
+    <title lang="zh">Kokom (Kompilasi Komedi)</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209213000 +0000" stop="20260209220000 +0000">
+    <title lang="zh">Riko The Series</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209220000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Marsupilami</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260209230000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Bread Barbershop</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412011" start="20260210010000 +0000" stop="20260210020000 +0000">
+    <title lang="zh">Metal Cardbot</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210020000 +0000" stop="20260210023000 +0000">
+    <title lang="zh">Grizzy And The Lemmings</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210023000 +0000" stop="20260210033000 +0000">
+    <title lang="zh">Boboiboy Galaxy</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210033000 +0000" stop="20260210043000 +0000">
+    <title lang="zh">Blox Buster</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210043000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Tawa Satwa</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210050000 +0000" stop="20260210063000 +0000">
+    <title lang="zh">Boboiboy</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210063000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">Super Wings</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210090000 +0000" stop="20260210093000 +0000">
+    <title lang="zh">Boboiboy</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210093000 +0000" stop="20260210113000 +0000">
+    <title lang="zh">Boboiboy Galaxy</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210113000 +0000" stop="20260210133000 +0000">
+    <title lang="zh">Mechamato</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210133000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">Attack On Titan</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210140000 +0000" stop="20260210143000 +0000">
+    <title lang="zh">Blox Buster</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210143000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">Terkepo-Kepo</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210150000 +0000" stop="20260210153000 +0000">
+    <title lang="zh">Ijin, Ndan !</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210153000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">Lensa Indonesia Malam</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210160000 +0000" stop="20260210163000 +0000">
+    <title lang="zh">STB (Sangat Tidak Biasa)</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210163000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Top Trending</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210170000 +0000" stop="20260210180000 +0000">
+    <title lang="zh">Di Ujung Rindu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210180000 +0000" stop="20260210183000 +0000">
+    <title lang="zh">Cahaya Bagi Negeri</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210183000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">Besti (Best Informasi)</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210190000 +0000" stop="20260210203000 +0000">
+    <title lang="zh">Movinesia</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210203000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">Ustadz On The Road</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210210000 +0000" stop="20260210213000 +0000">
+    <title lang="zh">Kokom (Kompilasi Komedi)</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210213000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Riko The Series</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210220000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Marsupilami</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412011" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Bread Barbershop</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260209000000 +0000" stop="20260209011500 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209011500 +0000" stop="20260209030000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209030000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209050000 +0000" stop="20260209053000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209053000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209070000 +0000" stop="20260209083000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209083000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209100000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209113000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209130000 +0000" stop="20260209143000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209143000 +0000" stop="20260209160000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209160000 +0000" stop="20260209174500 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209174500 +0000" stop="20260209190000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209190000 +0000" stop="20260209201500 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209201500 +0000" stop="20260209210000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209210000 +0000" stop="20260209213000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209213000 +0000" stop="20260209220000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209220000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209230000 +0000" stop="20260209233000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411917" start="20260210000000 +0000" stop="20260210011500 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210011500 +0000" stop="20260210030000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210030000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210050000 +0000" stop="20260210053000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210053000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210070000 +0000" stop="20260210083000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210083000 +0000" stop="20260210100000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210100000 +0000" stop="20260210113000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210113000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210130000 +0000" stop="20260210143000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210143000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210160000 +0000" stop="20260210174500 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210174500 +0000" stop="20260210193000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210193000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210210000 +0000" stop="20260210213000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210213000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210220000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210230000 +0000" stop="20260210233000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411917" start="20260211000000 +0000" stop="20260212000000 +0000">
+    <title lang="zh">SCTV</title>
+    <desc />
+    <date>2026-02-11</date>
+  </programme>
+  <programme channel="411944" start="20260209003000 +0000" stop="20260209013000 +0000">
+    <title lang="zh">CNN Indonesia Good Morning</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209013000 +0000" stop="20260209033000 +0000">
+    <title lang="zh">Pagi-Pagi Ambyar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209033000 +0000" stop="20260209053000 +0000">
+    <title lang="zh">Insert</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209053000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">Brownis - Obrolan Manis</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209070000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Rumpi - No Secret</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209080000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">Insert Today</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209090000 +0000" stop="20260209093000 +0000">
+    <title lang="zh">CNN Indonesia News Update</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209093000 +0000" stop="20260209103000 +0000">
+    <title lang="zh">Dream Box Indonesia</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209103000 +0000" stop="20260209114500 +0000">
+    <title lang="zh">Bikin Laper</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209114500 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Insert Story</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209130000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Dunia Punya Cerita</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209140000 +0000" stop="20260209160000 +0000">
+    <title lang="zh">Bioskop TransTV - Bad Boys For Life</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209160000 +0000" stop="20260209180000 +0000">
+    <title lang="zh">Bioskop TransTV - Line of Duty</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209180000 +0000" stop="20260209183000 +0000">
+    <title lang="zh">Lacak Kriminal</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209183000 +0000" stop="20260209194000 +0000">
+    <title lang="zh">CNN Indonesia Prime News</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209194000 +0000" stop="20260209202000 +0000">
+    <title lang="zh">Klinik Tendean</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209202000 +0000" stop="20260209214000 +0000">
+    <title lang="zh">Bawang Merah Bawang Putih</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209214000 +0000" stop="20260209220000 +0000">
+    <title lang="zh">Mozaik Islam</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209220000 +0000" stop="20260209233000 +0000">
+    <title lang="zh">Islam Itu Indah</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Insert Pagi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="411944" start="20260210003000 +0000" stop="20260210013000 +0000">
+    <title lang="zh">CNN Indonesia Good Morning</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210013000 +0000" stop="20260210033000 +0000">
+    <title lang="zh">Pagi-Pagi Ambyar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210033000 +0000" stop="20260210053000 +0000">
+    <title lang="zh">Insert</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210053000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">Brownis - Obrolan Manis</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210070000 +0000" stop="20260210080000 +0000">
+    <title lang="zh">Rumpi - No Secret</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210080000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">Insert Today</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210090000 +0000" stop="20260210093000 +0000">
+    <title lang="zh">CNN Indonesia News Update</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210093000 +0000" stop="20260210103000 +0000">
+    <title lang="zh">Dream Box Indonesia</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210103000 +0000" stop="20260210114500 +0000">
+    <title lang="zh">Bikin Laper</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210114500 +0000" stop="20260210130000 +0000">
+    <title lang="zh">Insert Story</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210130000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">Dunia Punya Cerita</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210140000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">Bioskop TransTV - Angel Has Fallen</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210160000 +0000" stop="20260210180000 +0000">
+    <title lang="zh">Bioskop TransTV - Reprisal</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210180000 +0000" stop="20260210183000 +0000">
+    <title lang="zh">Lacak Kriminal</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210183000 +0000" stop="20260210194000 +0000">
+    <title lang="zh">CNN Indonesia Prime News</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210194000 +0000" stop="20260210202000 +0000">
+    <title lang="zh">Klinik Tendean</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210202000 +0000" stop="20260210214000 +0000">
+    <title lang="zh">Bawang Merah Bawang Putih</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210214000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Mozaik Islam</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210220000 +0000" stop="20260210233000 +0000">
+    <title lang="zh">Islam Itu Indah</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="411944" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Insert Pagi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260209003000 +0000" stop="20260209013000 +0000">
+    <title lang="zh">Selebrita Pagi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209013000 +0000" stop="20260209023000 +0000">
+    <title lang="zh">FYP - For Your Pagi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209023000 +0000" stop="20260209031500 +0000">
+    <title lang="zh">Selebrita Heits</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209031500 +0000" stop="20260209041500 +0000">
+    <title lang="zh">Big-Bang!</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209041500 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Enah Bikin Enak</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209050000 +0000" stop="20260209054500 +0000">
+    <title lang="zh">Bocah Petualang</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209054500 +0000" stop="20260209063000 +0000">
+    <title lang="zh">Indonesiaku</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209063000 +0000" stop="20260209071500 +0000">
+    <title lang="zh">Ujung-Ujungnya Damkar</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209071500 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Redaksi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209080000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">Jejak Si Gundul</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209090000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">Makan Receh</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209100000 +0000" stop="20260209101500 +0000">
+    <title lang="zh">Mencuri Cintamu</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209101500 +0000" stop="20260209110000 +0000">
+    <title lang="zh">Speak Up</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209110000 +0000" stop="20260209114500 +0000">
+    <title lang="zh">On The Spot</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209114500 +0000" stop="20260209121500 +0000">
+    <title lang="zh">Secret Story</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209121500 +0000" stop="20260209130000 +0000">
+    <title lang="zh">POV - Pasti Obrolan Viral</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209130000 +0000" stop="20260209143000 +0000">
+    <title lang="zh">Arisan</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209143000 +0000" stop="20260209154500 +0000">
+    <title lang="zh">Lapor Pak!</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209154500 +0000" stop="20260209163000 +0000">
+    <title lang="zh">The Police</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209163000 +0000" stop="20260209171500 +0000">
+    <title lang="zh">Newstainment</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209171500 +0000" stop="20260209174500 +0000">
+    <title lang="zh">Redaksi Malam</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209174500 +0000" stop="20260209183000 +0000">
+    <title lang="zh">Sport7</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209183000 +0000" stop="20260209193000 +0000">
+    <title lang="zh">Best Fishing</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209193000 +0000" stop="20260209200000 +0000">
+    <title lang="zh">Enaknya Mantul</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209200000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">Lebih Segerr</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209210000 +0000" stop="20260209214500 +0000">
+    <title lang="zh">POV - Pasti Obrolan Viral</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209214500 +0000" stop="20260209223000 +0000">
+    <title lang="zh">Info Update</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209223000 +0000" stop="20260209233000 +0000">
+    <title lang="zh">Redaksi Pagi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Spotlite</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="417399" start="20260210003000 +0000" stop="20260210013000 +0000">
+    <title lang="zh">Selebrita Pagi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210013000 +0000" stop="20260210023000 +0000">
+    <title lang="zh">FYP - For Your Pagi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210023000 +0000" stop="20260210031500 +0000">
+    <title lang="zh">Selebrita Heits</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210031500 +0000" stop="20260210041500 +0000">
+    <title lang="zh">Big-Bang!</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210041500 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Enah Bikin Enak</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210050000 +0000" stop="20260210054500 +0000">
+    <title lang="zh">Bocah Petualang</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210054500 +0000" stop="20260210063000 +0000">
+    <title lang="zh">Indonesiaku</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210063000 +0000" stop="20260210071500 +0000">
+    <title lang="zh">Ujung-Ujungnya Damkar</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210071500 +0000" stop="20260210080000 +0000">
+    <title lang="zh">Redaksi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210080000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">Jejak Si Gundul</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210090000 +0000" stop="20260210100000 +0000">
+    <title lang="zh">Makan Receh</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210100000 +0000" stop="20260210101500 +0000">
+    <title lang="zh">Mencuri Cintamu</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210101500 +0000" stop="20260210110000 +0000">
+    <title lang="zh">Speak Up</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210110000 +0000" stop="20260210114500 +0000">
+    <title lang="zh">On The Spot</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210114500 +0000" stop="20260210121500 +0000">
+    <title lang="zh">Secret Story</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210121500 +0000" stop="20260210130000 +0000">
+    <title lang="zh">POV - Pasti Obrolan Viral</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210130000 +0000" stop="20260210143000 +0000">
+    <title lang="zh">Arisan</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210143000 +0000" stop="20260210154500 +0000">
+    <title lang="zh">Lapor Pak!</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210154500 +0000" stop="20260210163000 +0000">
+    <title lang="zh">The Police</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210163000 +0000" stop="20260210171500 +0000">
+    <title lang="zh">Newstainment</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210171500 +0000" stop="20260210174500 +0000">
+    <title lang="zh">Redaksi Malam</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210174500 +0000" stop="20260210183000 +0000">
+    <title lang="zh">Sport7</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210183000 +0000" stop="20260210193000 +0000">
+    <title lang="zh">Best Fishing</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210193000 +0000" stop="20260210200000 +0000">
+    <title lang="zh">Enaknya Mantul</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210200000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">Lebih Segerr</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210210000 +0000" stop="20260210214500 +0000">
+    <title lang="zh">POV - Pasti Obrolan Viral</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210214500 +0000" stop="20260210223000 +0000">
+    <title lang="zh">Info Update</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210223000 +0000" stop="20260210233000 +0000">
+    <title lang="zh">Redaksi Pagi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="417399" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Spotlite</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260209013000 +0000" stop="20260209020000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209020000 +0000" stop="20260209023000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209023000 +0000" stop="20260209033000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209033000 +0000" stop="20260209040000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209040000 +0000" stop="20260209060000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209060000 +0000" stop="20260209073000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209073000 +0000" stop="20260209083000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209083000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209090000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209110000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209130000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209140000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209150000 +0000" stop="20260209160000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209160000 +0000" stop="20260209163000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209163000 +0000" stop="20260209180000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209180000 +0000" stop="20260209183000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209183000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209190000 +0000" stop="20260209193000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209193000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209210000 +0000" stop="20260209213000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209213000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209230000 +0000" stop="20260209233000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="11691" start="20260210010000 +0000" stop="20260210020000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210020000 +0000" stop="20260210023000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210023000 +0000" stop="20260210030000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210030000 +0000" stop="20260210033000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210033000 +0000" stop="20260210040000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210040000 +0000" stop="20260210053000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210053000 +0000" stop="20260210060000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210060000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210070000 +0000" stop="20260210073000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210073000 +0000" stop="20260210080000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210080000 +0000" stop="20260210083000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210083000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210090000 +0000" stop="20260210110000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210110000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210130000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210140000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210150000 +0000" stop="20260210153000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210153000 +0000" stop="20260210160000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210160000 +0000" stop="20260210180000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210180000 +0000" stop="20260210183000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210183000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210190000 +0000" stop="20260210200000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210200000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210210000 +0000" stop="20260210213000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210213000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210230000 +0000" stop="20260210233000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="11691" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">tvOne</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260209010000 +0000" stop="20260209030000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209030000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209050000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209070000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209090000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209110000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209130000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209150000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209170000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209190000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209210000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260209230000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="172011" start="20260210010000 +0000" stop="20260210030000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210030000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210050000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210070000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210090000 +0000" stop="20260210110000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210110000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210130000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210150000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210170000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210190000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210210000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="172011" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">TVRI</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260209013000 +0000" stop="20260209020000 +0000">
+    <title lang="zh">Song Fillers</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209020000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Middle Class Love</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209050000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Bawaal</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209080000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">Sharmaji Namkeen</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209110000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Ek Vivah Aisa Bhi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209140000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Kedarnath</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209170000 +0000" stop="20260209200000 +0000">
+    <title lang="zh">Ek Vivah Aisa Bhi</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209200000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">Kedarnath</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260209230000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Sharmaji Namkeen</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171851" start="20260210013000 +0000" stop="20260210020000 +0000">
+    <title lang="zh">Song Fillers</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210020000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Bawaal</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210050000 +0000" stop="20260210080000 +0000">
+    <title lang="zh">Kedarnath</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210080000 +0000" stop="20260210110000 +0000">
+    <title lang="zh">Ek Vivah Aisa Bhi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210110000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">Vivah: Journey From...</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210140000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Sanam Teri Kasam</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210170000 +0000" stop="20260210200000 +0000">
+    <title lang="zh">Vivah: Journey From...</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210200000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">Sanam Teri Kasam</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171851" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Ek Vivah Aisa Bhi</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260209001000 +0000" stop="20260209004000 +0000">
+    <title lang="zh">Extreme Ends</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209004000 +0000" stop="20260209005000 +0000">
+    <title lang="zh">Wusong Vs Ximenqing</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209005000 +0000" stop="20260209015500 +0000">
+    <title lang="zh">Young Heroes Of Chaotic Times</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209015500 +0000" stop="20260209022500 +0000">
+    <title lang="zh">Cruel War</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209022500 +0000" stop="20260209033500 +0000">
+    <title lang="zh">Iron Squad W - Eps.6</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209033500 +0000" stop="20260209043000 +0000">
+    <title lang="zh">Iron Ball</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209043000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">Extreme Ends - Eps.3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209050000 +0000" stop="20260209063500 +0000">
+    <title lang="zh">Operation Bangkok</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209063500 +0000" stop="20260209075500 +0000">
+    <title lang="zh">Iron Ball - Eps.12</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209075500 +0000" stop="20260209081000 +0000">
+    <title lang="zh">10 Fight 10 Season 3 - Eps.6</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209081000 +0000" stop="20260209084000 +0000">
+    <title lang="zh">Extreme Ends</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209084000 +0000" stop="20260209085000 +0000">
+    <title lang="zh">Wusong Vs Ximenqing</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209085000 +0000" stop="20260209095500 +0000">
+    <title lang="zh">Young Heroes Of Chaotic Times</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209095500 +0000" stop="20260209102500 +0000">
+    <title lang="zh">Cruel War</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209102500 +0000" stop="20260209113500 +0000">
+    <title lang="zh">Iron Squad W - Eps.6</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209113500 +0000" stop="20260209123000 +0000">
+    <title lang="zh">Iron Ball</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209123000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Extreme Ends - Eps.3</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209130000 +0000" stop="20260209135000 +0000">
+    <title lang="zh">10 Fight 10 Season 3 - Eps.9</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209135000 +0000" stop="20260209135500 +0000">
+    <title lang="zh">Kung Fu Stuntmen</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209135500 +0000" stop="20260209153000 +0000">
+    <title lang="zh">Iron Ball - Eps.13</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209153000 +0000" stop="20260209154000 +0000">
+    <title lang="zh">Iron Squad W</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209154000 +0000" stop="20260209171500 +0000">
+    <title lang="zh">Burning Blood</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209171500 +0000" stop="20260209172500 +0000">
+    <title lang="zh">Iron Squad W - Eps.7</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209172500 +0000" stop="20260209191500 +0000">
+    <title lang="zh">Blind War</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209191500 +0000" stop="20260209192000 +0000">
+    <title lang="zh">RUTE: Toughness Redefined</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209192000 +0000" stop="20260209194000 +0000">
+    <title lang="zh">Love Punch</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209194000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">Iron Ball</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209210000 +0000" stop="20260209215000 +0000">
+    <title lang="zh">10 Fight 10 Season 3 - Eps.9</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209215000 +0000" stop="20260209215500 +0000">
+    <title lang="zh">Kung Fu Stuntmen</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209215500 +0000" stop="20260209233000 +0000">
+    <title lang="zh">Iron Ball - Eps.13</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209233000 +0000" stop="20260209234000 +0000">
+    <title lang="zh">Iron Squad W</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260209234000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Burning Blood</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="171877" start="20260210011500 +0000" stop="20260210012500 +0000">
+    <title lang="zh">Iron Squad W - Eps.7</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210012500 +0000" stop="20260210031500 +0000">
+    <title lang="zh">Blind War</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210031500 +0000" stop="20260210032000 +0000">
+    <title lang="zh">RUTE: Toughness Redefined</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210032000 +0000" stop="20260210034000 +0000">
+    <title lang="zh">Love Punch</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210034000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">Iron Ball</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210050000 +0000" stop="20260210055000 +0000">
+    <title lang="zh">10 Fight 10 Season 3 - Eps.9</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210055000 +0000" stop="20260210055500 +0000">
+    <title lang="zh">Kung Fu Stuntmen</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210055500 +0000" stop="20260210073000 +0000">
+    <title lang="zh">Iron Ball - Eps.13</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210073000 +0000" stop="20260210074000 +0000">
+    <title lang="zh">Iron Squad W</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210074000 +0000" stop="20260210091500 +0000">
+    <title lang="zh">Burning Blood</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210091500 +0000" stop="20260210092500 +0000">
+    <title lang="zh">Iron Squad W - Eps.7</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210092500 +0000" stop="20260210111500 +0000">
+    <title lang="zh">Blind War</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210111500 +0000" stop="20260210112000 +0000">
+    <title lang="zh">RUTE: Toughness Redefined</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210112000 +0000" stop="20260210114000 +0000">
+    <title lang="zh">Love Punch</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210114000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">Iron Ball</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210130000 +0000" stop="20260210135000 +0000">
+    <title lang="zh">10 Fight 10 Season 3 - Eps.10</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210135000 +0000" stop="20260210140500 +0000">
+    <title lang="zh">The Mask Of Shura Of Fire Cloud</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210140500 +0000" stop="20260210151000 +0000">
+    <title lang="zh">A Sealed Book</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210151000 +0000" stop="20260210154500 +0000">
+    <title lang="zh">Iron Squad W</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210154500 +0000" stop="20260210161500 +0000">
+    <title lang="zh">Extreme Ends - Eps.4</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210161500 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Munitions Hijacking Case</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210170000 +0000" stop="20260210173500 +0000">
+    <title lang="zh">Maoshan Heavenly Master</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210173500 +0000" stop="20260210181500 +0000">
+    <title lang="zh">Iron Squad W - Eps.8</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210181500 +0000" stop="20260210193500 +0000">
+    <title lang="zh">Dragon Master: Dragon Spell</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210193500 +0000" stop="20260210210000 +0000">
+    <title lang="zh">Young Ip Man: Crisis Time</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210210000 +0000" stop="20260210215000 +0000">
+    <title lang="zh">10 Fight 10 Season 3 - Eps.10</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210215000 +0000" stop="20260210220500 +0000">
+    <title lang="zh">The Mask Of Shura Of Fire Cloud</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210220500 +0000" stop="20260210231000 +0000">
+    <title lang="zh">A Sealed Book</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210231000 +0000" stop="20260210234500 +0000">
+    <title lang="zh">Iron Squad W</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="171877" start="20260210234500 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Extreme Ends - Eps.4</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260209004000 +0000" stop="20260209023500 +0000">
+    <title lang="zh">Ghostbusters</title>
+    <desc>Paranormal enthusiasts Abby, Erin, Jillian and Patty set out to capture ghosts when they realise that someone is attempting to cause an apocalypse by summoning ghosts in the city of New York.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209023500 +0000" stop="20260209040500 +0000">
+    <title lang="zh">CAT. 8 Part 1</title>
+    <desc>An untested global defense system triggers a swarm of devastating solar flares, resulting in catastrophic earthquakes and ferocious magnetic storms; an unprecedented CAT. 8 Armageddon. Can we stop the annihilation of the human race?</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209040500 +0000" stop="20260209054000 +0000">
+    <title lang="zh">CAT. 8 Part 2</title>
+    <desc>An untested global defense system triggers a swarm of devastating solar flares, resulting in catastrophic earthquakes and ferocious magnetic storms; an unprecedented CAT. 8 Armageddon. Can we stop the annihilation of the human race?</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209054000 +0000" stop="20260209072000 +0000">
+    <title lang="zh">Rambo 3</title>
+    <desc>Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209072000 +0000" stop="20260209091000 +0000">
+    <title lang="zh">The Huntsman: Winter's War</title>
+    <desc>Before Snow White, two queens clash in The Huntsman: Winter's War. Love, betrayal, and war unfold as Huntsman Eric battles evil to save a kingdom from Ravenna's dark reign.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209091000 +0000" stop="20260209112000 +0000">
+    <title lang="zh">Backdraft</title>
+    <desc>Two firefighter brothers clash while battling deadly arsons in Chicago. With explosive action and a gripping mystery, Backdraft stars Kurt Russell, William Baldwin, and Robert De Niro.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209112000 +0000" stop="20260209125500 +0000">
+    <title lang="zh">Collide</title>
+    <desc>An American backpacker gets involved with a ring of drug smugglers as their driver, though he winds up on the run from his employers across Munich's high-speed Autobahn.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209125500 +0000" stop="20260209143500 +0000">
+    <title lang="zh">Rambo 3</title>
+    <desc>Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209143500 +0000" stop="20260209163500 +0000">
+    <title lang="zh">Ghostbusters</title>
+    <desc>Paranormal enthusiasts Abby, Erin, Jillian and Patty set out to capture ghosts when they realise that someone is attempting to cause an apocalypse by summoning ghosts in the city of New York.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209163500 +0000" stop="20260209182500 +0000">
+    <title lang="zh">The Kingdom</title>
+    <desc>Jamie Foxx leads an elite FBI team to hunt a terrorist in Saudi Arabia in The Kingdom—a tense clash of cultures and justice, directed by Peter Berg and produced by Michael Mann.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209182500 +0000" stop="20260209200000 +0000">
+    <title lang="zh">Exploding Sun Part 1</title>
+    <desc>A historic space launch triggers a solar-storm event that could have cataclysmic repercussions for the planet if it isn't stopped in time - and time is running out.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209200000 +0000" stop="20260209213500 +0000">
+    <title lang="zh">Exploding Sun Part 2</title>
+    <desc>A historic space launch triggers a solar-storm event that could have cataclysmic repercussions for the planet if it isn't stopped in time - and time is running out.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209213500 +0000" stop="20260209233500 +0000">
+    <title lang="zh">Ghostbusters</title>
+    <desc>Paranormal enthusiasts Abby, Erin, Jillian and Patty set out to capture ghosts when they realise that someone is attempting to cause an apocalypse by summoning ghosts in the city of New York.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260209233500 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Oblivion</title>
+    <desc>In *Oblivion*, Tom Cruise stars as a man on a journey of redemption in a future Earth. Directed by the creator of *TRON: Legacy*, it's a visually stunning sci-fi adventure about confronting the past to save humanity.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369727" start="20260210013500 +0000" stop="20260210035500 +0000">
+    <title lang="zh">Mulholland Dr.</title>
+    <desc>A hopeful actress in Los Angeles befriends an amnesiac woman, and as they search for her identity, reality and illusion blur in a dreamlike thriller about ambition, identity, and Hollywood's dark side.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210035500 +0000" stop="20260210053000 +0000">
+    <title lang="zh">The Librarian: The Return To King Solomon's Mines</title>
+    <desc>Adventurer Flynn Carsen receives a secret map to King Solomon's Mines. When the map is stolen, Flynn sets out to find the map and the Key of Solomon's book, without which the map is useless anyway.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210053000 +0000" stop="20260210071500 +0000">
+    <title lang="zh">Dante's Peak</title>
+    <desc>Pierce Brosnan stars in Dante's Peak, where a quiet town faces fiery doom from a reawakening volcano. Explosive action and suspense make this disaster thriller a must-see ride!</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210071500 +0000" stop="20260210092000 +0000">
+    <title lang="zh">Jurassic Park</title>
+    <desc>An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210092000 +0000" stop="20260210110500 +0000">
+    <title lang="zh">The Last Dragonslayer</title>
+    <desc>In a world where magic is waning and technology prevails, 15-year-old Jennifer Strange runs a magician employment agency and discovers the last dragon is being hunted.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210110500 +0000" stop="20260210125500 +0000">
+    <title lang="zh">Kindergarten Cop</title>
+    <desc>Arnold Schwarzenegger stars as tough detective John Kimble in Kindergarten Cop, going undercover as a teacher to find a drug lord's wife. Packed with action, humor, and heart, it's a classic comedy-thriller.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210125500 +0000" stop="20260210144500 +0000">
+    <title lang="zh">The Huntsman: Winter's War</title>
+    <desc>Before Snow White, two queens clash in The Huntsman: Winter's War. Love, betrayal, and war unfold as Huntsman Eric battles evil to save a kingdom from Ravenna's dark reign.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210144500 +0000" stop="20260210170300 +0000">
+    <title lang="zh">Mulholland Dr.</title>
+    <desc>A hopeful actress in Los Angeles befriends an amnesiac woman, and as they search for her identity, reality and illusion blur in a dreamlike thriller about ambition, identity, and Hollywood's dark side.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210170300 +0000" stop="20260210191500 +0000">
+    <title lang="zh">Backdraft</title>
+    <desc>Two firefighter brothers clash while battling deadly arsons in Chicago. With explosive action and a gripping mystery, Backdraft stars Kurt Russell, William Baldwin, and Robert De Niro.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210191500 +0000" stop="20260210204800 +0000">
+    <title lang="zh">Collide</title>
+    <desc>An American backpacker gets involved with a ring of drug smugglers as their driver, though he winds up on the run from his employers across Munich's high-speed Autobahn.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210204800 +0000" stop="20260210222500 +0000">
+    <title lang="zh">Rambo 3</title>
+    <desc>Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369727" start="20260210222500 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Ghostbusters</title>
+    <desc>Paranormal enthusiasts Abby, Erin, Jillian and Patty set out to capture ghosts when they realise that someone is attempting to cause an apocalypse by summoning ghosts in the city of New York.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260209002000 +0000" stop="20260209011000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209011000 +0000" stop="20260209015500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209015500 +0000" stop="20260209024000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209024000 +0000" stop="20260209032500 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S13</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209032500 +0000" stop="20260209041000 +0000">
+    <title lang="zh">Late Night With Seth Meyers S13</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209041000 +0000" stop="20260209045500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209045500 +0000" stop="20260209054000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209054000 +0000" stop="20260209062500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209062500 +0000" stop="20260209072000 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Carmen gets a tip from a client with regard to Diane and Kurt. Marissa finds that Judge Wackner has an investor. The firm is requested to run a sensitivity read on a stand-up comic's materials.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209072000 +0000" stop="20260209081500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Carmen and Liz represent Rivi suing a hospital who according to him discriminated black and brown COVID patients, which led to his daughter's death. Diane tries to get Kurt to name his shooting range friends, but he refuses.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209081500 +0000" stop="20260209091000 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Liz is under pressure when she needs to choose between her loyalty to Diane and the partners who protest about Diane being a named partner. One of Wackner's defendants is suing him.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209091000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Despite the tension between them, Liz and Diane represent a family suing the Chicago police for violence against their daughter. Marissa is the prosecutor in judge Wackner's court.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209100000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">Framed By My Sister</title>
+    <desc>The families of twin sisters are “infiltrated” by a mysterious triplet, who was separated from them at birth by their adopted mother. She frames one of the twins for murdering the other's husband and then assumes the identity of the widow. Can she succeed?</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209113000 +0000" stop="20260209121500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209121500 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209130000 +0000" stop="20260209134500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209134500 +0000" stop="20260209143000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209143000 +0000" stop="20260209151500 +0000">
+    <title lang="zh">The Real Housewives of Beverly Hills S15</title>
+    <desc>The Real Housewives of Beverly Hills season 15 kicks off on Monday,Housewives Erika Jayne, Dorit Kemsley, Kyle Richards, Bozoma Saint John, and Sutton Stracke return for a season marked by fresh starts, major fallouts and unforgettable adventures. New housewife and fashion mogul Rachel Zoe makes a dazzling return to Bravo after more than a decade. Single and stepping back into the spotlight on her</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209151500 +0000" stop="20260209160000 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S13</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209160000 +0000" stop="20260209164500 +0000">
+    <title lang="zh">Late Night With Seth Meyers S13</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209164500 +0000" stop="20260209173000 +0000">
+    <title lang="zh">The Real Housewives of Beverly Hills S15</title>
+    <desc>The Real Housewives of Beverly Hills season 15 kicks off on Monday,Housewives Erika Jayne, Dorit Kemsley, Kyle Richards, Bozoma Saint John, and Sutton Stracke return for a season marked by fresh starts, major fallouts and unforgettable adventures. New housewife and fashion mogul Rachel Zoe makes a dazzling return to Bravo after more than a decade. Single and stepping back into the spotlight on her</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209173000 +0000" stop="20260209181500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209181500 +0000" stop="20260209190500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209190500 +0000" stop="20260209200500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Carmen gets a tip from a client with regard to Diane and Kurt. Marissa finds that Judge Wackner has an investor. The firm is requested to run a sensitivity read on a stand-up comic's materials.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209200500 +0000" stop="20260209210500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Carmen and Liz represent Rivi suing a hospital who according to him discriminated black and brown COVID patients, which led to his daughter's death. Diane tries to get Kurt to name his shooting range friends, but he refuses.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209210500 +0000" stop="20260209220000 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Liz is under pressure when she needs to choose between her loyalty to Diane and the partners who protest about Diane being a named partner. One of Wackner's defendants is suing him.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209220000 +0000" stop="20260209224500 +0000">
+    <title lang="zh">Late Night With Seth Meyers S13</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209224500 +0000" stop="20260209233000 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S13</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260209233000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Cobra Kai</title>
+    <desc>34 years after losing the All Valley Karate Championship, Johnny Lawrence decides to reopen the Cobra Kai Dojo while his school adversary, Daniel LaRusso, runs a successful auto business.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="369719" start="20260210000000 +0000" stop="20260210005000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210005000 +0000" stop="20260210013500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210013500 +0000" stop="20260210022000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210022000 +0000" stop="20260210030500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210030500 +0000" stop="20260210035000 +0000">
+    <title lang="zh">The Real Housewives of Beverly Hills S15</title>
+    <desc>The Real Housewives of Beverly Hills season 15 kicks off on Monday,Housewives Erika Jayne, Dorit Kemsley, Kyle Richards, Bozoma Saint John, and Sutton Stracke return for a season marked by fresh starts, major fallouts and unforgettable adventures. New housewife and fashion mogul Rachel Zoe makes a dazzling return to Bravo after more than a decade. Single and stepping back into the spotlight on her</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210035000 +0000" stop="20260210043500 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S13</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210043500 +0000" stop="20260210052000 +0000">
+    <title lang="zh">Late Night With Seth Meyers S13</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210052000 +0000" stop="20260210060500 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210060500 +0000" stop="20260210065000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit S27</title>
+    <desc>In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210065000 +0000" stop="20260210074500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Liz is under pressure when she needs to choose between her loyalty to Diane and the partners who protest about Diane being a named partner. One of Wackner's defendants is suing him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210074500 +0000" stop="20260210083500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Despite the tension between them, Liz and Diane represent a family suing the Chicago police for violence against their daughter. Marissa is the prosecutor in judge Wackner's court.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210083500 +0000" stop="20260210091500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>David Lee realizes that Diane is considering leaving the office, and tells her and Liz that he will not allow that. Julius gets into trouble with Judge Wackner.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210091500 +0000" stop="20260210100000 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>David Lee opposes Allegra's hiring. The police finds about judge Wackner's court and prefer taking their arrests to his court. Oscar Rivi signs a deal to supply Marijuana to Marijuna dispensaries.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210100000 +0000" stop="20260210113000 +0000">
+    <title lang="zh">Pretty Cheaters, Deadly Lies</title>
+    <desc>After being tricked into a compromising situation, high school senior Hannah Fletcher thinks she can stop her cousin Madison's blackmail by taking her college entrance exam for her. But nothing is enough for Madison, and her plans soon become deadly….</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210113000 +0000" stop="20260210121500 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When Vikram attempts to return to 1847 (via a homemade time machine), he inadvertently travels the entire team back to the days of King Arthur, where they learn the truth about a Knight of the Round Table, Camelot, and ... Elaine.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210121500 +0000" stop="20260210130000 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When graffiti starts coming to life and threatening a teenage girl, the team have to work out how these strange events are related to Gregor's Hammer -- and the imminent return of Gregor himself.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210130000 +0000" stop="20260210134500 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When Vikram attempts to return to 1847 (via a homemade time machine), he inadvertently travels the entire team back to the days of King Arthur, where they learn the truth about a Knight of the Round Table, Camelot, and ... Elaine.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210134500 +0000" stop="20260210143100 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When graffiti starts coming to life and threatening a teenage girl, the team have to work out how these strange events are related to Gregor's Hammer -- and the imminent return of Gregor himself.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210143100 +0000" stop="20260210151500 +0000">
+    <title lang="zh">Below Deck Mediterranean S10</title>
+    <desc>Bad weather rolls in suddenly and causes chaos. A crew member takes on a new role and shifts the group dynamic. Romance heats up on board, prompting jealousy and a crew member initiates a tearful breakup.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210151500 +0000" stop="20260210160000 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S13</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210160000 +0000" stop="20260210164500 +0000">
+    <title lang="zh">Late Night With Seth Meyers S13</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210164500 +0000" stop="20260210173000 +0000">
+    <title lang="zh">Below Deck Mediterranean S10</title>
+    <desc>Bad weather rolls in suddenly and causes chaos. A crew member takes on a new role and shifts the group dynamic. Romance heats up on board, prompting jealousy and a crew member initiates a tearful breakup.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210173000 +0000" stop="20260210181500 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When Vikram attempts to return to 1847 (via a homemade time machine), he inadvertently travels the entire team back to the days of King Arthur, where they learn the truth about a Knight of the Round Table, Camelot, and ... Elaine.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210181500 +0000" stop="20260210190000 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When graffiti starts coming to life and threatening a teenage girl, the team have to work out how these strange events are related to Gregor's Hammer -- and the imminent return of Gregor himself.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210190000 +0000" stop="20260210195500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Liz is under pressure when she needs to choose between her loyalty to Diane and the partners who protest about Diane being a named partner. One of Wackner's defendants is suing him.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210195500 +0000" stop="20260210204500 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>Despite the tension between them, Liz and Diane represent a family suing the Chicago police for violence against their daughter. Marissa is the prosecutor in judge Wackner's court.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210204500 +0000" stop="20260210213000 +0000">
+    <title lang="zh">The Good Fight S5</title>
+    <desc>David Lee realizes that Diane is considering leaving the office, and tells her and Liz that he will not allow that. Julius gets into trouble with Judge Wackner.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210213000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Cobra Kai</title>
+    <desc>34 years after losing the All Valley Karate Championship, Johnny Lawrence decides to reopen the Cobra Kai Dojo while his school adversary, Daniel LaRusso, runs a successful auto business.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210220000 +0000" stop="20260210224500 +0000">
+    <title lang="zh">Late Night With Seth Meyers S13</title>
+    <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210224500 +0000" stop="20260210233000 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon S13</title>
+    <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260210233000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Cobra Kai</title>
+    <desc>Daniel is dismayed to find a new Cobra Kai dojo has been opened up. Johnny learns his dojo has to pass several safety requirements before he can actually start teaching.</desc>
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="369719" start="20260211000000 +0000" stop="20260212000000 +0000">
+    <title lang="zh">The Librarians: The Next Chapter</title>
+    <desc>When graffiti starts coming to life and threatening a teenage girl, the team have to work out how these strange events are related to Gregor's Hammer -- and the imminent return of Gregor himself.</desc>
+    <date>2026-02-11</date>
+  </programme>
+  <programme channel="412015" start="20260209000000 +0000" stop="20260209010000 +0000">
+    <title lang="zh">Music For Us</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209010000 +0000" stop="20260209020000 +0000">
+    <title lang="zh">Best Indonesian Soundtrack</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209020000 +0000" stop="20260209030000 +0000">
+    <title lang="zh">Senandung Pria</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209030000 +0000" stop="20260209040000 +0000">
+    <title lang="zh">Female Picks</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209040000 +0000" stop="20260209050000 +0000">
+    <title lang="zh">New Release</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209050000 +0000" stop="20260209060000 +0000">
+    <title lang="zh">Best Indonesian Soundtrack</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209060000 +0000" stop="20260209070000 +0000">
+    <title lang="zh">Indie Lokal</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209070000 +0000" stop="20260209080000 +0000">
+    <title lang="zh">Indonesian Top 10</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209080000 +0000" stop="20260209083000 +0000">
+    <title lang="zh">Senggol Endol</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209083000 +0000" stop="20260209090000 +0000">
+    <title lang="zh">Ngudut</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209090000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">Kang Gendang</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209100000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">Dangdut Wuenak Puol</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209110000 +0000" stop="20260209120000 +0000">
+    <title lang="zh">New Release</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209120000 +0000" stop="20260209130000 +0000">
+    <title lang="zh">Music For Us</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209130000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">Best Indonesian Soundtrack</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209140000 +0000" stop="20260209150000 +0000">
+    <title lang="zh">Indie Lokal</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209150000 +0000" stop="20260209170000 +0000">
+    <title lang="zh">Mixtape</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209170000 +0000" stop="20260209180000 +0000">
+    <title lang="zh">Senandung Pria</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209180000 +0000" stop="20260209190000 +0000">
+    <title lang="zh">Female Picks</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209190000 +0000" stop="20260209210000 +0000">
+    <title lang="zh">Mixtape</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209210000 +0000" stop="20260209213000 +0000">
+    <title lang="zh">Music Update S1</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209213000 +0000" stop="20260209220000 +0000">
+    <title lang="zh">Music Update S4</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209220000 +0000" stop="20260209223000 +0000">
+    <title lang="zh">Senggol Endol</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209223000 +0000" stop="20260209230000 +0000">
+    <title lang="zh">K-Dut</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260209230000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">Senandung Pria</title>
+    <desc />
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="412015" start="20260210000000 +0000" stop="20260210010000 +0000">
+    <title lang="zh">Music For Us</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210010000 +0000" stop="20260210020000 +0000">
+    <title lang="zh">Best Indonesian Soundtrack</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210020000 +0000" stop="20260210030000 +0000">
+    <title lang="zh">Senandung Pria</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210030000 +0000" stop="20260210040000 +0000">
+    <title lang="zh">Female Picks</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210040000 +0000" stop="20260210050000 +0000">
+    <title lang="zh">New Release</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210050000 +0000" stop="20260210060000 +0000">
+    <title lang="zh">Best Indonesian Soundtrack</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210060000 +0000" stop="20260210070000 +0000">
+    <title lang="zh">Indie Lokal</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210070000 +0000" stop="20260210080000 +0000">
+    <title lang="zh">Indonesian Top 10</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210080000 +0000" stop="20260210083000 +0000">
+    <title lang="zh">Senggol Endol</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210083000 +0000" stop="20260210090000 +0000">
+    <title lang="zh">Ngudut</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210090000 +0000" stop="20260210100000 +0000">
+    <title lang="zh">Kang Gendang</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210100000 +0000" stop="20260210110000 +0000">
+    <title lang="zh">Dangdut Wuenak Puol</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210110000 +0000" stop="20260210120000 +0000">
+    <title lang="zh">New Release</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210120000 +0000" stop="20260210130000 +0000">
+    <title lang="zh">Music For Us</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210130000 +0000" stop="20260210140000 +0000">
+    <title lang="zh">Best Indonesian Soundtrack</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210140000 +0000" stop="20260210150000 +0000">
+    <title lang="zh">Indie Lokal</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210150000 +0000" stop="20260210170000 +0000">
+    <title lang="zh">Mixtape</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210170000 +0000" stop="20260210180000 +0000">
+    <title lang="zh">Senandung Pria</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210180000 +0000" stop="20260210190000 +0000">
+    <title lang="zh">Female Picks</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210190000 +0000" stop="20260210210000 +0000">
+    <title lang="zh">Mixtape</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210210000 +0000" stop="20260210220000 +0000">
+    <title lang="zh">Indonesian Top 10</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210220000 +0000" stop="20260210223000 +0000">
+    <title lang="zh">Senggol Endol</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210223000 +0000" stop="20260210230000 +0000">
+    <title lang="zh">K-Dut</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260210230000 +0000" stop="20260211000000 +0000">
+    <title lang="zh">Senandung Pria</title>
+    <desc />
+    <date>2026-02-10</date>
+  </programme>
+  <programme channel="412015" start="20260211000000 +0000" stop="20260212000000 +0000">
+    <title lang="zh">Music For Us</title>
+    <desc />
+    <date>2026-02-11</date>
+  </programme>
+  <programme channel="463924" start="20260209033000 +0000" stop="20260209071500 +0000">
+    <title lang="zh">2nd ODI: Sri Lanka v England; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209071500 +0000" stop="20260209081500 +0000">
+    <title lang="zh">Saturday Night's Main Event</title>
+    <desc>Professional wrestlers face off in intense matches, striving to outlast their opponents, claim victory, and secure the championship title.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209081500 +0000" stop="20260209090000 +0000">
+    <title lang="zh">2025: Super Four: India vs. Sri Lanka; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between India and Sri Lanka in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209090000 +0000" stop="20260209093000 +0000">
+    <title lang="zh">1st ODI: Sri Lanka v England; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209093000 +0000" stop="20260209100000 +0000">
+    <title lang="zh">2nd ODI: Sri Lanka v England; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209100000 +0000" stop="20260209110000 +0000">
+    <title lang="zh">UFC 324 : Gaethje vs. Pimblett; MMA</title>
+    <desc>This is Sport - Martial Arts Category.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209110000 +0000" stop="20260209113000 +0000">
+    <title lang="zh">Australian Open Highlights</title>
+    <desc>Highlights from the Australian Open, a prestigious tennis tournament where professional players from around the world compete for the title.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209113000 +0000" stop="20260209133000 +0000">
+    <title lang="zh">2nd ODI: Sri Lanka v England; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209133000 +0000" stop="20260209140000 +0000">
+    <title lang="zh">2010: India vs. Pakistan; Asia Cup Highlights</title>
+    <desc>Highlights from the 2010 match between India and Pakistan in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209140000 +0000" stop="20260209163000 +0000">
+    <title lang="zh">2nd ODI: Sri Lanka v England; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-02-09</date>
+  </programme>
+  <programme channel="463924" start="20260209163000 +0000" stop="20260210000000 +0000">
+    <title lang="zh">2nd ODI: Sri Lanka v England; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-02-09</date>
   </programme>
 </tv>
