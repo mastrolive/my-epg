@@ -30,11 +30,6 @@ jobs:
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
           cd ..
 
-      - name: Download Indonesia EPG (Separate File)
-        run: |
-          # Muat turun Indonesia EPG secara berasingan
-          curl -sL "https://www.open-epg.com/files/indonesia3.xml" > indonesia3.xml || echo "Open-EPG gagal"
-
       - name: Download and Combine epg.pw (Into epg.xml)
         run: |
           mkdir -p temp_epg
@@ -102,10 +97,31 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
+            "https://epg.pw/api/epg.xml?channel_id=172012" # Antv
+            "https://epg.pw/api/epg.xml?channel_id=188223" # Daai TV
+            "https://epg.pw/api/epg.xml?channel_id=411916" # Dunia Lain
+            "https://epg.pw/api/epg.xml?channel_id=412001" # Flik
+            "https://epg.pw/api/epg.xml?channel_id=171980" # Imc
+            "https://epg.pw/api/epg.xml?channel_id=411980" # Indosiar
+            "https://epg.pw/api/epg.xml?channel_id=171989" # Mnctv
+            "https://epg.pw/api/epg.xml?channel_id=171909" # Rcti
+            "https://epg.pw/api/epg.xml?channel_id=412011" # Rtv
+            "https://epg.pw/api/epg.xml?channel_id=411917" # Sctv
+            "https://epg.pw/api/epg.xml?channel_id=411944" # Transtv
+            "https://epg.pw/api/epg.xml?channel_id=417399" # Trans7
+            "https://epg.pw/api/epg.xml?channel_id=11691"  # Tvone
+            "https://epg.pw/api/epg.xml?channel_id=172011" # Tvri
+            "https://epg.pw/api/epg.xml?channel_id=171851" # Zee Bioskop
+            "https://epg.pw/api/epg.xml?channel_id=171877" # Kix
+            "https://epg.pw/api/epg.xml?channel_id=369727" # Rock Action
+            "https://epg.pw/api/epg.xml?channel_id=369719" # Rock Entertainment
+            "https://epg.pw/api/epg.xml?channel_id=412015" # Musik Id
+            "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
           )
 
           for url in "${urls[@]}"; do
             curl -sL "$url" > temp_epg/$(date +%s%N).xml
+            sleep 0.2
           done
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
@@ -120,15 +136,12 @@ jobs:
           git config --local user.name "github-actions[bot]"
           rm -rf grabber temp_epg
           
-          # Hapus fail vidio.xml yang lama
-          git rm vidio.xml --ignore-unmatch
+          # Buang fail yang tidak dikehendaki dari repository
+          git rm vidio.xml indonesia3.xml --ignore-unmatch
           
-          # Tambah semua fail XML yang telah dikemas kini
-          git add mewatch.xml rtmklik.xml indonesia3.xml epg.xml
-          
-          # Padam fail-fail lama yang lain
+          git add mewatch.xml rtmklik.xml epg.xml
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: $TIMESTAMP" || exit 0
+          git commit -m "Update EPG: Added new epg.pw channels & removed Indonesia3: $TIMESTAMP" || exit 0
           git push
