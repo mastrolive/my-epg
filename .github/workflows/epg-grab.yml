@@ -28,8 +28,12 @@ jobs:
           export TZ="Asia/Kuala_Lumpur"
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
-          npm run grab -- --site=vidio.distributed --days=2 --output=../vidio.xml || echo "Vidio gagal"
           cd ..
+
+      - name: Download Indonesia EPG (Separate File)
+        run: |
+          # Muat turun Indonesia EPG secara berasingan
+          curl -sL "https://www.open-epg.com/files/indonesia3.xml" > indonesia3.xml || echo "Open-EPG gagal"
 
       - name: Download and Combine epg.pw (Into epg.xml)
         run: |
@@ -102,30 +106,27 @@ jobs:
 
           for url in "${urls[@]}"; do
             curl -sL "$url" > temp_epg/$(date +%s%N).xml
-            sleep 1 # Elak kena block oleh epg.pw
           done
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          
-          # Gabung data tanpa duplikasi tag header
           sed -n '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
           sed -n '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
-          
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # Bersihkan folder sampah
           rm -rf grabber temp_epg
           
-          # Tambah fail baru
-          git add mewatch.xml rtmklik.xml vidio.xml epg.xml
+          # Hapus fail vidio.xml yang lama
+          git rm vidio.xml --ignore-unmatch
           
-          # Padam fail lama yang tidak digunakan lagi
+          # Tambah semua fail XML yang telah dikemas kini
+          git add mewatch.xml rtmklik.xml indonesia3.xml epg.xml
+          
+          # Padam fail-fail lama yang lain
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
