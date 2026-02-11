@@ -56,7 +56,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=463905" # Movies Now
             "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
             "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
-            "https://epg.pw/api/epg.xml?channel_id=464016" # Sony Pix
+            "https://epg.pw/api/epg.xml?channel_id=463932" # Sony Pix
             "https://epg.pw/api/epg.xml?channel_id=463984" # Star Movies
             "https://epg.pw/api/epg.xml?channel_id=464114" # Star Movies Select
             "https://epg.pw/api/epg.xml?channel_id=171864" # Thrill
@@ -112,11 +112,19 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=11691"  # Tvone
             "https://epg.pw/api/epg.xml?channel_id=172011" # Tvri
             "https://epg.pw/api/epg.xml?channel_id=171851" # Zee Bioskop
-            "https://epg.pw/api/epg.xml?channel_id=171877" # Kix
+            "https://epg.pw/api/epg.xml?channel_id=12590"  # Kix
             "https://epg.pw/api/epg.xml?channel_id=369727" # Rock Action
             "https://epg.pw/api/epg.xml?channel_id=369719" # Rock Entertainment
             "https://epg.pw/api/epg.xml?channel_id=412015" # Musik Id
             "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
+            "https://epg.pw/api/epg.xml?channel_id=411926" # Animal Planet
+            "https://epg.pw/api/epg.xml?channel_id=411981" # Curiosity
+            "https://epg.pw/api/epg.xml?channel_id=411960" # Global Trekker
+            "https://epg.pw/api/epg.xml?channel_id=465186" # Travel Ch
+            "https://epg.pw/api/epg.xml?channel_id=12170"  # Travelxp
+            "https://epg.pw/api/epg.xml?channel_id=412001" # Cartoonito
+            "https://epg.pw/api/epg.xml?channel_id=417394" # Horee
+            "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
           )
 
           for url in "${urls[@]}"; do
@@ -136,12 +144,11 @@ jobs:
           git config --local user.name "github-actions[bot]"
           rm -rf grabber temp_epg
           
-          # Buang fail yang tidak dikehendaki dari repository
           git rm vidio.xml indonesia3.xml --ignore-unmatch
           
           git add mewatch.xml rtmklik.xml epg.xml
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: Added new epg.pw channels & removed Indonesia3: $TIMESTAMP" || exit 0
+          git commit -m "Update EPG: Added new epg.pw channels & cleaned up old files: $TIMESTAMP" || exit 0
           git push
