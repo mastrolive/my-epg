@@ -77,6 +77,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=486728" # Lfctv
             "https://epg.pw/api/epg.xml?channel_id=465248" # fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # fs2
+            "https://epg.pw/api/epg.xml?channel_id=408644" # fubo
             "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
             "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
             "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
@@ -97,6 +98,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
+            "https://epg.pw/api/epg.xml?channel_id=465006" # usa network
             "https://epg.pw/api/epg.xml?channel_id=172012" # Antv
             "https://epg.pw/api/epg.xml?channel_id=188223" # Daai TV
             "https://epg.pw/api/epg.xml?channel_id=411916" # Dunia Lain
