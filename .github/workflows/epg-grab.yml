@@ -1,5 +1,38 @@
-- name: Download and Combine epg.pw
+name: Update EPG
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Grab Specific Sites (mewatch & rtmklik)
         run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
+          cd grabber
+          npm install
+          export TZ="Asia/Kuala_Lumpur"
+          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
+          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
+          cd ..
+
+      - name: Download and Combine epg.pw
+        run: |
+          sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
           # Senarai URL dengan nama channel (Huruf Besar)
@@ -99,17 +132,35 @@
           )
 
           for url in "${urls[@]}"; do
-            curl --connect-timeout 10 --retry 3 -sL "$url" > temp_epg/$(uuidgen).xml
-            sleep 0.3
+            curl --connect-timeout 15 --retry 3 -sL "$url" > "temp_epg/$(uuidgen).xml"
+            sleep 0.5
           done
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
           
-          # Gabung bahagian <channel>
+          # Ambil kandungan dalam <channel>...</channel>
           grep -h "<channel" temp_epg/*.xml -A 2 | grep -vE "<\?xml|<\/tv>|<tv|--" >> epg.xml || true
           
-          # Gabung bahagian <programme>
+          # Ambil kandungan dalam <programme>...</programme>
           grep -h "<programme" temp_epg/*.xml -A 10 | grep -vE "<\?xml|<\/tv>|<tv|--" >> epg.xml || true
           
           echo '</tv>' >> epg.xml
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Padam folder kerja
+          rm -rf grabber temp_epg
+          
+          # Buang fail lama yang tidak diperlukan
+          git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
+          
+          # Tambah fail baru
+          git add mewatch.xml rtmklik.xml epg.xml
+          
+          TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
+          git commit -m "Update EPG: $TIMESTAMP" || exit 0
+          git push
