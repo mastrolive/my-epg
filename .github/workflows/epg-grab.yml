@@ -1,160 +1,156 @@
 name: Update EPG
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
-  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
 
 jobs:
-  grab:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+  grab:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-      - name: Grab Specific Sites (Separate Files)
-        run: |
-          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
-          cd grabber
-          npm install
-          export TZ="Asia/Kuala_Lumpur"
-          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
-          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
-          # Grab Sony Pix secara spesifik
-          npm run grab -- --site=airtelxstream.in --channels=sites/airtelxstream.in/airtelxstream.in_in.channels.xml --id=SonyPix.in --days=2 --output=../sonypix_source.xml || echo "Sony Pix gagal"
-          cd ..
+      - name: Grab Specific Sites (Separate Files)
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
+          cd grabber
+          npm install
+          export TZ="Asia/Kuala_Lumpur"
+          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
+          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
+          cd ..
 
-      - name: Download and Combine epg.pw (Into epg.xml)
-        run: |
-          mkdir -p temp_epg
-          
-          # Senarai URL epg.pw (Sony Pix ID 463932 telah dibuang dari sini)
-          urls=(
-            "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
-            "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
-            "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
-            "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
-            "https://epg.pw/api/epg.xml?channel_id=411774" # Zee Thirai
-            "https://epg.pw/api/epg.xml?channel_id=369742" # citradrama
-            "https://epg.pw/api/epg.xml?channel_id=412104" # citraenter
-            "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
-            "https://epg.pw/api/epg.xml?channel_id=171947" # gtv
-            "https://epg.pw/api/epg.xml?channel_id=411936" # maxstream
-            "https://epg.pw/api/epg.xml?channel_id=411915" # mdtv
-            "https://epg.pw/api/epg.xml?channel_id=172005" # Vision Prime
-            "https://epg.pw/api/epg.xml?channel_id=412004" # Buddystar
-            "https://epg.pw/api/epg.xml?channel_id=411923" # Cineedge
-            "https://epg.pw/api/epg.xml?channel_id=171982" # Galaxy
-            "https://epg.pw/api/epg.xml?channel_id=171853" # Galaxy Pre
-            "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Sig
-            "https://epg.pw/api/epg.xml?channel_id=464293" # MN+
-            "https://epg.pw/api/epg.xml?channel_id=463905" # Movies Now
-            "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
-            "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
-            "https://epg.pw/api/epg.xml?channel_id=463984" # Star Movies
-            "https://epg.pw/api/epg.xml?channel_id=464114" # Star Movies Select
-            "https://epg.pw/api/epg.xml?channel_id=171864" # Thrill
-            "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
-            "https://epg.pw/api/epg.xml?channel_id=484245" # Outdoor
-            "https://epg.pw/api/epg.xml?channel_id=411954" # Aniplus
-            "https://epg.pw/api/epg.xml?channel_id=465369" # Baby TV
-            "https://epg.pw/api/epg.xml?channel_id=464755" # Boomerang
-            "https://epg.pw/api/epg.xml?channel_id=470691" # Disney Ch
-            "https://epg.pw/api/epg.xml?channel_id=464864" # Disney JR
-            "https://epg.pw/api/epg.xml?channel_id=464807" # Disney XD
-            "https://epg.pw/api/epg.xml?channel_id=417395" # Mentari TV
-            "https://epg.pw/api/epg.xml?channel_id=465038" # Nicktoons
-            "https://epg.pw/api/epg.xml?channel_id=470709" # Treehouse
-            "https://epg.pw/api/epg.xml?channel_id=470671" # Ytv
-            "https://epg.pw/api/epg.xml?channel_id=171962" # Zoomoo
-            "https://epg.pw/api/epg.xml?channel_id=486870" # Mutv
-            "https://epg.pw/api/epg.xml?channel_id=486728" # Lfctv
-            "https://epg.pw/api/epg.xml?channel_id=465248" # fs1
-            "https://epg.pw/api/epg.xml?channel_id=465280" # fs2
-            "https://epg.pw/api/epg.xml?channel_id=408644" # fubo
-            "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
-            "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
-            "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
-            "https://epg.pw/api/epg.xml?channel_id=6317"   # skyf1
-            "https://epg.pw/api/epg.xml?channel_id=5791"   # skyfootball
-            "https://epg.pw/api/epg.xml?channel_id=6445"   # skygolf
-            "https://epg.pw/api/epg.xml?channel_id=7673"   # skyme
-            "https://epg.pw/api/epg.xml?channel_id=6958"   # skypl
-            "https://epg.pw/api/epg.xml?channel_id=171939" # soccer
-            "https://epg.pw/api/epg.xml?channel_id=171988" # sportstar1
-            "https://epg.pw/api/epg.xml?channel_id=171965" # sportstar2
-            "https://epg.pw/api/epg.xml?channel_id=411979" # sportstar3
-            "https://epg.pw/api/epg.xml?channel_id=172008" # sportstar4
-            "https://epg.pw/api/epg.xml?channel_id=171998" # Spotv
-            "https://epg.pw/api/epg.xml?channel_id=171878" # Spotv 2
-            "https://epg.pw/api/epg.xml?channel_id=465504" # Sportv
-            "https://epg.pw/api/epg.xml?channel_id=400477" # Tnt 1
-            "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
-            "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
-            "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
-            "https://epg.pw/api/epg.xml?channel_id=465006" # usa network
-            "https://epg.pw/api/epg.xml?channel_id=172012" # Antv
-            "https://epg.pw/api/epg.xml?channel_id=188223" # Daai TV
-            "https://epg.pw/api/epg.xml?channel_id=411916" # Dunia Lain
-            "https://epg.pw/api/epg.xml?channel_id=412001" # Flik
-            "https://epg.pw/api/epg.xml?channel_id=171980" # Imc
-            "https://epg.pw/api/epg.xml?channel_id=411980" # Indosiar
-            "https://epg.pw/api/epg.xml?channel_id=171989" # Mnctv
-            "https://epg.pw/api/epg.xml?channel_id=171909" # Rcti
-            "https://epg.pw/api/epg.xml?channel_id=412011" # Rtv
-            "https://epg.pw/api/epg.xml?channel_id=411917" # Sctv
-            "https://epg.pw/api/epg.xml?channel_id=411944" # Transtv
-            "https://epg.pw/api/epg.xml?channel_id=417399" # Trans7
-            "https://epg.pw/api/epg.xml?channel_id=11691"  # Tvone
-            "https://epg.pw/api/epg.xml?channel_id=172011" # Tvri
-            "https://epg.pw/api/epg.xml?channel_id=171851" # Zee Bioskop
-            "https://epg.pw/api/epg.xml?channel_id=12590"  # Kix
-            "https://epg.pw/api/epg.xml?channel_id=369727" # Rock Action
-            "https://epg.pw/api/epg.xml?channel_id=369719" # Rock Entertainment
-            "https://epg.pw/api/epg.xml?channel_id=412015" # Musik Id
-            "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
-            "https://epg.pw/api/epg.xml?channel_id=411926" # Animal Planet
-            "https://epg.pw/api/epg.xml?channel_id=411981" # Curiosity
-            "https://epg.pw/api/epg.xml?channel_id=411960" # Global Trekker
-            "https://epg.pw/api/epg.xml?channel_id=465186" # Travel Ch
-            "https://epg.pw/api/epg.xml?channel_id=12170"  # Travelxp
-            "https://epg.pw/api/epg.xml?channel_id=412010" # Cartoonito
-            "https://epg.pw/api/epg.xml?channel_id=417394" # Horee
-            "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
-          )
+      - name: Download and Combine epg.pw (Into epg.xml)
+        run: |
+          mkdir -p temp_epg
+          
+          urls=(
+            "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
+            "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
+            "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
+            "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
+            "https://epg.pw/api/epg.xml?channel_id=411774" # Zee Thirai
+            "https://epg.pw/api/epg.xml?channel_id=369742" # citradrama
+            "https://epg.pw/api/epg.xml?channel_id=412104" # citraenter
+            "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
+            "https://epg.pw/api/epg.xml?channel_id=171947" # gtv
+            "https://epg.pw/api/epg.xml?channel_id=411936" # maxstream
+            "https://epg.pw/api/epg.xml?channel_id=411915" # mdtv
+            "https://epg.pw/api/epg.xml?channel_id=172005" # Vision Prime
+            "https://epg.pw/api/epg.xml?channel_id=412004" # Buddystar
+            "https://epg.pw/api/epg.xml?channel_id=411923" # Cineedge
+            "https://epg.pw/api/epg.xml?channel_id=171982" # Galaxy
+            "https://epg.pw/api/epg.xml?channel_id=171853" # Galaxy Pre
+            "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Sig
+            "https://epg.pw/api/epg.xml?channel_id=464293" # MN+
+            "https://epg.pw/api/epg.xml?channel_id=463905" # Movies Now
+            "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
+            "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
+            "https://epg.pw/api/epg.xml?channel_id=464016" # Sony Pix
+            "https://epg.pw/api/epg.xml?channel_id=463984" # Star Movies
+            "https://epg.pw/api/epg.xml?channel_id=464114" # Star Movies Select
+            "https://epg.pw/api/epg.xml?channel_id=171864" # Thrill
+            "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
+            "https://epg.pw/api/epg.xml?channel_id=484245" # Outdoor
+            "https://epg.pw/api/epg.xml?channel_id=411954" # Aniplus
+            "https://epg.pw/api/epg.xml?channel_id=465369" # Baby TV
+            "https://epg.pw/api/epg.xml?channel_id=464755" # Boomerang
+            "https://epg.pw/api/epg.xml?channel_id=470691" # Disney Ch
+            "https://epg.pw/api/epg.xml?channel_id=464864" # Disney JR
+            "https://epg.pw/api/epg.xml?channel_id=464807" # Disney XD
+            "https://epg.pw/api/epg.xml?channel_id=417395" # Mentari TV
+            "https://epg.pw/api/epg.xml?channel_id=465038" # Nicktoons
+            "https://epg.pw/api/epg.xml?channel_id=470709" # Treehouse
+            "https://epg.pw/api/epg.xml?channel_id=470671" # Ytv
+            "https://epg.pw/api/epg.xml?channel_id=171962" # Zoomoo
+            "https://epg.pw/api/epg.xml?channel_id=486870" # Mutv
+            "https://epg.pw/api/epg.xml?channel_id=486728" # Lfctv
+            "https://epg.pw/api/epg.xml?channel_id=465248" # fs1
+            "https://epg.pw/api/epg.xml?channel_id=465280" # fs2
+            "https://epg.pw/api/epg.xml?channel_id=408644" # fubo
+            "https://epg.pw/api/epg.xml?channel_id=464912" # nbatv
+            "https://epg.pw/api/epg.xml?channel_id=322490" # onesports
+            "https://epg.pw/api/epg.xml?channel_id=322516" # onesportsplus
+            "https://epg.pw/api/epg.xml?channel_id=6317"   # skyf1
+            "https://epg.pw/api/epg.xml?channel_id=5791"   # skyfootball
+            "https://epg.pw/api/epg.xml?channel_id=6445"   # skygolf
+            "https://epg.pw/api/epg.xml?channel_id=7673"   # skyme
+            "https://epg.pw/api/epg.xml?channel_id=6958"   # skypl
+            "https://epg.pw/api/epg.xml?channel_id=171939" # soccer
+            "https://epg.pw/api/epg.xml?channel_id=171988" # sportstar1
+            "https://epg.pw/api/epg.xml?channel_id=171965" # sportstar2
+            "https://epg.pw/api/epg.xml?channel_id=411979" # sportstar3
+            "https://epg.pw/api/epg.xml?channel_id=172008" # sportstar4
+            "https://epg.pw/api/epg.xml?channel_id=171998" # Spotv
+            "https://epg.pw/api/epg.xml?channel_id=171878" # Spotv 2
+            "https://epg.pw/api/epg.xml?channel_id=465504" # Sportv
+            "https://epg.pw/api/epg.xml?channel_id=400477" # Tnt 1
+            "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
+            "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
+            "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
+            "https://epg.pw/api/epg.xml?channel_id=465006" # usa network
+            "https://epg.pw/api/epg.xml?channel_id=172012" # Antv
+            "https://epg.pw/api/epg.xml?channel_id=188223" # Daai TV
+            "https://epg.pw/api/epg.xml?channel_id=411916" # Dunia Lain
+            "https://epg.pw/api/epg.xml?channel_id=412001" # Flik
+            "https://epg.pw/api/epg.xml?channel_id=171980" # Imc
+            "https://epg.pw/api/epg.xml?channel_id=411980" # Indosiar
+            "https://epg.pw/api/epg.xml?channel_id=171989" # Mnctv
+            "https://epg.pw/api/epg.xml?channel_id=171909" # Rcti
+            "https://epg.pw/api/epg.xml?channel_id=412011" # Rtv
+            "https://epg.pw/api/epg.xml?channel_id=411917" # Sctv
+            "https://epg.pw/api/epg.xml?channel_id=411944" # Transtv
+            "https://epg.pw/api/epg.xml?channel_id=417399" # Trans7
+            "https://epg.pw/api/epg.xml?channel_id=11691"  # Tvone
+            "https://epg.pw/api/epg.xml?channel_id=172011" # Tvri
+            "https://epg.pw/api/epg.xml?channel_id=171851" # Zee Bioskop
+            "https://epg.pw/api/epg.xml?channel_id=12590"  # Kix
+            "https://epg.pw/api/epg.xml?channel_id=369727" # Rock Action
+            "https://epg.pw/api/epg.xml?channel_id=369719" # Rock Entertainment
+            "https://epg.pw/api/epg.xml?channel_id=412015" # Musik Id
+            "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
+            "https://epg.pw/api/epg.xml?channel_id=411926" # Animal Planet
+            "https://epg.pw/api/epg.xml?channel_id=411981" # Curiosity
+            "https://epg.pw/api/epg.xml?channel_id=411960" # Global Trekker
+            "https://epg.pw/api/epg.xml?channel_id=465186" # Travel Ch
+            "https://epg.pw/api/epg.xml?channel_id=12170"  # Travelxp
+            "https://epg.pw/api/epg.xml?channel_id=412010" # Cartoonito
+            "https://epg.pw/api/epg.xml?channel_id=417394" # Horee
+            "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
+          )
 
-          for url in "${urls[@]}"; do
-            curl -sL "$url" > temp_epg/$(date +%s%N).xml
-            sleep 0.2
-          done
-          
-          # Pindahkan hasil grab Sony Pix ke folder temp supaya digabung sekali
-          mv sonypix_source.xml temp_epg/sonypix.xml || true
+          for url in "${urls[@]}"; do
+            curl -sL "$url" > temp_epg/$(date +%s%N).xml
+            sleep 0.2
+          done
 
-          echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
-          echo '<tv generator-info-name="Combined-EPG">' >> epg.xml
-          sed -n '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
-          sed -n '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
-          echo '</tv>' >> epg.xml
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
+          echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
+          sed -n '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
+          sed -n '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
+          echo '</tv>' >> epg.xml
 
-      - name: Commit and Push
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          rm -rf grabber temp_epg
-          
-          git rm vidio.xml indonesia3.xml --ignore-unmatch
-          git add mewatch.xml rtmklik.xml epg.xml
-          git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
-          
-          TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: Sony Pix from Airtel & Combined EPG: $TIMESTAMP" || exit 0
-          git push
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          rm -rf grabber temp_epg
+          
+          git rm vidio.xml indonesia3.xml --ignore-unmatch
+          
+          git add mewatch.xml rtmklik.xml epg.xml
+          git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
+          
+          TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
+          git commit -m "Update EPG: Added new epg.pw channels & cleaned up old files: $TIMESTAMP" || exit 0
+          git push
