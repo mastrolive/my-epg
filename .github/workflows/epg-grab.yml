@@ -28,12 +28,15 @@ jobs:
           export TZ="Asia/Kuala_Lumpur"
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
+          # Grab Sony Pix secara spesifik
+          npm run grab -- --site=airtelxstream.in --channels=sites/airtelxstream.in/airtelxstream.in_in.channels.xml --id=SonyPix.in --days=2 --output=../sonypix_source.xml || echo "Sony Pix gagal"
           cd ..
 
       - name: Download and Combine epg.pw (Into epg.xml)
         run: |
           mkdir -p temp_epg
           
+          # Senarai URL epg.pw (Sony Pix ID 463932 telah dibuang dari sini)
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
@@ -56,7 +59,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=463905" # Movies Now
             "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
             "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
-            "https://epg.pw/api/epg.xml?channel_id=463932" # Sony Pix
             "https://epg.pw/api/epg.xml?channel_id=463984" # Star Movies
             "https://epg.pw/api/epg.xml?channel_id=464114" # Star Movies Select
             "https://epg.pw/api/epg.xml?channel_id=171864" # Thrill
@@ -133,9 +135,12 @@ jobs:
             curl -sL "$url" > temp_epg/$(date +%s%N).xml
             sleep 0.2
           done
+          
+          # Pindahkan hasil grab Sony Pix ke folder temp supaya digabung sekali
+          mv sonypix_source.xml temp_epg/sonypix.xml || true
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
-          echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
+          echo '<tv generator-info-name="Combined-EPG">' >> epg.xml
           sed -n '/<channel/,/<\/channel>/p' temp_epg/*.xml >> epg.xml || true
           sed -n '/<programme/,/<\/programme>/p' temp_epg/*.xml >> epg.xml || true
           echo '</tv>' >> epg.xml
@@ -147,10 +152,9 @@ jobs:
           rm -rf grabber temp_epg
           
           git rm vidio.xml indonesia3.xml --ignore-unmatch
-          
           git add mewatch.xml rtmklik.xml epg.xml
           git rm sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: Added new epg.pw channels & cleaned up old files: $TIMESTAMP" || exit 0
+          git commit -m "Update EPG: Sony Pix from Airtel & Combined EPG: $TIMESTAMP" || exit 0
           git push
