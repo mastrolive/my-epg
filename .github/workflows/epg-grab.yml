@@ -20,13 +20,17 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Grab Specific Sites (mewatch & rtmklik)
+      - name: Grab Specific Sites (Astro, Mewatch & RTMKlik)
         run: |
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
           export TZ="Asia/Kuala_Lumpur"
+          # Grab Astro (astro.com.my)
+          npm run grab -- --site=astro.com.my --days=2 --output=../astro.xml || echo "Astro gagal"
+          # Grab Mewatch
           npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
+          # Grab RTMKlik
           npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
           cd ..
 
@@ -35,7 +39,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
-          # Senarai URL dengan nama channel (Huruf Besar)
+          # Senarai URL epg.pw (Tanpa Astro kerana Astro sudah diambil dari astro.com.my)
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
@@ -139,26 +143,17 @@ jobs:
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          
-          # Ambil kandungan dalam <channel>...</channel>
           grep -h "<channel" temp_epg/*.xml -A 2 | grep -vE "<\?xml|<\/tv>|<tv|--" >> epg.xml || true
-          
-          # Ambil kandungan dalam <programme>...</programme>
           grep -h "<programme" temp_epg/*.xml -A 10 | grep -vE "<\?xml|<\/tv>|<tv|--" >> epg.xml || true
-          
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
           rm -rf grabber temp_epg
-          
           git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
-          
-          git add mewatch.xml rtmklik.xml epg.xml
-          
+          git add mewatch.xml rtmklik.xml astro.xml epg.xml
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: $TIMESTAMP" || exit 0
+          git commit -m "Update EPG (Astro.com.my, Mewatch, RTMKlik, epg.pw): $TIMESTAMP" || exit 0
           git push
