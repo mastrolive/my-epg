@@ -1,0 +1,79 @@
+name: Update Astro EPG
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Grab Astro EPG
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
+          cd grabber
+          npm install
+          export TZ="Asia/Kuala_Lumpur"
+
+          # Mencipta fail channels astro.com.my yang lengkap
+          cat <<EOF > sites/astro.com.my/astro.com.my.channels.xml
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+            <channel site="astro.com.my" lang="ms" xmltv_id="104.astro" site_id="104">Astro Ria</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="105.astro" site_id="105">Astro Prima</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="106.astro" site_id="106">Astro Oasis</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="107.astro" site_id="107">Astro Warna</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="108.astro" site_id="108">Astro Citra</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="501.astro" site_id="501">Astro Awani</channel>
+            
+            <channel site="astro.com.my" lang="en" xmltv_id="411.astro" site_id="411">HBO</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="412.astro" site_id="412">Cinemax</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="413.astro" site_id="413">Astro Premier</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="414.astro" site_id="414">Astro Showcase</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="415.astro" site_id="415">Astro Box Office Movies</channel>
+
+            <channel site="astro.com.my" lang="en" xmltv_id="550.astro" site_id="550">Discovery</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="551.astro" site_id="551">National Geographic</channel>
+            <channel site="astro.com.my" lang="ms" xmltv_id="611.astro" site_id="611">Astro Ceria</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="615.astro" site_id="615">Cartoon Network</channel>
+            
+            <channel site="astro.com.my" lang="en" xmltv_id="801.astro" site_id="801">Astro Arena</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="802.astro" site_id="802">Astro Arena 2</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="805.astro" site_id="805">Astro Grandstand</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="810.astro" site_id="810">Astro Sports</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="811.astro" site_id="811">Astro Premier League</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="812.astro" site_id="812">Astro Premier League 2</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="814.astro" site_id="814">Astro Football</channel>
+            <channel site="astro.com.my" lang="en" xmltv_id="815.astro" site_id="815">Astro Sports Plus</channel>
+            
+            <channel site="astro.com.my" lang="zh" xmltv_id="306.astro" site_id="306">Astro AEC</channel>
+            <channel site="astro.com.my" lang="ta" xmltv_id="201.astro" site_id="201">Astro Vaanavil</channel>
+            <channel site="astro.com.my" lang="ta" xmltv_id="202.astro" site_id="202">Astro Vinmeen HD</channel>
+          </channels>
+          EOF
+
+          # Jalankan grabber untuk astro sahaja
+          npm run grab -- --site=astro.com.my --days=2 --output=../astro.xml || echo "Astro Gagal"
+          cd ..
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          rm -rf grabber
+          git add astro.xml
+          TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
+          git commit -m "Update Astro EPG: $TIMESTAMP" || exit 0
+          git push
