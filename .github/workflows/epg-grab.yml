@@ -127,6 +127,9 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=412010" # Cartoonito
             "https://epg.pw/api/epg.xml?channel_id=417394" # Horee
             "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
+            "https://epg.pw/api/epg.xml?channel_id=412140" # Hub Premier 1
+            "https://epg.pw/api/epg.xml?channel_id=412164" # Hub Premier 2
+            "https://epg.pw/api/epg.xml?channel_id=450711" # Hub Premier 3
           )
 
           for url in "${urls[@]}"; do
@@ -150,13 +153,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Padam folder kerja
           rm -rf grabber temp_epg
           
-          # Buang fail lama yang tidak diperlukan
           git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          # Tambah fail baru
           git add mewatch.xml rtmklik.xml epg.xml
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
