@@ -27,8 +27,7 @@ jobs:
           npm install
           export TZ="Asia/Kuala_Lumpur"
 
-          # Mencipta senarai saluran Astro
-          mkdir -p sites/astro.com.my
+          # Kita cipta fail channels sahaja, jangan buat folder baru supaya .config.js asal tidak hilang
           cat <<EOF > sites/astro.com.my/astro.com.my.channels.xml
           <?xml version="1.0" encoding="UTF-8"?>
           <channels>
@@ -50,10 +49,10 @@ jobs:
           </channels>
           EOF
 
-          # Jalankan proses grab dengan toleransi ralat (|| true)
-          npm run grab -- --site=astro.com.my --days=2 --output=../astro.xml || echo "Astro Grab Gagal"
-          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch Grab Gagal"
-          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik Grab Gagal"
+          # Jalankan grabber. Gunakan npx untuk memastikan script dijalankan dengan betul
+          npm run grab -- --site=astro.com.my --days=2 --output=../astro.xml || echo "Astro Gagal"
+          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch Gagal"
+          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik Gagal"
           cd ..
 
       - name: Download and Combine epg.pw
@@ -62,21 +61,21 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
-            "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
-            "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
-            "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
-            "https://epg.pw/api/epg.xml?channel_id=411774" # Zee Thirai
-            "https://epg.pw/api/epg.xml?channel_id=369742" # Citradrama
-            "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
-            "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
-            "https://epg.pw/api/epg.xml?channel_id=465006" # Usa Network
-            "https://epg.pw/api/epg.xml?channel_id=412140" # Hub Premier 1
-            "https://epg.pw/api/epg.xml?channel_id=412164" # Hub Premier 2
-            "https://epg.pw/api/epg.xml?channel_id=450711" # Hub Premier 3
+            "https://epg.pw/api/epg.xml?channel_id=412113"
+            "https://epg.pw/api/epg.xml?channel_id=463834"
+            "https://epg.pw/api/epg.xml?channel_id=464138"
+            "https://epg.pw/api/epg.xml?channel_id=411774"
+            "https://epg.pw/api/epg.xml?channel_id=369742"
+            "https://epg.pw/api/epg.xml?channel_id=412104"
+            "https://epg.pw/api/epg.xml?channel_id=464884"
+            "https://epg.pw/api/epg.xml?channel_id=465006"
+            "https://epg.pw/api/epg.xml?channel_id=412140"
+            "https://epg.pw/api/epg.xml?channel_id=412164"
+            "https://epg.pw/api/epg.xml?channel_id=450711"
           )
 
           for url in "${urls[@]}"; do
-            curl --connect-timeout 15 --retry 3 -sL "$url" > "temp_epg/$(uuidgen).xml" || echo "Gagal download $url"
+            curl --connect-timeout 15 --retry 3 -sL "$url" > "temp_epg/$(uuidgen).xml" || true
             sleep 0.5
           done
 
@@ -91,10 +90,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           rm -rf grabber temp_epg
-          
-          # Gunakan git add -A untuk memastikan semua fail baru dikesan
-          git add astro.xml mewatch.xml rtmklik.xml epg.xml || true
-          
+          git add astro.xml mewatch.xml rtmklik.xml epg.xml
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: $TIMESTAMP" || echo "Tiada perubahan untuk di-commit"
-          git push || echo "Push gagal"
+          git commit -m "Update EPG: $TIMESTAMP" || exit 0
+          git push
