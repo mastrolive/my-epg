@@ -2,7 +2,8 @@ name: Update Astro EPG
 
 on:
   schedule:
-    - cron: '0 23 * * *'
+    # Berjalan setiap hari jam 12:00 AM waktu Malaysia (16:00 UTC)
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,16 +21,14 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Grab Astro EPG
+      - name: Grab All Astro Channels
         run: |
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
 
-          # Menggunakan site config rasmi: content.astro.com.my
-          # Kita tidak perlu cipta fail .xml secara manual jika senarai channel sudah ada di iptv-org
-          # Tetapi jika anda mahu tapis channel tertentu sahaja, kita guna --channels
-          
+          # Arahan ini akan menarik SEMUA saluran yang tersenarai dalam 
+          # sites/content.astro.com.my/content.astro.com.my.channels.xml secara automatik
           npm run grab -- --site=content.astro.com.my --days=2 --output=../astro.xml
 
       - name: Commit and Push
@@ -38,11 +37,13 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           if [ -f astro.xml ]; then
+            # Padam folder grabber sebelum push untuk jimat ruang
+            rm -rf grabber
             git add astro.xml
             TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-            git commit -m "Update Astro EPG: $TIMESTAMP" || exit 0
+            git commit -m "Update All Astro Channels: $TIMESTAMP" || exit 0
             git push
           else
-            echo "Ralat: Fail astro.xml tidak berjaya dijana."
+            echo "Fail astro.xml tidak berjaya dijana."
             exit 1
           fi
