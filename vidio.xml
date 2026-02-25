@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Otomatis-Vidio-EPG">
+	<channel id="sctv">
+		<display-name>SCTV</display-name>
+	</channel>
+	<channel id="indosiar">
+		<display-name>Indosiar</display-name>
+	</channel>
+	<channel id="moji">
+		<display-name>Moji</display-name>
+	</channel>
+	<channel id="mentari">
+		<display-name>Mentari TV</display-name>
+	</channel>
+	<channel id="champions1">
+		<display-name>Champions TV 1</display-name>
+	</channel>
+	<channel id="champions2">
+		<display-name>Champions TV 2</display-name>
+	</channel>
+</tv>
