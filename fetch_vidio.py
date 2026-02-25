@@ -2,68 +2,59 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
-import re
 
-# Daftar Channel (Slug URL Vidio)
-# Format: {"id_xmltv": "slug-vidio", "name": "Nama Channel"}
+# Konfigurasi Channel Vidio
+# Anda bisa menambah slug sesuai URL di Vidio.com/live/
 CHANNELS = [
     {"id": "sctv", "slug": "204-sctv", "name": "SCTV"},
     {"id": "indosiar", "slug": "205-indosiar", "name": "Indosiar"},
     {"id": "moji", "slug": "279-moji-tv", "name": "Moji"},
     {"id": "mentari", "slug": "8122-mentari-tv", "name": "Mentari TV"},
-    {"id": "v-premier", "slug": "6331-vidio-premier", "name": "Vidio Premier"}
+    {"id": "champions1", "slug": "6331-champions-tv-1", "name": "Champions TV 1"},
+    {"id": "champions2", "slug": "6332-champions-tv-2", "name": "Champions TV 2"}
 ]
 
-def format_xml_time(dt_obj):
-    return dt_obj.strftime("%Y%m%d%H%M%S +0700")
-
-def get_epg():
+def generate_vidio_xml():
     root = ET.Element("tv")
-    root.set("generator-info-name", "Vidio-Scraper-EPG")
+    root.set("generator-info-name", "Otomatis-Vidio-EPG")
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
     for ch in CHANNELS:
-        # 1. Tambah Definisi Channel
-        c_elem = ET.SubElement(root, "channel", id=ch['id'])
-        ET.SubElement(c_elem, "display-name").text = ch['name']
+        # Tambahkan Info Channel ke XML
+        c_node = ET.SubElement(root, "channel", id=ch['id'])
+        ET.SubElement(c_node, "display-name").text = ch['name']
 
-        # 2. Scraping Jadwal
+        # Scraping Jadwal
         url = f"https://www.vidio.com/live/{ch['slug']}/schedule"
         try:
-            response = requests.get(url, headers=headers)
-            soup = BeautifulSoup(response.text, 'html.parser')
-            
-            # Mencari elemen jadwal (biasanya dalam class schedule-item)
-            items = soup.find_all('li', class_='schedule-item') 
-            
+            res = requests.get(url, headers=headers, timeout=10)
+            soup = BeautifulSoup(res.text, 'html.parser')
+            items = soup.find_all('li', class_='schedule-item')
+
             for item in items:
-                time_str = item.find('div', class_='schedule-item__time').text.strip() # Contoh "18:00"
+                time_str = item.find('div', class_='schedule-item__time').text.strip()
                 title = item.find('div', class_='schedule-item__title').text.strip()
                 
-                # Logika Waktu (Sederhana: Hari Ini)
+                # Format Waktu XMLTV (Asumsi Hari Ini)
                 now = datetime.now()
                 start_dt = datetime.strptime(f"{now.strftime('%Y-%m-%d')} {time_str}", "%Y-%m-%d %H:%M")
-                
-                # Asumsi durasi 1 jam jika tidak ada waktu selesai (Bisa diimprove)
-                stop_dt = start_dt + timedelta(hours=1)
+                stop_dt = start_dt + timedelta(hours=1.5) # Estimasi durasi 90 menit
 
-                p_elem = ET.SubElement(root, "programme", 
-                                      start=format_xml_time(start_dt), 
-                                      stop=format_xml_time(stop_dt), 
-                                      channel=ch['id'])
-                ET.SubElement(p_elem, "title").text = title
-                ET.SubElement(p_elem, "desc").text = f"Tayangan {title} di {ch['name']}"
+                start_xml = start_dt.strftime("%Y%m%d%H%M%S +0700")
+                stop_xml = stop_dt.strftime("%Y%m%d%H%M%S +0700")
 
-        except Exception as e:
-            print(f"Error scraping {ch['name']}: {e}")
+                p_node = ET.SubElement(root, "programme", start=start_xml, stop=stop_xml, channel=ch['id'])
+                ET.SubElement(p_node, "title").text = title
+                ET.SubElement(p_node, "desc").text = f"Tayangan {title} di {ch['name']}"
+        
+        except:
+            print(f"Gagal mengambil data {ch['name']}")
 
-    # Simpan ke file
+    # Simpan Hasil ke File
     tree = ET.ElementTree(root)
-    ET.indent(tree, space="\t", level=0) # Agar XML rapi
-    tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+    ET.indent(tree, space="\t", level=0)
+    tree.write("vidio.xml", encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
-    get_epg()
+    generate_vidio_xml()
