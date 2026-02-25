@@ -1,0 +1,32 @@
+name: Update Astro EPG Otomatis
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # Jalan jam 5 pagi waktu Malaysia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Libs
+        run: pip install requests
+
+      - name: Jalankan Script
+        run: python fetch_astro.py
+
+      - name: Push Ke Repo
+        run: |
+          git config --global user.name "Astro-Bot"
+          git config --global user.email "bot@github.com"
+          git add astro.xml
+          git commit -m "Update Astro EPG $(date)" || echo "No changes"
+          git push
