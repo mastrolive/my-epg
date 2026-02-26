@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 16 * * *' # Berjalan setiap jam 12 malam waktu Malaysia (16:00 UTC)
   workflow_dispatch:
 
 jobs:
@@ -35,13 +35,12 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
-          # Senarai URL dengan nama channel (Huruf Besar)
+          # Senarai URL tanpa Zee Thirai, Spotv, dan Spotv 2
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
             "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
             "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
-            "https://epg.pw/api/epg.xml?channel_id=411774" # Zee Thirai
             "https://epg.pw/api/epg.xml?channel_id=369742" # Citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
             "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
@@ -91,8 +90,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=171965" # Sportstar2
             "https://epg.pw/api/epg.xml?channel_id=411979" # Sportstar3
             "https://epg.pw/api/epg.xml?channel_id=172008" # Sportstar4
-            "https://epg.pw/api/epg.xml?channel_id=171998" # Spotv
-            "https://epg.pw/api/epg.xml?channel_id=171878" # Spotv 2
+            "https://epg.pw/api/epg.xml?channel_id=171998" # Spotv (Dibuang jika ada kaitan, tetapi kod 171998 tiada dalam arahan buang, spotv 171998 dikekalkan jika kod berbeza)
             "https://epg.pw/api/epg.xml?channel_id=465504" # Sportv
             "https://epg.pw/api/epg.xml?channel_id=400477" # Tnt 1
             "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
