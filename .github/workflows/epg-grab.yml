@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '0 16 * * *' # Berjalan setiap jam 12 malam waktu Malaysia (16:00 UTC)
+    - cron: '0 23 * * *' # Berjalan setiap jam 7 pagi waktu Malaysia (23:00 UTC)
   workflow_dispatch:
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
-          # Senarai URL termasuk saluran baru yang diminta
+          # Senarai URL termasuk saluran yang anda minta sebelum ini
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
