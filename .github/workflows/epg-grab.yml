@@ -130,8 +130,9 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=412192" # Zee Thirai
             "https://epg.pw/api/epg.xml?channel_id=412126" # Asianet Movies
             "https://epg.pw/api/epg.xml?channel_id=369811" # Sony Yay
-            "https://epg.pw/api/epg.xml?channel_id=412181" # Spotv
-            "https://epg.pw/api/epg.xml?channel_id=412187" # Spotv 2
+            "https://epg.pw/api/epg.xml?channel_id=171915" # Spotv
+            "https://epg.pw/api/epg.xml?channel_id=171904" # Spotv 2
+            "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
           )
 
           for url in "${urls[@]}"; do
