@@ -1,31 +1,39 @@
-name: Update Unifi EPG
+name: Update Unifi
 
 on:
   schedule:
-    # Berjalan setiap 6 jam
+    # Berjalan setiap 6 jam untuk memastikan jadual sentiasa dikemaskini
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Membolehkan anda jalankan secara manual
+  workflow_dispatch: # Membolehkan anda tekan butang 'Run' secara manual
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Download Unifi EPG
+        run: |
+          # Mengambil fail sebijik dari sumber yang anda berikan
+          curl -sSL "https://cdn.jsdelivr.net/gh/mss-col/epg/unifi_epg.xml" -o unifi_epg.xml
 
-    - name: Generate EPG
-      run: python scripts/generate_unifi.py
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add unifi_epg.xml
+          # Cek jika ada perbezaan data, jika tiada ia tidak akan commit
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> $GITHUB_ENV
+          else
+            echo "no_changes=false" >> $GITHUB_ENV
+          fi
 
-    - name: Commit and Push
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add unifi.xml
-        git commit -m "Update unifi.xml - $(date)" || exit 0
-        git push
+      - name: Commit and Push
+        if: env.no_changes == 'false'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Update unifi_epg.xml: $(date +'%Y-%m-%d %H:%M')"
+          git push
