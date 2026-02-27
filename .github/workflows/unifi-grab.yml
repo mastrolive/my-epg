@@ -1,15 +1,15 @@
-name: Sync Unifi API
+name: Update Unifi EPG
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *' # Jalan setiap 6 jam
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -20,13 +20,13 @@ jobs:
       - name: Install Requests
         run: pip install requests
 
-      - name: Run Scraper
+      - name: Generate XML
         run: python scripts/unifi_scraper.py
 
-      - name: Commit and Push
+      - name: Push to Repo
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Unifi-Bot"
           git add unifi.xml
-          git commit -m "Kemas kini EPG dari Quickplay API: $(date)" || exit 0
+          git commit -m "Auto-update unifi.xml: $(date)" || exit 0
           git push
