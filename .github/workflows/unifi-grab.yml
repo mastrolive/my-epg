@@ -1,39 +1,32 @@
-name: Update Unifi
+name: Sync Unifi API
 
 on:
   schedule:
-    # Berjalan setiap 6 jam untuk memastikan jadual sentiasa dikemaskini
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Membolehkan anda tekan butang 'Run' secara manual
+  workflow_dispatch:
 
 jobs:
-  sync:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Download Unifi EPG
-        run: |
-          # Mengambil fail sebijik dari sumber yang anda berikan
-          curl -sSL "https://cdn.jsdelivr.net/gh/mss-col/epg/unifi_epg.xml" -o unifi_epg.xml
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git add unifi_epg.xml
-          # Cek jika ada perbezaan data, jika tiada ia tidak akan commit
-          if git diff --staged --quiet; then
-            echo "no_changes=true" >> $GITHUB_ENV
-          else
-            echo "no_changes=false" >> $GITHUB_ENV
-          fi
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run Scraper
+        run: python scripts/unifi_scraper.py
 
       - name: Commit and Push
-        if: env.no_changes == 'false'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Update unifi_epg.xml: $(date +'%Y-%m-%d %H:%M')"
+          git config --local user.email "bot@github.com"
+          git config --local user.name "Unifi-Bot"
+          git add unifi.xml
+          git commit -m "Kemas kini EPG dari Quickplay API: $(date)" || exit 0
           git push
