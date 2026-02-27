@@ -5,17 +5,19 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Memastikan bot mempunyai kuasa menulis
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Mengambil semua sejarah untuk elak isu push
+          # Menggunakan GITHUB_TOKEN untuk pengesahan automatik
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,19 +33,21 @@ jobs:
           python scripts/unifi_scraper.py
 
       - name: Commit and Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1. Set identiti bot (Wajib untuk elak ralat 128)
+          # Set identiti Git
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           
-          # 2. Tambah fail
+          # Tambah fail unifi.xml
           git add unifi.xml
           
-          # 3. Semak jika ada perubahan sebelum commit
+          # Hanya commit jika ada perbezaan
           if git diff --staged --quiet; then
-            echo "Tiada perubahan pada unifi.xml. Melangkau..."
+            echo "Tiada perubahan dikesan pada unifi.xml"
           else
-            git commit -m "Auto-update unifi.xml: $(date +'%Y-%m-%d %H:%M')"
-            # 4. Tolak ke branch semasa secara spesifik
-            git push origin HEAD
+            git commit -m "Auto-update unifi.xml: $(date)"
+            # Push menggunakan token secara eksplisit untuk elak ralat 128
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }}
           fi
