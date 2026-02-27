@@ -1,0 +1,31 @@
+name: Update Unifi EPG
+
+on:
+  schedule:
+    # Berjalan setiap 6 jam
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Membolehkan anda jalankan secara manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Generate EPG
+      run: python scripts/generate_unifi.py
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add unifi.xml
+        git commit -m "Update unifi.xml - $(date)" || exit 0
+        git push
