@@ -133,6 +133,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=171915" # Spotv
             "https://epg.pw/api/epg.xml?channel_id=171904" # Spotv 2
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
+            "https://epg.pw/api/epg.xml?channel_id=412117" # Karisma
           )
 
           for url in "${urls[@]}"; do
