@@ -1,0 +1,36 @@
+name: EPG Daily
+
+on:
+  schedule:
+    # 23:00 UTC = 7:00 AM Malaysia (UTC+8)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # Butang manual 'Run'
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Download EPG Files
+        run: |
+          # Tarik data Unifi
+          curl -s https://raw.githubusercontent.com/walpak1/epg/gh-pages/unifi.xml -o unifi.xml
+          
+          # Tarik data Vidio
+          curl -s https://raw.githubusercontent.com/walpak1/epg/gh-pages/vidio.xml -o vidio.xml
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "EPG-Bot"
+          git config --global user.email "bot@github.com"
+          git add unifi.xml vidio.xml
+          
+          # Hanya commit jika ada perubahan pada fail
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-update EPG: $(date)"
+            git push
+          else
+            echo "Tiada perubahan dikesan pada fail EPG."
+          fi
