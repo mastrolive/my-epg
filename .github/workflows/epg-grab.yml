@@ -2,7 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '0 23 * * *' # Berjalan setiap jam 7 pagi waktu Malaysia (23:00 UTC)
+    # 0 16 * * * = 12:00 AM (Tengah Malam) Waktu Malaysia
+    # 0 4 * * * = 12:00 PM (Tengah Hari) Waktu Malaysia
+    - cron: '0 4,16 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -125,31 +127,19 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=450711" # Hub Premier 3
             "https://epg.pw/api/epg.xml?channel_id=412169" # Hub Sports 1
             "https://epg.pw/api/epg.xml?channel_id=412126" # Asianet Movies
-            "https://epg.pw/api/epg.xml?channel_id=412096" # Cinemax
-            "https://epg.pw/api/epg.xml?channel_id=412088" # Hbo
-            "https://epg.pw/api/epg.xml?channel_id=412195" # Hbo Family
-            "https://epg.pw/api/epg.xml?channel_id=412093" # Hbo Hits
-            "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Signature
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
             "https://epg.pw/api/epg.xml?channel_id=412117" # Karisma
           )
 
           for url in "${urls[@]}"; do
-            # Gunakan retry dan sedikit delay untuk kestabilan
             curl --connect-timeout 20 --retry 5 --retry-delay 2 -sL "$url" > "temp_epg/$(uuidgen).xml"
             sleep 0.8
           done
 
-          # Bina struktur XML
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          
-          # Ekstrak semua tag <channel> secara lengkap
           cat temp_epg/*.xml | sed -n '/<channel/,/<\/channel>/p' | grep -vE "<\?xml|<tv|<\/tv>" >> epg.xml
-          
-          # Ekstrak semua tag <programme> secara lengkap
           cat temp_epg/*.xml | sed -n '/<programme/,/<\/programme>/p' | grep -vE "<\?xml|<tv|<\/tv>" >> epg.xml
-          
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
