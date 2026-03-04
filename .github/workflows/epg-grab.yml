@@ -126,9 +126,13 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=412164" # Hub Premier 2
             "https://epg.pw/api/epg.xml?channel_id=450711" # Hub Premier 3
             "https://epg.pw/api/epg.xml?channel_id=412169" # Hub Sports 1
+            "https://epg.pw/api/epg.xml?channel_id=412154" # Hub Sports 2
+            "https://epg.pw/api/epg.xml?channel_id=412105" # Hub Sports 3
             "https://epg.pw/api/epg.xml?channel_id=412126" # Asianet Movies
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
             "https://epg.pw/api/epg.xml?channel_id=412117" # Karisma
+            "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
+            "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
           )
 
           for url in "${urls[@]}"; do
@@ -138,8 +142,10 @@ jobs:
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          cat temp_epg/*.xml | sed -n '/<channel/,/<\/channel>/p' | grep -vE "<\?xml|<tv|<\/tv>" >> epg.xml
-          cat temp_epg/*.xml | sed -n '/<programme/,/<\/programme>/p' | grep -vE "<\?xml|<tv|<\/tv>" >> epg.xml
+          # Ambil bagian channel
+          cat temp_epg/*.xml | sed -n '/<channel/,/<\/channel>/p' >> epg.xml
+          # Ambil bagian programme
+          cat temp_epg/*.xml | sed -n '/<programme/,/<\/programme>/p' >> epg.xml
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
