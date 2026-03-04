@@ -2,9 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    # 0 16 * * * = 12:00 AM (Tengah Malam) Waktu Malaysia
-    # 0 4 * * * = 12:00 PM (Tengah Hari) Waktu Malaysia
-    - cron: '0 4,16 * * *' 
+    # 0 23 * * * = 7:00 AM Waktu Malaysia
+    # 0 11 * * * = 7:00 PM Waktu Malaysia
+    - cron: '0 11,23 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -133,6 +133,11 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=412117" # Karisma
             "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
+            "https://epg.pw/api/epg.xml?channel_id=448070" # Xplor
+            "https://epg.pw/api/epg.xml?channel_id=464142" # Flix
+            "https://epg.pw/api/epg.xml?channel_id=463869" # Prive
+            "https://epg.pw/api/epg.xml?channel_id=463937" # Star Sports Select 1
+            "https://epg.pw/api/epg.xml?channel_id=464238" # Star Sports Select 2
           )
 
           for url in "${urls[@]}"; do
@@ -142,9 +147,7 @@ jobs:
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          # Ambil bagian channel
           cat temp_epg/*.xml | sed -n '/<channel/,/<\/channel>/p' >> epg.xml
-          # Ambil bagian programme
           cat temp_epg/*.xml | sed -n '/<programme/,/<\/programme>/p' >> epg.xml
           echo '</tv>' >> epg.xml
 
