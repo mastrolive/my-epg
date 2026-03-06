@@ -96,7 +96,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
             "https://epg.pw/api/epg.xml?channel_id=465006" # Usa Network
-            "https://epg.pw/api/epg.xml?channel_id=464150" # NatGeo Wild
+            "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo Wild
             "https://epg.pw/api/epg.xml?channel_id=463965" # Zee Cafe
             "https://epg.pw/api/epg.xml?channel_id=411916" # Dunia Lain
             "https://epg.pw/api/epg.xml?channel_id=412001" # Flik
@@ -133,11 +133,9 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=412117" # Karisma
             "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
-            "https://epg.pw/api/epg.xml?channel_id=448070" # Xplor
-            "https://epg.pw/api/epg.xml?channel_id=464142" # Flix
-            "https://epg.pw/api/epg.xml?channel_id=463869" # Prive
-            "https://epg.pw/api/epg.xml?channel_id=463937" # Star Sports Select 1
-            "https://epg.pw/api/epg.xml?channel_id=464238" # Star Sports Select 2
+            "https://epg.pw/api/epg.xml?channel_id=412103" # Asianet
+            "https://epg.pw/api/epg.xml?channel_id=412200" # Hub Ecity
+            "https://epg.pw/api/epg.xml?channel_id=412156" # Hub VV
           )
 
           for url in "${urls[@]}"; do
