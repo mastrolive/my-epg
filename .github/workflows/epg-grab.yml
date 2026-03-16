@@ -35,7 +35,6 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
-          # List URL Channel
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
@@ -138,27 +137,29 @@ jobs:
 
           for url in "${urls[@]}"; do
             FILENAME="temp_epg/$(uuidgen).xml"
-            # Gunakan User-Agent agar tidak dianggap bot mentah
-            curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
-                 --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
+            curl -A "Mozilla/5.0" --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
             
-            # Validasi: Jika file terlalu kecil (<1KB), biasanya datanya zonk
-            if [ $(stat -c%s "$FILENAME") -lt 1000 ]; then
+            # Padam file jika saiz terlalu kecil (biasanya ralat API)
+            if [ $(stat -c%s "$FILENAME") -lt 800 ]; then
               rm "$FILENAME"
             fi
             sleep 1.2
           done
 
-          # Rebuild EPG dengan filter pembersihan
+          # Cipta fail epg.xml yang baru
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
-          echo '<tv generator-info-name="Gemini-Combined-EPG">' >> epg.xml
+          echo '<tv generator-info-name="Gemini-Fixed-EPG">' >> epg.xml
           
-          # Masukkan info channel (unik)
-          grep -h "<channel" temp_epg/*.xml | sort -u >> epg.xml || true
-          
-          # Masukkan program HANYA jika memiliki tag <title>
-          # Ini kunci untuk membuang program "No Title"
-          grep -h "<programme" temp_epg/*.xml | grep "title" >> epg.xml || true
+          # Ekstrak Nama Channel dengan blok lengkap
+          for f in temp_epg/*.xml; do
+            sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml || true
+          done
+
+          # Ekstrak Program dengan blok lengkap
+          for f in temp_epg/*.xml; do
+            # Gunakan sed untuk ambil blok program, buang tag XML yang tak perlu
+            sed -n '/<programme/,/<\/programme>/p' "$f" | grep -vE '(\?xml|<tv|<\/tv)' >> epg.xml || true
+          done
           
           echo '</tv>' >> epg.xml
 
@@ -169,7 +170,7 @@ jobs:
           
           rm -rf grabber temp_epg
           
-          # Clean up old files
+          # Buang fail lama yang tidak digunakan
           git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           git add mewatch.xml rtmklik.xml epg.xml
