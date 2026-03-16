@@ -2,8 +2,6 @@ name: Update EPG
 
 on:
   schedule:
-    # 0 0 * * * = 12:00 AM UTC
-    # 0 12 * * * = 12:00 PM UTC
     - cron: '0 0,12 * * *' 
   workflow_dispatch:
 
@@ -37,6 +35,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
+          # Updated URL list with your new IDs
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
@@ -73,16 +72,15 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=465038" # Nicktoons
             "https://epg.pw/api/epg.xml?channel_id=470709" # Treehouse
             "https://epg.pw/api/epg.xml?channel_id=470671" # Ytv
-            "https://epg.pw/api/epg.xml?channel_id=524103" # Zoomoo
             "https://epg.pw/api/epg.xml?channel_id=486870" # Mutv
             "https://epg.pw/api/epg.xml?channel_id=486728" # Lfctv
             "https://epg.pw/api/epg.xml?channel_id=465248" # Fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # Fs2
             "https://epg.pw/api/epg.xml?channel_id=524169" # Fight Sports
             "https://epg.pw/api/epg.xml?channel_id=524104" # Nbatv
+            "https://epg.pw/api/epg.xml?channel_id=527398" # Skygolf
             "https://epg.pw/api/epg.xml?channel_id=6317"   # Skyf1
             "https://epg.pw/api/epg.xml?channel_id=5791"   # Skyfootball
-            "https://epg.pw/api/epg.xml?channel_id=6445"   # Skygolf
             "https://epg.pw/api/epg.xml?channel_id=7673"   # Skyme
             "https://epg.pw/api/epg.xml?channel_id=6958"   # Skypl
             "https://epg.pw/api/epg.xml?channel_id=524082" # Soccer
@@ -90,7 +88,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=524003" # Sportstar2
             "https://epg.pw/api/epg.xml?channel_id=524184" # Sportstar3
             "https://epg.pw/api/epg.xml?channel_id=524033" # Sportstar4
-            "https://epg.pw/api/epg.xml?channel_id=465504" # Sportv
+            "https://epg.pw/api/epg.xml?channel_id=426062" # Sportv
             "https://epg.pw/api/epg.xml?channel_id=400477" # Tnt 1
             "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
@@ -108,18 +106,17 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=524028" # Sctv
             "https://epg.pw/api/epg.xml?channel_id=524150" # Transtv
             "https://epg.pw/api/epg.xml?channel_id=524035" # Trans7
-            "https://epg.pw/api/epg.xml?channel_id=524095"  # Tvone
+            "https://epg.pw/api/epg.xml?channel_id=524095" # Tvone
             "https://epg.pw/api/epg.xml?channel_id=524037" # Tvri
             "https://epg.pw/api/epg.xml?channel_id=524109" # Zee Bioskop
-            "https://epg.pw/api/epg.xml?channel_id=524084"  # Kix
+            "https://epg.pw/api/epg.xml?channel_id=524084" # Kix
             "https://epg.pw/api/epg.xml?channel_id=524176" # Rock Entertainment
             "https://epg.pw/api/epg.xml?channel_id=524158" # Musik Indonesia
             "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
             "https://epg.pw/api/epg.xml?channel_id=524074" # Animal Planet
             "https://epg.pw/api/epg.xml?channel_id=524006" # Curiosity
-            "https://epg.pw/api/epg.xml?channel_id=411960" # Global Trekker
             "https://epg.pw/api/epg.xml?channel_id=465186" # Travel Ch
-            "https://epg.pw/api/epg.xml?channel_id=12170"  # Travelxp
+            "https://epg.pw/api/epg.xml?channel_id=412120" # Travelxp
             "https://epg.pw/api/epg.xml?channel_id=524023" # Horee
             "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
             "https://epg.pw/api/epg.xml?channel_id=412140" # Hub Premier 1
@@ -145,10 +142,11 @@ jobs:
             sleep 0.8
           done
 
+          # Rebuild EPG correctly
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          cat temp_epg/*.xml | sed -n '/<channel/,/<\/channel>/p' >> epg.xml
-          cat temp_epg/*.xml | sed -n '/<programme/,/<\/programme>/p' >> epg.xml
+          grep -h "<channel" temp_epg/*.xml >> epg.xml || true
+          grep -h "<programme" temp_epg/*.xml >> epg.xml || true
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
@@ -158,6 +156,7 @@ jobs:
           
           rm -rf grabber temp_epg
           
+          # Clean up old/unused files
           git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           git add mewatch.xml rtmklik.xml epg.xml
