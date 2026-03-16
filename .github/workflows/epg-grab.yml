@@ -35,7 +35,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
-          # Updated URL list with your new IDs
+          # List URL Channel
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
             "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
@@ -94,7 +94,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
             "https://epg.pw/api/epg.xml?channel_id=465006" # Usa Network
-            "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo Wild
             "https://epg.pw/api/epg.xml?channel_id=463965" # Zee Cafe
             "https://epg.pw/api/epg.xml?channel_id=524181" # Dunia Lain
             "https://epg.pw/api/epg.xml?channel_id=524161" # Flik
@@ -138,15 +137,29 @@ jobs:
           )
 
           for url in "${urls[@]}"; do
-            curl --connect-timeout 20 --retry 5 --retry-delay 2 -sL "$url" > "temp_epg/$(uuidgen).xml"
-            sleep 0.8
+            FILENAME="temp_epg/$(uuidgen).xml"
+            # Gunakan User-Agent agar tidak dianggap bot mentah
+            curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+                 --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
+            
+            # Validasi: Jika file terlalu kecil (<1KB), biasanya datanya zonk
+            if [ $(stat -c%s "$FILENAME") -lt 1000 ]; then
+              rm "$FILENAME"
+            fi
+            sleep 1.2
           done
 
-          # Rebuild EPG correctly
+          # Rebuild EPG dengan filter pembersihan
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
-          echo '<tv generator-info-name="epg.pw-Combined">' >> epg.xml
-          grep -h "<channel" temp_epg/*.xml >> epg.xml || true
-          grep -h "<programme" temp_epg/*.xml >> epg.xml || true
+          echo '<tv generator-info-name="Gemini-Combined-EPG">' >> epg.xml
+          
+          # Masukkan info channel (unik)
+          grep -h "<channel" temp_epg/*.xml | sort -u >> epg.xml || true
+          
+          # Masukkan program HANYA jika memiliki tag <title>
+          # Ini kunci untuk membuang program "No Title"
+          grep -h "<programme" temp_epg/*.xml | grep "title" >> epg.xml || true
+          
           echo '</tv>' >> epg.xml
 
       - name: Commit and Push
@@ -156,7 +169,7 @@ jobs:
           
           rm -rf grabber temp_epg
           
-          # Clean up old/unused files
+          # Clean up old files
           git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           git add mewatch.xml rtmklik.xml epg.xml
