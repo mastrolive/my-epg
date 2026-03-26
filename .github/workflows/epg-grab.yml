@@ -36,14 +36,11 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
-            "https://epg.pw/api/epg.xml?channel_id=412113" # Sensasi
-            "https://epg.pw/api/epg.xml?channel_id=412155" # Warna
             "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
             "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
             "https://epg.pw/api/epg.xml?channel_id=369742" # Citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
             "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
-            "https://epg.pw/api/epg.xml?channel_id=171947" # Gtv
             "https://epg.pw/api/epg.xml?channel_id=524131" # MaxStream
             "https://epg.pw/api/epg.xml?channel_id=524112" # MaxReels
             "https://epg.pw/api/epg.xml?channel_id=523999" # Vision Prime
@@ -93,17 +90,10 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
             "https://epg.pw/api/epg.xml?channel_id=465006" # Usa Network
-            "https://epg.pw/api/epg.xml?channel_id=463965" # Zee Cafe
             "https://epg.pw/api/epg.xml?channel_id=524181" # Dunia Lain
             "https://epg.pw/api/epg.xml?channel_id=524161" # Flik
             "https://epg.pw/api/epg.xml?channel_id=524009" # Imc
-            "https://epg.pw/api/epg.xml?channel_id=524188" # Indosiar
             "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Signature
-            "https://epg.pw/api/epg.xml?channel_id=524025" # Rcti
-            "https://epg.pw/api/epg.xml?channel_id=524133" # Rtv
-            "https://epg.pw/api/epg.xml?channel_id=524028" # Sctv
-            "https://epg.pw/api/epg.xml?channel_id=524150" # Transtv
-            "https://epg.pw/api/epg.xml?channel_id=524035" # Trans7
             "https://epg.pw/api/epg.xml?channel_id=524095" # Tvone
             "https://epg.pw/api/epg.xml?channel_id=524037" # Tvri
             "https://epg.pw/api/epg.xml?channel_id=524021" # Zee Bioskop
@@ -114,25 +104,11 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=524074" # Animal Planet
             "https://epg.pw/api/epg.xml?channel_id=524006" # Curiosity
             "https://epg.pw/api/epg.xml?channel_id=465186" # Travel Ch
-            "https://epg.pw/api/epg.xml?channel_id=412120" # Travelxp
             "https://epg.pw/api/epg.xml?channel_id=524023" # Horee
             "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
-            "https://epg.pw/api/epg.xml?channel_id=412140" # Hub Premier 1
-            "https://epg.pw/api/epg.xml?channel_id=412164" # Hub Premier 2
-            "https://epg.pw/api/epg.xml?channel_id=450711" # Hub Premier 3
-            "https://epg.pw/api/epg.xml?channel_id=412169" # Hub Sports 1
-            "https://epg.pw/api/epg.xml?channel_id=412154" # Hub Sports 2
-            "https://epg.pw/api/epg.xml?channel_id=412105" # Hub Sports 3
-            "https://epg.pw/api/epg.xml?channel_id=412126" # Asianet Movies
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
-            "https://epg.pw/api/epg.xml?channel_id=412117" # Karisma
             "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
-            "https://epg.pw/api/epg.xml?channel_id=412103" # Asianet
-            "https://epg.pw/api/epg.xml?channel_id=412200" # Hub Ecity
-            "https://epg.pw/api/epg.xml?channel_id=412156" # Hub VV
-            "https://epg.pw/api/epg.xml?channel_id=523995" # Bioskop Indonesia
-            "https://epg.pw/api/epg.xml?channel_id=524038" # My Kidz
           )
 
           for url in "${urls[@]}"; do
