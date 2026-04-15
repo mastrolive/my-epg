@@ -25,9 +25,14 @@ jobs:
           git clone --depth 1 https://github.com/iptv-org/epg.git grabber
           cd grabber
           npm install
-          export TZ="Asia/Kuala_Lumpur"
-          npm run grab -- --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
-          npm run grab -- --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
+          
+          mkdir -p ../output_xml
+
+          # Menjalankan grabber dengan cara yang lebih tepat
+          # Nota: Kita gunakan npx untuk memastikan script dijalankan terus
+          npx epg-grabber --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
+          npx epg-grabber --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
+          
           cd ..
 
       - name: Download and Combine epg.pw
