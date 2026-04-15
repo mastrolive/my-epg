@@ -15,34 +15,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Grab Specific Sites (mewatch & rtmklik)
-        run: |
-          git clone --depth 1 https://github.com/iptv-org/epg.git grabber
-          cd grabber
-          npm install
-          
-          mkdir -p ../output_xml
-
-          # Menjalankan grabber dengan cara yang lebih tepat
-          # Nota: Kita gunakan npx untuk memastikan script dijalankan terus
-          npx epg-grabber --site=mewatch.sg --days=2 --output=../mewatch.xml || echo "Mewatch gagal"
-          npx epg-grabber --site=rtmklik.rtm.gov.my --days=2 --output=../rtmklik.xml || echo "RTMKlik gagal"
-          
-          cd ..
-
       - name: Download and Combine epg.pw
         run: |
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
           urls=(
-            "https://epg.pw/api/epg.xml?channel_id=463834" # Jaya
-            "https://epg.pw/api/epg.xml?channel_id=464138" # J Movie
             "https://epg.pw/api/epg.xml?channel_id=369742" # Citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
             "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
@@ -58,8 +36,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
             "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
             "https://epg.pw/api/epg.xml?channel_id=464016" # Sony Pix
-            "https://epg.pw/api/epg.xml?channel_id=463984" # Star Movies
-            "https://epg.pw/api/epg.xml?channel_id=464114" # Star Movies Select
             "https://epg.pw/api/epg.xml?channel_id=524001" # Thrill
             "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
             "https://epg.pw/api/epg.xml?channel_id=484245" # Outdoor
@@ -108,38 +84,40 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
             "https://epg.pw/api/epg.xml?channel_id=524074" # Animal Planet
             "https://epg.pw/api/epg.xml?channel_id=524006" # Curiosity
-            "https://epg.pw/api/epg.xml?channel_id=465186" # Travel Ch
             "https://epg.pw/api/epg.xml?channel_id=524023" # Horee
             "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
             "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
             "https://epg.pw/api/epg.xml?channel_id=535446" # Astro Fam Time
+            "https://epg.pw/api/epg.xml?channel_id=370131" # Tv6
+            "https://epg.pw/api/epg.xml?channel_id=370132" # Berita Rtm
+            "https://epg.pw/api/epg.xml?channel_id=370133" # Sukan Rtm
+            "https://epg.pw/api/epg.xml?channel_id=492816" # Channel 5
+            "https://epg.pw/api/epg.xml?channel_id=492894" # Channel 8
+            "https://epg.pw/api/epg.xml?channel_id=492864" # Channel U
+            "https://epg.pw/api/epg.xml?channel_id=492901" # Suria
+            "https://epg.pw/api/epg.xml?channel_id=492817" # Vasantham
           )
 
           for url in "${urls[@]}"; do
             FILENAME="temp_epg/$(uuidgen).xml"
             curl -A "Mozilla/5.0" --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
             
-            # Padam file jika saiz terlalu kecil (biasanya ralat API)
             if [ $(stat -c%s "$FILENAME") -lt 800 ]; then
               rm "$FILENAME"
             fi
             sleep 1.2
           done
 
-          # Cipta fail epg.xml yang baru
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="Gemini-Fixed-EPG">' >> epg.xml
           
-          # Ekstrak Nama Channel dengan blok lengkap
           for f in temp_epg/*.xml; do
             sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml || true
           done
 
-          # Ekstrak Program dengan blok lengkap
           for f in temp_epg/*.xml; do
-            # Gunakan sed untuk ambil blok program, buang tag XML yang tak perlu
             sed -n '/<programme/,/<\/programme>/p' "$f" | grep -vE '(\?xml|<tv|<\/tv)' >> epg.xml || true
           done
           
@@ -150,13 +128,13 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          rm -rf grabber temp_epg
+          rm -rf temp_epg
           
-          # Buang fail lama yang tidak digunakan
-          git rm vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
+          # Bersihkan fail lama yang sudah tidak relevan
+          git rm mewatch.xml rtmklik.xml vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
-          git add mewatch.xml rtmklik.xml epg.xml
+          git add epg.xml
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG: $TIMESTAMP" || exit 0
+          git commit -m "Update EPG (epg.pw): $TIMESTAMP" || exit 0
           git push
