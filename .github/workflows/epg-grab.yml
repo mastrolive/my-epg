@@ -23,7 +23,17 @@ jobs:
           urls=(
             "https://epg.pw/api/epg.xml?channel_id=2384" # Ria
             "https://epg.pw/api/epg.xml?channel_id=3158" # Prima
+            "https://epg.pw/api/epg.xml?channel_id=3145" # Oasis
             "https://epg.pw/api/epg.xml?channel_id=2937" # Citra
+            "https://epg.pw/api/epg.xml?channel_id=3784" # Rania
+            "https://epg.pw/api/epg.xml?channel_id=3770" # Aura
+            "https://epg.pw/api/epg.xml?channel_id=4160" # Okey
+            "https://epg.pw/api/epg.xml?channel_id=1584" # Alhijrah
+            "https://epg.pw/api/epg.xml?channel_id=3942" # Tvs
+            "https://epg.pw/api/epg.xml?channel_id=492816" # Channel 5
+            "https://epg.pw/api/epg.xml?channel_id=492894" # Channel 8
+            "https://epg.pw/api/epg.xml?channel_id=492864" # Channel U
+            "https://epg.pw/api/epg.xml?channel_id=492901" # Suria
             "https://epg.pw/api/epg.xml?channel_id=2636" # Boo
             "https://epg.pw/api/epg.xml?channel_id=535446" # Fam Time
             "https://epg.pw/api/epg.xml?channel_id=4057" # Showcase
@@ -97,10 +107,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=370131" # Tv6
             "https://epg.pw/api/epg.xml?channel_id=370132" # Berita Rtm
             "https://epg.pw/api/epg.xml?channel_id=370133" # Sukan Rtm
-            "https://epg.pw/api/epg.xml?channel_id=492816" # Channel 5
-            "https://epg.pw/api/epg.xml?channel_id=492894" # Channel 8
-            "https://epg.pw/api/epg.xml?channel_id=492864" # Channel U
-            "https://epg.pw/api/epg.xml?channel_id=492901" # Suria
             "https://epg.pw/api/epg.xml?channel_id=492817" # Vasantham
           )
 
