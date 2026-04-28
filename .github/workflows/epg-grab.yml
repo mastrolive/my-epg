@@ -21,11 +21,20 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
+            "https://epg.pw/api/epg.xml?channel_id=2384" # Ria
+            "https://epg.pw/api/epg.xml?channel_id=3158" # Prima
+            "https://epg.pw/api/epg.xml?channel_id=2937" # Citra
+            "https://epg.pw/api/epg.xml?channel_id=2636" # Boo
+            "https://epg.pw/api/epg.xml?channel_id=535446" # Fam Time
+            "https://epg.pw/api/epg.xml?channel_id=4057" # Showcase
+            "https://epg.pw/api/epg.xml?channel_id=517641" # Showtime
+            "https://epg.pw/api/epg.xml?channel_id=3809" # Tutor TV
+            "https://epg.pw/api/epg.xml?channel_id=3533" # Ceria
+            "https://epg.pw/api/epg.xml?channel_id=532949" # Arena
+            "https://epg.pw/api/epg.xml?channel_id=4100" # Arena 2
             "https://epg.pw/api/epg.xml?channel_id=369742" # Citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
             "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
-            "https://epg.pw/api/epg.xml?channel_id=524131" # MaxStream
-            "https://epg.pw/api/epg.xml?channel_id=524112" # MaxReels
             "https://epg.pw/api/epg.xml?channel_id=523999" # Vision Prime
             "https://epg.pw/api/epg.xml?channel_id=524075" # Buddystar
             "https://epg.pw/api/epg.xml?channel_id=524143" # Cineedge
@@ -54,7 +63,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=465248" # Fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # Fs2
             "https://epg.pw/api/epg.xml?channel_id=524169" # Fight Sports
-            "https://epg.pw/api/epg.xml?channel_id=524104" # Nbatv
             "https://epg.pw/api/epg.xml?channel_id=6317"   # Skyf1
             "https://epg.pw/api/epg.xml?channel_id=5791"   # Skyfootball
             "https://epg.pw/api/epg.xml?channel_id=9165"   # Skygolf
@@ -71,8 +79,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
             "https://epg.pw/api/epg.xml?channel_id=465006" # Usa Network
-            "https://epg.pw/api/epg.xml?channel_id=524181" # Dunia Lain
-            "https://epg.pw/api/epg.xml?channel_id=524161" # Flik
             "https://epg.pw/api/epg.xml?channel_id=524009" # Imc
             "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Signature
             "https://epg.pw/api/epg.xml?channel_id=524095" # Tvone
@@ -80,7 +86,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=524021" # Zee Bioskop
             "https://epg.pw/api/epg.xml?channel_id=524084" # Kix
             "https://epg.pw/api/epg.xml?channel_id=524176" # Rock Entertainment
-            "https://epg.pw/api/epg.xml?channel_id=524158" # Musik Indonesia
             "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
             "https://epg.pw/api/epg.xml?channel_id=524074" # Animal Planet
             "https://epg.pw/api/epg.xml?channel_id=524006" # Curiosity
@@ -89,7 +94,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
             "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
-            "https://epg.pw/api/epg.xml?channel_id=535446" # Astro Fam Time
             "https://epg.pw/api/epg.xml?channel_id=370131" # Tv6
             "https://epg.pw/api/epg.xml?channel_id=370132" # Berita Rtm
             "https://epg.pw/api/epg.xml?channel_id=370133" # Sukan Rtm
