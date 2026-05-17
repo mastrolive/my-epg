@@ -21,6 +21,7 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
+            "https://epg.pw/api/epg.xml?channel_id=370131" # Tv6
             "https://epg.pw/api/epg.xml?channel_id=2384" # Ria
             "https://epg.pw/api/epg.xml?channel_id=3158" # Prima
             "https://epg.pw/api/epg.xml?channel_id=3145" # Oasis
@@ -47,17 +48,20 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=4181" # Sun Life
             "https://epg.pw/api/epg.xml?channel_id=3835" # Sun Music
             "https://epg.pw/api/epg.xml?channel_id=4185" # Sun News
+            "https://epg.pw/api/epg.xml?channel_id=492817" # Vasantham
             "https://epg.pw/api/epg.xml?channel_id=4221" # Zee Cinema
             "https://epg.pw/api/epg.xml?channel_id=2885" # Zee Tamil
+            "https://epg.pw/api/epg.xml?channel_id=2226" # Aec
+            "https://epg.pw/api/epg.xml?channel_id=2124" # Aod
+            "https://epg.pw/api/epg.xml?channel_id=1951" # Hua Hee Dai
             "https://epg.pw/api/epg.xml?channel_id=2636" # Boo
             "https://epg.pw/api/epg.xml?channel_id=535446" # Fam Time
             "https://epg.pw/api/epg.xml?channel_id=4057" # Showcase
             "https://epg.pw/api/epg.xml?channel_id=517641" # Showtime
             "https://epg.pw/api/epg.xml?channel_id=3809" # Tutor TV
             "https://epg.pw/api/epg.xml?channel_id=3533" # Ceria
-            "https://epg.pw/api/epg.xml?channel_id=532949" # Arena
+            "https://epg.pw/api/epg.xml?channel_id=2552" # Arena
             "https://epg.pw/api/epg.xml?channel_id=4100" # Arena 2
-            "https://epg.pw/api/epg.xml?channel_id=369742" # Citradrama
             "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
             "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
             "https://epg.pw/api/epg.xml?channel_id=523999" # Vision Prime
@@ -65,21 +69,19 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=524143" # Cineedge
             "https://epg.pw/api/epg.xml?channel_id=523990" # Galaxy
             "https://epg.pw/api/epg.xml?channel_id=524050" # Galaxy Premium
-            "https://epg.pw/api/epg.xml?channel_id=464293" # MN+
-            "https://epg.pw/api/epg.xml?channel_id=463905" # Movies Now
-            "https://epg.pw/api/epg.xml?channel_id=464084" # Romedy Now
-            "https://epg.pw/api/epg.xml?channel_id=463999" # Mnx
-            "https://epg.pw/api/epg.xml?channel_id=464016" # Sony Pix
+            "https://epg.pw/api/epg.xml?channel_id=543209" # MN+
+            "https://epg.pw/api/epg.xml?channel_id=543174" # Movies Now
+            "https://epg.pw/api/epg.xml?channel_id=543123" # Romedy Now
+            "https://epg.pw/api/epg.xml?channel_id=543194" # Mnx
+            "https://epg.pw/api/epg.xml?channel_id=543337" # Sony Pix
             "https://epg.pw/api/epg.xml?channel_id=524001" # Thrill
             "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
             "https://epg.pw/api/epg.xml?channel_id=484245" # Outdoor
-            "https://epg.pw/api/epg.xml?channel_id=524083" # Aniplus
             "https://epg.pw/api/epg.xml?channel_id=465369" # Baby TV
             "https://epg.pw/api/epg.xml?channel_id=464755" # Boomerang
             "https://epg.pw/api/epg.xml?channel_id=470691" # Disney Ch
             "https://epg.pw/api/epg.xml?channel_id=464864" # Disney JR
             "https://epg.pw/api/epg.xml?channel_id=464807" # Disney XD
-            "https://epg.pw/api/epg.xml?channel_id=524178" # Mentari TV
             "https://epg.pw/api/epg.xml?channel_id=465038" # Nicktoons
             "https://epg.pw/api/epg.xml?channel_id=470709" # Treehouse
             "https://epg.pw/api/epg.xml?channel_id=470671" # Ytv
@@ -87,7 +89,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=486728" # Lfctv
             "https://epg.pw/api/epg.xml?channel_id=465248" # Fs1
             "https://epg.pw/api/epg.xml?channel_id=465280" # Fs2
-            "https://epg.pw/api/epg.xml?channel_id=524169" # Fight Sports
             "https://epg.pw/api/epg.xml?channel_id=6317"   # Skyf1
             "https://epg.pw/api/epg.xml?channel_id=5791"   # Skyfootball
             "https://epg.pw/api/epg.xml?channel_id=9165"   # Skygolf
@@ -113,8 +114,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=524176" # Rock Entertainment
             "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
             "https://epg.pw/api/epg.xml?channel_id=524074" # Animal Planet
-            "https://epg.pw/api/epg.xml?channel_id=524006" # Curiosity
-            "https://epg.pw/api/epg.xml?channel_id=524023" # Horee
             "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
             "https://epg.pw/api/epg.xml?channel_id=535942" # Premier League 3
             "https://epg.pw/api/epg.xml?channel_id=538269" # Premier League 4
@@ -122,10 +121,8 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=465214" # Fox Soccer Plus
             "https://epg.pw/api/epg.xml?channel_id=219100" # Premier Sports 1
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
-            "https://epg.pw/api/epg.xml?channel_id=370131" # Tv6
             "https://epg.pw/api/epg.xml?channel_id=370132" # Berita Rtm
             "https://epg.pw/api/epg.xml?channel_id=370133" # Sukan Rtm
-            "https://epg.pw/api/epg.xml?channel_id=492817" # Vasantham
           )
 
           for url in "${urls[@]}"; do
