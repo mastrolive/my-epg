@@ -64,11 +64,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=4100" # Arena 2
             "https://epg.pw/api/epg.xml?channel_id=412104" # Citraenter
             "https://epg.pw/api/epg.xml?channel_id=369824" # Drama Ch
-            "https://epg.pw/api/epg.xml?channel_id=523999" # Vision Prime
-            "https://epg.pw/api/epg.xml?channel_id=524075" # Buddystar
-            "https://epg.pw/api/epg.xml?channel_id=524143" # Cineedge
-            "https://epg.pw/api/epg.xml?channel_id=523990" # Galaxy
-            "https://epg.pw/api/epg.xml?channel_id=524050" # Galaxy Premium
             "https://epg.pw/api/epg.xml?channel_id=543209" # MN+
             "https://epg.pw/api/epg.xml?channel_id=543174" # Movies Now
             "https://epg.pw/api/epg.xml?channel_id=543123" # Romedy Now
@@ -94,26 +89,14 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=9165"   # Skygolf
             "https://epg.pw/api/epg.xml?channel_id=7673"   # Skyme
             "https://epg.pw/api/epg.xml?channel_id=6958"   # Skypl
-            "https://epg.pw/api/epg.xml?channel_id=524082" # Soccer
-            "https://epg.pw/api/epg.xml?channel_id=524124" # Sportstar1
-            "https://epg.pw/api/epg.xml?channel_id=524003" # Sportstar2
-            "https://epg.pw/api/epg.xml?channel_id=524184" # Sportstar3
-            "https://epg.pw/api/epg.xml?channel_id=524033" # Sportstar4
             "https://epg.pw/api/epg.xml?channel_id=426062" # Sportv
             "https://epg.pw/api/epg.xml?channel_id=400477" # Tnt 1
             "https://epg.pw/api/epg.xml?channel_id=400480" # Tnt 2
             "https://epg.pw/api/epg.xml?channel_id=400479" # Tnt 3
             "https://epg.pw/api/epg.xml?channel_id=400478" # Tnt 4
             "https://epg.pw/api/epg.xml?channel_id=465006" # Usa Network
-            "https://epg.pw/api/epg.xml?channel_id=524009" # Imc
-            "https://epg.pw/api/epg.xml?channel_id=412112" # Hbo Signature
-            "https://epg.pw/api/epg.xml?channel_id=524095" # Tvone
-            "https://epg.pw/api/epg.xml?channel_id=524037" # Tvri
-            "https://epg.pw/api/epg.xml?channel_id=524021" # Zee Bioskop
-            "https://epg.pw/api/epg.xml?channel_id=524084" # Kix
             "https://epg.pw/api/epg.xml?channel_id=524176" # Rock Entertainment
             "https://epg.pw/api/epg.xml?channel_id=463924" # Ten 1
-            "https://epg.pw/api/epg.xml?channel_id=524074" # Animal Planet
             "https://epg.pw/api/epg.xml?channel_id=464925" # Pbs Kids
             "https://epg.pw/api/epg.xml?channel_id=535942" # Premier League 3
             "https://epg.pw/api/epg.xml?channel_id=538269" # Premier League 4
@@ -123,6 +106,9 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
             "https://epg.pw/api/epg.xml?channel_id=370132" # Berita Rtm
             "https://epg.pw/api/epg.xml?channel_id=370133" # Sukan Rtm
+            "https://epg.pw/api/epg.xml?channel_id=470842" # Tsn 1
+            "https://epg.pw/api/epg.xml?channel_id=470401" # Tsn 2
+            "https://epg.pw/api/epg.xml?channel_id=470389" # Tsn 3
           )
 
           for url in "${urls[@]}"; do
