@@ -21,6 +21,7 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
+            "https://epg.pw/api/epg.xml?channel_id=370131" # TV6
             "https://epg.pw/api/epg.xml?channel_id=2384" # Ria
             "https://epg.pw/api/epg.xml?channel_id=3158" # Prima
             "https://epg.pw/api/epg.xml?channel_id=3145" # Oasis
