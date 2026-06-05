@@ -21,7 +21,6 @@ jobs:
           mkdir -p temp_epg
           
           urls=(
-            "https://epg.pw/api/epg.xml?channel_id=370131" # Tv6
             "https://epg.pw/api/epg.xml?channel_id=2384" # Ria
             "https://epg.pw/api/epg.xml?channel_id=3158" # Prima
             "https://epg.pw/api/epg.xml?channel_id=3145" # Oasis
@@ -58,6 +57,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=535446" # Fam Time
             "https://epg.pw/api/epg.xml?channel_id=4057" # Showcase
             "https://epg.pw/api/epg.xml?channel_id=517641" # Showtime
+            "https://epg.pw/api/epg.xml?channel_id=2280" # CCM
             "https://epg.pw/api/epg.xml?channel_id=3809" # Tutor TV
             "https://epg.pw/api/epg.xml?channel_id=3533" # Ceria
             "https://epg.pw/api/epg.xml?channel_id=2552" # Arena
@@ -69,7 +69,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=543123" # Romedy Now
             "https://epg.pw/api/epg.xml?channel_id=543194" # Mnx
             "https://epg.pw/api/epg.xml?channel_id=543337" # Sony Pix
-            "https://epg.pw/api/epg.xml?channel_id=524001" # Thrill
             "https://epg.pw/api/epg.xml?channel_id=464884" # NatGeo
             "https://epg.pw/api/epg.xml?channel_id=484245" # Outdoor
             "https://epg.pw/api/epg.xml?channel_id=465369" # Baby TV
@@ -115,7 +114,8 @@ jobs:
             FILENAME="temp_epg/$(uuidgen).xml"
             curl -A "Mozilla/5.0" --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
             
-            if [ $(stat -c%s "$FILENAME") -lt 800 ]; then
+            # Diubah dari 800 ke 100 bytes supaya data EPG yang kecil/sedikit tidak terpadam secara tidak sengaja
+            if [ $(stat -c%s "$FILENAME") -lt 100 ]; then
               rm "$FILENAME"
             fi
             sleep 1.2
@@ -141,7 +141,6 @@ jobs:
           
           rm -rf temp_epg
           
-          # Bersihkan fail lama yang sudah tidak relevan
           git rm mewatch.xml rtmklik.xml vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
           
           git add epg.xml
