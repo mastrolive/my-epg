@@ -106,6 +106,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=219104" # Premier Sports 2
             "https://epg.pw/api/epg.xml?channel_id=370132" # Berita Rtm
             "https://epg.pw/api/epg.xml?channel_id=370133" # Sukan Rtm
+            "https://epg.pw/api/epg.xml?channel_id=549207" # Fox
           )
 
           for url in "${urls[@]}"; do
