@@ -2,7 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' 
+    # 04:00 UTC = 12:00 PM (Tengah hari MYT)
+    # 16:00 UTC = 12:00 AM (Tengah malam MYT)
+    - cron: '0 4,16 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -83,7 +85,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=543187" # STAR MOVIES
             "https://epg.pw/api/epg.xml?channel_id=543313" # STAR MOVIES SELECT
             "https://epg.pw/api/epg.xml?channel_id=464884" # NATGEO WILD
-            "https://epg.pw/api/epg.xml?channel_id=484245" # OUTDOOR CHANNEL
+            "https://epg.pw/api/epg.xml?channel_id=524153" # OUTDOOR CHANNEL
             "https://epg.pw/api/epg.xml?channel_id=3809" # TUTOR TV
             "https://epg.pw/api/epg.xml?channel_id=3533" # CERIA
             "https://epg.pw/api/epg.xml?channel_id=464755" # BOOMERANG
@@ -92,7 +94,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=464807" # DISNEY XD
             "https://epg.pw/api/epg.xml?channel_id=464773" # METV TOONS
             "https://epg.pw/api/epg.xml?channel_id=465038" # NICKTOONS
-            "https://epg.pw/api/epg.xml?channel_id=464925" # PBS KIDS
+            "https://epg.pw/api/epg.xml?channel_id=46925" # PBS KIDS
             "https://epg.pw/api/epg.xml?channel_id=470709" # TREEHOUSE
             "https://epg.pw/api/epg.xml?channel_id=470671" # YTV
             "https://epg.pw/api/epg.xml?channel_id=2552" # ARENA
@@ -104,7 +106,7 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=486728" # LFCTV
             "https://epg.pw/api/epg.xml?channel_id=6317"   # SKY SPORTS F1
             "https://epg.pw/api/epg.xml?channel_id=5791"   # SKY SPORTS FOOTBALL
-            "https://epg.pw/api/epg.xml?channel_id=538884"   # SKY SPORTS GOLF
+            "https://epg.pw/api/epg.xml?channel_id=538884" # SKY SPORTS GOLF
             "https://epg.pw/api/epg.xml?channel_id=7673"   # SKY SPORTS MAIN EVENT
             "https://epg.pw/api/epg.xml?channel_id=6958"   # SKY SPORTS PREMIER LEAGUE
             "https://epg.pw/api/epg.xml?channel_id=400477" # TNT 1
@@ -125,7 +127,6 @@ jobs:
             FILENAME="temp_epg/$(uuidgen).xml"
             curl -A "Mozilla/5.0" --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
             
-            # Diubah dari 800 ke 100 bytes supaya data EPG yang kecil/sedikit tidak terpadam secara tidak sengaja
             if [ $(stat -c%s "$FILENAME") -lt 100 ]; then
               rm "$FILENAME"
             fi
