@@ -34,6 +34,8 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=3158" # PRIMA
             "https://epg.pw/api/epg.xml?channel_id=3145" # OASIS
             "https://epg.pw/api/epg.xml?channel_id=2937" # CITRA
+            "https://epg.pw/api/epg.xml?channel_id=492869" # SENSASI
+            "https://epg.pw/api/epg.xml?channel_id=492914" # WARNA
             "https://epg.pw/api/epg.xml?channel_id=3784" # RANIA
             "https://epg.pw/api/epg.xml?channel_id=3770" # AURA
             "https://epg.pw/api/epg.xml?channel_id=4160" # OKEY
