@@ -1,0 +1,34 @@
+name: Update ID EPG Guide
+
+on:
+  schedule:
+    # Berjalan secara automatik setiap hari pada jam 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download & Extract EPG
+        run: |
+          # Muat turun fail .gz
+          curl -L "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" -o guide.xml.gz
+          
+          # Nyahmampat fail .gz menjadi id.xml
+          gunzip -c guide.xml.gz > id.xml
+          
+          # Padam fail .gz yang diisi sementara
+          rm guide.xml.gz
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add id.xml
+          
+          # Commit hanya jika ada perubahan pada fail
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update id.xml [skip ci]" && git push)
