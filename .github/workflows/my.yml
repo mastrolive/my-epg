@@ -1,0 +1,79 @@
+name: Update EPG (MY)
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
+
+jobs:
+  update-epg-my:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download, Filter & Update MY EPG
+        run: |
+          # 1. Muat turun fail XML Malaysia
+          curl -L "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" -o source_my.xml
+          
+          # 2. Jalankan skrip Python untuk tapis & tukar ID ke my.xml
+          python3 -c '
+          import xml.etree.ElementTree as ET
+
+          CHANNEL_MAP = {
+              "Astro30": "mastro.30",
+              "TV1": "mastro.tv1",
+              "TV2": "mastro.tv2",
+              "TV3": "mastro.tv3",
+              "DidikTVKPM": "mastro.didiktv",
+              "8TV": "mastro.8tv",
+              "TV9": "mastro.tv9",
+              "AstroRia": "mastro.ria",
+              "AstroPrima": "mastro.prima",
+              "AstroOasis": "mastro.oasis",
+              "AstroCitra": "mastro.citra",
+              "AstroRania": "mastro.rania",
+              "AstroAura": "mastro.aura"
+          }
+
+          tree = ET.parse("source_my.xml")
+          root = tree.getroot()
+          new_root = ET.Element("tv", root.attrib)
+
+          # Tapis & kemas kini ID untuk <channel>
+          for channel in root.findall("channel"):
+              old_id = channel.get("id")
+              if old_id in CHANNEL_MAP:
+                  channel.set("id", CHANNEL_MAP[old_id])
+                  new_root.append(channel)
+
+          # Tapis & kemas kini ID untuk <programme>
+          for programme in root.findall("programme"):
+              old_channel = programme.get("channel")
+              if old_channel in CHANNEL_MAP:
+                  programme.set("channel", CHANNEL_MAP[old_channel])
+                  new_root.append(programme)
+
+          # Simpan ke fail my.xml
+          new_tree = ET.ElementTree(new_root)
+          ET.indent(new_tree, space="  ")
+          new_tree.write("my.xml", encoding="utf-8", xml_declaration=True)
+          '
+
+          # 3. Padam fail sementara
+          rm source_my.xml
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add my.xml
+          
+          # Commit hanya jika ada perubahan pada my.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update my.xml [skip ci]" && git push)
