@@ -27,19 +27,13 @@ jobs:
           import xml.etree.ElementTree as ET
 
           CHANNEL_MAP = {
-              "Astro30": "mastro.30",
-              "TV1": "mastro.tv1",
-              "TV2": "mastro.tv2",
-              "TV3": "mastro.tv3",
-              "DidikTVKPM": "mastro.didiktv",
-              "8TV": "mastro.8tv",
-              "TV9": "mastro.tv9",
-              "AstroRia": "mastro.ria",
-              "AstroPrima": "mastro.prima",
-              "AstroOasis": "mastro.oasis",
-              "AstroCitra": "mastro.citra",
-              "AstroRania": "mastro.rania",
-              "AstroAura": "mastro.aura"
+              "DramaHebat": "mastro.dramahebat",
+              "FilemMantap": "mastro.filemmantap",
+              "JomNgaji": "mastro.jomngaji",
+              "LawakSentral": "mastro.lawaksentral",
+              "DramaHotpot": "mastro.dramahotpot",
+              "TravelandTaste": "mastro.traveltaste",
+              "OhMyCeria": "mastro.ohmyceria"
           }
 
           tree = ET.parse("source_my.xml")
