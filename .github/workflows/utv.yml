@@ -1,0 +1,81 @@
+name: Update EPG (UTV)
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
+
+jobs:
+  update-epg-utv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download, Filter & Update UTV EPG
+        run: |
+          curl -L "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" -o source_utv.xml
+          
+          python3 -c '
+          import xml.etree.ElementTree as ET
+
+          CHANNEL_MAP = {
+              "118": "mastro.inspirasi",
+              "113": "mastro.salamhd",
+              "116": "mastro.sensasi",
+              "141": "mastro.pesonahd",
+              "473": "mastro.rockentertainment",
+              "120": "mastro.degup",
+              "128": "mastro.duniasinema",
+              "121": "mastro.siar",
+              "405": "mastro.cinemax",
+              "401": "mastro.hbo",
+              "403": "mastro.hbofamily",
+              "402": "mastro.hbohits",
+              "451": "mastro.warnertv",
+              "472": "mastro.animax",
+              "553": "mastro.cbeebies",
+              "550": "mastro.dreamworks",
+              "708": "mastro.beinsports",
+              "709": "mastro.beinsports2",
+              "706": "mastro.spotv",
+              "707": "mastro.spotv2",
+              "701": "mastro.unifisports"
+          }
+
+          tree = ET.parse("source_utv.xml")
+          root = tree.getroot()
+          new_root = ET.Element("tv", root.attrib)
+
+          for channel in root.findall("channel"):
+              old_id = channel.get("id")
+              if old_id in CHANNEL_MAP:
+                  channel.set("id", CHANNEL_MAP[old_id])
+                  new_root.append(channel)
+
+          for programme in root.findall("programme"):
+              old_channel = programme.get("channel")
+              if old_channel in CHANNEL_MAP:
+                  programme.set("channel", CHANNEL_MAP[old_channel])
+                  new_root.append(programme)
+
+          new_tree = ET.ElementTree(new_root)
+          ET.indent(new_tree, space="  ")
+          new_tree.write("utv.xml", encoding="utf-8", xml_declaration=True)
+          '
+
+          rm source_utv.xml
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add utv.xml
+          
+          # Commit hanya jika ada perubahan pada utv.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update utv.xml [skip ci]" && git push)
