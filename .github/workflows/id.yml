@@ -2,8 +2,8 @@ name: Update ID EPG Guide
 
 on:
   schedule:
-    # Berjalan secara automatik setiap hari pada jam 00:00 UTC
-    - cron: '0 0 * * *'
+    # Berjalan secara automatik setiap hari pada jam 7:00 AM waktu Malaysia (23:00 UTC)
+    - cron: '0 23 * * *'
   workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
 
 jobs:
