@@ -17,20 +17,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download and Combine epg.pw
+      - name: Download and Combine EPG Sources
         run: |
-          sudo apt-get update && sudo apt-get install -y uuid-runtime
+          sudo apt-get update && sudo apt-get install -y uuid-runtime xmlstarlet
           mkdir -p temp_epg
-          
-          # Format: "URL|CUSTOM_CHANNEL_ID"
+
           channels=(
-            "https://epg.pw/api/epg.xml?channel_id=562589|mastro.30"
-            "https://epg.pw/api/epg.xml?channel_id=3683|mastro.tv1"
-            "https://epg.pw/api/epg.xml?channel_id=3711|mastro.tv2"
-            "https://epg.pw/api/epg.xml?channel_id=1072|mastro.tv3"
-            "https://epg.pw/api/epg.xml?channel_id=1029|mastro.didiktv"
-            "https://epg.pw/api/epg.xml?channel_id=1122|mastro.8tv"
-            "https://epg.pw/api/epg.xml?channel_id=902|mastro.tv9"
             "https://epg.pw/api/epg.xml?channel_id=2384|mastro.ria"
             "https://epg.pw/api/epg.xml?channel_id=3158|mastro.prima"
             "https://epg.pw/api/epg.xml?channel_id=3145|mastro.oasis"
@@ -153,12 +145,83 @@ jobs:
             if [ $(stat -c%s "$FILENAME") -lt 100 ]; then
               rm "$FILENAME"
             else
-              # Gantikan channel id asal dalam tag <channel id="..."> dan <programme channel="...">
               sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
               sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
             fi
             sleep 1.2
           done
+
+          curl -L "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" -o guide.xml.gz
+          gunzip -c guide.xml.gz > source_id.xml
+          rm guide.xml.gz
+
+          id_channels=(
+            "ANTV.id@SD|mastro.antv"
+            "DAAITV.id@SD|mastro.daaitv"
+            "GTV.id@SD|mastro.gtv"
+            "IMC.id@SD|mastro.imc"
+            "Indosiar.id@SD|mastro.indosiar"
+            "MDTV.id@HD|mastro.mdtv"
+            "MNCTV.id@SD|mastro.mnctv"
+            "Moji.id@SD|mastro.moji"
+            "NusantaraTV.id@SD|mastro.nusantaratv"
+            "RCTI.id@SD|mastro.rcti"
+            "RajawaliTV.id@SD|mastro.rtv"
+            "SCTV.id@SD|mastro.sctv"
+            "TransTV.id@SD|mastro.transtv"
+            "Trans7.id@SD|mastro.trans7"
+            "TVRI.id@SD|mastro.tvri"
+            "VisionPrime.id@SD|mastro.visionprime"
+            "ZeeBioskop.id@SD|mastro.zeebioskop"
+            "CNBCIndonesia.id@SD|mastro.cnbcid"
+            "CNNIndonesia.id@SD|mastro.cnnid"
+          )
+
+          for item in "${id_channels[@]}"; do
+            orig_id="${item%%|*}"
+            custom_id="${item#*|}"
+            FILENAME="temp_epg/id_$(uuidgen).xml"
+
+            xmlstarlet sel -t -c "//channel[@id='$orig_id']" source_id.xml > "$FILENAME" 2>/dev/null || true
+            xmlstarlet sel -t -c "//programme[@channel='$orig_id']" source_id.xml >> "$FILENAME" 2>/dev/null || true
+
+            if [ -s "$FILENAME" ]; then
+              sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
+              sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
+            else
+              rm "$FILENAME"
+            fi
+          done
+          rm source_id.xml
+
+          curl -L "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" -o source_aqfad.xml
+
+          aqfad_channels=(
+            "Astro30|mastro.30"
+            "TV1|mastro.tv1"
+            "TV2|mastro.tv2"
+            "TV3|mastro.tv3"
+            "DidikTVKPM|mastro.didiktv"
+            "8TV|mastro.8tv"
+            "TV9|mastro.tv9"
+          )
+
+          for item in "${aqfad_channels[@]}"; do
+            orig_id="${item%%|*}"
+            custom_id="${item#*|}"
+            FILENAME="temp_epg/aqfad_$(uuidgen).xml"
+
+            xmlstarlet sel -t -c "//channel[@id='$orig_id']" source_aqfad.xml > "$FILENAME" 2>/dev/null || true
+            xmlstarlet sel -t -c "//programme[@channel='$orig_id']" source_aqfad.xml >> "$FILENAME" 2>/dev/null || true
+
+            if [ -s "$FILENAME" ]; then
+              sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
+              sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
+            else
+              rm "$FILENAME"
+            fi
+          done
+          rm source_aqfad.xml
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv generator-info-name="Gemini-Fixed-EPG">' >> epg.xml
@@ -185,5 +248,5 @@ jobs:
           git add epg.xml
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG (epg.pw): $TIMESTAMP" || exit 0
+          git commit -m "Update EPG (epg.pw + ID + AqFad): $TIMESTAMP" || exit 0
           git push
