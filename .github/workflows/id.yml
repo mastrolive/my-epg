@@ -50,7 +50,17 @@ jobs:
               "VisionPrime.id@SD": "mastro.visionprime",
               "ZeeBioskop.id@SD": "mastro.zeebioskop",
               "CNBCIndonesia.id@SD": "mastro.cnbcid",
-              "CNNIndonesia.id@SD": "mastro.cnnid"
+              "CNNIndonesia.id@SD": "mastro.cnnid",
+              "iNews.id@SD": "mastro.inews",
+              "MetroTV.id@SD": "mastro.metrotv",
+              "tvOne.id@SD": "mastro.tvone",
+              "NHKWorldJapan.jp@SD": "mastro.nhkworld",
+              "KIX.hk@SD": "mastro.kix",
+              "CinemachiAction.uk@SD": "mastro.cineedge",
+              "Galaxy.id@SD": "mastro.galaxy",
+              "Thrill.hk@SD": "mastro.thrill",
+              "MentariTV.id@SD": "mastro.mentaritv",
+              "SoccerChannel.id@SD": "mastro.soccer"
           }
 
           # Baca fail XML asal
