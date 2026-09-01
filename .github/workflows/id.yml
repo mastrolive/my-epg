@@ -2,7 +2,6 @@ name: Update EPG (ID)
 
 on:
   schedule:
-    # Berjalan secara automatik setiap hari pada jam 7:00 AM waktu Malaysia (23:00 UTC)
     - cron: '0 23 * * *'
   workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
 
@@ -60,7 +59,10 @@ jobs:
               "Galaxy.id@SD": "mastro.galaxy",
               "Thrill.hk@SD": "mastro.thrill",
               "MentariTV.id@SD": "mastro.mentaritv",
-              "SoccerChannel.id@SD": "mastro.soccer"
+              "SoccerChannel.id@SD": "mastro.soccer",
+              "Sportstars.id@SD": "mastro.sportstars",
+              "Sportstars2.id@SD": "mastro.sportstars2",
+              "Sportstars3.id@SD": "mastro.sportstars3"
           }
 
           # Baca fail XML asal
