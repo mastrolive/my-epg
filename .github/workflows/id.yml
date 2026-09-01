@@ -13,16 +13,75 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download & Extract EPG
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download, Filter & Update EPG
         run: |
-          # Muat turun fail .gz
+          # 1. Muat turun fail .gz
           curl -L "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" -o guide.xml.gz
           
-          # Nyahmampat fail .gz menjadi id.xml
-          gunzip -c guide.xml.gz > id.xml
+          # 2. Nyahmampat fail .gz
+          gunzip -c guide.xml.gz > source_guide.xml
           
-          # Padam fail .gz yang diisi sementara
-          rm guide.xml.gz
+          # 3. Jalankan skrip Python untuk tapis & tukar ID EPG
+          python3 -c '
+          import xml.etree.ElementTree as ET
+
+          # Pemetaan ID asal ke ID mastro baharu
+          CHANNEL_MAP = {
+              "ANTV.id@SD": "mastro.antv",
+              "DAAITV.id@SD": "mastro.daaitv",
+              "GTV.id@SD": "mastro.gtv",
+              "IMC.id@SD": "mastro.imc",
+              "Indosiar.id@SD": "mastro.indosiar",
+              "MDTV.id@HD": "mastro.mdtv",
+              "MNCTV.id@SD": "mastro.mnctv",
+              "Moji.id@SD": "mastro.moji",
+              "NusantaraTV.id@SD": "mastro.nusantaratv",
+              "RCTI.id@SD": "mastro.rcti",
+              "RajawaliTV.id@SD": "mastro.rtv",
+              "SCTV.id@SD": "mastro.sctv",
+              "TransTV.id@SD": "mastro.transtv",
+              "Trans7.id@SD": "mastro.trans7",
+              "TVRI.id@SD": "mastro.tvri",
+              "VisionPrime.id@SD": "mastro.visionprime",
+              "ZeeBioskop.id@SD": "mastro.zeebioskop",
+              "CNBCIndonesia.id@SD": "mastro.cnbcid",
+              "CNNIndonesia.id@SD": "mastro.cnnid"
+          }
+
+          # Baca fail XML asal
+          tree = ET.parse("source_guide.xml")
+          root = tree.getroot()
+
+          # Buat struktur XML baharu untuk id.xml
+          new_root = ET.Element("tv", root.attrib)
+
+          # Filter & tukar ID <channel>
+          for channel in root.findall("channel"):
+              old_id = channel.get("id")
+              if old_id in CHANNEL_MAP:
+                  channel.set("id", CHANNEL_MAP[old_id])
+                  new_root.append(channel)
+
+          # Filter & tukar ID <programme>
+          for programme in root.findall("programme"):
+              old_channel = programme.get("channel")
+              if old_channel in CHANNEL_MAP:
+                  programme.set("channel", CHANNEL_MAP[old_channel])
+                  new_root.append(programme)
+
+          # Simpan ke id.xml
+          new_tree = ET.ElementTree(new_root)
+          ET.indent(new_tree, space="  ")
+          new_tree.write("id.xml", encoding="utf-8", xml_declaration=True)
+          '
+
+          # 4. Padam fail sementara
+          rm guide.xml.gz source_guide.xml
 
       - name: Commit and Push Changes
         run: |
