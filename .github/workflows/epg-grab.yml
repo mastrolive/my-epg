@@ -19,9 +19,10 @@ jobs:
 
       - name: Download and Combine EPG Sources
         run: |
-          sudo apt-get update && sudo apt-get install -y uuid-runtime xmlstarlet
+          sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
 
+          # 1. Source: epg.pw (Kekal mastro.*)
           channels=(
             "https://epg.pw/api/epg.xml?channel_id=2384|mastro.ria"
             "https://epg.pw/api/epg.xml?channel_id=3158|mastro.prima"
@@ -151,87 +152,82 @@ jobs:
             sleep 1.2
           done
 
+          # 2. Source: guide.xml.gz (Guna ID Asal)
           curl -L "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" -o guide.xml.gz
           gunzip -c guide.xml.gz > source_id.xml
           rm guide.xml.gz
 
           id_channels=(
-            "ANTV.id@SD|mastro.antv"
-            "DAAITV.id@SD|mastro.daaitv"
-            "GTV.id@SD|mastro.gtv"
-            "IMC.id@SD|mastro.imc"
-            "Indosiar.id@SD|mastro.indosiar"
-            "MDTV.id@HD|mastro.mdtv"
-            "MNCTV.id@SD|mastro.mnctv"
-            "Moji.id@SD|mastro.moji"
-            "NusantaraTV.id@SD|mastro.nusantaratv"
-            "RCTI.id@SD|mastro.rcti"
-            "RajawaliTV.id@SD|mastro.rtv"
-            "SCTV.id@SD|mastro.sctv"
-            "TransTV.id@SD|mastro.transtv"
-            "Trans7.id@SD|mastro.trans7"
-            "TVRI.id@SD|mastro.tvri"
-            "VisionPrime.id@SD|mastro.visionprime"
-            "ZeeBioskop.id@SD|mastro.zeebioskop"
-            "CNBCIndonesia.id@SD|mastro.cnbcid"
-            "CNNIndonesia.id@SD|mastro.cnnid"
+            "ANTV.id@SD"
+            "DAAITV.id@SD"
+            "GTV.id@SD"
+            "IMC.id@SD"
+            "Indosiar.id@SD"
+            "MDTV.id@HD"
+            "MNCTV.id@SD"
+            "Moji.id@SD"
+            "NusantaraTV.id@SD"
+            "RCTI.id@SD"
+            "RajawaliTV.id@SD"
+            "SCTV.id@SD"
+            "TransTV.id@SD"
+            "Trans7.id@SD"
+            "TVRI.id@SD"
+            "VisionPrime.id@SD"
+            "ZeeBioskop.id@SD"
+            "CNBCIndonesia.id@SD"
+            "CNNIndonesia.id@SD"
           )
 
-          for item in "${id_channels[@]}"; do
-            orig_id="${item%%|*}"
-            custom_id="${item#*|}"
+          for orig_id in "${id_channels[@]}"; do
             FILENAME="temp_epg/id_$(uuidgen).xml"
 
-            xmlstarlet sel -t -c "//channel[@id='$orig_id']" source_id.xml > "$FILENAME" 2>/dev/null || true
-            xmlstarlet sel -t -c "//programme[@channel='$orig_id']" source_id.xml >> "$FILENAME" 2>/dev/null || true
+            sed -n "/<channel id=\"$orig_id\"/,/<\/channel>/p" source_id.xml > "$FILENAME"
+            sed -n "/<programme channel=\"$orig_id\"/,/<\/programme>/p" source_id.xml >> "$FILENAME"
 
-            if [ -s "$FILENAME" ]; then
-              sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
-              sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
-            else
-              rm "$FILENAME"
+            if [ ! -s "$FILENAME" ]; then
+              rm -f "$FILENAME"
             fi
           done
           rm source_id.xml
 
+          # 3. Source: AqFad EPG (Guna ID Asal)
           curl -L "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" -o source_aqfad.xml
 
           aqfad_channels=(
-            "Astro30|mastro.30"
-            "TV1|mastro.tv1"
-            "TV2|mastro.tv2"
-            "TV3|mastro.tv3"
-            "DidikTVKPM|mastro.didiktv"
-            "8TV|mastro.8tv"
-            "TV9|mastro.tv9"
+            "Astro30"
+            "TV1"
+            "TV2"
+            "TV3"
+            "DidikTVKPM"
+            "8TV"
+            "TV9"
           )
 
-          for item in "${aqfad_channels[@]}"; do
-            orig_id="${item%%|*}"
-            custom_id="${item#*|}"
+          for orig_id in "${aqfad_channels[@]}"; do
             FILENAME="temp_epg/aqfad_$(uuidgen).xml"
 
-            xmlstarlet sel -t -c "//channel[@id='$orig_id']" source_aqfad.xml > "$FILENAME" 2>/dev/null || true
-            xmlstarlet sel -t -c "//programme[@channel='$orig_id']" source_aqfad.xml >> "$FILENAME" 2>/dev/null || true
+            sed -n "/<channel id=\"$orig_id\"/,/<\/channel>/p" source_aqfad.xml > "$FILENAME"
+            sed -n "/<programme channel=\"$orig_id\"/,/<\/programme>/p" source_aqfad.xml >> "$FILENAME"
 
-            if [ -s "$FILENAME" ]; then
-              sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
-              sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
-            else
-              rm "$FILENAME"
+            if [ ! -s "$FILENAME" ]; then
+              rm -f "$FILENAME"
             fi
           done
           rm source_aqfad.xml
 
+          # Gabungkan Semua Fail EPG
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
-          echo '<tv generator-info-name="Gemini-Fixed-EPG">' >> epg.xml
+          echo '<tv generator-info-name="MastroTV-EPG">' >> epg.xml
           
           for f in temp_epg/*.xml; do
-            sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml || true
+            [ -e "$f" ] || continue
+            sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml
           done
 
           for f in temp_epg/*.xml; do
-            sed -n '/<programme/,/<\/programme>/p' "$f" | grep -vE '(\?xml|<tv|<\/tv)' >> epg.xml || true
+            [ -e "$f" ] || continue
+            sed -n '/<programme/,/<\/programme>/p' "$f" >> epg.xml
           done
           
           echo '</tv>' >> epg.xml
