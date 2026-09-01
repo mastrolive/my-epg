@@ -156,6 +156,18 @@
     <display-name>Soccer Channel</display-name>
     <icon src="https://i.imgur.com/wuduAXD.png" />
   </channel>
+  <channel id="mastro.sportstars">
+    <display-name>Sportstars</display-name>
+    <icon src="https://i.postimg.cc/ydthvytz/Sportstars.png" />
+  </channel>
+  <channel id="mastro.sportstars2">
+    <display-name>Sportstars 2</display-name>
+    <icon src="https://i.postimg.cc/MHB74jJf/Sportstars-2.png" />
+  </channel>
+  <channel id="mastro.sportstars3">
+    <display-name>Sportstars 3</display-name>
+    <icon src="https://i.postimg.cc/664fTF46/Sportstars-3.png" />
+  </channel>
   <channel id="mastro.thrill">
     <display-name>Thrill</display-name>
     <icon src="https://i.imgur.com/Y282owj.png" />
@@ -6956,6 +6968,576 @@
     <desc lang="id">Timor-Leste berusaha menunjukkan perkembangan melalui semangat juang dan permainan kolektif, menghadapi Indonesia yang memiliki pengalaman lebih besar, serangan cepat, serta blok yang kokoh. Pertandingan ini menjadi kesempatan penting bagi kedua tim untuk meraih hasil terbaik di turnamen.</desc>
     <category lang="id">Sports</category>
     <category lang="id">Other</category>
+  </programme>
+  <programme start="20260901050000 +0000" stop="20260901073000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260901073000 +0000" stop="20260901093000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901093000 +0000" stop="20260901113000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901113000 +0000" stop="20260901133000 +0000" channel="mastro.sportstars2">
+    <title lang="id">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc lang="id">ASEAN C'ship Hyundai Cup 2026 merupakan ajang sepak bola paling bergengsi di Asia Tenggara yang mempertemukan tim nasional terbaik kawasan. Negara-negara unggulan seperti Thailand, Vietnam, Indonesia, Malaysia, dan Singapura bersaing bersama tim peserta lainnya dalam format kandang dan tandang. Setiap pertandingan menjadi penentu dalam perebutan gelar juara ASEAN, dengan pertandingan berlangsung di berbagai negara peserta, bukan di satu negara tuan rumah.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901133000 +0000" stop="20260901150000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Sabuk Emas</title>
+    <desc lang="id">Sabuk Emas menggabungkan teknik gulat dan bela diri. Atlet bertanding dengan tujuan untuk menjatuhkan atau mengalahkan lawan dengan berbagai teknik dan strategi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Martial</category>
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901170000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901170000 +0000" stop="20260901190000 +0000" channel="mastro.sportstars2">
+    <title lang="id">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc lang="id">ASEAN C'ship Hyundai Cup 2026 merupakan ajang sepak bola paling bergengsi di Asia Tenggara yang mempertemukan tim nasional terbaik kawasan. Negara-negara unggulan seperti Thailand, Vietnam, Indonesia, Malaysia, dan Singapura bersaing bersama tim peserta lainnya dalam format kandang dan tandang. Setiap pertandingan menjadi penentu dalam perebutan gelar juara ASEAN, dengan pertandingan berlangsung di berbagai negara peserta, bukan di satu negara tuan rumah.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901190000 +0000" stop="20260901210000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901210000 +0000" stop="20260901223000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Sabuk Emas</title>
+    <desc lang="id">Sabuk Emas menggabungkan teknik gulat dan bela diri. Atlet bertanding dengan tujuan untuk menjatuhkan atau mengalahkan lawan dengan berbagai teknik dan strategi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Martial</category>
+  </programme>
+  <programme start="20260901223000 +0000" stop="20260902010000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260901223000 +0000" stop="20260902010000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260902010000 +0000" stop="20260902013000 +0000" channel="mastro.sportstars2">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20260902013000 +0000" stop="20260902020000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Sport Today</title>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902020000 +0000" stop="20260902040000 +0000" channel="mastro.sportstars2">
+    <title lang="id">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc lang="id">ASEAN C'ship Hyundai Cup 2026 merupakan ajang sepak bola paling bergengsi di Asia Tenggara yang mempertemukan tim nasional terbaik kawasan. Negara-negara unggulan seperti Thailand, Vietnam, Indonesia, Malaysia, dan Singapura bersaing bersama tim peserta lainnya dalam format kandang dan tandang. Setiap pertandingan menjadi penentu dalam perebutan gelar juara ASEAN, dengan pertandingan berlangsung di berbagai negara peserta, bukan di satu negara tuan rumah.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902040000 +0000" stop="20260902043000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Adrenaline Rush</title>
+    <desc lang="id">Acara yang menyuguhkan cuplikan penuh aksi dari banyak cabang olahraga ekstreme yang menguji nyali</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902043000 +0000" stop="20260902050000 +0000" channel="mastro.sportstars2">
+    <title lang="id">The Ultimate Goals</title>
+    <desc lang="id">Cuplikan cuplikan gol kelas dunia yang di kemas menjadi tayangan mampu dinikmati penggemar sepakbola</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902050000 +0000" stop="20260902073000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902093000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902113000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902113000 +0000" stop="20260902133000 +0000" channel="mastro.sportstars2">
+    <title lang="id">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc lang="id">ASEAN C'ship Hyundai Cup 2026 merupakan ajang sepak bola paling bergengsi di Asia Tenggara yang mempertemukan tim nasional terbaik kawasan. Negara-negara unggulan seperti Thailand, Vietnam, Indonesia, Malaysia, dan Singapura bersaing bersama tim peserta lainnya dalam format kandang dan tandang. Setiap pertandingan menjadi penentu dalam perebutan gelar juara ASEAN, dengan pertandingan berlangsung di berbagai negara peserta, bukan di satu negara tuan rumah.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902133000 +0000" stop="20260902150000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Sabuk Emas</title>
+    <desc lang="id">Sabuk Emas menggabungkan teknik gulat dan bela diri. Atlet bertanding dengan tujuan untuk menjatuhkan atau mengalahkan lawan dengan berbagai teknik dan strategi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Martial</category>
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902190000 +0000" channel="mastro.sportstars2">
+    <title lang="id">ASEAN C'ship Hyundai Cup 2026</title>
+    <desc lang="id">ASEAN C'ship Hyundai Cup 2026 merupakan ajang sepak bola paling bergengsi di Asia Tenggara yang mempertemukan tim nasional terbaik kawasan. Negara-negara unggulan seperti Thailand, Vietnam, Indonesia, Malaysia, dan Singapura bersaing bersama tim peserta lainnya dalam format kandang dan tandang. Setiap pertandingan menjadi penentu dalam perebutan gelar juara ASEAN, dengan pertandingan berlangsung di berbagai negara peserta, bukan di satu negara tuan rumah.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902190000 +0000" stop="20260902210000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902210000 +0000" stop="20260902223000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Sabuk Emas</title>
+    <desc lang="id">Sabuk Emas menggabungkan teknik gulat dan bela diri. Atlet bertanding dengan tujuan untuk menjatuhkan atau mengalahkan lawan dengan berbagai teknik dan strategi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Martial</category>
+  </programme>
+  <programme start="20260902223000 +0000" stop="20260903010000 +0000" channel="mastro.sportstars2">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260901050000 +0000" stop="20260901070000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901050000 +0000" stop="20260901070000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901070000 +0000" stop="20260901090000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901070000 +0000" stop="20260901090000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901090000 +0000" stop="20260901110000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260901090000 +0000" stop="20260901110000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260901110000 +0000" stop="20260901130000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901110000 +0000" stop="20260901130000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901170000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901150000 +0000" stop="20260901170000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901170000 +0000" stop="20260901190000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901170000 +0000" stop="20260901190000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901190000 +0000" stop="20260901210000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260901190000 +0000" stop="20260901210000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260901210000 +0000" stop="20260901230000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901210000 +0000" stop="20260901230000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901230000 +0000" stop="20260902010000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901230000 +0000" stop="20260902010000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901230000 +0000" stop="20260902010000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901230000 +0000" stop="20260902010000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902010000 +0000" stop="20260902030000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902010000 +0000" stop="20260902030000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902030000 +0000" stop="20260902050000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902030000 +0000" stop="20260902050000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902050000 +0000" stop="20260902070000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902050000 +0000" stop="20260902070000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902090000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902070000 +0000" stop="20260902090000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902110000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902110000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902110000 +0000" stop="20260902130000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902110000 +0000" stop="20260902130000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902130000 +0000" stop="20260902150000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902130000 +0000" stop="20260902150000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902190000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902190000 +0000" channel="mastro.sportstars3">
+    <title lang="id">AFC Champions League Elite</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902190000 +0000" stop="20260902210000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902190000 +0000" stop="20260902210000 +0000" channel="mastro.sportstars3">
+    <title lang="id">V-League Women</title>
+    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902210000 +0000" stop="20260902230000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902210000 +0000" stop="20260902230000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Sportacular International Match</title>
+    <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902230000 +0000" stop="20260903010000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902230000 +0000" stop="20260903010000 +0000" channel="mastro.sportstars3">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901173000 +0000" stop="20260901180000 +0000" channel="mastro.sportstars">
+    <title lang="id">Street Workout</title>
+    <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260901180000 +0000" stop="20260901183000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260901183000 +0000" stop="20260901190000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20260901190000 +0000" stop="20260901210000 +0000" channel="mastro.sportstars">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260901210000 +0000" stop="20260901230000 +0000" channel="mastro.sportstars">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260901230000 +0000" stop="20260901233000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260901233000 +0000" stop="20260902000000 +0000" channel="mastro.sportstars">
+    <title lang="id">Street Workout</title>
+    <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902000000 +0000" stop="20260902003000 +0000" channel="mastro.sportstars">
+    <title lang="id">Adrenaline Rush</title>
+    <desc lang="id">Acara yang menyuguhkan cuplikan penuh aksi dari banyak cabang olahraga ekstreme yang menguji nyali</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="mastro.sportstars">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Mens</title>
+    <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902043000 +0000" stop="20260902050000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902050000 +0000" stop="20260902053000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20260902053000 +0000" stop="20260902073000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Womens</title>
+    <desc lang="id">V-League 2025–2026: Women's. Kompetisi bola voli putri tertinggi di Vietnam menghadirkan klub-klub terbaik dengan perpaduan pemain lokal berbakat dan atlet internasional. Setiap pertandingan menjadi penentu dalam perebutan posisi papan atas dan peluang meraih gelar juara melalui permainan cepat, solid, dan penuh semangat.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902073000 +0000" stop="20260902093000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Mens</title>
+    <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="mastro.sportstars">
+    <title lang="id">Street Workout</title>
+    <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902103000 +0000" stop="20260902130000 +0000" channel="mastro.sportstars">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260902130000 +0000" stop="20260902133000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902133000 +0000" stop="20260902153000 +0000" channel="mastro.sportstars">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902153000 +0000" stop="20260902173000 +0000" channel="mastro.sportstars">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902173000 +0000" stop="20260902180000 +0000" channel="mastro.sportstars">
+    <title lang="id">Street Workout</title>
+    <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902180000 +0000" stop="20260902183000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902183000 +0000" stop="20260902190000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20260902190000 +0000" stop="20260902210000 +0000" channel="mastro.sportstars">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20260902210000 +0000" stop="20260902230000 +0000" channel="mastro.sportstars">
+    <title lang="id">Satu Hati Untuk Garuda</title>
+    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20260902230000 +0000" stop="20260902233000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20260902233000 +0000" stop="20260903000000 +0000" channel="mastro.sportstars">
+    <title lang="id">Street Workout</title>
+    <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
+    <category lang="id">Sports</category>
   </programme>
   <programme start="20260901050000 +0000" stop="20260901055500 +0000" channel="mastro.thrill">
     <title lang="id">Sinister, Ep 4</title>
