@@ -2,9 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    # 23:14 UTC = 07:14 AM MYT
-    # 11:14 UTC = 07:14 PM MYT
-    - cron: '14 11,23 * * *'
+    # 00:00 UTC = 08:00 AM
+    # 12:00 UTC = 08:00 PM
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,13 +17,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download and Combine EPG Sources
+      - name: Download and Combine epg.pw
         run: |
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
-
-          # 1. Source: epg.pw (Kekal mastro.*)
+          
+          # Format: "URL|CUSTOM_CHANNEL_ID"
           channels=(
+            "https://epg.pw/api/epg.xml?channel_id=562589|mastro.30"
+            "https://epg.pw/api/epg.xml?channel_id=3683|mastro.tv1"
+            "https://epg.pw/api/epg.xml?channel_id=3711|mastro.tv2"
+            "https://epg.pw/api/epg.xml?channel_id=1072|mastro.tv3"
+            "https://epg.pw/api/epg.xml?channel_id=1029|mastro.didiktv"
+            "https://epg.pw/api/epg.xml?channel_id=1122|mastro.8tv"
+            "https://epg.pw/api/epg.xml?channel_id=902|mastro.tv9"
             "https://epg.pw/api/epg.xml?channel_id=2384|mastro.ria"
             "https://epg.pw/api/epg.xml?channel_id=3158|mastro.prima"
             "https://epg.pw/api/epg.xml?channel_id=3145|mastro.oasis"
@@ -45,7 +52,6 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=3325|mastro.colors"
             "https://epg.pw/api/epg.xml?channel_id=2917|mastro.colorstamil"
             "https://epg.pw/api/epg.xml?channel_id=4183|mastro.ktv"
-            "https://epg.pw/api/epg.xml?channel_id=543317|mastro.sonyyay"
             "https://epg.pw/api/epg.xml?channel_id=3308|mastro.starvijay"
             "https://epg.pw/api/epg.xml?channel_id=3313|mastro.suntv"
             "https://epg.pw/api/epg.xml?channel_id=4181|mastro.sunlife"
@@ -146,88 +152,22 @@ jobs:
             if [ $(stat -c%s "$FILENAME") -lt 100 ]; then
               rm "$FILENAME"
             else
+              # Gantikan channel id asal dalam tag <channel id="..."> dan <programme channel="...">
               sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
               sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
             fi
             sleep 1.2
           done
 
-          # 2. Source: guide.xml.gz (Guna ID Asal)
-          curl -L "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" -o guide.xml.gz
-          gunzip -c guide.xml.gz > source_id.xml
-          rm guide.xml.gz
-
-          id_channels=(
-            "ANTV.id@SD"
-            "DAAITV.id@SD"
-            "GTV.id@SD"
-            "IMC.id@SD"
-            "Indosiar.id@SD"
-            "MDTV.id@HD"
-            "MNCTV.id@SD"
-            "Moji.id@SD"
-            "NusantaraTV.id@SD"
-            "RCTI.id@SD"
-            "RajawaliTV.id@SD"
-            "SCTV.id@SD"
-            "TransTV.id@SD"
-            "Trans7.id@SD"
-            "TVRI.id@SD"
-            "VisionPrime.id@SD"
-            "ZeeBioskop.id@SD"
-            "CNBCIndonesia.id@SD"
-            "CNNIndonesia.id@SD"
-          )
-
-          for orig_id in "${id_channels[@]}"; do
-            FILENAME="temp_epg/id_$(uuidgen).xml"
-
-            sed -n "/<channel id=\"$orig_id\"/,/<\/channel>/p" source_id.xml > "$FILENAME"
-            sed -n "/<programme channel=\"$orig_id\"/,/<\/programme>/p" source_id.xml >> "$FILENAME"
-
-            if [ ! -s "$FILENAME" ]; then
-              rm -f "$FILENAME"
-            fi
-          done
-          rm source_id.xml
-
-          # 3. Source: AqFad EPG (Guna ID Asal)
-          curl -L "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" -o source_aqfad.xml
-
-          aqfad_channels=(
-            "Astro30"
-            "TV1"
-            "TV2"
-            "TV3"
-            "DidikTVKPM"
-            "8TV"
-            "TV9"
-          )
-
-          for orig_id in "${aqfad_channels[@]}"; do
-            FILENAME="temp_epg/aqfad_$(uuidgen).xml"
-
-            sed -n "/<channel id=\"$orig_id\"/,/<\/channel>/p" source_aqfad.xml > "$FILENAME"
-            sed -n "/<programme channel=\"$orig_id\"/,/<\/programme>/p" source_aqfad.xml >> "$FILENAME"
-
-            if [ ! -s "$FILENAME" ]; then
-              rm -f "$FILENAME"
-            fi
-          done
-          rm source_aqfad.xml
-
-          # Gabungkan Semua Fail EPG
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
-          echo '<tv generator-info-name="MastroTV-EPG">' >> epg.xml
+          echo '<tv generator-info-name="Gemini-Fixed-EPG">' >> epg.xml
           
           for f in temp_epg/*.xml; do
-            [ -e "$f" ] || continue
-            sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml
+            sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml || true
           done
 
           for f in temp_epg/*.xml; do
-            [ -e "$f" ] || continue
-            sed -n '/<programme/,/<\/programme>/p' "$f" >> epg.xml
+            sed -n '/<programme/,/<\/programme>/p' "$f" | grep -vE '(\?xml|<tv|<\/tv)' >> epg.xml || true
           done
           
           echo '</tv>' >> epg.xml
@@ -244,5 +184,5 @@ jobs:
           git add epg.xml
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
-          git commit -m "Update EPG (epg.pw + ID + AqFad): $TIMESTAMP" || exit 0
+          git commit -m "Update EPG (epg.pw): $TIMESTAMP" || exit 0
           git push
