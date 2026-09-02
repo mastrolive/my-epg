@@ -1,9 +1,7 @@
 name: Update EPG (UTV)
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
-  workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
+  workflow_dispatch:
 
 jobs:
   update-epg-utv:
