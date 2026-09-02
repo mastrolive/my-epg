@@ -1,10 +1,6 @@
 name: Update EPG (G)
 
 on:
-  schedule:
-    # 00:00 UTC = 08:00 AM
-    # 12:00 UTC = 08:00 PM
-    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,7 +18,6 @@ jobs:
           sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
-          # Format: "URL|CUSTOM_CHANNEL_ID"
           channels=(
             "https://epg.pw/api/epg.xml?channel_id=562589|mastro.30"
             "https://epg.pw/api/epg.xml?channel_id=3683|mastro.tv1"
