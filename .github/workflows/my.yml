@@ -1,9 +1,7 @@
 name: Update EPG (MY)
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
-  workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
+  workflow_dispatch:
 
 jobs:
   update-epg-my:
@@ -33,34 +31,32 @@ jobs:
               "LawakSentral": "mastro.lawaksentral",
               "DramaHotpot": "mastro.dramahotpot",
               "TravelandTaste": "mastro.traveltaste",
-              "OhMyCeria": "mastro.ohmyceria"
+              "OhMyCeria": "mastro.ohmyceria",
+              "beINSports4": "mastro.beinsports4",
+              "beINSports5": "mastro.beinsports5"
           }
 
           tree = ET.parse("source_my.xml")
           root = tree.getroot()
           new_root = ET.Element("tv", root.attrib)
 
-          # Tapis & kemas kini ID untuk <channel>
           for channel in root.findall("channel"):
               old_id = channel.get("id")
               if old_id in CHANNEL_MAP:
                   channel.set("id", CHANNEL_MAP[old_id])
                   new_root.append(channel)
 
-          # Tapis & kemas kini ID untuk <programme>
           for programme in root.findall("programme"):
               old_channel = programme.get("channel")
               if old_channel in CHANNEL_MAP:
                   programme.set("channel", CHANNEL_MAP[old_channel])
                   new_root.append(programme)
 
-          # Simpan ke fail my.xml
           new_tree = ET.ElementTree(new_root)
           ET.indent(new_tree, space="  ")
           new_tree.write("my.xml", encoding="utf-8", xml_declaration=True)
           '
 
-          # 3. Padam fail sementara
           rm source_my.xml
 
       - name: Commit and Push Changes
@@ -69,5 +65,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add my.xml
           
-          # Commit hanya jika ada perubahan pada my.xml
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update my.xml [skip ci]" && git push)
