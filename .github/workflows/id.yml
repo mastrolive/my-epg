@@ -1,9 +1,7 @@
 name: Update EPG (ID)
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
-  workflow_dispatch: # Membenarkan anda jalankan secara manual dari tab Actions
+  workflow_dispatch:
 
 jobs:
   update-epg:
@@ -19,17 +17,13 @@ jobs:
 
       - name: Download, Filter & Update EPG
         run: |
-          # 1. Muat turun fail .gz
           curl -L "https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" -o guide.xml.gz
           
-          # 2. Nyahmampat fail .gz
           gunzip -c guide.xml.gz > source_guide.xml
           
-          # 3. Jalankan skrip Python untuk tapis & tukar ID EPG
           python3 -c '
           import xml.etree.ElementTree as ET
 
-          # Pemetaan ID asal ke ID mastro baharu
           CHANNEL_MAP = {
               "ANTV.id@SD": "mastro.antv",
               "DAAITV.id@SD": "mastro.daaitv",
@@ -65,34 +59,28 @@ jobs:
               "Sportstars3.id@SD": "mastro.sportstars3"
           }
 
-          # Baca fail XML asal
           tree = ET.parse("source_guide.xml")
           root = tree.getroot()
 
-          # Buat struktur XML baharu untuk id.xml
           new_root = ET.Element("tv", root.attrib)
 
-          # Filter & tukar ID <channel>
           for channel in root.findall("channel"):
               old_id = channel.get("id")
               if old_id in CHANNEL_MAP:
                   channel.set("id", CHANNEL_MAP[old_id])
                   new_root.append(channel)
 
-          # Filter & tukar ID <programme>
           for programme in root.findall("programme"):
               old_channel = programme.get("channel")
               if old_channel in CHANNEL_MAP:
                   programme.set("channel", CHANNEL_MAP[old_channel])
                   new_root.append(programme)
 
-          # Simpan ke id.xml
           new_tree = ET.ElementTree(new_root)
           ET.indent(new_tree, space="  ")
           new_tree.write("id.xml", encoding="utf-8", xml_declaration=True)
           '
 
-          # 4. Padam fail sementara
           rm guide.xml.gz source_guide.xml
 
       - name: Commit and Push Changes
@@ -101,5 +89,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add id.xml
           
-          # Commit hanya jika ada perubahan pada fail
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update id.xml [skip ci]" && git push)
