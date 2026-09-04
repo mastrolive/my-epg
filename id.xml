@@ -196,33 +196,10 @@
     <display-name>Zee Bioskop</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg" />
   </channel>
-  <programme start="20260903213000 +0000" stop="20260903230000 +0000" channel="mastro.antv">
-    <title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title>
-    <desc lang="id">Hati Ke Hati Bersama Mamah Dedeh</desc>
-    <image>https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904023000 +0000" channel="mastro.antv">
-    <title lang="id">Mega Bollywood Pagi : Cirkus</title>
-    <desc lang="id">Mega Bollywood Pagi : Cirkus</desc>
-    <image>https://thumbor.prod.vidiocdn.com/4pRYWfsxdPFSm4fdFKYxZt7zoPg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5284602/2cf70c.png</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904023000 +0000" channel="mastro.antv">
-    <title lang="id">Cirkus</title>
-    <desc lang="id">Kekacauan terjadi karena suatu kesalahan identitas ketika dua pasang anak kembar yang terpisah sejak lahir secara tak sengaja mengunjungi kota yang sama.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Comedy</category>
-  </programme>
   <programme start="20260904023000 +0000" stop="20260904060000 +0000" channel="mastro.antv">
     <title lang="id">Mega Bollywood : Don 2</title>
     <desc lang="id">Mega Bollywood : Don 2</desc>
     <image>https://thumbor.prod.vidiocdn.com/XS3TPcwNIjjJY6pasidZwPWjGKg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5284603/bed7d1.png</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904060000 +0000" channel="mastro.antv">
-    <title lang="id">Don 2</title>
-    <desc lang="id">Don turns himself in and escapes with Vardhaan from prison, following which he recruits a team to steal currency printing plates from a bank in Berlin.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Action</category>
   </programme>
   <programme start="20260904060000 +0000" stop="20260904073000 +0000" channel="mastro.antv">
     <title lang="id">Jhanak</title>
@@ -459,24 +436,6 @@
     <desc lang="id">Setelah seorang pria temperamental dilucuti dari tugasnya sebagai manajer bank, ia memutuskan untuk membalas dendam dengan merampok bank, dan untuk itu ia melatih tiga orang buta.</desc>
     <category lang="id">Movies</category>
   </programme>
-  <programme start="20260903231600 +0000" stop="20260904010700 +0000" channel="mastro.cineedge">
-    <title lang="id">Death Squad</title>
-    <desc lang="id">Ketika semua jalur komunikasi terputus dengan sebuah fasilitas penelitian ilmiah rahasia yang berlokasi di bekas laboratorium biokimia Uni Soviet, sebuah perusahaan militer swasta dibentuk untuk memasuki fasilitas tersebut guna mencari dan mengevakuasi dokter kepala.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Horror</category>
-  </programme>
-  <programme start="20260904010700 +0000" stop="20260904024600 +0000" channel="mastro.cineedge">
-    <title lang="id">The 2nd</title>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Action</category>
-  </programme>
-  <programme start="20260904024600 +0000" stop="20260904045100 +0000" channel="mastro.cineedge">
-    <title lang="id">A Day To Die</title>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Action</category>
-  </programme>
   <programme start="20260904045100 +0000" stop="20260904062400 +0000" channel="mastro.cineedge">
     <title lang="id">Paradox Effect</title>
     <desc lang="id">Seorang mantan pecandu menyaksikan sebuah pembunuhan. Ia terpaksa bekerja sama dengan sang pembunuh demi menyelamatkan nyawa putrinya. Ia harus berpacu dengan waktu, menghadapi polisi dan dunia kriminal untuk menyelamatkan satu-satunya orang yang paling berarti baginya.</desc>
@@ -646,21 +605,6 @@
     <category lang="id">Movies</category>
     <category lang="id">Horror</category>
   </programme>
-  <programme start="20260903210000 +0000" stop="20260903230000 +0000" channel="mastro.cnbcid">
-    <title lang="id">Closing Bell</title>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904003000 +0000" channel="mastro.cnbcid">
-    <title lang="id">Evening Up</title>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.cnbcid">
-    <title lang="id">Cuap Cuap Cuan</title>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="mastro.cnbcid">
-    <title lang="id">Squawk Box - Live</title>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904045500 +0000" channel="mastro.cnbcid">
-    <title lang="id">Profit - Live</title>
-  </programme>
   <programme start="20260904045500 +0000" stop="20260904070000 +0000" channel="mastro.cnbcid">
     <title lang="id">Power Lunch - Live</title>
   </programme>
@@ -753,30 +697,6 @@
   </programme>
   <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="mastro.cnbcid">
     <title lang="id">Power Lunch</title>
-  </programme>
-  <programme start="20260903214500 +0000" stop="20260903223000 +0000" channel="mastro.cnnid">
-    <title lang="id">Gapai Kemuliaan</title>
-  </programme>
-  <programme start="20260903223000 +0000" stop="20260903233000 +0000" channel="mastro.cnnid">
-    <title lang="id">Redaksi Pagi</title>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904003000 +0000" channel="mastro.cnnid">
-    <title lang="id">CNN Indonesia New Day</title>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="mastro.cnnid">
-    <title lang="id">Good Morning</title>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.cnnid">
-    <title lang="id">Redaksi Pagi</title>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="mastro.cnnid">
-    <title lang="id">Lacak Kriminal</title>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904030000 +0000" channel="mastro.cnnid">
-    <title lang="id">CNN Indonesia Today</title>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904040000 +0000" channel="mastro.cnnid">
-    <title lang="id">CNN Indonesia Business</title>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904054500 +0000" channel="mastro.cnnid">
     <title lang="id">CNN Indonesia News Hour</title>
@@ -906,111 +826,6 @@
   </programme>
   <programme start="20260905161500 +0000" stop="20260905174500 +0000" channel="mastro.cnnid">
     <title lang="id">Prime News</title>
-  </programme>
-  <programme start="20260903170000 +0000" stop="20260903223000 +0000" channel="mastro.daaitv">
-    <title lang="id">Sign Off</title>
-    <desc lang="id">Sign Off</desc>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260903223000 +0000" stop="20260903230000 +0000" channel="mastro.daaitv">
-    <title lang="id">Music Video &amp; Galeri Hijau</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260903231500 +0000" channel="mastro.daaitv">
-    <title lang="id">DAAI Inspirasi</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260903231500 +0000" stop="20260903233000 +0000" channel="mastro.daaitv">
-    <title lang="id">Lentera Kehidupan</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260903234500 +0000" channel="mastro.daaitv">
-    <title lang="id">Master Cheng Yen Bercerita</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260903234500 +0000" stop="20260904000000 +0000" channel="mastro.daaitv">
-    <title lang="id">Kartun Petualangan Xiao Li Zi</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="mastro.daaitv">
-    <title lang="id">Dr.Panda</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="mastro.daaitv">
-    <title lang="id">Dr. Panda</title>
-    <desc lang="id">Dr. Panda merupakan serial animasi edukatif untuk anak usia dini (kelas toddler hingga usia 3–8 tahun) yang berasal dari Tiongkok–Inggris dan diadaptasi dari aplikasi edukatif populer.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Animated</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.daaitv">
-    <title lang="id">Darwin &amp; Newts</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.daaitv">
-    <title lang="id">Darwin &amp; Newts</title>
-    <desc lang="id">Darwin &amp; Newts adalah serial animasi CGI dengan format edutainment yang mengisahkan dua kakak-adik Darwin dan Newts yang mengeksplorasi alam di New Zealand dan bereksperimen dengan konsep-konsep sains dasar seperti magnet, gravitasi, dan pengaruh angin.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Animated</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904013000 +0000" channel="mastro.daaitv">
-    <title lang="id">Clifford</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904013000 +0000" channel="mastro.daaitv">
-    <title lang="id">Clifford</title>
-    <desc lang="id">Clifford the Big Red Dog adalah serial animasi edukatif yang diadaptasi dari buku anak karya Norman Bridwell.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Animated</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.daaitv">
-    <title lang="id">@Indonesia</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.daaitv">
-    <title lang="id">@Indonesia</title>
-    <desc lang="id">Program ini dikemas secara informatif dan humanis, menampilkan liputan mendalam serta cerita positif yang mencerminkan nilai kemanusiaan, kepedulian sosial, dan semangat kebersamaan dalam kehidupan sehari-hari.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Debate</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.daaitv">
-    <title lang="id">Bincang Sehati</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.daaitv">
-    <title lang="id">Bincang Sehati</title>
-    <desc lang="id">Bincang Sehati adalah program talk show hidup yang hadir sebagai bagian dari kategori DAAI Lifestyle, berfokus pada tema kesehatan, psikologi, parenting, dan isu keuangan bagi keluarga Indonesia.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Talk show</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904033000 +0000" channel="mastro.daaitv">
-    <title lang="id">Sehat Ala Timur</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904033000 +0000" channel="mastro.daaitv">
-    <title lang="id">Sehat Ala Timur</title>
-    <desc lang="id">Sehat Ala Timur adalah program kesehatan yang menyajikan materiail seputar pengobatan tradisional Cina seperti akupunktur, teori Yin‑Yang, meridian, serta cara merawat tubuh secara alami.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Knowledge</category>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.daaitv">
-    <title lang="id">Vegetarian Kitchen</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.daaitv">
-    <title lang="id">Vegetarian Kitchen</title>
-    <desc lang="id">Program ini menampilkan kreasi resep masakan vegetarian dan gaya hidup nabati yang praktis dan bernutrisi.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Knowledge</category>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904050000 +0000" channel="mastro.daaitv">
-    <title lang="id">Drama Kisah Nyata: Menyimpan Rindu</title>
-    <image>https://thumbor.prod.vidiocdn.com/4PJ71rUqCD8qR8nD-wR83hKGLDw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg</image>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904050000 +0000" channel="mastro.daaitv">
-    <title lang="id">Menyimpan Rindu</title>
-    <desc lang="id">Diangkat dari pengalaman hidup nyata A Zhu dan Yan Ji-cang, Menyimpan Rindu menghadirkan kisah sebuah keluarga yang harus menghadapi berbagai tantangan kehidupan. Perjuangan mencari pekerjaan, tekanan ekonomi, serta dinamika hubungan antaranggota keluarga menjadi ujian yang membentuk perjalanan mereka. Di tengah berbagai cobaan, kasih sayang, ketulusan, dan semangat untuk tidak menyerah menjadi kekuatan yang menjaga mereka tetap bersatu. Serial ini menyampaikan pesan inspiratif tentang arti keluarga, harapan, dan keteguhan hati dalam menghadapi kehidupan.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Drama</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904060000 +0000" channel="mastro.daaitv">
     <title lang="id">Halo Indonesia</title>
@@ -1657,34 +1472,6 @@
     <category lang="id">Culture</category>
     <category lang="id">Knowledge</category>
   </programme>
-  <programme start="20260903221500 +0000" stop="20260904001500 +0000" channel="mastro.galaxy">
-    <title lang="id">The Last Champion</title>
-    <category lang="id">Movies</category>
-    <category lang="id">Children</category>
-    <category lang="id">Sports</category>
-    <category lang="id">Programmes</category>
-    <category lang="id">Films</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Action</category>
-  </programme>
-  <programme start="20260904001500 +0000" stop="20260904014000 +0000" channel="mastro.galaxy">
-    <title lang="id">Murder Of N. Brown Simpson</title>
-    <desc lang="id">Terinspirasi oleh peristiwa nyata, film ini mengikuti kisah mantan istri OJ Simpson, Nicole Brown Simpson, di hari-hari terakhir sebelum kematian tragisnya pada 12 Juni 1994, dilihat dari sudut pandangnya.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Thriller</category>
-  </programme>
-  <programme start="20260904014000 +0000" stop="20260904031500 +0000" channel="mastro.galaxy">
-    <title lang="id">Revival</title>
-    <desc lang="id">Suatu hari yang ajaib di pedesaan Wisconsin, orang-orang mati bangkit dari kubur mereka, namun tampak dan berperilaku tidak berubah. Kini, giliran Petugas dan seorang ibu tunggal, Dana Cypress, untuk memecahkan kasus pembunuhan di mana semua orang, hidup atau mati, menjadi tersangka.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904031500 +0000" stop="20260904045500 +0000" channel="mastro.galaxy">
-    <title lang="id">Gunfight At Dry River</title>
-    <desc lang="id">Perbatasan AS-Meksiko pada tahun 1888. Di Dry River, sebuah kota gurun yang dilanda kekeringan, janji emas akan membawa harapan, cinta, dan kematian dalam ukuran yang sama.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Action</category>
-  </programme>
   <programme start="20260904045500 +0000" stop="20260904063500 +0000" channel="mastro.galaxy">
     <title lang="id">Force Of Execution</title>
     <category lang="id">Movies</category>
@@ -1860,63 +1647,21 @@
     <category lang="id">Fantasy</category>
     <category lang="id">Action</category>
   </programme>
-  <programme start="20260903210000 +0000" stop="20260903230000 +0000" channel="mastro.gtv">
-    <title lang="id">Amazing Entertainment : Petualangan Fantasi</title>
-    <desc lang="id">Petualangan Fantasi sebuah program TV yang berisi series dan komedi.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260903233000 +0000" channel="mastro.gtv">
-    <title lang="id">Buletin iNews Pagi</title>
-    <desc lang="id">Program berita harian yang menyajikan berbagai peristiwa terkini secara cepat dan akurat dari seluruh Indonesia. Mengupas berbagai masalah yang tengah hangat di masyarakat, baik di bidang sosial, ekonomi, perkotaan, hingga dunia hukum dan politik. Semuanya dikemas secara mendalam, menyentuh tapi tetap kritis. Buletin iNews Pagi, Siang, dan Malam juga dilengkapi dengan berita-berita hiburan serta feature unik baik dari dalam dan luar negeri yang disajikan secara humanis. Saksikan Buletin iNews Pagi, Siang, dan Malam hanya di GTV!</desc>
-    <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904010000 +0000" channel="mastro.gtv">
-    <title lang="id">Amazing Kids : Kiko</title>
-    <desc lang="id">Animasi Kiko mengisahkan petualangan Kiko, seekor anak ikan mas koki yang mandiri dan riang, bersama empat sahabat setianya: Lola (ikan diskus), Ting Ting (kepiting), Patino (ikan patin), dan Poli (ikan cupang). Mereka menjalani berbagai kisah seru dan memecahkan masalah di bawah laut.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904010000 +0000" channel="mastro.gtv">
-    <title lang="id">Kiko</title>
-    <desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
-    <category lang="id">Children</category>
-    <category lang="id">Cartoons</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="mastro.gtv">
-    <title lang="id">Amazing Kids : Pada Zaman Dahulu</title>
-    <desc lang="id">Pada Zaman Dahulu adalah serial animasi yang mengangkat kisah fabel rakyat Melayu, terutama kecerdikan Sang Kancil. Cerita berpusat pada Aki yang menceritakan dongeng kepada dua cucunya, Aris dan Ara, yang tinggal bersamanya di kampung. Animasi ini mengandung nilai moral, nasihat kehidupan, dan hiburan.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="mastro.gtv">
-    <title lang="id">Pada Zaman Dahulu</title>
-    <desc lang="id">Anak kota Aris dan Ara berkunjung ke desa dan diceritakan kisah lama yang terlupakan tentang 'Sang Kancil' oleh kakek mereka, Aki.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
-    <category lang="id">Fantasy</category>
-  </programme>
   <programme start="20260904040000 +0000" stop="20260904053000 +0000" channel="mastro.gtv">
     <title lang="id">Amazing Kids : Spongebob Squarepants</title>
     <desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan penuh warna.</desc>
     <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
   </programme>
-  <programme start="20260904040000 +0000" stop="20260904053000 +0000" channel="mastro.gtv">
-    <title lang="id">The Helping Heroes</title>
-    <desc lang="id">Upin dan Ipin tampak seperti anak-anak berusia 5 tahun yang biasa-biasa saja, tapi mereka memiliki kekuatan super: membantu. Ikuti petualangan anak kembar ini saat mereka membantu orang lain, belajar pelajaran berharga, dan bersenang-senang!</desc>
-    <category lang="id">Movies</category>
+  <programme start="20260904050000 +0000" stop="20260904070000 +0000" channel="mastro.gtv">
+    <title lang="id">Kiko</title>
+    <desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
     <category lang="id">Children</category>
-    <category lang="id">Films</category>
-    <category lang="id">Animated</category>
+    <category lang="id">Cartoons</category>
   </programme>
   <programme start="20260904053000 +0000" stop="20260904073000 +0000" channel="mastro.gtv">
     <title lang="id">Amazing Kids : Spongebob Squarepants</title>
     <desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan penuh warna.</desc>
     <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
-  </programme>
-  <programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="mastro.gtv">
-    <title lang="id">Kiko</title>
-    <desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
-    <category lang="id">Children</category>
-    <category lang="id">Cartoons</category>
   </programme>
   <programme start="20260904070000 +0000" stop="20260904093000 +0000" channel="mastro.gtv">
     <title lang="id">Entong (GTV)</title>
@@ -2078,7 +1823,7 @@
     <desc lang="id">Pada Zaman Dahulu adalah serial animasi yang mengangkat kisah fabel rakyat Melayu, terutama kecerdikan Sang Kancil. Cerita berpusat pada Aki yang menceritakan dongeng kepada dua cucunya, Aris dan Ara, yang tinggal bersamanya di kampung. Animasi ini mengandung nilai moral, nasihat kehidupan, dan hiburan.</desc>
     <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
   </programme>
-  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="mastro.gtv">
+  <programme start="20260905010000 +0000" stop="20260905050000 +0000" channel="mastro.gtv">
     <title lang="id">Pada Zaman Dahulu</title>
     <desc lang="id">Anak kota Aris dan Ara berkunjung ke desa dan diceritakan kisah lama yang terlupakan tentang 'Sang Kancil' oleh kakek mereka, Aki.</desc>
     <category lang="id">Series</category>
@@ -2091,24 +1836,16 @@
     <desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan penuh warna.</desc>
     <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
   </programme>
-  <programme start="20260905040000 +0000" stop="20260905053000 +0000" channel="mastro.gtv">
-    <title lang="id">Pada Zaman Dahulu</title>
-    <desc lang="id">Anak kota Aris dan Ara berkunjung ke desa dan diceritakan kisah lama yang terlupakan tentang 'Sang Kancil' oleh kakek mereka, Aki.</desc>
-    <category lang="id">Series</category>
+  <programme start="20260905050000 +0000" stop="20260905070000 +0000" channel="mastro.gtv">
+    <title lang="id">Kiko</title>
+    <desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
     <category lang="id">Children</category>
-    <category lang="id">Animated</category>
-    <category lang="id">Fantasy</category>
+    <category lang="id">Cartoons</category>
   </programme>
   <programme start="20260905053000 +0000" stop="20260905073000 +0000" channel="mastro.gtv">
     <title lang="id">Amazing Kids : Spongebob Squarepants</title>
     <desc lang="id">SpongeBob SquarePants merupakan seri animasi yang menceritakan kehidupan seekor spons laut bernama SpongeBob yang tinggal di kota bawah laut Bikini Bottom. Dengan semangat dan rasa ingin tahu yang tinggi, SpongeBob menjalani berbagai kisah bersama teman-temannya yang unik dan penuh warna.</desc>
     <image>https://thumbor.prod.vidiocdn.com/TOcxXU9y7kSyj8FHwmXOFknXRAc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg</image>
-  </programme>
-  <programme start="20260905053000 +0000" stop="20260905070000 +0000" channel="mastro.gtv">
-    <title lang="id">Kiko</title>
-    <desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
-    <category lang="id">Children</category>
-    <category lang="id">Cartoons</category>
   </programme>
   <programme start="20260905070000 +0000" stop="20260905093000 +0000" channel="mastro.gtv">
     <title lang="id">Entong (GTV)</title>
@@ -2193,46 +1930,31 @@
     <category lang="id">Debate</category>
   </programme>
   <programme start="20260905173000 +0000" stop="20260905190000 +0000" channel="mastro.gtv">
-    <title lang="id">GTV</title>
-    <desc lang="id">Saluran televisi yang menayangkan acara realitas (terutama social experiment show), acara permainan/kuis, serial animasi, serta program-program yang bernuansa mistis.</desc>
-    <category lang="id">Entertainment</category>
+    <title lang="id">1001 Kisah</title>
+    <desc lang="id">1001 Kisah merupakan program yang menayangkan legenda rakyat dan mitos-mitos zaman dahulu.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
+    <category lang="id">Fantasy</category>
   </programme>
   <programme start="20260905190000 +0000" stop="20260905210000 +0000" channel="mastro.gtv">
-    <title lang="id">GTV</title>
-    <desc lang="id">Saluran televisi yang menayangkan acara realitas (terutama social experiment show), acara permainan/kuis, serial animasi, serta program-program yang bernuansa mistis.</desc>
+    <title lang="id">Ragam Cerita</title>
+    <desc lang="id">Ragam Cerita merupakan acara yang dapat menikmati berbagai cerita dari berbagai bidang, seperti tren terbaru, tokoh-tokoh inspiratif, peristiwa menarik, dan banyak lagi.</desc>
     <category lang="id">Entertainment</category>
+    <category lang="id">Magazine</category>
   </programme>
   <programme start="20260905210000 +0000" stop="20260905230000 +0000" channel="mastro.gtv">
-    <title lang="id">GTV</title>
-    <desc lang="id">Saluran televisi yang menayangkan acara realitas (terutama social experiment show), acara permainan/kuis, serial animasi, serta program-program yang bernuansa mistis.</desc>
-    <category lang="id">Entertainment</category>
+    <title lang="id">Petualangan Fantasi</title>
+    <desc lang="id">Petualangan Fantasi sebuah program TV yang berisi series bergenre petualangan dan fantasi yang dibalut dengan komedi.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Fantasy</category>
   </programme>
-  <programme start="20260905230000 +0000" stop="20260905234500 +0000" channel="mastro.gtv">
-    <title lang="id">GTV</title>
-    <desc lang="id">Saluran televisi yang menayangkan acara realitas (terutama social experiment show), acara permainan/kuis, serial animasi, serta program-program yang bernuansa mistis.</desc>
-    <category lang="id">Entertainment</category>
-  </programme>
-  <programme start="20260905234500 +0000" stop="20260906010000 +0000" channel="mastro.gtv">
-    <title lang="id">GTV</title>
-    <desc lang="id">Saluran televisi yang menayangkan acara realitas (terutama social experiment show), acara permainan/kuis, serial animasi, serta program-program yang bernuansa mistis.</desc>
-    <category lang="id">Entertainment</category>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904010000 +0000" channel="mastro.imc">
-    <title lang="id">Pohon Keramat</title>
-    <category lang="id">Movies</category>
-    <category lang="id">Horror</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904023000 +0000" channel="mastro.imc">
-    <title lang="id">Senggol Bacok</title>
-    <desc lang="id">Saat Galang berusaha melupakan tunangannya, takdir mempertemukan dirinya dengan Laras, seorang gadis manis yang meluluhkan hatinya. Sayangnya, sifat temperamen Galang malah menjauhkan dirinya dari Laras.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Comedy</category>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904040000 +0000" channel="mastro.imc">
-    <title lang="id">Belahan Jiwa</title>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
+  <programme start="20260905230000 +0000" stop="20260906000000 +0000" channel="mastro.gtv">
+    <title lang="id">CoComelon Dan Sahabat</title>
+    <desc lang="id">JJ dan saudara-saudaranya memulai petualangan belajar musik untuk mengenal alfabet, angka, tata krama, dan konsep anak usia dini lainnya.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Children</category>
+    <category lang="id">Musical</category>
+    <category lang="id">Animated</category>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904062500 +0000" channel="mastro.imc">
     <title lang="id">Soekarno</title>
@@ -2408,80 +2130,17 @@
     <category lang="id">Drama</category>
     <category lang="id">Action</category>
   </programme>
-  <programme start="20260903213000 +0000" stop="20260903223000 +0000" channel="mastro.indosiar">
-    <title lang="id">Fokus Pagi</title>
-    <desc lang="id">Berita Lengkap Dan Terkini Dari Dalam Dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, Dan Lain-Lain.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
-  </programme>
-  <programme start="20260903223000 +0000" stop="20260904000000 +0000" channel="mastro.indosiar">
-    <title lang="id">Merangkai Kisah Indah</title>
-    <desc lang="id">Sebuah Siraman Rohani Yang Disampaikan Oleh Prof. Dr. H. Nasaruddin Umar, Ma Melalui Sebuah Program Rohani Yang Bertajuk Pintu Pintu Syurga</desc>
-    <image>https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904013000 +0000" channel="mastro.indosiar">
-    <title lang="id">Kisah Nyata Pagi: Sahabat Adalah Maut</title>
-    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904030000 +0000" channel="mastro.indosiar">
-    <title lang="id">Kisah Nyata Pagi: Rahasia Gelap Cinta Kedua Dalam Rumah Tanggaku</title>
-    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904040000 +0000" channel="mastro.indosiar">
-    <title lang="id">Hot Kiss</title>
-    <desc lang="id">Berita Ter-Hot Dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas Dan Menarik. Saksikan Setiap Hari Rabu &amp; Kamis Pukul 08.00-10.30 Wib, Hanya Di Indosiar</desc>
-    <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904040000 +0000" channel="mastro.indosiar">
-    <title lang="id">Hot Kiss</title>
-    <desc lang="id">Setiap episode menampilkan cuplikan kehidupan publik figur, konflik, kisah personal dan tren terkini yang ringan namun mengundang rasa penasaran pemirsa.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Misc</category>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="mastro.indosiar">
-    <title lang="id">Patroli Siang</title>
-    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="mastro.indosiar">
-    <title lang="id">Patroli Siang</title>
-    <desc lang="id">Setiap episode menyajikan laporan eksklusif dari lapangan tentang tindak kejahatan, konflik sosial, serta proses penanganan oleh aparat terkait.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="mastro.indosiar">
-    <title lang="id">Fokus Siang</title>
-    <desc lang="id">Program Berita Aktual Dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, Dan Lain-Lain.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="mastro.indosiar">
-    <title lang="id">Fokus Siang</title>
-    <desc lang="id">Setiap episode menghadirkan laporan mendalam mengenai politik, ekonomi, sosial, dan peristiwa penting lainnya, lengkap dengan analisis dari pakar.</desc>
-    <category lang="id">News</category>
-  </programme>
   <programme start="20260904050000 +0000" stop="20260904063000 +0000" channel="mastro.indosiar">
     <title lang="id">Kisah Nyata Siang: Misteri Suara Rintihan Dalam Rumah Tua</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 Wib, Hanya Di Indosiar.</desc>
     <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
   </programme>
-  <programme start="20260904050000 +0000" stop="20260904063000 +0000" channel="mastro.indosiar">
-    <title lang="id">Misteri Suara Rintihan</title>
-    <desc lang="id">Reno (Chand Kelvin) tinggal bersama kakaknya, Aldi (Fajar Rezky) dan ibunya (Miranty Dewi). Di suatu malam, no ingin mencari angin di luar rumah karena stres memikirkan dirinya yang belum diterima kerja di manapun dan masih bergantung dengan kakaknya. Di dekat rumahnya, ada sebuah rumah tua. Reno langsung mendekati rumah tersebut dan mendengar suara rintihan yang tidak berhenti.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904063000 +0000" stop="20260904080000 +0000" channel="mastro.indosiar">
+  <programme start="20260904063000 +0000" stop="20260904075800 +0000" channel="mastro.indosiar">
     <title lang="id">Kisah Nyata: Rahasia Liontin Pemecah Rumah Tanggaku</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
   </programme>
-  <programme start="20260904063000 +0000" stop="20260904080000 +0000" channel="mastro.indosiar">
-    <title lang="id">Rahasia Liontin Pemecah...</title>
-    <desc lang="id">Sarah (Liza Elly) baru saja dinikahi Demian (Arie Dwi Andika) namun sudah diteror oleh seseorang yang mengincar suaminya. Welly seorang chef yang bekerja di perusahaan Demian ternyata memiliki niat untuk merebut suami Sarah. Usai dinikahi oleh Demian, Welly terus mengurung Sarah hingga terbongkar kalau Demian menjalin hubungan dengan Risa.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904080000 +0000" stop="20260904103000 +0000" channel="mastro.indosiar">
+  <programme start="20260904075800 +0000" stop="20260904103600 +0000" channel="mastro.indosiar">
     <title lang="id">Bri Super League 2026/27 : Arema Fc Vs Isen Mulang Kalteng Fc: Bri Super League 2026/27 : Arema Fc Vs Isen Mulang Kalteng Fc</title>
     <desc lang="id">Bri Super League 2026/27 : Arema Fc Vs Isen Mulang Kalteng Fc</desc>
     <image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image>
@@ -2494,14 +2153,14 @@
   </programme>
   <programme start="20260904103000 +0000" stop="20260904113000 +0000" channel="mastro.indosiar">
     <title lang="id">Merangkai Kisah Indah</title>
-    <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg</image>
-  </programme>
-  <programme start="20260904103000 +0000" stop="20260904113000 +0000" channel="mastro.indosiar">
-    <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Setiap episode menampilkan kisah nyata maupun fiksi yang mengajarkan nilai-nilai kebaikan, cinta, dan persahabatan, mengajak penonton untuk merenung dan menghargai setiap momen indah dalam hidup.</desc>
     <category lang="id">Series</category>
     <category lang="id">Drama</category>
+  </programme>
+  <programme start="20260904103600 +0000" stop="20260904113000 +0000" channel="mastro.indosiar">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <image>https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg</image>
   </programme>
   <programme start="20260904113000 +0000" stop="20260904140000 +0000" channel="mastro.indosiar">
     <title lang="id">Bri Super League 2026/27 : Bali United Fc Vs Pss Sleman: Bri Super League 2026/27 : Bali United Fc Vs Pss Sleman</title>
@@ -2711,135 +2370,35 @@
     <category lang="id">Series</category>
     <category lang="id">Drama</category>
   </programme>
-  <programme start="20260903211500 +0000" stop="20260903230000 +0000" channel="mastro.inews">
-    <title lang="id">iNews Pagi</title>
-    <desc lang="id">Program Buletin Pagi Hari Yang Menyajikan Berita Terkini Dan Terpercaya, Mulai Dari Isu Nasional, Internasional, Sport, Kriminal Dan Lainnya.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260903231500 +0000" channel="mastro.inews">
-    <title lang="id">iNews Sport Pagi</title>
-    <desc lang="id">Program Berita Olahraga Terupdate Mulai Dari Kabar Sepakbola Tanah Air Dan Dunia, Bulutangkis, Basket, Hingga Motorspot Dan Olahraga Ekstrem, Semua Dirangkum Dalam Laporan Cepat Dan Visual Atraktif. Tak Hanya Hasi Pertandingan, Inews Sport Pagi Juga Menghadirkan Profil Atlet Inspiratif, Analisa Pertandingan, Hingga Momen Behind The Scene Dari Dunia Olahraga</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260903231500 +0000" stop="20260903234500 +0000" channel="mastro.inews">
-    <title lang="id">Special Report</title>
-    <desc lang="id">Rangkuman Berita Up-To-Date Mulai Dari Kriminal, Sosial Kemasyarakatan, Politik Hingga Internasional</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260903234500 +0000" stop="20260904001500 +0000" channel="mastro.inews">
-    <title lang="id">Morning Update</title>
-    <desc lang="id">Program Yang Menyajikan Informasi Viral, Tips, Gaya Hidup Serta Berita Update Seputar Kriminal Dan Isu Nasional</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260903234500 +0000" stop="20260904001500 +0000" channel="mastro.inews">
-    <title lang="id">Morning Update</title>
-    <desc lang="id">Morning Update, menyajikan informasi terkini seputar berita, dunia selebriti, konten viral, serta tips dan gaya hidup yang dirancang untuk memberikan informasi yang informatif sekaligus menghibur bagi pemirsa di pagi hari.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Debate</category>
-  </programme>
-  <programme start="20260904001500 +0000" stop="20260904011500 +0000" channel="mastro.inews">
-    <title lang="id">iNews Room Pagi</title>
-    <desc lang="id">Program Berita Dan Informasi LIVE Yang Menyajikan Rangkuman Peristiwa Penting, Analisis Mendalam, Dan Perspektif Solusi Untuk Memulai Hari.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904001500 +0000" stop="20260904011500 +0000" channel="mastro.inews">
-    <title lang="id">iNews Room Pagi (L)</title>
-    <desc lang="id">Siaran berita pagi yang menyajikan informasi terkini dari dalam dan luar negeri, mencakup peristiwa penting, perkembangan terbaru, serta laporan langsung untuk mengawali hari pemirsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904011500 +0000" stop="20260904020000 +0000" channel="mastro.inews">
-    <title lang="id">Lapor Polisi</title>
-    <desc lang="id">Program Berita Kriminal Yang Menghadirkan Laporan Seputar Peristiwa Hukum, Kriminalitas Dari Seluruh Penjuru Indonesia. Lebih Dari Sekedar Tayangan Kriminal, Lapor Polisi Juga Berperan Sebagai Media Edukatif Bagi Masyarakat Tentang Pentingnya Kewaspadaan, Disiplin Hukum, Dan Peran Aktif Warga Dalam Menjaga Keamanan Lingkungan</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904011500 +0000" stop="20260904020000 +0000" channel="mastro.inews">
-    <title lang="id">Lapor Polisi (L)</title>
-    <desc lang="id">Program baru persembahan iNews. Lapor Polisi! Anda Lapor,kami sampaikan. Program spesial yang tayang dari Senin hingga Jumat pukul 09.00 WIB pagi. Polisi adalah wadah untuk aspirasi, keluhan, laporan pengaduan dan apresiasi kepada pihak kepolisian di seluruh nusantara.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.inews">
-    <title lang="id">Breaking News</title>
-    <desc lang="id">Program Ini Menyajikan Update Cepat Dan Akurat Mengenai Berita Nasional Maupun Internasional Dari Berbagai Sumber Terpercaya, Menghadirkan Informasi Terkini, Faktual, Dan Relevan Untuk Memberikan Gambaran Menyeluruh Atas Peristiwa-Peristiwa Penting Yang Terjadi.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.inews">
-    <title lang="id">Breaking News (Inews)</title>
-    <desc lang="id">Breaking News menghadirkan informasi terkini mengenai peristiwa penting dari dalam dan luar negeri secara cepat, akurat, dan langsung, lengkap dengan laporan langsung serta perkembangan terbaru.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904040000 +0000" channel="mastro.inews">
-    <title lang="id">iNews Today</title>
-    <desc lang="id">Daily Morning News And Talkshow Yang Dikemas Secara Light Namun Tetap Informatif Dan Up-To-Date Membahas Isu Yang Sedang Hangat Jadi Perbincangan Publik</desc>
-    <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904040000 +0000" channel="mastro.inews">
-    <title lang="id">iNews Today (L)</title>
-    <desc lang="id">Program berita harian yang disiarkan di jaringan televisi iNews menggantikan program berita Sindo.</desc>
-    <category lang="id">News</category>
-  </programme>
   <programme start="20260904040000 +0000" stop="20260904060000 +0000" channel="mastro.inews">
     <title lang="id">iNews Siang</title>
     <desc lang="id">Program Buletin Siang Hari Yang Menyajikan Berita Terkini Dan Terpercaya, Mulai Dari Isu Nasional, Internasional, Sport, Kriminal Dan Lainnya.</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904060000 +0000" channel="mastro.inews">
-    <title lang="id">iNews Siang (L)</title>
-    <desc lang="id">Program berita harian yang disiarkan di jaringan televisi iNews menggantikan program berita Sindo.</desc>
-    <category lang="id">News</category>
   </programme>
   <programme start="20260904060000 +0000" stop="20260904063000 +0000" channel="mastro.inews">
     <title lang="id">Pemimpin Rakyat</title>
     <desc lang="id">Pemimpin Rakyat Merupakan Program Yang Menyajikan Informasi Seputar Program Kerja Serta Pemberitaan Pemerintah Indonesia. Dikemas Secara Aktual, Tajam, Dan Informatif, Program Ini Menghadirkan Perkembangan Terkini, Kebijakan Strategis, Serta Langkah Nyata Pemerintah Dalam Melayani Masyarakat. Pemimpin Rakyat Menjadi Sumber Informasi Terpercaya Bagi Pemirsa Dalam Memahami Arah Dan Kinerja Pemerintah.</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
   </programme>
-  <programme start="20260904060000 +0000" stop="20260904063000 +0000" channel="mastro.inews">
-    <title lang="id">Pemimpin Rakyat (L)</title>
-    <desc lang="id">Pemimpin pilihan rakyat dalam proses Pemilihan Kepala Daerah serentak tahun 2024.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Socioeconomics</category>
-  </programme>
   <programme start="20260904063000 +0000" stop="20260904073000 +0000" channel="mastro.inews">
     <title lang="id">Breaking News</title>
     <desc lang="id">Program Ini Menyajikan Update Cepat Dan Akurat Mengenai Berita Nasional Maupun Internasional Dari Berbagai Sumber Terpercaya, Menghadirkan Informasi Terkini, Faktual, Dan Relevan Untuk Memberikan Gambaran Menyeluruh Atas Peristiwa-Peristiwa Penting Yang Terjadi.</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904063000 +0000" stop="20260904073000 +0000" channel="mastro.inews">
-    <title lang="id">Breaking News (Inews)</title>
-    <desc lang="id">Breaking News menghadirkan informasi terkini mengenai peristiwa penting dari dalam dan luar negeri secara cepat, akurat, dan langsung, lengkap dengan laporan langsung serta perkembangan terbaru.</desc>
-    <category lang="id">News</category>
   </programme>
   <programme start="20260904073000 +0000" stop="20260904074000 +0000" channel="mastro.inews">
     <title lang="id">Breaking Goals</title>
     <desc lang="id">Program Breaking Goals Asean Championship Hyundai Cup 2026 Menyajikan Rangkuman Pertandingan, Gol-Gol Terbaik, Serta Momen-Momen Menegangkan Dari Ajang Sepak Bola Terbesar Di Asia Tenggara.Program Ini Akan Menampilkan Highlight, Analisis Singkat, Dan Update Terkini Seputar Perjalanan Tim Menuju Gelar Juara Asean.</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
   </programme>
-  <programme start="20260904073000 +0000" stop="20260904074000 +0000" channel="mastro.inews">
-    <title lang="id">Breaking Goals (L)</title>
-    <desc lang="id">Program olahraga yang disiarkan langsung, menyajikan berita sepak bola terkini, hasil pertandingan, sorotan gol terbaik, serta analisis mendalam dari berbagai kompetisi dunia.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Sports</category>
-    <category lang="id">Programmes</category>
-  </programme>
   <programme start="20260904074000 +0000" stop="20260904091500 +0000" channel="mastro.inews">
     <title lang="id">Realita</title>
     <desc lang="id">Program Yang Mengungkap Beragam Tindak Kriminal Yang Terjadi Di Tanah Air. Realita Tidak Hanya Meyampaikan Fakta Namun Juga Menghimbau Masyarakat Agar Tetap Waspada Terhadap Kriminalitas Disekitar</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
   </programme>
-  <programme start="20260904074000 +0000" stop="20260904091500 +0000" channel="mastro.inews">
-    <title lang="id">Realita (L)</title>
-    <desc lang="id">Program berita yang melihat peristiwa dari sudut realita yang benar-benar terjadi dan mengungkap fakta yang belum pernah terungkap.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Socioeconomics</category>
-  </programme>
   <programme start="20260904091500 +0000" stop="20260904120000 +0000" channel="mastro.inews">
     <title lang="id">iNews Sore</title>
     <desc lang="id">Program Buletin Sore Hari Yang Menyajikan Berita Terkini Dan Terpercaya, Mulai Dari Isu Nasional, Internasional, Sport, Kriminal Dan Lainnya. Gaya Penyajian Tegas Dan Informatf Menjadikan Inews Sore Bukan Hanya Rangkuman Berita Namun Berisi Informasi Lengkap Serta Analisis Tajam</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904091500 +0000" stop="20260904120000 +0000" channel="mastro.inews">
-    <title lang="id">Inews Sore (Live)</title>
-    <desc lang="id">Program berita harian yang tayang tiap sore hari, memberikan informasi dari berbagai bidang mulai dari peristiwa politik, hukum, sosial, budaya, ekonomi, dan olah raga, baik dari dalam ataupun luar negeri.</desc>
-    <category lang="id">News</category>
   </programme>
   <programme start="20260904120000 +0000" stop="20260904133000 +0000" channel="mastro.inews">
     <title lang="id">iNews Room</title>
@@ -2922,20 +2481,10 @@
     <desc lang="id">Ruang Anda Memperbaharui Informasi Dengan Diskusi Komrehensif. Berita Terupdate Dan Terakurat Hadir Menemani Primetime Anda</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
   </programme>
-  <programme start="20260904174500 +0000" stop="20260904183000 +0000" channel="mastro.inews">
-    <title lang="id">iNews Sore</title>
-    <desc lang="id">Program berita harian yang disiarkan di jaringan televisi iNews menggantikan program berita Sindo.</desc>
-    <category lang="id">News</category>
-  </programme>
   <programme start="20260904183000 +0000" stop="20260904190000 +0000" channel="mastro.inews">
     <title lang="id">Highlight Formula E : Race London Ii</title>
     <desc lang="id">Program Highlight Formula E Menghadirkan Rangkuman Aksi Terbaik Dari Ajang Balap Mobil Listrik Paling Bergengsi Di Dunia. Dikemas Secara Dinamis Dan Informatif, Program Ini Menyajikan Momen-Momen Krusial Hingga Insiden Menegangkan Yang Terjadi Di Lintasan.</desc>
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
-  </programme>
-  <programme start="20260904183000 +0000" stop="20260904190000 +0000" channel="mastro.inews">
-    <title lang="id">iNews</title>
-    <desc lang="id">Saluran televisi yang menayangkan berita nasional dan daerah yang menyajikan informasi terkini dan terbaru seperti, Berita Politik, Hukum, Keuangan, Teknologi.</desc>
-    <category lang="id">News</category>
   </programme>
   <programme start="20260904190000 +0000" stop="20260904193000 +0000" channel="mastro.inews">
     <title lang="id">iNews Malam</title>
@@ -3129,10 +2678,9 @@
     <image>https://thumbor.prod.vidiocdn.com/0qOMvAPzzyBGpJR2RaTndLUlSao=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg</image>
   </programme>
   <programme start="20260905151000 +0000" stop="20260905160000 +0000" channel="mastro.inews">
-    <title lang="id">Breaking News (L)</title>
-    <desc lang="id">Program berita harian yang menyajikan informasi tercepat dan teraktual secara detail dari berbagai bidang</desc>
+    <title lang="id">Breaking News (Inews)</title>
+    <desc lang="id">Breaking News menghadirkan informasi terkini mengenai peristiwa penting dari dalam dan luar negeri secara cepat, akurat, dan langsung, lengkap dengan laporan langsung serta perkembangan terbaru.</desc>
     <category lang="id">News</category>
-    <category lang="id">Reports</category>
   </programme>
   <programme start="20260905160000 +0000" stop="20260905163000 +0000" channel="mastro.inews">
     <title lang="id">iNews Sport</title>
@@ -3212,35 +2760,6 @@
     <title lang="id">Special Report</title>
     <desc lang="id">Special Report merupakan sebuah acara berita yang menyajikan beragam berita istimewa yang dikemas secara lebih rinci</desc>
     <category lang="id">News</category>
-  </programme>
-  <programme start="20260903223500 +0000" stop="20260904000500 +0000" channel="mastro.kix">
-    <title lang="id">The Macaque Monkey</title>
-    <desc lang="id">Dunia berada dalam kekacauan setelah pohon kehidupan dibakar. Sun Wu Kong pun memutuskan untuk kembali ke masa lalu guna menghidupkannya kembali, tetapi kekuatannya tak stabil usai dirinya kehilangan ikat kepala emas.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Action</category>
-  </programme>
-  <programme start="20260904000500 +0000" stop="20260904020500 +0000" channel="mastro.kix">
-    <title lang="id">Iron Squad W, Ep 9</title>
-    <desc lang="id">Kali ini, bukan tentara pria, tetapi tentara wanita! Sebuah program bertahan hidup militer di mana para prajurit cadangan wanita terbaik membentuk sebuah tim dan bertarung demi kehormatan unit mereka.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Action</category>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20260904020500 +0000" stop="20260904032500 +0000" channel="mastro.kix">
-    <title lang="id">Dragon Master: Dragon Spell</title>
-    <desc lang="id">Raja Naga dikunci dalam segel oleh Tuan Naga selama 500 tahun, dan putri sang Raja harus kembali ke masa lalu guna membunuh Tuan Naga saat mengetahui bahwa keduanya adalah teman dekat di masa lalu.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Fantasy</category>
-    <category lang="id">Action</category>
-  </programme>
-  <programme start="20260904032500 +0000" stop="20260904050000 +0000" channel="mastro.kix">
-    <title lang="id">Gangster, The Cop, The Devil</title>
-    <desc lang="id">Detektif Lin membentuk unit khusus untuk menangkap perampok motor dan sindikat di balik aksi pencurian di Foshan usai istrinya yang hamil ditabrak oleh perampok motor.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Thriller</category>
-    <category lang="id">Action</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904063500 +0000" channel="mastro.kix">
     <title lang="id">Fierce Cop</title>
@@ -3459,64 +2978,6 @@
     <category lang="id">Sports</category>
     <category lang="id">Programmes</category>
     <category lang="id">Action</category>
-  </programme>
-  <programme start="20260903210500 +0000" stop="20260903225500 +0000" channel="mastro.mdtv">
-    <title lang="id">Top Spot</title>
-    <image>https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg</image>
-  </programme>
-  <programme start="20260903225500 +0000" stop="20260903234500 +0000" channel="mastro.mdtv">
-    <title lang="id">Menjemput Berkah</title>
-    <image>https://thumbor.prod.vidiocdn.com/BDnZAn_cBv04fVLemv6GfxZlNds=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/6004/menjemput-berkah-341d99.png</image>
-  </programme>
-  <programme start="20260903234500 +0000" stop="20260904010000 +0000" channel="mastro.mdtv">
-    <title lang="id">Aadd (Ada Apa Dengan Dunia)</title>
-    <image>https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg</image>
-  </programme>
-  <programme start="20260903234500 +0000" stop="20260904010000 +0000" channel="mastro.mdtv">
-    <title lang="id">AADD: Ada Apa Dengan Dunia</title>
-    <desc lang="id">Ada Apa Dengan Dunia hari ini? Semua peristiwa dan tragedi yang sedang gempar di dunia akan terangkum dengan jelas dan teraktual. Hanya di Net TV!</desc>
-    <category lang="id">News</category>
-    <category lang="id">Debate</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904015500 +0000" channel="mastro.mdtv">
-    <title lang="id">Fakta +62</title>
-    <image>https://thumbor.prod.vidiocdn.com/oWZe75IH-WnhJdRbycWnmTM90FA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382340/153991.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904015500 +0000" channel="mastro.mdtv">
-    <title lang="id">Fakta +62</title>
-    <desc lang="id">Fakta +62 adalah program berita pagi dan siang yang menyiarkan informasi seputar peristiwa, politik, kriminal, kuliner dan wisata.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Debate</category>
-  </programme>
-  <programme start="20260904015500 +0000" stop="20260904030000 +0000" channel="mastro.mdtv">
-    <title lang="id">Sensasihot</title>
-    <image>https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg</image>
-  </programme>
-  <programme start="20260904015500 +0000" stop="20260904030000 +0000" channel="mastro.mdtv">
-    <title lang="id">Sensasihot</title>
-    <desc lang="id">Program terbaru dari Net TV yang menghadirkan cerita-cerita penuh sensasi dari kalangan selebriti.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Misc</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904035000 +0000" channel="mastro.mdtv">
-    <title lang="id">Bawang Merah Bawang Putih</title>
-    <image>https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904035000 +0000" channel="mastro.mdtv">
-    <title lang="id">Bawang Merah Bawang Putih</title>
-    <desc lang="id">Berdasarkan cerita rakyat Indonesia. Bawang Merah dan ibunya Rika iri dengan kehidupan Bawang Putih. Rika meracuni ibu Bawang Putih dan menikahi ayahnya. Dia dan putrinya membuat hidup Bawang Putih menderita dan menderita.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904035000 +0000" stop="20260904045500 +0000" channel="mastro.mdtv">
-    <title lang="id">Suci</title>
-    <image>https://thumbor.prod.vidiocdn.com/WF3_Z5GB2Z2YlHbrFpXxUiX93Xs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408082/7d14f5.jpg</image>
-  </programme>
-  <programme start="20260904035000 +0000" stop="20260904045500 +0000" channel="mastro.mdtv">
-    <title lang="id">SUCI</title>
-    <desc lang="id">Suci, gadis sederhana yang menghadapi berbagai cobaan hidup, berjuang menemukan kebahagiaan dan cinta sejati di tengah konflik keluarga, rahasia masa lalu, dan pengkhianatan.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Drama</category>
   </programme>
   <programme start="20260904045500 +0000" stop="20260904055500 +0000" channel="mastro.mdtv">
     <title lang="id">Resep Chef Devina</title>
@@ -3881,42 +3342,6 @@
     <category lang="id">News</category>
     <category lang="id">Debate</category>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903223000 +0000" channel="mastro.mentaritv">
-    <title lang="id">Little Angel</title>
-    <desc lang="id">Little Angel</desc>
-    <image>https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg</image>
-  </programme>
-  <programme start="20260903223000 +0000" stop="20260903230000 +0000" channel="mastro.mentaritv">
-    <title lang="id">Cocomelon Eng</title>
-    <desc lang="id">Cocomelon Eng</desc>
-    <image>https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="mastro.mentaritv">
-    <title lang="id">Numberblocks &amp; Colourblocks</title>
-    <desc lang="id">Numberblocks &amp; Colourblocks</desc>
-    <image>https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.mentaritv">
-    <title lang="id">Pinkfong &amp; Friends</title>
-    <desc lang="id">Pinkfong &amp; Friends</desc>
-    <image>https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904023000 +0000" channel="mastro.mentaritv">
-    <title lang="id">Tayo The Little Bus</title>
-    <desc lang="id">Tayo The Little Bus</desc>
-    <image>https://thumbor.prod.vidiocdn.com/KPjWmmxSknSJevgMdz2APzr4XMQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/55/622155.jpg</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904040000 +0000" channel="mastro.mentaritv">
-    <title lang="id">Katuri</title>
-    <desc lang="id">Katuri</desc>
-    <image>https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904040000 +0000" channel="mastro.mentaritv">
-    <title lang="id">KATURI</title>
-    <desc lang="id">Katuri adalah sebuah acara menarik tentang empat anak burung pegar yang tumbuh di hutan alami di bawah perawatan dan kasih sayang lembut ibu flora. Ibu flora selalu mendorong anak-anaknya untuk menjelajahi dunia bersama hewan lain dan membantu mereka kapan pun mereka membutuhkan. Ketika anak-anak burung merak mengalami kesulitan atau bahkan bahaya, ibu flora selalu ada untuk menjaga mereka tetap aman.</desc>
-    <category lang="id">Children</category>
-    <category lang="id">Education</category>
-  </programme>
   <programme start="20260904040000 +0000" stop="20260904060000 +0000" channel="mastro.mentaritv">
     <title lang="id">Pororo The Little Penguin</title>
     <desc lang="id">Pororo The Little Penguin</desc>
@@ -3968,23 +3393,10 @@
     <desc lang="id">Cipung Abubu</desc>
     <image>https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg</image>
   </programme>
-  <programme start="20260904100000 +0000" stop="20260904103000 +0000" channel="mastro.mentaritv">
-    <title lang="id">CIPUNG ABUBU</title>
-    <desc lang="id">Berawal dari lahirnya rayyanza malik ahmad (cipung), putra kedua dari raffi ahmad dan nagita slavina yang membawa kebahagiaan untuk semua orang, bahkan sepupunya zayn dan zuney. Namun, berbeda dengan Rafathar, si anak sulung, dia justru cemburu karena merasa seluruh perhatian diambil oleh cipung. hingga keajaiban terjadi saat Fairy dust mengenai cipung, rafathar, Zayn, dan Zuney. Fairy dust mengubah para bayi menjadi bayi-bayi ajaib dan membawa mereka ke dunia boba, tempat untuk anak-anak di mana semua keajaiban bisa terjadi dan tanpa diketahui orang dewasa. Sejak saat itulah petualangan dimulai. Bersama para boba, makhluk yang bekerja di sana, mereka menciptakan alatalat ajaib hingga bertemu berbagai makhluk menakjubkan seperti monster tauge, para virus, zombie, manusia salju, hingga bertemu supercool yang meningkatkan adrenalin petualangan mereka.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-  </programme>
   <programme start="20260904103000 +0000" stop="20260904110000 +0000" channel="mastro.mentaritv">
     <title lang="id">Rainbow Bubblegem</title>
     <desc lang="id">Rainbow Bubblegem</desc>
     <image>https://thumbor.prod.vidiocdn.com/nu4JZ42X5vjTXRVwKBy1zyKN3dU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383650/bd78ed.jpg</image>
-  </programme>
-  <programme start="20260904103000 +0000" stop="20260904110000 +0000" channel="mastro.mentaritv">
-    <title lang="id">RAINBOW BUBBLEGEM</title>
-    <desc lang="id">Di dunia bawah laut, putri duyung bernama purple merindukan petualangan di daratan dan secara diam-diam mengambil risiko besar dengan mengubah dirinya menjadi manusia. Dengan bantuan pink star, peri penjaga bubblegem yang sedang tertidur, purple berubah wujud. Namun, penggunaan sihir yang berlebihan menyebabkan bubblegem, sumber kekuatan mereka, terpotong dan tersebar di daratan. untuk mengumpulkan kembali bubblegem yang tersebar, ratu laut white gold memerintahkan tujuh putri duyung dari kerajaan laut yang berbeda.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
   </programme>
   <programme start="20260904110000 +0000" stop="20260904113000 +0000" channel="mastro.mentaritv">
     <title lang="id">Sunny Girl</title>
@@ -4376,112 +3788,9 @@
     <category lang="id">Children</category>
     <category lang="id">Films</category>
   </programme>
-  <programme start="20260903220500 +0000" stop="20260903230500 +0000" channel="mastro.metrotv">
-    <title lang="id">Top News</title>
-    <image>https://thumbor.prod.vidiocdn.com/75l1EW2iNxkyNF6-8vJMltwrYoI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380471/f49093.jpg</image>
-  </programme>
-  <programme start="20260903230500 +0000" stop="20260903233000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro Sport</title>
-    <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904000500 +0000" channel="mastro.metrotv">
-    <title lang="id">Go Healthy</title>
-    <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904000500 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904000500 +0000" stop="20260904003000 +0000" channel="mastro.metrotv">
-    <title lang="id">Editorial Media Indonesia</title>
-    <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260904000500 +0000" stop="20260904003000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904023000 +0000" channel="mastro.metrotv">
-    <title lang="id">Selamat Pagi Indonesia</title>
-    <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904010500 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904010500 +0000" stop="20260904013000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904020500 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904020500 +0000" stop="20260904023000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904033000 +0000" channel="mastro.metrotv">
-    <title lang="id">Zona Bisnis</title>
-    <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904030000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904030500 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904030500 +0000" stop="20260904033000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040500 +0000" channel="mastro.metrotv">
-    <title lang="id">Sehat No Debat</title>
-    <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904040500 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
   <programme start="20260904040500 +0000" stop="20260904060000 +0000" channel="mastro.metrotv">
     <title lang="id">Metro Siang</title>
     <image>https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg</image>
-  </programme>
-  <programme start="20260904040500 +0000" stop="20260904043000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="mastro.metrotv">
-    <title lang="id">Metro TV</title>
-    <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
-    <category lang="id">News</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="mastro.metrotv">
     <title lang="id">Metro TV</title>
@@ -5236,129 +4545,40 @@
     <desc lang="id">Televisi berita pertama di Indonesia yang menyebarkan berita dan informasi ke seluruh pelosok Indonesia, serta menayangkan beragam program informasi mengenai kemajuan teknologi, kesehatan, pengetahuan umum, seni dan budaya, dan lainnya guna mencerdaskan bangsa.</desc>
     <category lang="id">News</category>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903230000 +0000" channel="mastro.mnctv">
-    <title lang="id">Rumahnya Keluarga : Siraman Qolbu</title>
-    <desc lang="id">Program religi penyejuk hati bersama Mamah Dedeh. Program ini penuh dengan nilai-nilai islami yang mampu berikan solusi terbaik untuk setiap masalah</desc>
-    <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260903231500 +0000" channel="mastro.mnctv">
-    <title lang="id">Rumahnya Anak : Selamat Pagi Cocomelon &amp; Kawan Kawan</title>
-    <desc lang="id">Acara animasi anak yang menampilkan lagu lagu anak dan memperkenalkan dunia kepada anak anak melalui cerita yang menarik</desc>
-    <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260903231500 +0000" stop="20260904000000 +0000" channel="mastro.mnctv">
-    <title lang="id">Rumahnya Anak : Dora &amp; Sahabat</title>
-    <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="mastro.mnctv">
-    <title lang="id">Selamat Pagi Upin &amp; Ipin</title>
-    <desc lang="id">Program Animasi tentang Upin dan Ipin yang merupakan sepasang kembar berusia belia yang tinggal bersama Kak Ros dan Opah di Kampung Durian Runtuh. Upin dan Ipin bersekolah di Tadika Mesra yang penuh keceriaan bersama teman-temannya.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.mnctv">
-    <title lang="id">Pada Zaman Dahulu</title>
-    <desc lang="id">Anak kota Aris dan Ara berkunjung ke desa dan diceritakan kisah lama yang terlupakan tentang 'Sang Kancil' oleh kakek mereka, Aki.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
-    <category lang="id">Fantasy</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.mnctv">
-    <title lang="id">Pada Zaman Dahulu</title>
-    <desc lang="id">sebuah serial animasi yg menceritakan tentang Atok dan kedua cucunya yg bernama Aris dan Ara. Dalam kesehariannya Atok selalu bercerita mengenai dongeng dongeng klasik mengenai hewan kepada Aris dan Ara. Dongeng yg diceritakan pun memiliki nilai yang bisa diterapkan dalam kehidupan saat ini</desc>
-    <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="mastro.mnctv">
-    <title lang="id">Sahabat Selamanya Upin &amp; Ipin</title>
-    <desc lang="id">Program Animasi tentang Upin dan Ipin yang merupakan sepasang kembar berusia belia yang tinggal bersama Kak Ros dan Opah di Kampung Durian Runtuh. Upin dan Ipin bersekolah di Tadika Mesra yang penuh keceriaan bersama teman-temannya.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="mastro.mnctv">
-    <title lang="id">Upin dan Ipin (MNCTV)</title>
-    <desc lang="id">Serial televisi animasi kartun anak-anak yang mengisahkan kehidupan Upin &amp; Ipin, sepasang anak laki-laki kembar berusia 5 tahun yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
-  </programme>
   <programme start="20260904040000 +0000" stop="20260904051500 +0000" channel="mastro.mnctv">
     <title lang="id">Rumahnya Anak : Kiko</title>
     <desc lang="id">Program animasi tentang Kiko, seekor anak ikan mas koki. Cerita bermula saat danau tempat tinggal Kiko tercemar limbah beracun akibat ulah sembrono manusia. Hal ini membuat Kiko dan kawan-kawannya berubah menjadi mutan. Mereka pun tumbuh menjadi makhluk air yang bisa bicara, layaknya manusia. Dan, petualangan pun dimulai.</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904051500 +0000" channel="mastro.mnctv">
-    <title lang="id">Kiko</title>
-    <desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc>
-    <category lang="id">Children</category>
-    <category lang="id">Cartoons</category>
   </programme>
   <programme start="20260904051500 +0000" stop="20260904054500 +0000" channel="mastro.mnctv">
     <title lang="id">Lintas Inews Siang</title>
     <desc lang="id">Lintas Inews Siang adalah Program Berita Yang Menyajikan Update Berita dari Seluruh Nusantara, Baik Berita Sosial, Ekonomi, Politik, Kriminal &amp; Feature yang Informatif dan Inspirasional.</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
   </programme>
-  <programme start="20260904051500 +0000" stop="20260904054500 +0000" channel="mastro.mnctv">
-    <title lang="id">Lintas iNews Siang</title>
-    <desc lang="id">Program berita yang tayang tiap siang hari, menyampaikan fakta apa adanya, tanpa rekayasa, serta menyajikan berita-berita tekini dan teraktual.</desc>
-    <category lang="id">News</category>
-  </programme>
   <programme start="20260904054500 +0000" stop="20260904061500 +0000" channel="mastro.mnctv">
     <title lang="id">Rumahnya Seleb : Seleb On News 2026</title>
     <desc lang="id">Program yang menyuguhkan berita-berita terkini dari kehidupan selebriti, berita viral dan gosip hangat yang ramai diperbincangkan</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904054500 +0000" stop="20260904061500 +0000" channel="mastro.mnctv">
-    <title lang="id">Seleb On News</title>
-    <desc lang="id">Program infotainment yang memberitakan informasi dan rumor terkini seputar selebriti Indonesia.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Magazine</category>
   </programme>
   <programme start="20260904061500 +0000" stop="20260904073000 +0000" channel="mastro.mnctv">
     <title lang="id">Kembara Upin &amp; Ipin</title>
     <desc lang="id">Program Animasi tentang Upin dan Ipin yang merupakan sepasang kembar berusia belia yang tinggal bersama Kak Ros dan Opah di Kampung Durian Runtuh. Upin dan Ipin bersekolah di Tadika Mesra yang penuh keceriaan bersama teman-temannya.</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
   </programme>
-  <programme start="20260904061500 +0000" stop="20260904073000 +0000" channel="mastro.mnctv">
-    <title lang="id">Upin &amp; Ipin</title>
-    <desc lang="id">Serial televisi animasi kartun anak-anak yang mengisahkan kehidupan Upin &amp; Ipin, sepasang anak laki-laki kembar berusia 5 tahun yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
-  </programme>
   <programme start="20260904073000 +0000" stop="20260904090000 +0000" channel="mastro.mnctv">
     <title lang="id">Upin &amp; Ipin Geng Durian Runtuh</title>
     <desc lang="id">Program Animasi tentang Upin dan Ipin yang merupakan sepasang kembar berusia belia yang tinggal bersama Kak Ros dan Opah di Kampung Durian Runtuh. Upin dan Ipin bersekolah di Tadika Mesra yang penuh keceriaan bersama teman-temannya.</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904073000 +0000" stop="20260904090000 +0000" channel="mastro.mnctv">
-    <title lang="id">Upin dan Ipin (MNCTV)</title>
-    <desc lang="id">Serial televisi animasi kartun anak-anak yang mengisahkan kehidupan Upin &amp; Ipin, sepasang anak laki-laki kembar berusia 5 tahun yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
   </programme>
   <programme start="20260904090000 +0000" stop="20260904110000 +0000" channel="mastro.mnctv">
     <title lang="id">Petualangan Upin &amp; Ipin</title>
     <desc lang="id">Program Animasi tentang Upin dan Ipin yang merupakan sepasang kembar berusia belia yang tinggal bersama Kak Ros dan Opah di Kampung Durian Runtuh. Upin dan Ipin bersekolah di Tadika Mesra yang penuh keceriaan bersama teman-temannya.</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
   </programme>
-  <programme start="20260904090000 +0000" stop="20260904110000 +0000" channel="mastro.mnctv">
-    <title lang="id">Upin dan Ipin (MNCTV)</title>
-    <desc lang="id">Serial televisi animasi kartun anak-anak yang mengisahkan kehidupan Upin &amp; Ipin, sepasang anak laki-laki kembar berusia 5 tahun yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
-  </programme>
   <programme start="20260904110000 +0000" stop="20260904120000 +0000" channel="mastro.mnctv">
     <title lang="id">Rumahnya Anak : Entong</title>
     <desc lang="id">Animasi ini bercerita tentang petualangan Entong, seorang anak lelaki baik hati dan rajin ibadah yang tinggal di Betawi, dengan logat dan cerita yang kental akan budaya loka</desc>
     <image>https://thumbor.prod.vidiocdn.com/u8TXwDHHJ68fB-mbh0ck00QHYD8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg</image>
-  </programme>
-  <programme start="20260904110000 +0000" stop="20260904120000 +0000" channel="mastro.mnctv">
-    <title lang="id">Entong</title>
-    <desc lang="id">Animasi buatan Indonesia yang bercerita berdasarkan sinetron terkenal di MNCTV yaitu Si Entong yang ditayangkan pada tahun 2005 lalu.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Animated</category>
   </programme>
   <programme start="20260904120000 +0000" stop="20260904123000 +0000" channel="mastro.mnctv">
     <title lang="id">Upin &amp; Ipin Bermula</title>
@@ -5545,61 +4765,7 @@
     <category lang="id">Action</category>
     <category lang="id">Comedy</category>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903231500 +0000" channel="mastro.moji">
-    <title lang="id">Moji Sport</title>
-    <desc lang="id">MOJI SPORT</desc>
-    <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
-  </programme>
-  <programme start="20260903231500 +0000" stop="20260904000000 +0000" channel="mastro.moji">
-    <title lang="id">Liputan 6 Pagi Moji</title>
-    <desc lang="id">LIPUTAN 6 PAGI MOJI</desc>
-    <image>https://thumbor.prod.vidiocdn.com/OdCWmgaUj8arXVCXqWQSKWq4wqY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380975/fbdc78.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.moji">
-    <title lang="id">Bisik Pagi</title>
-    <desc lang="id">BISIK PAGI</desc>
-    <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.moji">
-    <title lang="id">BISIK PAGI</title>
-    <desc lang="id">Program ini membahas berbagai topik menarik seputar gaya hidup, hiburan, kesehatan, hingga kisah-kisah inspiratif, disajikan dengan suasana santai dan penuh kehangatan.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Talk show</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904020000 +0000" channel="mastro.moji">
-    <title lang="id">Ungkap</title>
-    <desc lang="id">UNGKAP</desc>
-    <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904020000 +0000" channel="mastro.moji">
-    <title lang="id">UNGKAP</title>
-    <desc lang="id">Melalui rekonstruksi, wawancara eksklusif, dan penelusuran mendalam, program ini mengungkap fakta-fakta tersembunyi di balik peristiwa yang penuh misteri.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Knowledge</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.moji">
-    <title lang="id">Ungkap</title>
-    <desc lang="id">UNGKAP</desc>
-    <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.moji">
-    <title lang="id">UNGKAP</title>
-    <desc lang="id">Melalui rekonstruksi, wawancara eksklusif, dan penelusuran mendalam, program ini mengungkap fakta-fakta tersembunyi di balik peristiwa yang penuh misteri.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Knowledge</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904053000 +0000" channel="mastro.moji">
-    <title lang="id">AVC Men'S Continental Championship 2026 (LIVE) - Iran vs New Zealand</title>
-    <desc lang="id">AVC MEN'S CONTINENTAL CHAMPIONSHIP 2026 (LIVE) - IRAN VS NEW ZEALAND</desc>
-    <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904053000 +0000" channel="mastro.moji">
-    <title lang="id">AVC MEN'S CONTINENTAL CHAMPIONSHIP 2026 (LIVE) - IRAN VS NEW ZEALAND</title>
-    <desc lang="id">Iran mengandalkan pengalaman serta permainan menyerang yang kuat, sementara New Zealand berusaha memberikan perlawanan melalui kerja sama dan determinasi. Kedua tim memburu kemenangan penting dalam persaingan kejuaraan voli putra Asia.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
-  <programme start="20260904053000 +0000" stop="20260904063000 +0000" channel="mastro.moji">
+  <programme start="20260904045000 +0000" stop="20260904063000 +0000" channel="mastro.moji">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
@@ -5615,22 +4781,10 @@
     <desc lang="id">AVC MEN'S CONTINENTAL CHAMPIONSHIP 2026 (LIVE) - KOREA VS CHINESE TAIPEI</desc>
     <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
   </programme>
-  <programme start="20260904063000 +0000" stop="20260904090000 +0000" channel="mastro.moji">
-    <title lang="id">AVC MEN'S CONTINENTAL CHAMPIONSHIP 2026 (LIVE) - KOREA VS CHINESE TAIPEI</title>
-    <desc lang="id">Korea mengandalkan pengalaman dan kekuatan serangan, sementara Chinese Taipei berusaha memberikan perlawanan melalui kerja sama tim dan permainan yang solid.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
   <programme start="20260904090000 +0000" stop="20260904100000 +0000" channel="mastro.moji">
     <title lang="id">AVC Women'S Nation Cup</title>
     <desc lang="id">AVC WOMEN'S NATION CUP</desc>
     <image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image>
-  </programme>
-  <programme start="20260904090000 +0000" stop="20260904100000 +0000" channel="mastro.moji">
-    <title lang="id">AVC WOMEN'S NATION CUP</title>
-    <desc lang="id">Para tim bertanding melalui fase grup hingga babak penentuan dengan mengandalkan kemampuan, kerja sama, dan strategi terbaik mereka.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
   </programme>
   <programme start="20260904100000 +0000" stop="20260904123000 +0000" channel="mastro.moji">
     <title lang="id">AVC Men'S Continental Championship 2026 (LIVE) - Japan vs Oman</title>
@@ -5851,50 +5005,6 @@
     <title lang="id">LIPUTAN 6 PAGI MOJI</title>
     <desc lang="id">Program ini menghadirkan berita hangat seputar peristiwa nasional, internasional, ekonomi, olahraga, hingga gaya hidup, dikemas secara informatif dan aktual untuk menemani pemirsa memulai hari dengan wawasan yang luas.</desc>
     <category lang="id">News</category>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="mastro.nhkworld">
-    <title lang="id">NHK Newsline</title>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Today's Close-Up</title>
-    <desc lang="id">Today's Close-Up adalah program berita, saluran internasional NHK yang disiarkan dalam bahasa Jepang. Acara ini mengupas isu-isu terkini di Jepang dengan pendekatan yang tajam dan analitis, menyajikan perspektif yang jarang ditemukan di media arus utama.</desc>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904013000 +0000" channel="mastro.nhkworld">
-    <title lang="id">NHK Newsline</title>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Asia Insight</title>
-    <category lang="id">Series</category>
-    <category lang="id">History</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="mastro.nhkworld">
-    <title lang="id">NHK Newsline</title>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904030000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Trailblazers</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904033000 +0000" channel="mastro.nhkworld">
-    <title lang="id">NHK Newsline</title>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Japan Railway Journal</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="mastro.nhkworld">
-    <title lang="id">NHK Newsline</title>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Seasoning The Seasons</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="mastro.nhkworld">
     <title lang="id">NHK Newsline</title>
@@ -6153,9 +5263,9 @@
     <category lang="id">News</category>
   </programme>
   <programme start="20260905041000 +0000" stop="20260905044000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Time And Tide</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
+    <title lang="id">Samurai Wisdom</title>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
   </programme>
   <programme start="20260905044000 +0000" stop="20260905050000 +0000" channel="mastro.nhkworld">
     <title lang="id">Time-Lapse Journey</title>
@@ -6207,9 +5317,9 @@
     <category lang="id">News</category>
   </programme>
   <programme start="20260905081000 +0000" stop="20260905084000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Time And Tide</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
+    <title lang="id">Samurai Wisdom</title>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
   </programme>
   <programme start="20260905084000 +0000" stop="20260905090000 +0000" channel="mastro.nhkworld">
     <title lang="id">Time-Lapse Journey</title>
@@ -6336,9 +5446,9 @@
     <category lang="id">News</category>
   </programme>
   <programme start="20260905161000 +0000" stop="20260905164000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Time And Tide</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
+    <title lang="id">Samurai Wisdom</title>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
   </programme>
   <programme start="20260905164000 +0000" stop="20260905170000 +0000" channel="mastro.nhkworld">
     <title lang="id">Time-Lapse Journey</title>
@@ -6430,9 +5540,9 @@
     <category lang="id">News</category>
   </programme>
   <programme start="20260905221000 +0000" stop="20260905224000 +0000" channel="mastro.nhkworld">
-    <title lang="id">Time And Tide</title>
-    <category lang="id">Culture</category>
-    <category lang="id">Documentaries</category>
+    <title lang="id">Samurai Wisdom</title>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
   </programme>
   <programme start="20260905224000 +0000" stop="20260905230000 +0000" channel="mastro.nhkworld">
     <title lang="id">Time-Lapse Journey</title>
@@ -6459,46 +5569,6 @@
     <category lang="id">Culture</category>
     <category lang="id">Theatre</category>
     <category lang="id">Documentaries</category>
-  </programme>
-  <programme start="20260903210000 +0000" stop="20260903230000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">NTV Prime</title>
-    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904003000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">NTV Morning</title>
-    <desc lang="id">Sumber informasi yang bisa diakses masyarakat setiap pagi sebelum memulai aktivitas. Menyajikan rangkuman berita utama dari kemarin hingga dini hari</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">Morning Spotlights</title>
-    <desc lang="id">Program pagi yang menyoroti current issue setiap harinya, dan dibawakan oleh dua host. Program ini menggabungkan: Hard news yang dikemas secara ringan, Live Report dengan penyajian lebih pop, Info event harian (konser, seminar, workshop, dll), Trending topic &amp; viral content, Lifestyle, Interaksi dengan audiens dan komentar netizen</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904020000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">Celebrity Fresh</title>
-    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">Kok Bisa Viral</title>
-    <desc lang="id">Kok Bisa Viral menyajikan ragam informasi/fakta unik dari dalam ataupun luar negeri secara urutan peringkat</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904033000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">Nusantara Economic Updates</title>
-    <desc lang="id">Program buletin harian yang khusus mengulas ragam isu ekonomi dan bisnis dengan mengedepankan updates, analisa mendalam, serta dampaknya pada sektor ekonomi nasional</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">NTV Crime</title>
-    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air dan fakta yang aktual dibalik peristiwa kriminal</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904050000 +0000" channel="mastro.nusantaratv">
-    <title lang="id">NTV Today</title>
-    <desc lang="id">Program buletin berita harian yang menyajikan beragam informasi terkini dari dalam dan luar negeri, mencakup peristiwa, hukum, politik, agenda kegiatan, wisata, kuliner, dan hiburan</desc>
-    <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="mastro.nusantaratv">
     <title lang="id">Asta Cita</title>
@@ -6689,38 +5759,6 @@
     <title lang="id">Kok Bisa Viral</title>
     <desc lang="id">Kok Bisa Viral menyajikan ragam informasi/fakta unik dari dalam ataupun luar negeri secara urutan peringkat</desc>
     <image>https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg</image>
-  </programme>
-  <programme start="20260903220000 +0000" stop="20260904020000 +0000" channel="mastro.rtv">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/7I-A460jdFtlv4hy4qPZqTmeCw8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/7825/bread-barbershop-7396ac.png</image>
-  </programme>
-  <programme start="20260903220000 +0000" stop="20260904020000 +0000" channel="mastro.rtv">
-    <title lang="id">Bread Barbershop</title>
-    <desc lang="id">Di suatu kota yang dipenuhi makanan, Bread, sang master dekorasi kue, merombak penampilan para pelanggannya. Hasilnya menaikkan suasana hati serta mengubah hidup mereka.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Animated</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.rtv">
-    <title lang="id">Metal Cardbot</title>
-    <desc lang="id">Dahulu Kala, Terdapat Sebuah Planet Bernama Machina Dimana Metal Cardbots Tinggal. Suatu Ketika, Planet Ini Tiba-Tiba Meledak Dan Memaksa Semua Penghuninya Untuk Hidup Di Bumi. Agar Tidak Menarik Perhatian Makhluk Bumi, Cardbots Menyamar Sebagai Kendaraan Sehari-Hari. Hingga Suatu Hari, Seorang Anak Sekolah Dasar Yang Bernama Jun Secara Tidak Sengaja Menemukan Metal Breath, Dengan Metal Breath Tersebut Dia Bisa Menangkap Dan Menyalakan Cardbots Dengan Kemampuan Yang Berbeda.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg</image>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="mastro.rtv">
-    <title lang="id">METAL CARDBOT</title>
-    <desc lang="id">Dahulu kala, terdapat sebuah planet bernama Machina dimana Metal Cardbots tinggal. Suatu ketika, planet ini tiba-tiba meledak dan memaksa semua penghuninya untuk hidup di Bumi.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Action</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904044500 +0000" channel="mastro.rtv">
-    <title lang="id">Grizzy And The Lemmings</title>
-    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin Bermain Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904044500 +0000" channel="mastro.rtv">
-    <title lang="id">Grizzy And The Lemmings</title>
-    <category lang="id">Series</category>
-    <category lang="id">Animated</category>
   </programme>
   <programme start="20260904044500 +0000" stop="20260904054500 +0000" channel="mastro.rtv">
     <title lang="id">Blox Buster</title>
@@ -7190,43 +6228,6 @@
     <category lang="id">Action</category>
     <category lang="id">Animated</category>
   </programme>
-  <programme start="20260903221500 +0000" stop="20260903224500 +0000" channel="mastro.rcti">
-    <title lang="id">Seputar Inews</title>
-    <desc lang="id">Program berita yang menyajikan rangkuman berita-berita penting dan terkini yang terjadi di dalam dan luar negeri. Dari politik, ekonomi, hukum, hingga peristiwa sosial dan olahraga, semua dikupas tuntas di sini.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/peXe4_yjW1WDr6JR9M525yLyc1w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg</image>
-  </programme>
-  <programme start="20260903224500 +0000" stop="20260904024500 +0000" channel="mastro.rcti">
-    <title lang="id">Layar Drama Indonesia Pagi : Preman Pensiun Deui</title>
-    <desc lang="id">Pensiunnya Bahar (pemimpin preman) dan kekacauan yang terjadi di wilayah kekuasaannya setelah ia menyerahkan urusan pada tangan kanannya, Muslihat, yang kemudian mencoba mengambil alih, memicu konflik dengan anak buah seperti Jamal dan Komar, memaksa Bahar turun tangan lagi untuk menyelesaikan masalah dan mengembalikan ketertiban, seperti kasus tanah di kampung dan penahanan Jamal.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/peXe4_yjW1WDr6JR9M525yLyc1w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg</image>
-  </programme>
-  <programme start="20260903224500 +0000" stop="20260904024500 +0000" channel="mastro.rcti">
-    <title lang="id">Preman Pensiun Deui</title>
-    <category lang="id">Series</category>
-    <category lang="id">Comedy</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904024500 +0000" stop="20260904040000 +0000" channel="mastro.rcti">
-    <title lang="id">Layar Drama Indonesia Pagi : Terlanjur Mencintaimu Arumi (Rr)</title>
-    <desc lang="id">Arumi, seorang barista keliling pekerja keras, menikah dengan Rendi, namun kemudian mengetahui bahwa pria itu sudah beristri dan hanya memanfaatkannya demi mendapatkan pewaris. Sempat mengira bayinya telah meninggal, ia akhirnya mengungkap kebenaran dan menemukan harapan baru bersama Elio.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/RsmBv7JbIl0q0Er7UyYsMWdSvL8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285424/a8328c.jpg</image>
-  </programme>
-  <programme start="20260904024500 +0000" stop="20260904040000 +0000" channel="mastro.rcti">
-    <title lang="id">Terlanjur Mencintaimu Arumi</title>
-    <category lang="id">Series</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="mastro.rcti">
-    <title lang="id">Go Spot Eksklusif</title>
-    <desc lang="id">Program yang menayangkan Film dari berbagai genre seperti romansa dan komedi yang seru dan menghibur untuk disaksikan selama moment liburan.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/peXe4_yjW1WDr6JR9M525yLyc1w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg</image>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="mastro.rcti">
-    <title lang="id">Go Spot Ekslusif (RCTI)</title>
-    <desc lang="id">Go Spot Eksklusif menyajikan liputan khusus seputar dunia hiburan, kisah para selebritas, serta berita eksklusif dan inspiratif yang dikemas ringan, menarik, dan informatif.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Magazine</category>
-  </programme>
   <programme start="20260904043000 +0000" stop="20260904060000 +0000" channel="mastro.rcti">
     <title lang="id">Layar Drama Indonesia - Terikat Janji Selamanya</title>
     <desc lang="id">Davina Rosalia Kusuma, putri pengusaha, tampak hidup sempurna namun menyimpan luka sejak ibunya meninggal dan ayahnya menikah lagi. Ia merasa terasing, terlebih setelah cinta pertamanya, Ryan, menghilang. Sepuluh tahun kemudian, pertunangannya dengan Dipa hancur karena perselingkuhan dengan adik tirinya, Jihan. Di tengah keterpurukan, Davina bertemu Sena, penjual ketoprak yang ternyata polisi intel yang menyelidiki Dipa. Davina meminta Sena berpura-pura menjadi pacarnya, namun hubungan palsu itu berubah menjadi nyata. Tanpa ia tahu, Sena juga mencari kebenaran tentang hilangnya Ryanmembawa mereka pada rahasia, balas dendam, dan perasaan yang tak terduga.</desc>
@@ -7302,34 +6303,10 @@
     <desc lang="id">Menceritakan kisah hidup dan percintaan gadis desa bernama Cinta yang menghadapi peliknya perbedaan status sosial serta intrik cinta segitiga. Semua berawal setelah Cinta mengalami insiden kecelakaan dan musibah yang membuatnya kehilangan barang-barang serta keluarganya di Jakarta. Di tengah keterpurukan, Revan pria dari kota dengan latar belakang kayadatang menolong dan selalu ada untuk Cinta. Hubungan Cinta dan Revan tidak berjalan mulus karena ibunda Revan menentang keras kedekatan mereka akibat perbedaan status sosial yang mencolok.</desc>
     <image>https://thumbor.prod.vidiocdn.com/peXe4_yjW1WDr6JR9M525yLyc1w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg</image>
   </programme>
-  <programme start="20260904160000 +0000" stop="20260904171500 +0000" channel="mastro.rcti">
-    <title lang="id">Cinta Dari Surga</title>
-    <desc lang="id">Cinta adalah seorang gadis cantik yang sangat menyayangi ibu dan saudaranya lebih dari apapun meskipun ia tahu bahwa ibu dan saudara-saudaranya, Inggrid, Utari, dan Dini bukanlah keluarga kandungnya.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Drama</category>
-  </programme>
   <programme start="20260904171500 +0000" stop="20260904183000 +0000" channel="mastro.rcti">
     <title lang="id">Pak Lurah I Love You</title>
     <desc lang="id">Ketika Gusti, seorang pemuda tampan dan pekerja keras, menjadi kepala desa, para wanita mulai berdatangan dan melihatnya. Layla, seorang gadis pengantar makan siang, menarik perhatiannya.</desc>
     <category lang="id">Movies</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904183000 +0000" stop="20260904190000 +0000" channel="mastro.rcti">
-    <title lang="id">Mega Film TV Malam</title>
-    <desc lang="id">Mega Film TV Malam RCTI menghadirkan film-film pilihan dari berbagai genre setiap pekan, menghadirkan aksi, drama, hingga petualangan seru untuk seluruh keluarga.</desc>
-    <category lang="id">Movies</category>
-  </programme>
-  <programme start="20260904190000 +0000" stop="20260904200000 +0000" channel="mastro.rcti">
-    <title lang="id">Mega Film TV Malam</title>
-    <desc lang="id">Mega Film TV Malam RCTI menghadirkan film-film pilihan dari berbagai genre setiap pekan, menghadirkan aksi, drama, hingga petualangan seru untuk seluruh keluarga.</desc>
-    <category lang="id">Movies</category>
-  </programme>
-  <programme start="20260904200000 +0000" stop="20260904230000 +0000" channel="mastro.rcti">
-    <title lang="id">Preman Pensiun S8</title>
-    <desc lang="id">Balas dendam belum usai! Bang Edi akan kembali berusaha untuk mengambil alih pasar, jalanan dan terminal dengan formasi yang baru.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Comedy</category>
     <category lang="id">Drama</category>
   </programme>
   <programme start="20260904230000 +0000" stop="20260905010000 +0000" channel="mastro.rcti">
@@ -7432,42 +6409,6 @@
     <category lang="id">Children</category>
     <category lang="id">Animated</category>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903230000 +0000" channel="mastro.sctv">
-    <title lang="id">Liputan 6 Pagi</title>
-    <image>https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="mastro.sctv">
-    <title lang="id">Halo Selebriti</title>
-    <image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.sctv">
-    <title lang="id">Tiba Tiba Kuis</title>
-    <desc lang="id">Kuis kejutan ini akan hadir setiap hari . Para pembawa acara akan datang secara tiba-tiba ke lokasi pemirsa tanpa pemberitahuan untuk memberikan tantangan games yang lucu dan menyentuh. Dipandu oleh Baim Wong, Asri Welas, dan Anna Jobling. Saksikan, hanya di saluran televisi SCTV Satu Untuk Semua.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/1EUeMSUt82iskEKXnfT9rieiAqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/407932/7e1a8b.jpg</image>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.sctv">
-    <title lang="id">Tiba-Tiba Kuis</title>
-    <category lang="id">Entertainment</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904024300 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Pagi Spesial: Abang Ojek Hampir Macho</title>
-    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/mFaw9Lpyw4hjNmWWfJsHDp2LnLA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285559/df64fa.jpg</image>
-  </programme>
-  <programme start="20260904024300 +0000" stop="20260904044000 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Pagi - Srikandi Katering VS Mas Mas Plenger</title>
-    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/PMTwR4X8QMiHTbdIg85bCDeqBxE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285560/742a18.jpg</image>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Pagi</title>
-    <desc lang="id">Film Televisi SCTV yang tayang di pagi hari antara pukul 10:00 - 12:00 WIB dengan konten fresh dan penuh dengan variasi tema antara romantis, komedi, dan aksi.</desc>
-    <category lang="id">Movies</category>
-  </programme>
-  <programme start="20260904044000 +0000" stop="20260904051400 +0000" channel="mastro.sctv">
-    <title lang="id">Liputan 6 Siang</title>
-    <image>https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg</image>
-  </programme>
   <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="mastro.sctv">
     <title lang="id">Liputan 6 Siang (L)</title>
     <desc lang="id">Program berita yang menyajikan kumpulan liputan aktual dari dalam dan luar negeri.</desc>
@@ -7476,7 +6417,7 @@
   <programme start="20260904051400 +0000" stop="20260904064800 +0000" channel="mastro.sctv">
     <title lang="id">FTV Siang : Samudra Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <image>https://thumbor.prod.vidiocdn.com/nqfk1rX1azJtgNyYwyzt0CqzrBA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285517/373378.jpg</image>
+    <image>https://thumbor.prod.vidiocdn.com/i0kf5xUNwR_8XGtKdwAF1ttct7s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285517/40fd7f.jpg</image>
   </programme>
   <programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="mastro.sctv">
     <title lang="id">FTV Siang</title>
@@ -7556,18 +6497,18 @@
     <category lang="id">Movies</category>
     <category lang="id">Drama</category>
   </programme>
-  <programme start="20260904160600 +0000" stop="20260904174500 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Primetime</title>
+  <programme start="20260904160600 +0000" stop="20260904174100 +0000" channel="mastro.sctv">
+    <title lang="id">FTV PRIMETIME : ROMANSA PASUTRI MAGANG</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image>
   </programme>
-  <programme start="20260904160600 +0000" stop="20260904174500 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Primetime</title>
+  <programme start="20260904160600 +0000" stop="20260904174100 +0000" channel="mastro.sctv">
+    <title lang="id">FTV PRIMETIME : ROMANSA PASUTRI MAGANG</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image>
   </programme>
-  <programme start="20260904174500 +0000" stop="20260904190000 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Utama</title>
+  <programme start="20260904174100 +0000" stop="20260904185600 +0000" channel="mastro.sctv">
+    <title lang="id">FTV UTAMA : PIPI MERAH BU DOKTER</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image>
   </programme>
@@ -7577,8 +6518,8 @@
     <category lang="id">Movies</category>
     <category lang="id">Drama</category>
   </programme>
-  <programme start="20260904190000 +0000" stop="20260904201500 +0000" channel="mastro.sctv">
-    <title lang="id">Sinema Malam</title>
+  <programme start="20260904185600 +0000" stop="20260904200500 +0000" channel="mastro.sctv">
+    <title lang="id">SINEMA MALAM : TIGA SAHABAT MENGEJAR CINTA GADIS LOSMEN</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image>
   </programme>
@@ -7586,8 +6527,8 @@
     <title lang="id">Sinema Malam</title>
     <category lang="id">Movies</category>
   </programme>
-  <programme start="20260904201500 +0000" stop="20260904210000 +0000" channel="mastro.sctv">
-    <title lang="id">Sinema Dini Hari</title>
+  <programme start="20260904200500 +0000" stop="20260904210000 +0000" channel="mastro.sctv">
+    <title lang="id">SINEMA DINI HARI : GADIS MANIS PENJUAL CENDOL</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image>
   </programme>
@@ -7645,7 +6586,7 @@
     <category lang="id">Entertainment</category>
   </programme>
   <programme start="20260905010000 +0000" stop="20260905030000 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Pagi Spesial</title>
+    <title lang="id">FTV Pagi Spesial : MAK COMBLANG CANTIKNYA TERLALU KE SELATAN</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/GEi4eqL3wxL-t5MyYdJL3RJJDAA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285563/c3082f.jpg</image>
   </programme>
@@ -7656,7 +6597,7 @@
     <category lang="id">Drama</category>
   </programme>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="mastro.sctv">
-    <title lang="id">FTV Pagi</title>
+    <title lang="id">FTV Pagi - Bang Jago Idola Masa Depanku</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <image>https://thumbor.prod.vidiocdn.com/QH8XQpOuguoPVBgv1gR0f0iC9UA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285561/9bc6b1.jpg</image>
   </programme>
@@ -7795,24 +6736,6 @@
     <desc lang="id">Acara ini menampilkan kabar seputar kehidupan selebriti, mulai dari aktivitas, prestasi, hingga gosip terkini yang sedang menjadi sorotan publik.</desc>
     <category lang="id">Culture</category>
     <category lang="id">Misc</category>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904013000 +0000" channel="mastro.soccer">
-    <title lang="id">Hyundai C'ship '26: IDN Vs CAM</title>
-    <desc lang="id">Hyundai C'ship '26: IDN vs CAM – Indonesia tampil dengan perpaduan pemain muda berbakat dan pemain berpengalaman untuk menguasai jalannya pertandingan. Kamboja berharap perkembangan kualitas tim serta pertahanan yang disiplin mampu menghasilkan poin penting.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904033000 +0000" channel="mastro.soccer">
-    <title lang="id">Sportacular Match: SVN Vs CYP</title>
-    <desc lang="id">Sportacular Match: SVN Vs CYP mempertemukan Slovenia, tim Eropa yang memiliki pertahanan disiplin dan pembangunan serangan terorganisasi, melawan Cyprus yang mengandalkan ketangguhan bertahan serta serangan balik cepat untuk memberikan tekanan kepada lawan.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.soccer">
-    <title lang="id">The Ultimate Goals</title>
-    <desc lang="id">Cuplikan cuplikan gol kelas dunia yang di kemas menjadi tayangan mampu dinikmati penggemar sepakbola</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904060000 +0000" channel="mastro.soccer">
     <title lang="id">ACL Two 2025/26: RAT Vs GAM</title>
@@ -7980,41 +6903,6 @@
     <category lang="id">Sports</category>
     <category lang="id">Other</category>
   </programme>
-  <programme start="20260903223000 +0000" stop="20260904010000 +0000" channel="mastro.sportstars2">
-    <title lang="id">Best Of Badminton</title>
-    <category lang="id">Sports</category>
-    <category lang="id">Tennis</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904013000 +0000" channel="mastro.sportstars2">
-    <title lang="id">iNews Sport</title>
-    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Sports</category>
-    <category lang="id">Programmes</category>
-    <category lang="id">Reports</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.sportstars2">
-    <title lang="id">Sport Today</title>
-    <category lang="id">Sports</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904040000 +0000" channel="mastro.sportstars2">
-    <title lang="id">ASEAN C'ship Hyundai Cup 2026</title>
-    <desc lang="id">ASEAN C'ship Hyundai Cup 2026 merupakan ajang sepak bola paling bergengsi di Asia Tenggara yang mempertemukan tim nasional terbaik kawasan. Negara-negara unggulan seperti Thailand, Vietnam, Indonesia, Malaysia, dan Singapura bersaing bersama tim peserta lainnya dalam format kandang dan tandang. Setiap pertandingan menjadi penentu dalam perebutan gelar juara ASEAN, dengan pertandingan berlangsung di berbagai negara peserta, bukan di satu negara tuan rumah.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="mastro.sportstars2">
-    <title lang="id">Adrenaline Rush</title>
-    <desc lang="id">Acara yang menyuguhkan cuplikan penuh aksi dari banyak cabang olahraga ekstreme yang menguji nyali</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="mastro.sportstars2">
-    <title lang="id">Top Goals</title>
-    <desc lang="id">Top Goals adalah sebuah program tayangan olahraga yang menampilkan kumpulan gol-gol terbaik dari berbagai pertandingan sepak bola, baik dari liga domestik maupun internasional.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
   <programme start="20260904050000 +0000" stop="20260904073000 +0000" channel="mastro.sportstars2">
     <title lang="id">Best Of Badminton</title>
     <category lang="id">Sports</category>
@@ -8166,42 +7054,6 @@
     <category lang="id">Sports</category>
     <category lang="id">Tennis</category>
   </programme>
-  <programme start="20260903230000 +0000" stop="20260904010000 +0000" channel="mastro.sportstars3">
-    <title lang="id">Satu Hati Untuk Garuda</title>
-    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904010000 +0000" channel="mastro.sportstars3">
-    <title lang="id">Satu Hati Untuk Garuda</title>
-    <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="mastro.sportstars3">
-    <title lang="id">AFC Champions League Two</title>
-    <desc lang="id">AFC Champions League Two adalah kompetisi yang diadakan untuk klub-klub dari negara-negara Asia yang tidak berhasil lolos ke AFC Champions League utama.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="mastro.sportstars3">
-    <title lang="id">AFC Champions League Two</title>
-    <desc lang="id">AFC Champions League Two adalah kompetisi yang diadakan untuk klub-klub dari negara-negara Asia yang tidak berhasil lolos ke AFC Champions League utama.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="mastro.sportstars3">
-    <title lang="id">V-League Women</title>
-    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="mastro.sportstars3">
-    <title lang="id">V-League Women</title>
-    <desc lang="id">Turnamen ini cukup prestisius di Korea Selatan dan sering menjadi ajang bagi pemain muda berbakat untuk unjuk gigi.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
   <programme start="20260904050000 +0000" stop="20260904070000 +0000" channel="mastro.sportstars3">
     <title lang="id">Sportacular International Match</title>
     <desc lang="id">Sportacular International Match menyajikan pertandingan sepak bola internasional yang mempertemukan tim nasional dari berbagai belahan dunia. Tim-tim unggulan maupun negara yang sedang membangun generasi baru menguji kekuatan skuad, strategi, dan pemain muda mereka melalui laga persahabatan serta pertandingan internasional yang menjadi persiapan penting menuju turnamen besar berikutnya.</desc>
@@ -8477,29 +7329,6 @@
     <desc lang="id">Satu Hati Untuk Garuda. Program spesial yang menampilkan semangat, dedikasi, dan dukungan tanpa henti bagi Tim Nasional Indonesia. Melalui kisah inspiratif, momen berkesan, serta semangat para pendukung, program ini menggambarkan perjalanan dan ambisi Garuda dalam mengharumkan nama bangsa di pentas internasional.</desc>
     <category lang="id">Sports</category>
     <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="mastro.sportstars">
-    <title lang="id">Adrenaline Rush</title>
-    <desc lang="id">Acara yang menyuguhkan cuplikan penuh aksi dari banyak cabang olahraga ekstreme yang menguji nyali</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904023000 +0000" channel="mastro.sportstars">
-    <title lang="id">Pro Futsal League</title>
-    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Football</category>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904043000 +0000" channel="mastro.sportstars">
-    <title lang="id">V-League 2025-2026: Mens</title>
-    <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
-    <category lang="id">Sports</category>
-    <category lang="id">Other</category>
-  </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="mastro.sportstars">
-    <title lang="id">Sports Today</title>
-    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
-    <category lang="id">Sports</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="mastro.sportstars">
     <title lang="id">iNews Sport</title>
@@ -8583,33 +7412,34 @@
     <category lang="id">Football</category>
   </programme>
   <programme start="20260904230000 +0000" stop="20260904233000 +0000" channel="mastro.sportstars">
-    <title lang="id">Sports Today</title>
-    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
-    <category lang="id">Sports</category>
-  </programme>
-  <programme start="20260904233000 +0000" stop="20260905000000 +0000" channel="mastro.sportstars">
     <title lang="id">Street Workout</title>
     <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
     <category lang="id">Sports</category>
   </programme>
-  <programme start="20260905000000 +0000" stop="20260905003000 +0000" channel="mastro.sportstars">
+  <programme start="20260904233000 +0000" stop="20260905000000 +0000" channel="mastro.sportstars">
     <title lang="id">Golden Fit</title>
     <desc lang="id">Melalui rangkaian latihan ringan, peregangan, serta tips gaya hidup sehat, acara ini membantu menjaga kekuatan tubuh, kelenturan, dan keseimbangan, sehingga kualitas hidup tetap terjaga di usia emas.</desc>
     <category lang="id">Sports</category>
   </programme>
-  <programme start="20260905003000 +0000" stop="20260905023000 +0000" channel="mastro.sportstars">
+  <programme start="20260905000000 +0000" stop="20260905020000 +0000" channel="mastro.sportstars">
     <title lang="id">Pro Futsal League</title>
     <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
     <category lang="id">Sports</category>
     <category lang="id">Football</category>
   </programme>
-  <programme start="20260905023000 +0000" stop="20260905043000 +0000" channel="mastro.sportstars">
+  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="mastro.sportstars">
     <title lang="id">V-League 2025-2026: Mens</title>
     <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
     <category lang="id">Sports</category>
     <category lang="id">Other</category>
   </programme>
-  <programme start="20260905043000 +0000" stop="20260905050000 +0000" channel="mastro.sportstars">
+  <programme start="20260905040000 +0000" stop="20260905054500 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Womens</title>
+    <desc lang="id">V-League 2025–2026: Women's. Kompetisi bola voli putri tertinggi di Vietnam menghadirkan klub-klub terbaik dengan perpaduan pemain lokal berbakat dan atlet internasional. Setiap pertandingan menjadi penentu dalam perebutan posisi papan atas dan peluang meraih gelar juara melalui permainan cepat, solid, dan penuh semangat.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20260905054500 +0000" stop="20260905060000 +0000" channel="mastro.sportstars">
     <title lang="id">iNews Sport</title>
     <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
     <category lang="id">News</category>
@@ -8617,16 +7447,11 @@
     <category lang="id">Programmes</category>
     <category lang="id">Reports</category>
   </programme>
-  <programme start="20260905050000 +0000" stop="20260905123000 +0000" channel="mastro.sportstars">
-    <title lang="id">Polytron Pontianak Indonesia Masters: Super 100 - Semi Final</title>
-    <desc lang="id">Polytron Pontianak Indonesia Masters: Super 100 – Semi Final mempertemukan para pemain yang berhasil melewati babak sebelumnya. Persaingan semakin sengit karena setiap pemain mengandalkan kecepatan, serangan, pertahanan, dan konsistensi permainan untuk meraih kemenangan dan mengamankan tiket ke partai final.</desc>
+  <programme start="20260905060000 +0000" stop="20260905130000 +0000" channel="mastro.sportstars">
+    <title lang="id">Polytron Pontianak Indonesia Masters - Semi Final</title>
+    <desc lang="id">Polytron Pontianak Indonesia Masters - Semi Final mempertemukan pemain dan pasangan bulu tangkis terbaik yang tersisa dalam persaingan penting di semifinal. Kekuatan smash, permainan net yang akurat, pergerakan cepat, serta konsistensi taktik menjadi kunci untuk merebut tiket ke final dan menjaga peluang meraih gelar juara.</desc>
     <category lang="id">Sports</category>
     <category lang="id">Tennis</category>
-  </programme>
-  <programme start="20260905123000 +0000" stop="20260905130000 +0000" channel="mastro.sportstars">
-    <title lang="id">Street Workout</title>
-    <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
-    <category lang="id">Sports</category>
   </programme>
   <programme start="20260905130000 +0000" stop="20260905133000 +0000" channel="mastro.sportstars">
     <title lang="id">Sports Today</title>
@@ -8675,43 +7500,14 @@
     <category lang="id">Football</category>
   </programme>
   <programme start="20260905230000 +0000" stop="20260905233000 +0000" channel="mastro.sportstars">
-    <title lang="id">Sports Today</title>
-    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
-    <category lang="id">Sports</category>
-  </programme>
-  <programme start="20260905233000 +0000" stop="20260906000000 +0000" channel="mastro.sportstars">
     <title lang="id">Street Workout</title>
     <desc lang="id">Street Workout menghadirkan persaingan para atlet yang mengandalkan kekuatan tubuh, keseimbangan, daya tahan, dan penguasaan berbagai gerakan. Setiap peserta berusaha menampilkan teknik terbaik serta rangkaian gerakan yang membutuhkan kontrol tubuh dan kebugaran fisik tinggi.</desc>
     <category lang="id">Sports</category>
   </programme>
-  <programme start="20260904000000 +0000" stop="20260904002500 +0000" channel="mastro.thrill">
-    <title lang="id">Model Family, Ep 3</title>
-    <desc lang="id">Sebuah keluarga dengan orang tua tunggal pindah ke sebuah lingkungan baru yang kehidupan warganya tampak sempurna. Namun, ternyata semuanya tak seperti yang mereka kira.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Horror</category>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20260904002500 +0000" stop="20260904012500 +0000" channel="mastro.thrill">
-    <title lang="id">Sinister, Ep 3</title>
-    <desc lang="id">Serial antologi tentang makhluk jahat yang bersembunyi dalam bayang-bayang dunia kita dan tidak menginginkan apa pun selain melakukan hal-hal yang jahat.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Thriller</category>
-    <category lang="id">Fantasy</category>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20260904012500 +0000" stop="20260904032000 +0000" channel="mastro.thrill">
-    <title lang="id">The Elite Of Devils</title>
-    <desc lang="id">Lima mahasiswa tingkat akhir diundang ke sebuah rumah besar bergaya klasik milik kalangan elit oleh seorang profesor, di mana sang profesor membuat mereka ketakutan dan memperlihatkan kekuatan jahatnya sebelum mengambil keputusan.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Horror</category>
-  </programme>
-  <programme start="20260904032000 +0000" stop="20260904050000 +0000" channel="mastro.thrill">
-    <title lang="id">Get In The Dark</title>
-    <desc lang="id">Nona Qiao meninggal secara tak wajar dan kepala pelayannya membayar seorang perajin untuk membuat sebuah boneka kertas. Serangkaian peristiwa nan mengerikan terjadi saat arwah Nona Qiao bangkit untuk membalas dendam.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Horror</category>
+  <programme start="20260905233000 +0000" stop="20260906000000 +0000" channel="mastro.sportstars">
+    <title lang="id">Golden Fit</title>
+    <desc lang="id">Melalui rangkaian latihan ringan, peregangan, serta tips gaya hidup sehat, acara ini membantu menjaga kekuatan tubuh, kelenturan, dan keseimbangan, sehingga kualitas hidup tetap terjaga di usia emas.</desc>
+    <category lang="id">Sports</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904062500 +0000" channel="mastro.thrill">
     <title lang="id">Chop Chop</title>
@@ -8936,74 +7732,6 @@
     <category lang="id">Movies</category>
     <category lang="id">Thriller</category>
     <category lang="id">Horror</category>
-  </programme>
-  <programme start="20260903214500 +0000" stop="20260903223000 +0000" channel="mastro.trans7">
-    <title lang="id">Pesantrend</title>
-    <image>https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg</image>
-  </programme>
-  <programme start="20260903223000 +0000" stop="20260903233000 +0000" channel="mastro.trans7">
-    <title lang="id">Redaksi Pagi</title>
-    <image>https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904003000 +0000" channel="mastro.trans7">
-    <title lang="id">Spotlite</title>
-    <image>https://thumbor.prod.vidiocdn.com/c4XIYk6pHeR7LxIfxiCXPrw9bGU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380598/b22b21.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904003000 +0000" channel="mastro.trans7">
-    <title lang="id">Spotlite</title>
-    <desc lang="id">Spotlite merupakan sebuah program magazine yang menghadirkan tidak hanya hal-hal terkini, unik dan fenomenal namun juga referensi wisata, kuliner, serta tren terkini.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Magazine</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="mastro.trans7">
-    <title lang="id">Selebrita Pagi</title>
-    <image>https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg</image>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="mastro.trans7">
-    <title lang="id">Selebrita Pagi</title>
-    <desc lang="id">Program infotainment mengungkapkan fakta-fakta berupa kejadian seputar misteri, kehidupan para selebriti, atau tragedi yang mengguncang kehidupan.</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Misc</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904023000 +0000" channel="mastro.trans7">
-    <title lang="id">FYP (For Your Pagi)</title>
-    <image>https://thumbor.prod.vidiocdn.com/fpJtxEn3usUhtkKrBW7lSuuNqgE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392027/8e0fd8.png</image>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904023000 +0000" channel="mastro.trans7">
-    <title lang="id">FYP (For Your Pagi)</title>
-    <desc lang="id">Sebuah acara gelar wicara yang tayang setiap paginya dimana program ini akan mengangkat berita dari kalangan selebriti maupun non-selebriti secara mendalam dari berbagai sudut pandang dengan mengunggulkan koneksi pertemanan, sehingga pada saat mengulas isu yang tengah viral, pembawa acara akan langsung menghubungi sosok terkait dengan melakukan telepon atau panggilan video.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Talk show</category>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904031500 +0000" channel="mastro.trans7">
-    <title lang="id">Selebrita Heits</title>
-    <image>https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904031500 +0000" channel="mastro.trans7">
-    <title lang="id">Selebrita Heits</title>
-    <desc lang="id">Sebuah acara televisi infotainment yang mengungkapkan fakta-fakta terkini seputar kehidupan selebritis.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Magazine</category>
-  </programme>
-  <programme start="20260904031500 +0000" stop="20260904041500 +0000" channel="mastro.trans7">
-    <title lang="id">Big Bang!</title>
-    <image>https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg</image>
-  </programme>
-  <programme start="20260904031500 +0000" stop="20260904041500 +0000" channel="mastro.trans7">
-    <title lang="id">Big-Bang!</title>
-    <desc lang="id">Terinspirasi dari Big Bang Theory, program terbaru BIG-BANG! hadir dengan menyuguhkan beragam konten berupa informasi terkini yang sedang trending dan viral.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Magazine</category>
-  </programme>
-  <programme start="20260904041500 +0000" stop="20260904050000 +0000" channel="mastro.trans7">
-    <title lang="id">Enah Bikin Enak</title>
-    <image>https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg</image>
-  </programme>
-  <programme start="20260904041500 +0000" stop="20260904050000 +0000" channel="mastro.trans7">
-    <title lang="id">Enah Bikin Enak</title>
-    <desc lang="id">Enah bikin enak program tayangan yang menyajikan resep masakan khas kampung dan sajian menu makanan sederhana namun nikmat.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Variety</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904054500 +0000" channel="mastro.trans7">
     <title lang="id">Jejak Si Gundul</title>
@@ -9497,39 +8225,6 @@
     <desc lang="id">Trans 7 adalah stasiun televisi swasta di Indonesia yang mulai mengudara pada 2001. Menyajikan beragam program seperti berita, hiburan, olahraga, dan talk show, Trans 7 menjadi salah satu kanal favorit di Indonesia.</desc>
     <category lang="id">Entertainment</category>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903233000 +0000" channel="mastro.transtv">
-    <title lang="id">Islam Itu Indah</title>
-    <image>https://thumbor.prod.vidiocdn.com/lupqf9l7Zk4xqjzE2HvT3tC6EzA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/548/3708ab.png</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904003000 +0000" channel="mastro.transtv">
-    <title lang="id">Insert Pagi</title>
-    <image>https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904003000 +0000" channel="mastro.transtv">
-    <title lang="id">Insert Pagi (L)</title>
-    <desc lang="id">Program yang membahas informasi kehidupan selebritas dan kejadian viral di dunia maya lekat dengan tagline Where Gossip Can Be Fun!</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Magazine</category>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="mastro.transtv">
-    <title lang="id">CNN Indonesia Good Morning</title>
-    <image>https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg</image>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="mastro.transtv">
-    <title lang="id">CNN Indonesia Good Morning</title>
-    <desc lang="id">Tambahkan kehangatan pagi hari Anda dengan berbagai informasi terbaru dari program berita yang juga ditayangkan di Trans TV. Dilengkapi dengan siaran langsung dari berbagai tempat di Indonesia, dan dialog komprehensif mengenai fenomena yang tengah jadi pembicaraan, pagi Anda akan semakin semarak dengan Good Morning.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904033000 +0000" channel="mastro.transtv">
-    <title lang="id">Pagi-Pagi Ambyar</title>
-    <image>https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg</image>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904033000 +0000" channel="mastro.transtv">
-    <title lang="id">Pagi-Pagi Ambyar</title>
-    <desc lang="id">Program gelar wicara yang membahas hal-hal seru dari para pasangan selebriti hits, serta berbagai berita yang sedang hangat dibicarakan masyarakat.</desc>
-    <category lang="id">Entertainment</category>
-    <category lang="id">Talk show</category>
-  </programme>
   <programme start="20260904033000 +0000" stop="20260904053000 +0000" channel="mastro.transtv">
     <title lang="id">Insert Siang</title>
     <image>https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg</image>
@@ -9611,7 +8306,7 @@
   </programme>
   <programme start="20260904130000 +0000" stop="20260904150000 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
-    <image>https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg</image>
+    <image>https://thumbor.prod.vidiocdn.com/Fr7gVo4by41yIztMh3ARLCB0WUA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/09334a.png</image>
   </programme>
   <programme start="20260904130000 +0000" stop="20260904150000 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
@@ -9620,11 +8315,11 @@
   </programme>
   <programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
-    <image>https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg</image>
+    <image>https://thumbor.prod.vidiocdn.com/Fr7gVo4by41yIztMh3ARLCB0WUA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/09334a.png</image>
   </programme>
   <programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
-    <image>https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg</image>
+    <image>https://thumbor.prod.vidiocdn.com/Fr7gVo4by41yIztMh3ARLCB0WUA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/09334a.png</image>
   </programme>
   <programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
@@ -9787,7 +8482,7 @@
   </programme>
   <programme start="20260905131500 +0000" stop="20260905151500 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
-    <image>https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg</image>
+    <image>https://thumbor.prod.vidiocdn.com/Fr7gVo4by41yIztMh3ARLCB0WUA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/09334a.png</image>
   </programme>
   <programme start="20260905131500 +0000" stop="20260905151500 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
@@ -9796,7 +8491,7 @@
   </programme>
   <programme start="20260905151500 +0000" stop="20260905171500 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
-    <image>https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg</image>
+    <image>https://thumbor.prod.vidiocdn.com/Fr7gVo4by41yIztMh3ARLCB0WUA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/09334a.png</image>
   </programme>
   <programme start="20260905151500 +0000" stop="20260905171500 +0000" channel="mastro.transtv">
     <title lang="id">Bioskop Trans TV</title>
@@ -9820,62 +8515,6 @@
     <desc lang="id">Program yang membahas informasi kehidupan selebritas dan kejadian viral di dunia maya lekat dengan tagline Where Gossip Can Be Fun!</desc>
     <category lang="id">Entertainment</category>
     <category lang="id">Magazine</category>
-  </programme>
-  <programme start="20260903213000 +0000" stop="20260903230000 +0000" channel="mastro.tvone">
-    <title lang="id">Kabar Pagi</title>
-    <image>https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg</image>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260903233000 +0000" channel="mastro.tvone">
-    <title lang="id">Kabar Arena Pagi 2</title>
-    <image>https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904013000 +0000" channel="mastro.tvone">
-    <title lang="id">Apa Kabar Indonesia Pagi</title>
-    <image>https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg</image>
-  </programme>
-  <programme start="20260903233000 +0000" stop="20260904013000 +0000" channel="mastro.tvone">
-    <title lang="id">Apa Kabar Indonesia Pagi</title>
-    <desc lang="id">Apa Kabar Indonesia adalah sebuah acara berita dan gelar wicara yang ditayangkan di stasiun televisi tvOne.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.tvone">
-    <title lang="id">Hidup Sehat</title>
-    <image>https://thumbor.prod.vidiocdn.com/cbbf2f45t35-L-wbylm9DtKt5nc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381764/56afbf.jpg</image>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.tvone">
-    <title lang="id">Hidup Sehat</title>
-    <desc lang="id">Hidup Sehat adalah acara gelar wicara kesehatan yang disiarkan di tvOne. Acara ini membahas mengenai seputar hal berbau kesehatan</desc>
-    <category lang="id">Culture</category>
-    <category lang="id">Knowledge</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="mastro.tvone">
-    <title lang="id">Breaking News</title>
-    <image>https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg</image>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="mastro.tvone">
-    <title lang="id">Breaking News</title>
-    <desc lang="id">Program yang menyajikan kabar berita terkini &amp; terbaru yang diulas secara mendalam, akurat serta terpercaya.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Debate</category>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904033000 +0000" channel="mastro.tvone">
-    <title lang="id">Pagi - Pagi Seru</title>
-    <image>https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg</image>
-  </programme>
-  <programme start="20260904023000 +0000" stop="20260904033000 +0000" channel="mastro.tvone">
-    <title lang="id">Pagi-Pagi Seru</title>
-    <desc lang="id">Program infotainment pagi yang menyajikan berita ringan, hiburan, dan topik viral yang sedang hangat diperbincangkan.</desc>
-    <category lang="id">News</category>
-    <category lang="id">Debate</category>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.tvone">
-    <title lang="id">Metropolitan</title>
-    <image>https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg</image>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.tvone">
-    <title lang="id">Metropolitan</title>
-    <desc lang="id">Program terbaru bertajuk “Metropolitan”, sebuah tayangan berita informatif berdurasi 30 menit yang mengangkat beragam isu sosial dan dinamika kehidupan di kawasan perkotaan, khususnya Jakarta dan kota-kota besar lainnya di Indonesia.</desc>
-    <category lang="id">News</category>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904053000 +0000" channel="mastro.tvone">
     <title lang="id">Kabar Siang</title>
@@ -10269,48 +8908,6 @@
     <desc lang="id">Apa Kabar Indonesia adalah sebuah acara berita dan gelar wicara yang ditayangkan di stasiun televisi tvOne.</desc>
     <category lang="id">News</category>
   </programme>
-  <programme start="20260903220000 +0000" stop="20260903230000 +0000" channel="mastro.tvri">
-    <title lang="id">Olahraga Tradisional</title>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="mastro.tvri">
-    <title lang="id">Klik Indonesia Pagi</title>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904010000 +0000" channel="mastro.tvri">
-    <title lang="id">TVRI</title>
-    <desc lang="id">Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904000000 +0000" stop="20260904003000 +0000" channel="mastro.tvri">
-    <title lang="id">Jendela Negeri</title>
-  </programme>
-  <programme start="20260904003000 +0000" stop="20260904010000 +0000" channel="mastro.tvri">
-    <title lang="id">Jendela Negeri</title>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904013000 +0000" channel="mastro.tvri">
-    <title lang="id">Feature LKBN Antara</title>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="mastro.tvri">
-    <title lang="id">TVRI</title>
-    <desc lang="id">Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904033000 +0000" channel="mastro.tvri">
-    <title lang="id">Jadi Tahu</title>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="mastro.tvri">
-    <title lang="id">TVRI</title>
-    <desc lang="id">Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang.</desc>
-    <category lang="id">News</category>
-  </programme>
-  <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="mastro.tvri">
-    <title lang="id">Dapur Devina</title>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904040300 +0000" channel="mastro.tvri">
-    <title lang="id">Info Terkini</title>
-  </programme>
-  <programme start="20260904040300 +0000" stop="20260904050000 +0000" channel="mastro.tvri">
-    <title lang="id">Unjuk Bisa</title>
-  </programme>
   <programme start="20260904050000 +0000" stop="20260904060000 +0000" channel="mastro.tvri">
     <title lang="id">Klik Indonesia Siang</title>
   </programme>
@@ -10576,28 +9173,6 @@
     <desc lang="id">Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang.</desc>
     <category lang="id">News</category>
   </programme>
-  <programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="mastro.visionprime">
-    <title lang="id">Ikatan Cinta</title>
-    <desc lang="id">Mengisahkan tentang dua bersaudara, Andin (kakak) dan Elsa (adik). Tanpa mereka sadari mencintai pria yang sama, Nino. Hubungan mereka yang buruk menjadi lebih buruk ketika Elsa tahu bahwa Nino akan menikahi Andin. Pernikahan Nino dan Andin mendapat dukungan sang ayah, namun ditentang oleh sang ibu.</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Children</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="mastro.visionprime">
-    <title lang="id">English Vinglish</title>
-    <desc lang="id">Setiap hari, Shashi diejek dan diolok-olok oleh suami dan putrinya karena tak mampu memahami dan berbicara dalam bahasa Inggris. Namun, segalanya berubah saat ia berkunjung ke rumah saudari perempuannya di Manhattan.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Children</category>
-    <category lang="id">Films</category>
-    <category lang="id">Drama</category>
-    <category lang="id">Comedy</category>
-  </programme>
-  <programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="mastro.visionprime">
-    <title lang="id">Terikat Janji</title>
-    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
-    <category lang="id">Series</category>
-    <category lang="id">Drama</category>
-  </programme>
   <programme start="20260904050000 +0000" stop="20260904060000 +0000" channel="mastro.visionprime">
     <title lang="id">Manda Curhat</title>
     <desc lang="id">Curhat Bareng Amanda adalah acara unggulan di RCTI yang membawa kamu untuk curhat dan bersenang-senang bersama Amanda Manopo.</desc>
@@ -10816,22 +9391,6 @@
     <title lang="id">Terikat Janji</title>
     <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
     <category lang="id">Series</category>
-    <category lang="id">Drama</category>
-  </programme>
-  <programme start="20260903230000 +0000" stop="20260904013000 +0000" channel="mastro.zeebioskop">
-    <title lang="id">Thank God</title>
-    <desc lang="id">Seorang pialang real estat yang egois berhadapan dengan Tuhan setelah mengalami sebuah kecelakaan. Ia pun dipaksa untuk memainkan sebuah permainan yang akan menentukan tempatnya antara surga atau neraka.</desc>
-    <category lang="id">Movies</category>
-    <category lang="id">Fantasy</category>
-    <category lang="id">Comedy</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="mastro.zeebioskop">
-    <title lang="id">Song Fillers</title>
-    <category lang="id">Entertainment</category>
-  </programme>
-  <programme start="20260904020000 +0000" stop="20260904050000 +0000" channel="mastro.zeebioskop">
-    <title lang="id">Hum Saath Saath Hain</title>
-    <category lang="id">Movies</category>
     <category lang="id">Drama</category>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904080000 +0000" channel="mastro.zeebioskop">
