@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,0284c7,2563eb&height=200&section=header&text=AUTOMATED%20EPG%20HUB&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="EPG Hub Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,0284c7,2563eb&height=200&section=header&text=Mastro%20EPG&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="EPG Hub Banner" />
 
 <br/>
 
-# 📺 Dynamic EPG Data Vault
+# 📺 EPG Data
 
 ### *High-availability Electronic Program Guide (EPG) distribution engine & automated TV schedule provider.*
 
