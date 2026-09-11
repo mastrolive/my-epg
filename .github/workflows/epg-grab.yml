@@ -15,7 +15,6 @@ jobs:
 
       - name: Download and Combine epg.pw
         run: |
-          sudo apt-get update && sudo apt-get install -y uuid-runtime
           mkdir -p temp_epg
           
           channels=(
@@ -179,19 +178,20 @@ jobs:
             "https://epg.pw/api/epg.xml?channel_id=465156|mastro.foxdeportes"
           )
 
+          count=1
           for item in "${channels[@]}"; do
             url="${item%%|*}"
             custom_id="${item#*|}"
-            FILENAME="temp_epg/$(uuidgen).xml"
+            FILENAME="temp_epg/${count}.xml"
+            ((count++))
             
             curl -A "Mozilla/5.0" --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
             
-            if [ $(stat -c%s "$FILENAME") -lt 100 ]; then
-              rm "$FILENAME"
-            else
-              # Gantikan channel id asal dalam tag <channel id="..."> dan <programme channel="...">
+            if [ -s "$FILENAME" ] && [ $(stat -c%s "$FILENAME") -ge 100 ]; then
               sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
               sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
+            else
+              rm -f "$FILENAME"
             fi
             sleep 1.2
           done
@@ -200,10 +200,12 @@ jobs:
           echo '<tv generator-info-name="Gemini-Fixed-EPG">' >> epg.xml
           
           for f in temp_epg/*.xml; do
+            [ -e "$f" ] || continue
             sed -n '/<channel/,/<\/channel>/p' "$f" >> epg.xml || true
           done
 
           for f in temp_epg/*.xml; do
+            [ -e "$f" ] || continue
             sed -n '/<programme/,/<\/programme>/p' "$f" | grep -vE '(\?xml|<tv|<\/tv)' >> epg.xml || true
           done
           
@@ -215,9 +217,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           rm -rf temp_epg
-          
-          git rm mewatch.xml rtmklik.xml vidio.xml indonesia3.xml sooka.xml rctiplus.xml external_epg.xml myepg.xml cignal.xml starhub.xml --ignore-unmatch
-          
           git add epg.xml
           
           TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
