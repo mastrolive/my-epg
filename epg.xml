@@ -245,11 +245,11 @@
     <icon src="" />
   </channel>
   <channel id="mastro.tnt2">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.tnt3">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.tvs">
@@ -16032,9 +16032,14 @@
     <desc>Full coverage of our Premier League match against Everton.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.mutv" start="20260915210000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.mutv" start="20260915210000 +0000" stop="20260915230000 +0000">
     <title lang="zh">UEFA Champions League 26/27</title>
     <desc>Full coverage of our UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260915230000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">PL Match: Manchester City (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against Manchester City.</desc>
     <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.lfctv" start="20260914010000 +0000" stop="20260914030000 +0000">
@@ -16307,9 +16312,14 @@
     <desc>Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Fulham.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.lfctv" start="20260915224500 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.lfctv" start="20260915224500 +0000" stop="20260915230000 +0000">
     <title lang="zh">Liverpool U21</title>
     <desc>The best of the action as Liverpool U21 take on West Ham.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260915230000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">The Match</title>
+    <desc>All the action as Liverpool take on Tottenham in the Carabao Cup.</desc>
     <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.beinsports3" start="20260914004000 +0000" stop="20260914023000 +0000">
@@ -17027,10 +17037,215 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.skysportsf1" start="20260914144500 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.skysportsf1" start="20260914144500 +0000" stop="20260914150000 +0000">
     <title lang="zh">Ollie Bearman Drives Ayrton Senna's Lotus</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914150000 +0000" stop="20260914170000 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Qualifying</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914170000 +0000" stop="20260914173000 +0000">
+    <title lang="zh">Ted's Notebook. Spanish Grand Prix: Qualifying</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914173000 +0000" stop="20260914174000 +0000">
+    <title lang="zh">Ferrari at Home in Monza</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914174000 +0000" stop="20260914175000 +0000">
+    <title lang="zh">Kimi Antonelli Ferrari</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914175000 +0000" stop="20260914180000 +0000">
+    <title lang="zh">Naomi with Alex Carlos</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914180000 +0000" stop="20260914201500 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Stand Alone Race</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914201500 +0000" stop="20260914204500 +0000">
+    <title lang="zh">Ted's Notebook. Spanish Grand Prix: Race</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914204500 +0000" stop="20260914210000 +0000">
+    <title lang="zh">The Cornwall Air Ambulance</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914210000 +0000" stop="20260914220000 +0000">
+    <title lang="zh">Ferrari Challenge Europe. Budapest: Coppa Shell</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914220000 +0000" stop="20260914230000 +0000">
+    <title lang="zh">Ferrari Challenge Europe. Budapest: Trofeo Pirelli</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260914230000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Highlights</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915000000 +0000" stop="20260915002500 +0000">
+    <title lang="zh">Formula 1. The Best Of Australia 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915002500 +0000" stop="20260915010000 +0000">
+    <title lang="zh">Formula 1. The Best Of China 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915010000 +0000" stop="20260915011500 +0000">
+    <title lang="zh">Formula 1. The Best of Japan 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915011500 +0000" stop="20260915020000 +0000">
+    <title lang="zh">Formula 1. The Best of Miami 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915020000 +0000" stop="20260915023000 +0000">
+    <title lang="zh">Formula 1. The Best of Canada 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915023000 +0000" stop="20260915030000 +0000">
+    <title lang="zh">Formula 1. The Best Of Monaco 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915030000 +0000" stop="20260915031500 +0000">
+    <title lang="zh">Formula 1. The Best of Japan 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915031500 +0000" stop="20260915040000 +0000">
+    <title lang="zh">Formula 1. The Best of Miami 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915040000 +0000" stop="20260915042500 +0000">
+    <title lang="zh">Formula 1. The Best Of Australia 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915042500 +0000" stop="20260915050000 +0000">
+    <title lang="zh">Formula 1. The Best Of China 2026</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915050000 +0000" stop="20260915060000 +0000">
+    <title lang="zh">Formula 1. Australian Grand Prix: Highlights</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915060000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">Formula 1. Monaco Grand Prix: Highlights</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915070000 +0000" stop="20260915080000 +0000">
+    <title lang="zh">Formula 1. Austrian Grand Prix: Highlights</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915080000 +0000" stop="20260915090000 +0000">
+    <title lang="zh">Formula 1. British Grand Prix: Race Highlights</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915090000 +0000" stop="20260915110000 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Qualifying</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915110000 +0000" stop="20260915113000 +0000">
+    <title lang="zh">Ted's Notebook. Spanish Grand Prix: Qualifying</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915113000 +0000" stop="20260915134500 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Stand Alone Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915134500 +0000" stop="20260915141500 +0000">
+    <title lang="zh">Ted's Notebook. Spanish Grand Prix: Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915141500 +0000" stop="20260915151500 +0000">
+    <title lang="zh">FIA Formula 3 Championship. Spain: Sprint Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915151500 +0000" stop="20260915161500 +0000">
+    <title lang="zh">FIA Formula 3 Championship. Spain: Feature Race 2</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915161500 +0000" stop="20260915172000 +0000">
+    <title lang="zh">FIA Formula 2 Championship. Spain: Sprint Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915172000 +0000" stop="20260915173000 +0000">
+    <title lang="zh">Ferrari at Home in Monza</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915173000 +0000" stop="20260915185000 +0000">
+    <title lang="zh">FIA Formula 2 Championship. Spain: Feature Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915185000 +0000" stop="20260915190000 +0000">
+    <title lang="zh">Martin Brundle with Lando Norris</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915190000 +0000" stop="20260915200000 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Highlights</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915200000 +0000" stop="20260915210000 +0000">
+    <title lang="zh">IndyCar Series Racing. Grand Prix of Monterey: Highlights</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915210000 +0000" stop="20260915231500 +0000">
+    <title lang="zh">Formula 1. Spanish Grand Prix: Stand Alone Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915231500 +0000" stop="20260915234500 +0000">
+    <title lang="zh">Ted's Notebook. Spanish Grand Prix: Race</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260915234500 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Ollie Bearman Drives Ayrton Senna's Lotus</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260916000000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">F1 Explained</title>
+    <desc />
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.skysportsfootball" start="20260914010000 +0000" stop="20260914013000 +0000">
     <title lang="zh">Dundee United: One and Only Time</title>
@@ -17192,10 +17407,295 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260914143000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.skysportsfootball" start="20260914143000 +0000" stop="20260914150000 +0000">
     <title lang="zh">WSL. Aston Villa v Manchester City</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914150000 +0000" stop="20260914153000 +0000">
+    <title lang="zh">EFL League One. Goals</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914153000 +0000" stop="20260914160000 +0000">
+    <title lang="zh">EFL League Two. Goals</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914160000 +0000" stop="20260914161500 +0000">
+    <title lang="zh">EFL Championship. Southampton v Bristol City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914161500 +0000" stop="20260914163000 +0000">
+    <title lang="zh">EFL Championship. Swansea City v Burnley</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914163000 +0000" stop="20260914164500 +0000">
+    <title lang="zh">EFL Championship. Watford v Stoke City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914164500 +0000" stop="20260914170000 +0000">
+    <title lang="zh">EFL Championship. Sheffield United v Wolverhampton Wanderers</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914170000 +0000" stop="20260914173000 +0000">
+    <title lang="zh">WSL. Manchester United v Chelsea</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914173000 +0000" stop="20260914183000 +0000">
+    <title lang="zh">Bundesliga Highlights. Round 3</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914183000 +0000" stop="20260914190000 +0000">
+    <title lang="zh">EFL League One. Goals</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914190000 +0000" stop="20260914193000 +0000">
+    <title lang="zh">EFL League Two. Goals</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914193000 +0000" stop="20260914200000 +0000">
+    <title lang="zh">WSL. Aston Villa v Manchester City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914200000 +0000" stop="20260914201500 +0000">
+    <title lang="zh">EFL Championship. West Ham United v Wrexham</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914201500 +0000" stop="20260914203000 +0000">
+    <title lang="zh">EFL Championship. Derby County v Birmingham City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914203000 +0000" stop="20260914204500 +0000">
+    <title lang="zh">EFL Championship. Bolton Wanderers v Cardiff City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914204500 +0000" stop="20260914210000 +0000">
+    <title lang="zh">EFL Championship. West Bromwich Albion v Queens Park Rangers</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914210000 +0000" stop="20260914211500 +0000">
+    <title lang="zh">EFL Championship. Blackburn Rovers v Millwall</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914211500 +0000" stop="20260914213000 +0000">
+    <title lang="zh">EFL Championship. Charlton Athletic v Portsmouth</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914213000 +0000" stop="20260914223000 +0000">
+    <title lang="zh">Bundesliga Highlights. Round 3</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914223000 +0000" stop="20260914224500 +0000">
+    <title lang="zh">EFL Championship. Middlesbrough v Norwich City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914224500 +0000" stop="20260914230000 +0000">
+    <title lang="zh">EFL Championship. Preston North End v Lincoln City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260914230000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">EFL Cup Retro. 2019 Final: Chelsea v Manchester City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915014500 +0000" stop="20260915020000 +0000">
+    <title lang="zh">EFL Play-Off Classics. 2003: Sheffield United v Nottingham Forest</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915020000 +0000" stop="20260915023000 +0000">
+    <title lang="zh">SPFL Greatest. 2017: Celtic v Rangers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915023000 +0000" stop="20260915024500 +0000">
+    <title lang="zh">EFL Greatest. 2015: Wolverhampton Wanderers v Leeds United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915024500 +0000" stop="20260915030000 +0000">
+    <title lang="zh">EFL Greatest. 2015: Swindon Town v Sheffield United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915030000 +0000" stop="20260915043000 +0000">
+    <title lang="zh">EFL. The Championship Season Review 2024/25</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915043000 +0000" stop="20260915044500 +0000">
+    <title lang="zh">EFL Greatest. 2015: Norwich City v Ipswich Town</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915044500 +0000" stop="20260915050000 +0000">
+    <title lang="zh">EFL Greatest. 2015: Derby County v Leeds United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915050000 +0000" stop="20260915060000 +0000">
+    <title lang="zh">EFL Football. League Two Play-Off Final: Newport County v Tranmere Rovers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915060000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">EFL Football. League One Play-Off Final Charlton Athletic v Sunderland</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915070000 +0000" stop="20260915080000 +0000">
+    <title lang="zh">EFL Football. The Championship Play-Off Final: Derby County v Aston Villa</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915080000 +0000" stop="20260915083000 +0000">
+    <title lang="zh">Scottish Premiership Football. Celtic v Rangers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915083000 +0000" stop="20260915084500 +0000">
+    <title lang="zh">EFL Greatest. 2018: Arsenal v Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915084500 +0000" stop="20260915090000 +0000">
+    <title lang="zh">EFL Greatest. 2018: Aston Villa v Wolverhampton Wanderers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915090000 +0000" stop="20260915110000 +0000">
+    <title lang="zh">EFL Cup Retro. 2011: Birmingham City v Arsenal</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915110000 +0000" stop="20260915113000 +0000">
+    <title lang="zh">John Robertson: Hammer of Hibs</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915113000 +0000" stop="20260915123000 +0000">
+    <title lang="zh">Bundesliga Highlights. Round 3</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915123000 +0000" stop="20260915130000 +0000">
+    <title lang="zh">EFL League One. Goals</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915130000 +0000" stop="20260915133000 +0000">
+    <title lang="zh">EFL League Two. Goals</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915133000 +0000" stop="20260915140000 +0000">
+    <title lang="zh">WSL. Manchester United v Chelsea</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915140000 +0000" stop="20260915143000 +0000">
+    <title lang="zh">John Robertson: Hammer of Hibs</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915143000 +0000" stop="20260915144500 +0000">
+    <title lang="zh">EFL Championship. Southampton v Bristol City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915144500 +0000" stop="20260915150000 +0000">
+    <title lang="zh">EFL Championship. Swansea City v Burnley</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915150000 +0000" stop="20260915151500 +0000">
+    <title lang="zh">EFL Championship. Watford v Stoke City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915151500 +0000" stop="20260915153000 +0000">
+    <title lang="zh">EFL Championship. Sheffield United v Wolverhampton Wanderers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915153000 +0000" stop="20260915163000 +0000">
+    <title lang="zh">Bundesliga Highlights. Round 3</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915163000 +0000" stop="20260915164500 +0000">
+    <title lang="zh">EFL Championship. West Ham United v Wrexham</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915164500 +0000" stop="20260915170000 +0000">
+    <title lang="zh">EFL Championship. Derby County v Birmingham City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915170000 +0000" stop="20260915173000 +0000">
+    <title lang="zh">EFL League One. Goals</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915173000 +0000" stop="20260915180000 +0000">
+    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915180000 +0000" stop="20260915214500 +0000">
+    <title lang="zh">⋗ EFL Cup. Round 3: TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915214500 +0000" stop="20260915220000 +0000">
+    <title lang="zh">SPFL Round-Up. Series 2026 Episode 6</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915220000 +0000" stop="20260915223000 +0000">
+    <title lang="zh">WSL. Aston Villa v Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915223000 +0000" stop="20260915224500 +0000">
+    <title lang="zh">EFL Championship. Bolton Wanderers v Cardiff City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915224500 +0000" stop="20260915230000 +0000">
+    <title lang="zh">EFL Championship. West Bromwich Albion v Queens Park Rangers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915230000 +0000" stop="20260915233000 +0000">
+    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsfootball" start="20260915233000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">EFL Cup Football. 2020 Final: Aston Villa V Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.skysportsgolf" start="20260914013000 +0000" stop="20260914033000 +0000">
     <title lang="zh">Perfection in Paris</title>
@@ -17222,10 +17722,190 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.skysportsgolf" start="20260914133000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.skysportsgolf" start="20260914133000 +0000" stop="20260914180000 +0000">
     <title lang="zh">Irish Open, DP World Tour Golf</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260914180000 +0000" stop="20260914200000 +0000">
+    <title lang="zh">Solheim Cup Women's Golf</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260914200000 +0000" stop="20260914210000 +0000">
+    <title lang="zh">Irish Open, DP World Tour Golf</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260914210000 +0000" stop="20260914220000 +0000">
+    <title lang="zh">Tour Championship, PGA Tour Golf</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260914220000 +0000" stop="20260914230000 +0000">
+    <title lang="zh">Women's Irish Open, LET Golf</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260914230000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Solheim Cup Women's Golf</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915010000 +0000" stop="20260915030000 +0000">
+    <title lang="zh">Solheim Cup Women's Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915030000 +0000" stop="20260915050000 +0000">
+    <title lang="zh">Solheim Cup Women's Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915050000 +0000" stop="20260915053000 +0000">
+    <title lang="zh">Golf Academy</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915053000 +0000" stop="20260915060000 +0000">
+    <title lang="zh">Golf Academy</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915060000 +0000" stop="20260915063000 +0000">
+    <title lang="zh">School of Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915063000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">School of Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915070000 +0000" stop="20260915073000 +0000">
+    <title lang="zh">Playing Lessons</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915073000 +0000" stop="20260915080000 +0000">
+    <title lang="zh">Playing Lessons</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915080000 +0000" stop="20260915083000 +0000">
+    <title lang="zh">Nick Dougherty's Tee Time Tips</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915083000 +0000" stop="20260915090000 +0000">
+    <title lang="zh">Nick Dougherty's Tee Time Tips</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915090000 +0000" stop="20260915093000 +0000">
+    <title lang="zh">Mark Roe's Short Game School</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915093000 +0000" stop="20260915100000 +0000">
+    <title lang="zh">Best of the Sky Zone</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915100000 +0000" stop="20260915103000 +0000">
+    <title lang="zh">Best of the Sky Zone</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915103000 +0000" stop="20260915110000 +0000">
+    <title lang="zh">Best of the Sky Zone</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915110000 +0000" stop="20260915111500 +0000">
+    <title lang="zh">The Improvers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915111500 +0000" stop="20260915113000 +0000">
+    <title lang="zh">The Improvers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915113000 +0000" stop="20260915120000 +0000">
+    <title lang="zh">My Club, My Story</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915120000 +0000" stop="20260915130000 +0000">
+    <title lang="zh">Irish Open, DP World Tour Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915130000 +0000" stop="20260915150000 +0000">
+    <title lang="zh">Solheim Cup Women's Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915150000 +0000" stop="20260915153000 +0000">
+    <title lang="zh">School of Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915153000 +0000" stop="20260915160000 +0000">
+    <title lang="zh">School of Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915160000 +0000" stop="20260915163000 +0000">
+    <title lang="zh">Golf Academy</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915163000 +0000" stop="20260915170000 +0000">
+    <title lang="zh">Golf Academy</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915170000 +0000" stop="20260915173000 +0000">
+    <title lang="zh">My Club, My Story</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915173000 +0000" stop="20260915180000 +0000">
+    <title lang="zh">Scotland's Greatest Golf Holes</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915180000 +0000" stop="20260915190000 +0000">
+    <title lang="zh">The Ally Challenge, Champions Tour Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915190000 +0000" stop="20260915200000 +0000">
+    <title lang="zh">Irish Open, DP World Tour Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915200000 +0000" stop="20260915210000 +0000">
+    <title lang="zh">Irish Open, DP World Tour Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915210000 +0000" stop="20260915220000 +0000">
+    <title lang="zh">Irish Open, DP World Tour Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260915220000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Solheim Cup Women's Golf</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsgolf" start="20260916000000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">European Challenge Tour Golf</title>
+    <desc />
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.alhijrah" start="20260914010000 +0000" stop="20260914020000 +0000">
     <title lang="zh">Assalamualaikum An-Nisa (L)</title>
@@ -17597,10 +18277,140 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260914140000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.skysportsmainevent" start="20260914140000 +0000" stop="20260914150000 +0000">
     <title lang="zh">⋗ Sports Desk</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260914150000 +0000" stop="20260914160000 +0000">
+    <title lang="zh">⋗ Sports Desk</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260914160000 +0000" stop="20260914170000 +0000">
+    <title lang="zh">⋗ The Premier League Show</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260914170000 +0000" stop="20260914173000 +0000">
+    <title lang="zh">⋗ The Premier League Show</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260914173000 +0000" stop="20260914220000 +0000">
+    <title lang="zh">⋗ Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260914220000 +0000" stop="20260914230000 +0000">
+    <title lang="zh">⋗ Through the Night</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260914230000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Through the Night</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915000000 +0000" stop="20260915033000 +0000">
+    <title lang="zh">⋗ NFL Football. Denver Broncos at Kansas City Chiefs</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915033000 +0000" stop="20260915040000 +0000">
+    <title lang="zh">Through the Night</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915040000 +0000" stop="20260915060000 +0000">
+    <title lang="zh">Through the Night</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915060000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">⋗ Sky Sports Breakfast</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915070000 +0000" stop="20260915080000 +0000">
+    <title lang="zh">Sky Sports Breakfast</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915080000 +0000" stop="20260915090000 +0000">
+    <title lang="zh">Sky Sports Breakfast</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915090000 +0000" stop="20260915100000 +0000">
+    <title lang="zh">⋗ Sky Sports FC</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915100000 +0000" stop="20260915110000 +0000">
+    <title lang="zh">Sky Sports FC</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915110000 +0000" stop="20260915120000 +0000">
+    <title lang="zh">⋗ Lunchtime Live</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915120000 +0000" stop="20260915130000 +0000">
+    <title lang="zh">Lunchtime Live</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915130000 +0000" stop="20260915140000 +0000">
+    <title lang="zh">⋗ Sports Desk</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915140000 +0000" stop="20260915150000 +0000">
+    <title lang="zh">Sports Desk</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915150000 +0000" stop="20260915160000 +0000">
+    <title lang="zh">Sports Desk</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915160000 +0000" stop="20260915170000 +0000">
+    <title lang="zh">⋗ The Premier League Show</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915170000 +0000" stop="20260915180000 +0000">
+    <title lang="zh">⋗ International T20 Cricket. 1st T20: England v Sri Lanka</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915180000 +0000" stop="20260915214500 +0000">
+    <title lang="zh">⋗ EFL Cup. Round 3: TBA v TBA</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915214500 +0000" stop="20260915220000 +0000">
+    <title lang="zh">⋗ Paper Talk</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915220000 +0000" stop="20260915230000 +0000">
+    <title lang="zh">⋗ Through the Night</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260915230000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Through the Night</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportsmainevent" start="20260916000000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Through the Night</title>
+    <desc />
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.skysportspremierleague" start="20260914000000 +0000" stop="20260914003000 +0000">
     <title lang="zh">Premier League. Coventry City v Brighton Hove Albion</title>
@@ -17742,10 +18552,235 @@
     <desc />
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260914143000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.skysportspremierleague" start="20260914143000 +0000" stop="20260914150000 +0000">
     <title lang="zh">Premier League. Crystal Palace v Ipswich Town</title>
     <desc />
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914150000 +0000" stop="20260914153000 +0000">
+    <title lang="zh">Premier League. Coventry City v Brighton Hove Albion</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914153000 +0000" stop="20260914160000 +0000">
+    <title lang="zh">Premier League. Manchester United v Manchester City</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914160000 +0000" stop="20260914170000 +0000">
+    <title lang="zh">⋗ The Premier League Show</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914170000 +0000" stop="20260914173000 +0000">
+    <title lang="zh">Ref Watch</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914173000 +0000" stop="20260914220000 +0000">
+    <title lang="zh">⋗ Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914220000 +0000" stop="20260914223000 +0000">
+    <title lang="zh">Transfer 360. Kieran Trippier</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914223000 +0000" stop="20260914230000 +0000">
+    <title lang="zh">Ref Watch</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914230000 +0000" stop="20260914233000 +0000">
+    <title lang="zh">Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260914233000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Premier League Stories. Series 6 Episode 15</title>
+    <desc />
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915000000 +0000" stop="20260915020000 +0000">
+    <title lang="zh">Prem Classics. 2011/12: Manchester United v Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915020000 +0000" stop="20260915021500 +0000">
+    <title lang="zh">Premier League Fan's Vote. 2008: Aston Villa v Birmingham City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915021500 +0000" stop="20260915023000 +0000">
+    <title lang="zh">Premier League Fan's Vote. 1995: Liverpool v Blackburn Rovers</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915023000 +0000" stop="20260915024500 +0000">
+    <title lang="zh">The Premier League's Greatest Games. 2010: Liverpool v Blackpool</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915024500 +0000" stop="20260915030000 +0000">
+    <title lang="zh">The Premier League's Greatest Games. 2005: Bolton Wanderers v Chelsea</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915030000 +0000" stop="20260915040000 +0000">
+    <title lang="zh">Premier League Review. Goals Of The Season 2025/26</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915040000 +0000" stop="20260915043000 +0000">
+    <title lang="zh">Premier League Legends. Robbie Fowler</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915043000 +0000" stop="20260915050000 +0000">
+    <title lang="zh">Premier League Legends. Ian Wright</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915050000 +0000" stop="20260915053000 +0000">
+    <title lang="zh">Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915053000 +0000" stop="20260915060000 +0000">
+    <title lang="zh">Premier League. Coventry City v Brighton Hove Albion</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915060000 +0000" stop="20260915063000 +0000">
+    <title lang="zh">Premier League. Manchester United v Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915063000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">Saturday Night Football. Tottenham Hotspur v Everton</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915070000 +0000" stop="20260915073000 +0000">
+    <title lang="zh">Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915073000 +0000" stop="20260915080000 +0000">
+    <title lang="zh">Premier League. Aston Villa v Nottingham Forest</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915080000 +0000" stop="20260915083000 +0000">
+    <title lang="zh">Premier League. Liverpool v Fulham</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915083000 +0000" stop="20260915090000 +0000">
+    <title lang="zh">Premier League. Chelsea v Hull City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915090000 +0000" stop="20260915100000 +0000">
+    <title lang="zh">⋗ Sky Sports FC</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915100000 +0000" stop="20260915110000 +0000">
+    <title lang="zh">⋗ Sky Sports FC</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915110000 +0000" stop="20260915113000 +0000">
+    <title lang="zh">Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915113000 +0000" stop="20260915120000 +0000">
+    <title lang="zh">Premier League. Manchester United v Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915120000 +0000" stop="20260915123000 +0000">
+    <title lang="zh">Premier League. Aston Villa v Nottingham Forest</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915123000 +0000" stop="20260915130000 +0000">
+    <title lang="zh">Premier League. Liverpool v Fulham</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915130000 +0000" stop="20260915133000 +0000">
+    <title lang="zh">Premier League. Chelsea v Hull City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915133000 +0000" stop="20260915140000 +0000">
+    <title lang="zh">Saturday Night Football. Tottenham Hotspur v Everton</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915140000 +0000" stop="20260915143000 +0000">
+    <title lang="zh">Monday Night Football. Leeds United v Newcastle United</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915143000 +0000" stop="20260915150000 +0000">
+    <title lang="zh">Premier League. Crystal Palace v Ipswich Town</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915150000 +0000" stop="20260915153000 +0000">
+    <title lang="zh">Premier League. Coventry City v Brighton Hove Albion</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915153000 +0000" stop="20260915160000 +0000">
+    <title lang="zh">Premier League. Manchester United v Manchester City</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915160000 +0000" stop="20260915170000 +0000">
+    <title lang="zh">⋗ The Premier League Show</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915170000 +0000" stop="20260915180000 +0000">
+    <title lang="zh">⋗ The Premier League Show</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915180000 +0000" stop="20260915213000 +0000">
+    <title lang="zh">⋗ Soccer Special</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915213000 +0000" stop="20260915223000 +0000">
+    <title lang="zh">Premier League Review. Round 4</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915223000 +0000" stop="20260915230000 +0000">
+    <title lang="zh">The Big Interview</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915230000 +0000" stop="20260915233000 +0000">
+    <title lang="zh">Premier League Stories. Series 6 Episode 15</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260915233000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Netbusters. Round 4</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.skysportspremierleague" start="20260916000000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Prem Classics. 2011 (2-1): Manchester United V Manchester City</title>
+    <desc />
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.premiersports" start="20260914011200 +0000" stop="20260914034200 +0000">
     <title lang="zh">AFL</title>
@@ -18462,6 +19497,11 @@
     <desc>Action from a high-profile Elitserien meeting.</desc>
     <date>2026-09-15</date>
   </programme>
+  <programme channel="mastro.premiersports2" start="20260916000000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">MotorSport</title>
+    <desc>A look at the career of Valentino Rossi.</desc>
+    <date>2026-09-16</date>
+  </programme>
   <programme channel="mastro.ten1" start="20260914000000 +0000" stop="20260914003000 +0000">
     <title lang="zh">Medal of Glory Judo; Commonwealth Games 2026</title>
     <desc>Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.</desc>
@@ -18577,10 +19617,180 @@
     <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.ten1" start="20260914143000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.ten1" start="20260914143000 +0000" stop="20260914150000 +0000">
     <title lang="zh">Sunday Night's Main Event</title>
     <desc>This is Sport - Wrestling Category.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914150000 +0000" stop="20260914160000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914160000 +0000" stop="20260914163000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914163000 +0000" stop="20260914170000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914170000 +0000" stop="20260914173000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914173000 +0000" stop="20260914183000 +0000">
+    <title lang="zh">Noche UFC: Silva vs. Delgado (in English)</title>
+    <desc>This is Sport - Martial Arts Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914183000 +0000" stop="20260914190000 +0000">
+    <title lang="zh">Volleyball- India vs Korea; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914190000 +0000" stop="20260914200000 +0000">
+    <title lang="zh">1st Test: Sri Lanka vs. India; Test Cricket</title>
+    <desc>Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914200000 +0000" stop="20260914210000 +0000">
+    <title lang="zh">2nd Test: Sri Lanka vs. India; Test Cricket</title>
+    <desc>Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914210000 +0000" stop="20260914213000 +0000">
+    <title lang="zh">Hundred Club; Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914213000 +0000" stop="20260914223000 +0000">
+    <title lang="zh">2010: India vs. Pakistan; Asia Cup Highlights</title>
+    <desc>Highlights from the 2010 match between India and Pakistan in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914223000 +0000" stop="20260914233000 +0000">
+    <title lang="zh">2025: Super Four: India vs. Pakistan; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between India and Pakistan in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260914233000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">2nd Test: Sri Lanka vs. India; Test Cricket</title>
+    <desc>Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915003000 +0000" stop="20260915010000 +0000">
+    <title lang="zh">2nd ODI: England v Ireland; Women's One-Day International Cricket</title>
+    <desc>Women's national cricket teams compete against each other in a one-day international in a bid to emerge victorious and win the title.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915010000 +0000" stop="20260915013000 +0000">
+    <title lang="zh">Medal of Glory Weightlifting; Commonwealth Games 2026</title>
+    <desc>Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915013000 +0000" stop="20260915020000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915020000 +0000" stop="20260915030000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915030000 +0000" stop="20260915033000 +0000">
+    <title lang="zh">Hockey Men's Final: India vs Japan; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915033000 +0000" stop="20260915043000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915043000 +0000" stop="20260915050000 +0000">
+    <title lang="zh">Squash Men's: India vs Pakistan; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915050000 +0000" stop="20260915053000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915053000 +0000" stop="20260915060000 +0000">
+    <title lang="zh">Squash Men Final: Saurav vs Eain Yow; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915060000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915070000 +0000" stop="20260915073000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915073000 +0000" stop="20260915080000 +0000">
+    <title lang="zh">Shooting Womens 10m Air Pistol Final; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915080000 +0000" stop="20260915090000 +0000">
+    <title lang="zh">Noche UFC: Silva vs. Delgado (in English)</title>
+    <desc>This is Sport - Martial Arts Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915090000 +0000" stop="20260915100000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915100000 +0000" stop="20260915103000 +0000">
+    <title lang="zh">Squash Men's: India vs Pakistan; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915103000 +0000" stop="20260915110000 +0000">
+    <title lang="zh">Squash Women's - India vs Pakistan; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915110000 +0000" stop="20260915113000 +0000">
+    <title lang="zh">Pandya Power; Lords Of England</title>
+    <desc>Gargi Raut, the host, highlights the rise of renowned cricketer Hardik Pandya and his match-winning performances that help India thrive under pressure.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915113000 +0000" stop="20260915120000 +0000">
+    <title lang="zh">Table Tennis Doubles Women's Semifinal; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915120000 +0000" stop="20260915130000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915130000 +0000" stop="20260915133000 +0000">
+    <title lang="zh">Shooting Womens 10m Air Pistol Final; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915133000 +0000" stop="20260915153000 +0000">
+    <title lang="zh">Medal Of Glory; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Kohli's Crown; Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.sukanplus" start="20260914000000 +0000" stop="20260914003000 +0000">
     <title lang="zh">Match Day Highlights Ep30</title>
@@ -27322,10 +28532,70 @@
     <desc>Rajini Murugan loves Karthika, but her father objects to their alliance due to a confusion.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.zeethirai" start="20260914140000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.zeethirai" start="20260914140000 +0000" stop="20260914173000 +0000">
     <title lang="zh">Sivalinga</title>
     <desc>Raheem gets killed when he tries to save a blind man in a train. When the police close the case stating suicide, Raheem's girlfriend asks Shivalingeshwaran, a CID officer, to investigate the death.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260914173000 +0000" stop="20260914194200 +0000">
+    <title lang="zh">Theru Rowdy</title>
+    <desc>A young man reluctantly becomes a thug due to his grandfather. However, trouble ensues when he later falls in love with a policeman's daughter.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260914194200 +0000" stop="20260914213300 +0000">
+    <title lang="zh">Wild Dog</title>
+    <desc>A series of deadly attacks occur that pose a threat to national security. In response, a brash but brilliant intelligence agent leads a covert operation to find the perpetrators.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260914213300 +0000" stop="20260914220300 +0000">
+    <title lang="zh">Free Ticket</title>
+    <desc>A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260914220300 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Vantha Rajavathaan Varuven</title>
+    <desc>Aadhi promises his grandfather that he will reunite him with his estranged daughter, Nandhini. Posing as a driver, Aadhi enters Nandhini's house but trouble soon follows.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915001600 +0000" stop="20260915003000 +0000">
+    <title lang="zh">Fillers</title>
+    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915003000 +0000" stop="20260915023000 +0000">
+    <title lang="zh">Kuttram 23</title>
+    <desc>ACP Vetrimaaran investigates a missing woman and the murder of a Church priest.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915023000 +0000" stop="20260915050000 +0000">
+    <title lang="zh">Thirunaal</title>
+    <desc>Blade, a henchman for a local gangster, Naaga, falls in love with Vidhya, the daughter of a factory owner. He has to choose between supporting her father and his boss, who are rivals.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915050000 +0000" stop="20260915073000 +0000">
+    <title lang="zh">House Mates</title>
+    <desc>Newlyweds Karthik and Anu move into an old apartment where strange occurrences unsettle their lives, leading them to uncover a paranormal mystery involving another family nearby.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915073000 +0000" stop="20260915103000 +0000">
+    <title lang="zh">Karumegangal Kalaigindrana</title>
+    <desc>Komagan, an advocate, defends the criminal whom his father, a judge, had convicted. Later, he finds out that he has a step-sister and strives to find her.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915103000 +0000" stop="20260915130000 +0000">
+    <title lang="zh">Kamali From Nadukkaveri</title>
+    <desc>Kamali, a young woman, strives hard to land a seat in a prestigious educational institute. Her journey soon inspires others from her small village to follow in her footsteps.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915130000 +0000" stop="20260915153000 +0000">
+    <title lang="zh">Deiva Machan</title>
+    <desc>Visions of a man atop a white horse guide Karthi throughout his mission to get his sister married. However, an unfortunate prediction brings problems into Karthi's life.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Identity</title>
+    <desc>Stranded at a desolate motel during a nasty rainstorm, ten strangers become acquainted with each other. However, they soon realise that they are being killed off one by one.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.aec" start="20260914003000 +0000" stop="20260914012800 +0000">
     <title lang="zh">Perfectly Imperfect Ep07</title>
@@ -42337,10 +43607,70 @@
     <desc>Forrest, a man with low IQ, recounts the early years of his life when he found himself in the middle of key historical events. All he wants now is to be reunited with his childhood sweetheart, Jenny.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.mnplus" start="20260914153000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.mnplus" start="20260914153000 +0000" stop="20260914174200 +0000">
     <title lang="zh">Knives Out</title>
     <desc>When a renowned novelist passes unexpectedly, a detective scrutinises the family, uncovering tangled relationships and hidden agendas.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260914174200 +0000" stop="20260914201400 +0000">
+    <title lang="zh">Once Upon a Time... In Hollywood</title>
+    <desc>Rick, a fading actor, and Cliff, his stunt double, struggle to find relevant work in Hollywood and go through various twists and turns in order to restart their careers.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260914201400 +0000" stop="20260914214500 +0000">
+    <title lang="zh">The Frozen Ground</title>
+    <desc>An Alaska State Trooper partners with a young woman who escaped the clutches of serial killer Robert Hansen to bring the murderer to justice. Based on actual events.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260914214500 +0000" stop="20260914231500 +0000">
+    <title lang="zh">Big Eyes</title>
+    <desc>The husband of Margaret Keane, a phenomenal painter, wrongfully claims credit for her works and enjoys her success until a legal battle between the two reveals the truth to the world.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260914231500 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Stand Up Guys</title>
+    <desc>A geriatric gangster's release from prison leads to a reunion with his two partners in crime, one of whom has orders to kill him.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915005500 +0000" stop="20260915030500 +0000">
+    <title lang="zh">The Great Gatsby</title>
+    <desc>Nick Carraway arrives in New York in 1922. Chasing his own American Dream, Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915030500 +0000" stop="20260915051000 +0000">
+    <title lang="zh">La La Land</title>
+    <desc>When a pianist and an actress follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915051000 +0000" stop="20260915070000 +0000">
+    <title lang="zh">A Beautiful Day in the Neighborhood</title>
+    <desc>Two-time Oscar winner Tom Hanks portrays Mr Rogers in a timely story of kindness triumphing over cynicism, based on the true story of the friendship between Fred Rogers and journalist.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915070000 +0000" stop="20260915093000 +0000">
+    <title lang="zh">Ali</title>
+    <desc>A young boxer wins his debut championship and goes on to reach new heights of fame through his refusal to fight in Vietnam and other controversial actions.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915093000 +0000" stop="20260915112000 +0000">
+    <title lang="zh">Woman in Gold</title>
+    <desc>Maria Altman, a Jewish refugee, along with her lawyer Randy Schoenberg, faces several difficulties while reclaiming the painting of her aunt, which was seized by the Nazis before World War II.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915112000 +0000" stop="20260915134500 +0000">
+    <title lang="zh">The Pianist</title>
+    <desc>A Jewish musician's privileged lifestyle comes to an end with the Nazi invasion of Germany, following which he must endure the horrors of the Holocaust.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915134500 +0000" stop="20260915153000 +0000">
+    <title lang="zh">Boychoir</title>
+    <desc>A demanding choir master at an elite East Coast boarding school pushes a gifted but troubled orphan to fulfil his true potential.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Monster's Ball</title>
+    <desc>Hank, a prison guard, is a part of convicted murderer Lawrence Musgrove's execution, but when he meets Leticia, a Black woman, he becomes smitten with her, unaware that she is Musgrove's widow.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.moviesnow" start="20260914010400 +0000" stop="20260914030700 +0000">
     <title lang="zh">Mission: Impossible III</title>
@@ -42377,10 +43707,120 @@
     <desc>Eric and Sara, fellow warriors of the ice queen's army, fall in love. However, they must conceal their love from her or face the consequences.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.moviesnow" start="20260914151500 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.moviesnow" start="20260914151500 +0000" stop="20260914165600 +0000">
     <title lang="zh">Dora and the Lost City of Gold</title>
     <desc>While searching for a hidden land, the parents of a teenage Dora go missing. Consequently, she and her new high-school friends go in search of the lost city of gold with hopes of finding her parents.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914165600 +0000" stop="20260914183300 +0000">
+    <title lang="zh">Despicable Me 2</title>
+    <desc>When a new criminal comes to town, the Anti-Villain League seeks out Gru in order to fight him off. Despite his initial refusal, Gru eventually agrees after his aide goes back to his evil ways.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914183300 +0000" stop="20260914203700 +0000">
+    <title lang="zh">White House Down</title>
+    <desc>When terrorists suddenly invade the White House, police officer John Cale springs into action to protect his daughter and the President of the United States.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914203700 +0000" stop="20260914205600 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914205600 +0000" stop="20260914211700 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914211700 +0000" stop="20260914213500 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914213500 +0000" stop="20260914215800 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914215800 +0000" stop="20260914222000 +0000">
+    <title lang="zh">The Holiday</title>
+    <desc>Stranded without money or belongings, the group chooses to take a risk that might permanently sever their close bond.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914222000 +0000" stop="20260914223900 +0000">
+    <title lang="zh">The Holiday</title>
+    <desc>Despite missing luggage, Kabir ensures an eventful day filled with honest conversations and nature outings, but the wild journey still tests the group.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914223900 +0000" stop="20260914225700 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914225700 +0000" stop="20260914231800 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914231800 +0000" stop="20260914233600 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914233600 +0000" stop="20260914235900 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260914235900 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Pay Day</title>
+    <desc>A bricklayer's plans of having a fun weekend go for a toss when he finds it difficult to reach home during a downpour. When he finally reaches home, he realises that his wife is angry with him.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915002400 +0000" stop="20260915020600 +0000">
+    <title lang="zh">The LEGO Batman Movie</title>
+    <desc>Batman and friends try to stop Joker from taking over Gotham city while trying to form a relationship with his adopted ward Dick Grayson, who becomes his sidekick.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915020600 +0000" stop="20260915035400 +0000">
+    <title lang="zh">G.I. Joe: Retaliation</title>
+    <desc>The GI Joes are declared traitors by Zartan, with Cobra Commander now having all the world leaders under his control. With nowhere to go, the team turns to its original leader, General Colton.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915035400 +0000" stop="20260915060400 +0000">
+    <title lang="zh">Mission: Impossible -- Ghost Protocol</title>
+    <desc>Ethan Hunt, an expert agent, confronts a worldwide plot. To prevent a nuclear crisis, he collaborates secretly with his team after his organisation is deceived.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915060400 +0000" stop="20260915073300 +0000">
+    <title lang="zh">Shrek</title>
+    <desc>Shrek falls for Princess Fiona when he embarks on a journey to rescue her in exchange for getting his swamp back from the fairytale-hating Lord Farquaad.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915073300 +0000" stop="20260915092800 +0000">
+    <title lang="zh">Jumanji: Welcome to the Jungle</title>
+    <desc>Four teens are transported into a magical jungle game, becoming adult avatars and must navigate challenges to return home safely.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915092800 +0000" stop="20260915113500 +0000">
+    <title lang="zh">The Mummy Returns</title>
+    <desc>An Egyptologist is caught in the crossfire when a sinister cult resurrects the mummified body of an evil priest. The group then aims to use his ancient power to defeat a legendary warrior.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915113500 +0000" stop="20260915131000 +0000">
+    <title lang="zh">Rambo: First Blood Part II</title>
+    <desc>John Rambo is offered the chance to cut short his prison tenure by going on a secret mission for the US government deep into the jungles of Vietnam and locating American POWs.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915131000 +0000" stop="20260915151500 +0000">
+    <title lang="zh">Spider-Man 2</title>
+    <desc>After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life. Soon, amidst all this chaos, he also has to fight Doctor Octavius who poses a threat to the New York.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915151500 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Apocalypto</title>
+    <desc>A mettlesome tribesman must do whatever it takes to protect himself and his family from a multitude of threats during the Mayan civilisation's waning years.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.romedynow" start="20260914010800 +0000" stop="20260914025200 +0000">
     <title lang="zh">Yes Man</title>
@@ -42422,10 +43862,95 @@
     <desc>Eyeing a comeback, former pop star Alex is asked to write a song for a teenage superstar. When Alex recognises house sitter Sophie's talent for words, he must convince her to help him.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.romedynow" start="20260914153000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.romedynow" start="20260914153000 +0000" stop="20260914164800 +0000">
     <title lang="zh">The Starving Games</title>
     <desc>In a deadly game orchestrated by President Snowballs, skilled archer Kantmiss Evershot, her lover Dale and tech-savvy ally Peter Malarkey must rely on their wits and skills to survive.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914164800 +0000" stop="20260914182000 +0000">
+    <title lang="zh">Carpool</title>
+    <desc>Daniel Miller has to take care of the carpool for his sons and the neighbourhood school children when his wife falls sick. However, in the course of the day, he finds himself a victim of a robbery.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914182000 +0000" stop="20260914194400 +0000">
+    <title lang="zh">StreetDance 2</title>
+    <desc>After an embarrassing defeat, a street dancer, Ash, assembles the best dancers from all across the world for another round against the Invincible crew.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914194400 +0000" stop="20260914210900 +0000">
+    <title lang="zh">Fallen</title>
+    <desc>Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, questions arise when the murders start again, eerily matching the modus operandi of Reese.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914210900 +0000" stop="20260914215500 +0000">
+    <title lang="zh">Live - The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914215500 +0000" stop="20260914223600 +0000">
+    <title lang="zh">Live - The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914223600 +0000" stop="20260914224600 +0000">
+    <title lang="zh">Sonakshi Sinha; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914224600 +0000" stop="20260914230000 +0000">
+    <title lang="zh">Yashraj Mukhate; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260914230000 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Liar Liar</title>
+    <desc>Fletcher Reede is a successful defence lawyer who has greatly benefitted from the habit of lying. His life takes an ugly turn when his son wishes for him to become incapable of lying for a day.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915004500 +0000" stop="20260915024000 +0000">
+    <title lang="zh">Due Date</title>
+    <desc>Peter Highman must reach Los Angeles to make it in time for his child's birth. However, he is forced to travel with Ethan, an aspiring actor, who frequently lands him in trouble.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915024000 +0000" stop="20260915042500 +0000">
+    <title lang="zh">You, Me and Dupree</title>
+    <desc>Dupree stays on as a houseguest with the newlyweds, much to the couple's annoyance.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915042500 +0000" stop="20260915062500 +0000">
+    <title lang="zh">Crazy Rich Asians</title>
+    <desc>A professor's world turns upside down when she discovers that her longtime boyfriend belongs to an eccentric, super rich family of business moguls.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915062500 +0000" stop="20260915083000 +0000">
+    <title lang="zh">Notting Hill</title>
+    <desc>William, a British bookseller, meets and falls in love with Anna, a high-profile American actress. However, their relationship goes through many problems due to their different social statuses.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915083000 +0000" stop="20260915102000 +0000">
+    <title lang="zh">Meet the Parents</title>
+    <desc>Greg Focker, a hapless American nurse, ends up like a hamster on a wheel of misadventures in a desperate attempt to win the favour of his girlfriend's parents.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915102000 +0000" stop="20260915120500 +0000">
+    <title lang="zh">Letters to Juliet</title>
+    <desc>Sophie, an aspiring writer assisted by the secretaries of Juliet, sets out to unite Claire with her long-lost love. While on her journey, she finds herself drawn to Claire's grandson.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915120500 +0000" stop="20260915134500 +0000">
+    <title lang="zh">Zoey's Extraordinary Christmas</title>
+    <desc>On her first holiday without her father, Zoey wants to create a magical Christmas for her family just like the ones Mitch used to do.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915134500 +0000" stop="20260915153000 +0000">
+    <title lang="zh">The Intern</title>
+    <desc>Ben Whittaker, a 70-year-old widower, realises that he is not cut out for retirement. He then applies to become a senior intern for a sceptical boss at an online fashion site.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">The Notebook</title>
+    <desc>Duke reads the story of Allie and Noah, two lovers who were separated by fate, to Ms Hamilton, an old woman who suffers from dementia, on a daily basis out of his notebook.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.mnx" start="20260914011800 +0000" stop="20260914034300 +0000">
     <title lang="zh">The Matrix Resurrections</title>
@@ -42462,10 +43987,75 @@
     <desc>After a crucial operation goes wrong, IMF Agent Ethan Hunt and his team must work together with a few allies to prevent a nuclear attack.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.mnx" start="20260914153000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.mnx" start="20260914153000 +0000" stop="20260914173300 +0000">
     <title lang="zh">Transformers: Rise of the Beasts</title>
     <desc>As a nefarious force imperils Earth, an unlikely alliance forms between Optimus Prime's Autobots and the mighty Maximals, aided by two humans to safeguard mankind's future.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260914173300 +0000" stop="20260914190900 +0000">
+    <title lang="zh">Kung Fu Hustle</title>
+    <desc>An aspiring gangster pretends to be part of a notorious gang and tries to terrorise a neighbourhood. However, unknown to him, three martial arts experts live there and are ready to take him down.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260914190900 +0000" stop="20260914214500 +0000">
+    <title lang="zh">John Wick: Chapter 4</title>
+    <desc>Assassin John Wick faces a new and powerful enemy as he fights for his freedom.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260914214500 +0000" stop="20260914215600 +0000">
+    <title lang="zh">Kirti Kulhari &amp; Maanvi Gagroo; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260914215600 +0000" stop="20260914223600 +0000">
+    <title lang="zh">The Pilgrim</title>
+    <desc>A convict escapes from prison and guises as a pastor to save himself from the sheriff. The sheriff cannot be outsmarted and is determined to take him into custody.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260914223600 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Southpaw</title>
+    <desc>After a devastating accident shatters his world, a once-celebrated champion boxer spirals into a destructive abyss. Subsequently, he decides to fight for his daughter and revive his fading career.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915002900 +0000" stop="20260915024900 +0000">
+    <title lang="zh">The Hunger Games</title>
+    <desc>Katniss volunteers to replace her sister in a tournament that ends only when one participant remains. Pitted against contestants who have trained for this all their life, she has little to rely on.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915024900 +0000" stop="20260915044200 +0000">
+    <title lang="zh">Now You See Me</title>
+    <desc>Four talented magicians are plucked from obscurity to become the Four Horsemen - a group of stage illusionists who soon attract the attention of the FBI.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915044200 +0000" stop="20260915061500 +0000">
+    <title lang="zh">Johnny English Strikes Again</title>
+    <desc>When a hacker reveals the identities of Britain's undercover agents, British agent Johnny English springs back into action and must overcome the challenges of modern technology.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915061500 +0000" stop="20260915084600 +0000">
+    <title lang="zh">Transformers: Dark of the Moon</title>
+    <desc>The Decepticons are trying to learn the secrets of a stranded Cybertronian spacecraft. Sam Witwicky and the Autobots must stop them before it is too late.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915084600 +0000" stop="20260915110700 +0000">
+    <title lang="zh">Mission: Impossible -- Fallout</title>
+    <desc>After a crucial operation goes wrong, IMF Agent Ethan Hunt and his team must work together with a few allies to prevent a nuclear attack.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915110700 +0000" stop="20260915134300 +0000">
+    <title lang="zh">John Wick: Chapter 4</title>
+    <desc>Assassin John Wick faces a new and powerful enemy as he fights for his freedom.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915134300 +0000" stop="20260915153000 +0000">
+    <title lang="zh">The Nun II</title>
+    <desc>In 1956 France, Sister Irene faces the terrifying demon Valak, racing against time to save a convent and the surrounding community from evil.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Black Adam</title>
+    <desc>After being granted the divine power of the Egyptian Gods and spending almost 5000 years in a guardhouse, Black Adam is freed and decides to unleash his style of justice on the world.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.rockaction" start="20260914011500 +0000" stop="20260914030500 +0000">
     <title lang="zh">Daylight</title>
@@ -42882,10 +44472,80 @@
     <desc>Hellboy is a demonic warrior who protects the Earth from paranormal threats. When an enemy from his past makes a comeback, it is up to him and his team to stop the villain once and for all.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.sonypix" start="20260914153000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.sonypix" start="20260914153000 +0000" stop="20260914172200 +0000">
     <title lang="zh">Men in Black: International</title>
     <desc>Agent M, a probationary member of the MIB, teams up with Agent H and uncovers a sinister plot that reveals a traitor in the organisation aiding an alien invasion.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260914172200 +0000" stop="20260914191000 +0000">
+    <title lang="zh">Drunken Master</title>
+    <desc>Wong, a mischievous young boy, learns a special form of martial arts from his alcoholic master in order to prevent an assassin from executing his goals.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260914191000 +0000" stop="20260914210200 +0000">
+    <title lang="zh">The Pursuit of Happyness</title>
+    <desc>Tired of Chris's professional failures, his wife decides to separate, leaving him financially broke with an unpaid internship in a brokerage firm and his son's custody to deal with.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260914210200 +0000" stop="20260914224200 +0000">
+    <title lang="zh">The Adventures of Tintin</title>
+    <desc>Tintin's new model ship sparks an adventure of intrigue and theft. He uncovers a historical mystery involving treasure, rival groups and a quest for scrolls revealing a sunken ship's location.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260914224200 +0000" stop="20260915000000 +0000">
+    <title lang="zh">The Cable Guy</title>
+    <desc>Chip, a cable technician, sets his sights on befriending Steven, a new customer whom he takes a fancy to. But when Steven spurns their friendship, Chip immediately starts to wreak havoc in his life.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915001200 +0000" stop="20260915014300 +0000">
+    <title lang="zh">Daddio</title>
+    <desc>A woman takes a cab ride back home from the airport. En route, she unexpectedly has an insightful conversation with the driver regarding the important relationships in life.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915014300 +0000" stop="20260915033600 +0000">
+    <title lang="zh">Hitch</title>
+    <desc>A professional dating expert helps men woo the women of their dreams. However, while helping a hapless client, he finds himself challenged by a gossip columnist.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915033600 +0000" stop="20260915045600 +0000">
+    <title lang="zh">Stuart Little</title>
+    <desc>Upon getting adopted by the Littles, Stuart, a mouse, is unwelcomed by his new brother George. So, when Stuart begins to feel low the family helps him find his real parents.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915045600 +0000" stop="20260915062000 +0000">
+    <title lang="zh">Anaconda</title>
+    <desc>A documentary crew, who are on a mission to find a tribe named Shirishamas, helps a snake hunter when they find him stranded. However, he forces them to risk their lives and hunt down an anaconda.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915062000 +0000" stop="20260915074100 +0000">
+    <title lang="zh">Brightburn</title>
+    <desc>Tori and Kyle find a baby boy in a spaceship and adopt him as their own child, Brandon. However, after turning 12, Brandon learns that he has superpowers and begins to use them for sinister purposes.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915074100 +0000" stop="20260915094600 +0000">
+    <title lang="zh">The Equalizer</title>
+    <desc>Robert McCall gives up violence and wishes to lead a quiet life. However, brutal events force him to take up the fight for justice once again.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915094600 +0000" stop="20260915115900 +0000">
+    <title lang="zh">Spider-Man 3</title>
+    <desc>A symbiote bonds with Peter Parker, intensifying his abilities and aggression. Now, he must face the challenges that his new powers bring while simultaneously fighting new villains.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915115900 +0000" stop="20260915134700 +0000">
+    <title lang="zh">The Mitchells vs. the Machines</title>
+    <desc>The Mitchells, a dysfunctional family, must fight a robot apocalypse amidst their much-awaited road trip to save humanity.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915134700 +0000" stop="20260915153000 +0000">
+    <title lang="zh">Monster Hunter</title>
+    <desc>Captain Artemis and her group of soldiers are pulled into a world where dangerous monsters and humans co-exist. Grappled by danger, they must find a way to escape with help from a mysterious hunter.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">The Equalizer 3</title>
+    <desc>As Robert McCall finds himself forming a new bond with the locals of an Italian town, the region's oppression by the Mafia triggers him to protect his people.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.starmovies" start="20260914003000 +0000" stop="20260914033000 +0000">
     <title lang="zh">Movie</title>
@@ -42912,10 +44572,85 @@
     <desc>Bringing the best in television.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.starmovies" start="20260914153000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.starmovies" start="20260914153000 +0000" stop="20260914165700 +0000">
     <title lang="zh">Movie</title>
     <desc>Bringing the best in television.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260914165700 +0000" stop="20260914182900 +0000">
+    <title lang="zh">Lake Placid: Legacy</title>
+    <desc>A team of explorers set out to unearth the secrets behind an abandoned facility. Once inside the facility, they are dragged into a battle for their lives with a deadly predator.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260914182900 +0000" stop="20260914201700 +0000">
+    <title lang="zh">Cars</title>
+    <desc>Lightning McQueen, a racing car, learns a hard lesson in life when he damages a road in Radiator Springs. He must fix the damage before entering a championship and win the prestigious Piston Cup.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260914201700 +0000" stop="20260914215700 +0000">
+    <title lang="zh">Journey to the West: The Demons Strike Back</title>
+    <desc>Tang Sanzang, a monk and his three disciples strive to overcome multiple challenges and fight monsters during the course of their journey.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260914215700 +0000" stop="20260914221400 +0000">
+    <title lang="zh">Filler</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260914221400 +0000" stop="20260914232600 +0000">
+    <title lang="zh">Mutant Python</title>
+    <desc>A python is determined to exact revenge on a secluded village in the northern Fujian district of China after its altar is desecrated by a dead snake.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260914232600 +0000" stop="20260915000000 +0000">
+    <title lang="zh">Darkroom</title>
+    <desc>Michelle accepts a professional role suggested by her advisor. This position confines her within a residence where three deranged relatives attempt to cleanse her soul.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915003700 +0000" stop="20260915015400 +0000">
+    <title lang="zh">Super Typhoon</title>
+    <desc>A wrathful goddess unleashes a cataclysmic typhoon upon the world as punishment for humanity's transgressions. Panic ensues as people are forced to confront monstrous creatures amid the chaos.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915015400 +0000" stop="20260915033000 +0000">
+    <title lang="zh">Hitman: Agent 47</title>
+    <desc>When a woman enlists Agent 47's help to find her father and his creator, they embark on a perilous mission to reach him before a rival organization can capture him.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915033000 +0000" stop="20260915055400 +0000">
+    <title lang="zh">Guardians of the Galaxy Vol. 2</title>
+    <desc>The Guardians meet Ego, a celestial being claiming to be the long-lost father of Peter Quill. However, things take a turn when they uncover an unnerving truth about him.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915055400 +0000" stop="20260915073000 +0000">
+    <title lang="zh">A Quiet Place: Day One</title>
+    <desc>Sam navigates a living nightmare in an invaded New York City, struggling to survive in silence against deadly creatures with ultra sensitive hearing.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915073000 +0000" stop="20260915092400 +0000">
+    <title lang="zh">The Maze Runner</title>
+    <desc>A boy finds himself trapped in a gigantic maze with no memories of his past. However, he must work with other boys like him to escape the maze and discover the truth.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915092400 +0000" stop="20260915105700 +0000">
+    <title lang="zh">Soul</title>
+    <desc>An accident and an eye-opening trip to the afterlife pushes Joe Gardner, a music teacher and a jazz pianist, to understand the joy of living life to the fullest.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915105700 +0000" stop="20260915123500 +0000">
+    <title lang="zh">Zootopia</title>
+    <desc>Rookie officer Judy Hopps uncovers a dark conspiracy in Zootopia and teams up with a sly con artist. Together, they join forces to solve the case and prove her abilities.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915123500 +0000" stop="20260915151500 +0000">
+    <title lang="zh">Black Panther: Wakanda Forever</title>
+    <desc>After the death of their beloved King T'Challa, the people of Wakanda attempt to protect their kingdom from the world and a new foe.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915151500 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Alien: Romulus</title>
+    <desc>A crew of space colonisers boards a derelict station in search of valuable resources. Their routine scavenging mission becomes a fight for survival against a deadly entity.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.starmoviesselect" start="20260914003000 +0000" stop="20260914033000 +0000">
     <title lang="zh">Movie</title>
@@ -42942,10 +44677,60 @@
     <desc>Bringing the best in television.</desc>
     <date>2026-09-14</date>
   </programme>
-  <programme channel="mastro.starmoviesselect" start="20260914153000 +0000" stop="20260915000000 +0000">
+  <programme channel="mastro.starmoviesselect" start="20260914153000 +0000" stop="20260914174300 +0000">
     <title lang="zh">Movie</title>
     <desc>Bringing the best in television.</desc>
     <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260914174300 +0000" stop="20260914191300 +0000">
+    <title lang="zh">Gremlins</title>
+    <desc>Billy's father gets him a pet from China with three very specific instructions. However, when Billy does not follow them, it unleashes a horde of monsters.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260914191300 +0000" stop="20260914204700 +0000">
+    <title lang="zh">Rio</title>
+    <desc>Blu, a domesticated blue macaw, is brought to Rio de Janeiro to meet Jewel, the last known female of his species. However, things take a turn when they are kidnapped by smugglers.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260914204700 +0000" stop="20260914220700 +0000">
+    <title lang="zh">Jurassic City</title>
+    <desc>After the security of a top-secret laboratory is compromised, genetically modified dinosaurs get unleashed. Then, a black-ops unit is tasked with capturing the creatures before they cause more damage.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260914220700 +0000" stop="20260915000000 +0000">
+    <title lang="zh">The Python</title>
+    <desc>When a dictatorial commander orders the death of a python within three days, members of a snake-hunting village must comply or face the consequences of his wrath.</desc>
+    <date>2026-09-14</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915003000 +0000" stop="20260915033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915033000 +0000" stop="20260915063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915063000 +0000" stop="20260915093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915093000 +0000" stop="20260915123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915123000 +0000" stop="20260915153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915153000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
   </programme>
   <programme channel="mastro.prima" start="20260914003000 +0000" stop="20260914005500 +0000">
     <title lang="zh">Check In Check Out Ep01</title>
