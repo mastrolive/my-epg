@@ -241,15 +241,15 @@
     <icon src="" />
   </channel>
   <channel id="mastro.tnt1">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.tnt2">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.tnt3">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
+    <display-name lang="大不列顛及北愛爾蘭聯合王國">TNT Sports 3 HD</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.tvs">
@@ -15922,9 +15922,14 @@
     <desc>Highlights of the U18s game against Newcastle United.</desc>
     <date>2026-09-16</date>
   </programme>
-  <programme channel="mastro.mutv" start="20260916223000 +0000" stop="20260917000000 +0000">
+  <programme channel="mastro.mutv" start="20260916223000 +0000" stop="20260916230000 +0000">
     <title lang="zh">UEFA Youth League Highlights</title>
     <desc>Highlights of the U19s UEFA Youth League match against Sabah FK.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260916230000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Carabao Cup 26/27</title>
+    <desc>Full coverage of our Carabao Cup third-round tie against Brighton &amp; Hove Albion.</desc>
     <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.lfctv" start="20260915010000 +0000" stop="20260915030000 +0000">
@@ -16202,9 +16207,14 @@
     <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
     <date>2026-09-16</date>
   </programme>
-  <programme channel="mastro.lfctv" start="20260916224500 +0000" stop="20260917000000 +0000">
+  <programme channel="mastro.lfctv" start="20260916224500 +0000" stop="20260916230000 +0000">
     <title lang="zh">Goal Rush: Dominik Szoboszlai</title>
     <desc>Enjoy a selection of memorable goals scored by Dominik Szoboszlai.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260916230000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">The Match</title>
+    <desc>All the action as Liverpool take on Tottenham in the Carabao Cup.</desc>
     <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.beinsports3" start="20260915000000 +0000" stop="20260915003000 +0000">
@@ -19487,10 +19497,155 @@
     <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.ten1" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.ten1" start="20260915153000 +0000" stop="20260915160000 +0000">
     <title lang="zh">Kohli's Crown; Lords Of England</title>
     <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915160000 +0000" stop="20260915163000 +0000">
+    <title lang="zh">Table Tennis Doubles Women's Semifinal; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915163000 +0000" stop="20260915173000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915173000 +0000" stop="20260915211500 +0000">
+    <title lang="zh">Live - England vs. Sri Lanka; T20 Cricket</title>
+    <desc>A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915211500 +0000" stop="20260915213000 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915213000 +0000" stop="20260915223000 +0000">
+    <title lang="zh">2023: Pakistan vs. India; Asia Cup Highlights</title>
+    <desc>Highlights from the 2023 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915223000 +0000" stop="20260915233000 +0000">
+    <title lang="zh">2025: Super Four: Pakistan vs. Sri Lanka; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between Pakistan and Sri Lanka in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260915233000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Only Test: England vs. India; Women's Test Cricket</title>
+    <desc>This is Sport - Cricket Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916003000 +0000" stop="20260916010000 +0000">
+    <title lang="zh">3rd ODI: England v Ireland; Women's One-Day International Cricket</title>
+    <desc>Women's national cricket teams compete against each other in a one-day international in a bid to emerge victorious and win the title.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916010000 +0000" stop="20260916013000 +0000">
+    <title lang="zh">Medal of Glory Judo; Commonwealth Games 2026</title>
+    <desc>Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916013000 +0000" stop="20260916023000 +0000">
+    <title lang="zh">2nd T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916023000 +0000" stop="20260916030000 +0000">
+    <title lang="zh">1st T20: England vs Sri Lanka; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916030000 +0000" stop="20260916033000 +0000">
+    <title lang="zh">Kabaddi Men's Semifinal - India vs Pakistan; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916033000 +0000" stop="20260916043000 +0000">
+    <title lang="zh">2nd T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916043000 +0000" stop="20260916050000 +0000">
+    <title lang="zh">Table Tennis Doubles Women's Semifinal; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916050000 +0000" stop="20260916053000 +0000">
+    <title lang="zh">2nd T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916053000 +0000" stop="20260916060000 +0000">
+    <title lang="zh">Squash Mixed Double Final; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916060000 +0000" stop="20260916063000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916063000 +0000" stop="20260916073000 +0000">
+    <title lang="zh">2nd T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916073000 +0000" stop="20260916080000 +0000">
+    <title lang="zh">Kabaddi Men's Final: India vs Iran; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916080000 +0000" stop="20260916100000 +0000">
+    <title lang="zh">Medal Of Glory; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916100000 +0000" stop="20260916103000 +0000">
+    <title lang="zh">1st T20: England vs Sri Lanka; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916103000 +0000" stop="20260916110000 +0000">
+    <title lang="zh">Table Tennis Doubles Women's Semifinal; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916110000 +0000" stop="20260916113000 +0000">
+    <title lang="zh">Hitman's England; Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916113000 +0000" stop="20260916120000 +0000">
+    <title lang="zh">Hockey Men's Final: India vs Japan; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916120000 +0000" stop="20260916130000 +0000">
+    <title lang="zh">2nd T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916130000 +0000" stop="20260916133000 +0000">
+    <title lang="zh">Table Tennis Doubles Women's Semifinal; 2022 Hangzhou Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916133000 +0000" stop="20260916143000 +0000">
+    <title lang="zh">Medal Of Glory Athletics; Commonwealth Games 2026</title>
+    <desc>Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916143000 +0000" stop="20260916153000 +0000">
+    <title lang="zh">1st T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Strike Force; Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.sukanplus" start="20260915000000 +0000" stop="20260915003000 +0000">
     <title lang="zh">Match Day Highlights Ep31</title>
@@ -28497,10 +28652,75 @@
     <desc>Visions of a man atop a white horse guide Karthi throughout his mission to get his sister married. However, an unfortunate prediction brings problems into Karthi's life.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.zeethirai" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.zeethirai" start="20260915153000 +0000" stop="20260915154300 +0000">
     <title lang="zh">Identity</title>
     <desc>Stranded at a desolate motel during a nasty rainstorm, ten strangers become acquainted with each other. However, they soon realise that they are being killed off one by one.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915154300 +0000" stop="20260915184800 +0000">
+    <title lang="zh">Identity</title>
+    <desc>Stranded at a desolate motel during a nasty rainstorm, ten strangers become acquainted with each other. However, they soon realise that they are being killed off one by one.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915184800 +0000" stop="20260915210200 +0000">
+    <title lang="zh">Anandham Vilayadum Veedu</title>
+    <desc>Muthupandi and Kaasi, two half-brothers, lead harmonious lives with their large families. However, the evil scheme of an old nemesis threatens their formidable unity.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915210200 +0000" stop="20260915213000 +0000">
+    <title lang="zh">Free Ticket</title>
+    <desc>A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915213000 +0000" stop="20260915215900 +0000">
+    <title lang="zh">Free Ticket</title>
+    <desc>A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260915215900 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Pattathu Yaanai</title>
+    <desc>A man and his friends move to Trichy to set up a restaurant business. However, their plans get interrupted when he gets involved with the same girl that a gangster loves.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916001300 +0000" stop="20260916003000 +0000">
+    <title lang="zh">Fillers</title>
+    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916003000 +0000" stop="20260916023000 +0000">
+    <title lang="zh">Mohini</title>
+    <desc>Vaishnavi and Sandeep, a couple in love, are engaged to be married. However, things spiral out of control when she gets possessed by a lookalike who is thirsty for vengeance.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916023000 +0000" stop="20260916050000 +0000">
+    <title lang="zh">Thiru.Manickam</title>
+    <desc>Despite the mounting challenges along the way, Manickam, an honest family man who runs a lottery shop, sets out to deliver a winning ticket worth a fortune to its rightful owner.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916050000 +0000" stop="20260916073000 +0000">
+    <title lang="zh">Gorilla</title>
+    <desc>Four friends join hands to rob a bank with a chimpanzee as their accomplice. However, things do not go the way they planned.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916073000 +0000" stop="20260916103000 +0000">
+    <title lang="zh">Annapoorani: The Goddess of Food</title>
+    <desc>Annapoorani, a girl born into an orthodox Hindu family, aspires to become a top chef. However, she faces obstacles that include prejudice and conventional beliefs.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916103000 +0000" stop="20260916130000 +0000">
+    <title lang="zh">Killadi Marumagan</title>
+    <desc>A carefree youngster falls for an egoistic girl. However, things go awry when the bride's mother objects to the union, compelling the boy to plot a strategy to convince the woman.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916130000 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Bimbisara</title>
+    <desc>Getting betrayed by his brother, ancient evil king Bimbisara teleports to the modern-day world and gets trapped in the mirror.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Virupaksha</title>
+    <desc>While the occurrence of a series of mysterious deaths haunt the villagers, a man decides to risk his life and unravel the secret behind them.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.aec" start="20260915002600 +0000" stop="20260915003000 +0000">
     <title lang="zh">Yang Sudi Tinggal Ep05</title>
@@ -43672,10 +43892,80 @@
     <desc>A demanding choir master at an elite East Coast boarding school pushes a gifted but troubled orphan to fulfil his true potential.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.mnplus" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.mnplus" start="20260915153000 +0000" stop="20260915171500 +0000">
     <title lang="zh">Monster's Ball</title>
     <desc>Hank, a prison guard, is a part of convicted murderer Lawrence Musgrove's execution, but when he meets Leticia, a Black woman, he becomes smitten with her, unaware that she is Musgrove's widow.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915171500 +0000" stop="20260915191000 +0000">
+    <title lang="zh">Spotlight</title>
+    <desc>Martin Baron joins the Boston Globe as an editor and pushes four journalists to pursue a story about the child molestation charges against the local church.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915191000 +0000" stop="20260915204000 +0000">
+    <title lang="zh">The Runner</title>
+    <desc>A politician's life is thrown into turmoil when a scandal emerges. His team scrambles to save his reputation and mitigate the damage.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915204000 +0000" stop="20260915221000 +0000">
+    <title lang="zh">Fallen</title>
+    <desc>Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, questions arise when the murders start again, eerily matching the modus operandi of Reese.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915221000 +0000" stop="20260915223600 +0000">
+    <title lang="zh">Live - Mandira Bedi; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260915223600 +0000" stop="20260916000000 +0000">
+    <title lang="zh">The Pianist</title>
+    <desc>A Jewish musician's privileged lifestyle comes to an end with the Nazi invasion of Germany, following which he must endure the horrors of the Holocaust.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916010900 +0000" stop="20260916024900 +0000">
+    <title lang="zh">The Frozen Ground</title>
+    <desc>An Alaska State Trooper partners with a young woman who escaped the clutches of serial killer Robert Hansen to bring the murderer to justice. Based on actual events.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916024900 +0000" stop="20260916043900 +0000">
+    <title lang="zh">Monster's Ball</title>
+    <desc>Hank, a prison guard, is a part of convicted murderer Lawrence Musgrove's execution, but when he meets Leticia, a Black woman, he becomes smitten with her, unaware that she is Musgrove's widow.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916043900 +0000" stop="20260916055600 +0000">
+    <title lang="zh">The Circus</title>
+    <desc>The Tramp is hired by the proprietor of a circus after he stumbles into the middle of a performance and becomes the star attraction. He ends up falling in love with a horse rider.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916055600 +0000" stop="20260916075700 +0000">
+    <title lang="zh">The Company You Keep</title>
+    <desc>Grant, a wanted man and a former member of the revolutionary militant group, the Weather Underground, goes on the run after a journalist reveals his identity.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916075700 +0000" stop="20260916094500 +0000">
+    <title lang="zh">The Family Fang</title>
+    <desc>After the police inform them about their parents' mysterious disappearance, two siblings embark on a mission to uncover the truth.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916094500 +0000" stop="20260916111600 +0000">
+    <title lang="zh">Jennifer Lopez: Dance Again</title>
+    <desc>Documentary follows Jennifer Lopez's personal and professional journey during her first global tour. Later, it reveals behind-the-scenes moments on and off-stage.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916111600 +0000" stop="20260916132900 +0000">
+    <title lang="zh">Captain Phillips</title>
+    <desc>Somali pirates attack the Maersk Alabama, a container ship, while it is on its course to Kenya. Richard Phillips, the captain of the ship, uses his wits to negotiate with them to save his crew.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916132900 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Southpaw</title>
+    <desc>After a devastating accident shatters his world, a once-celebrated champion boxer spirals into a destructive abyss. Subsequently, he decides to fight for his daughter and revive his fading career.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Nightcrawler</title>
+    <desc>Louis Bloom, a petty thief, realises that he can make money by capturing photographs of crime scenes and starts resorting to extreme tactics to get them.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.moviesnow" start="20260915002400 +0000" stop="20260915020600 +0000">
     <title lang="zh">The LEGO Batman Movie</title>
@@ -43717,10 +44007,120 @@
     <desc>After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life. Soon, amidst all this chaos, he also has to fight Doctor Octavius who poses a threat to the New York.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.moviesnow" start="20260915151500 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.moviesnow" start="20260915151500 +0000" stop="20260915170400 +0000">
     <title lang="zh">Apocalypto</title>
     <desc>A mettlesome tribesman must do whatever it takes to protect himself and his family from a multitude of threats during the Mayan civilisation's waning years.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915170400 +0000" stop="20260915190100 +0000">
+    <title lang="zh">Godzilla</title>
+    <desc>This powerful story of human courage and reconciliation in the face of titanic forces of nature, pits the world's most famous monster against malevolent creatures that threaten man's very existence.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915190100 +0000" stop="20260915203500 +0000">
+    <title lang="zh">The LEGO NINJAGO Movie</title>
+    <desc>Ostracized by everyone for being the child of a cruel overlord, a teen assembles his fellow ninjas to fight off his father.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915203500 +0000" stop="20260915205500 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915205500 +0000" stop="20260915211400 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915211400 +0000" stop="20260915213600 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915213600 +0000" stop="20260915220100 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915220100 +0000" stop="20260915221600 +0000">
+    <title lang="zh">The Holiday</title>
+    <desc>The two companions complement each other perfectly like the shore and sand. Moreover, they maintain an exemplary friendship.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915221600 +0000" stop="20260915223600 +0000">
+    <title lang="zh">The Holiday</title>
+    <desc>A severe dispute affects the camaraderie of a group of friends who have been enduring a friendly relationship for a period of seven years.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915223600 +0000" stop="20260915225600 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915225600 +0000" stop="20260915231600 +0000">
+    <title lang="zh">Mom &amp; Co.</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915231600 +0000" stop="20260915233600 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260915233600 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Imprefect</title>
+    <desc>This is TV Show - Drama Category.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916000000 +0000" stop="20260916012000 +0000">
+    <title lang="zh">The Gold Rush</title>
+    <desc>During the Klondike Gold Rush, a lone prospector goes through a series of misfortunes, including a blizzard and starvation. However, he finds love even in the stormy Alaska.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916012000 +0000" stop="20260916024500 +0000">
+    <title lang="zh">City Lights</title>
+    <desc>The Tramp falls in love with a girl with visual impairment who sells flowers on the street. He tries to help her gain her eyesight back with the help of a wealthy man.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916024500 +0000" stop="20260916043000 +0000">
+    <title lang="zh">Baby Driver</title>
+    <desc>When talented getaway driver Baby meets his dream girl, Debora, he chooses to leave his shady life behind. But when he is called in for one last heist with an unstable crew, things get dicey.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916043000 +0000" stop="20260916062500 +0000">
+    <title lang="zh">Bumblebee</title>
+    <desc>During the Cybertron Civil War, Optimus Prime sends Autobot scout B-127 to Earth to form a base where they can regroup. Later, the scout befriends a girl named Charlie, who names him Bumblebee.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916062500 +0000" stop="20260916083000 +0000">
+    <title lang="zh">Spider-Man 2</title>
+    <desc>After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life. Soon, amidst all this chaos, he also has to fight Doctor Octavius who poses a threat to the New York.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916083000 +0000" stop="20260916102000 +0000">
+    <title lang="zh">Apocalypto</title>
+    <desc>A mettlesome tribesman must do whatever it takes to protect himself and his family from a multitude of threats during the Mayan civilisation's waning years.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916102000 +0000" stop="20260916120000 +0000">
+    <title lang="zh">Dora and the Lost City of Gold</title>
+    <desc>While searching for a hidden land, the parents of a teenage Dora go missing. Consequently, she and her new high-school friends go in search of the lost city of gold with hopes of finding her parents.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916120000 +0000" stop="20260916133500 +0000">
+    <title lang="zh">Despicable Me 2</title>
+    <desc>When a new criminal comes to town, the Anti-Villain League seeks out Gru in order to fight him off. Despite his initial refusal, Gru eventually agrees after his aide goes back to his evil ways.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916133500 +0000" stop="20260916151500 +0000">
+    <title lang="zh">Doom</title>
+    <desc>Space Marines travel to Mars to inspect a remote research base. Consequently, lethal killing machines launch a devastating ambush.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260916151500 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Van Helsing</title>
+    <desc>Van Helsing, a legendary monster hunter, is sent to Transylvania by the Vatican to kill Count Dracula and protect the last descendants of the Valerious, Anna and Velkan.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.romedynow" start="20260915004500 +0000" stop="20260915024000 +0000">
     <title lang="zh">Due Date</title>
@@ -43762,10 +44162,85 @@
     <desc>Ben Whittaker, a 70-year-old widower, realises that he is not cut out for retirement. He then applies to become a senior intern for a sceptical boss at an online fashion site.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.romedynow" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.romedynow" start="20260915153000 +0000" stop="20260915172500 +0000">
     <title lang="zh">The Notebook</title>
     <desc>Duke reads the story of Allie and Noah, two lovers who were separated by fate, to Ms Hamilton, an old woman who suffers from dementia, on a daily basis out of his notebook.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915172500 +0000" stop="20260915193000 +0000">
+    <title lang="zh">P.S. I Love You</title>
+    <desc>A young woman loses her husband to an illness. However, her life takes a turn when she learns that he has left her some messages to ease her pain.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915193000 +0000" stop="20260915211600 +0000">
+    <title lang="zh">St. Vincent</title>
+    <desc>Maggie, a working single mother, allows Vincent, a hedonistic misanthrope, to babysit her 12-year-old son Oliver. Soon, a beautiful friendship develops between Vincent and Oliver.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915211600 +0000" stop="20260915213000 +0000">
+    <title lang="zh">Mallika Sherawat; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915213000 +0000" stop="20260915222300 +0000">
+    <title lang="zh">Live - The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915222300 +0000" stop="20260915231700 +0000">
+    <title lang="zh">Live - The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260915231700 +0000" stop="20260916000000 +0000">
+    <title lang="zh">The Lake House</title>
+    <desc>Love blooms when Kate, a doctor, exchanges letters with Alex, an architect who is fed up with his life. Unknown to them, they lead lives two years apart.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916005600 +0000" stop="20260916024500 +0000">
+    <title lang="zh">Monte Carlo</title>
+    <desc>Grace, who is vacationing in Paris with her friends and stepsister, is mistaken for a British heiress. Later, the three women are whisked away to Monte Carlo, where they discover royalty and romance.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916024500 +0000" stop="20260916043100 +0000">
+    <title lang="zh">Letters to Juliet</title>
+    <desc>Sophie, an aspiring writer assisted by the secretaries of Juliet, sets out to unite Claire with her long-lost love. While on her journey, she finds herself drawn to Claire's grandson.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916043100 +0000" stop="20260916061600 +0000">
+    <title lang="zh">Maid in Manhattan</title>
+    <desc>The heir to a political dynasty falls for a hotel maid who is also single mother, thinking of her to be a socialite. However, both realise that they are completely different as the truth comes out.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916061600 +0000" stop="20260916080900 +0000">
+    <title lang="zh">How to Lose a Guy in 10 Days</title>
+    <desc>An advice columnist attempts to make a man dump her in 10 days, but he makes a bet with his boss that he will make her fall in love with him.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916080900 +0000" stop="20260916101300 +0000">
+    <title lang="zh">What Women Want</title>
+    <desc>When a middle-aged advertising executive is gifted with the power to read women's minds, he uses it to outwit his new boss.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916101300 +0000" stop="20260916120100 +0000">
+    <title lang="zh">Barb &amp; Star Go to Vista Del Mar</title>
+    <desc>Best friends Barb and Star leave their small town to go on vacation to sunny Vista Del Mar. However, their holiday takes a strange turn due to a villain's plot to destroy the community.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916120100 +0000" stop="20260916134400 +0000">
+    <title lang="zh">Yes Man</title>
+    <desc>Carl, a lonely man with low self-esteem, participates in a self-help programme that challenges him to say yes to everything in life for an entire year.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916134400 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Miss You Already</title>
+    <desc>Milly and Jess find their lifelong friendship and lives turned upside down when Milly gets diagnosed with breast cancer while Jess is trying to start a family.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">The Bounty Hunter</title>
+    <desc>Milo is hired to track down his ex-wife, Nicole, for skipping bail. Subsequently, a routine retrieval turns into a deadly game of cat and mouse, forcing them both to go on the run together.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.mnx" start="20260915002900 +0000" stop="20260915024900 +0000">
     <title lang="zh">The Hunger Games</title>
@@ -43802,10 +44277,85 @@
     <desc>In 1956 France, Sister Irene faces the terrifying demon Valak, racing against time to save a convent and the surrounding community from evil.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.mnx" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.mnx" start="20260915153000 +0000" stop="20260915173100 +0000">
     <title lang="zh">Black Adam</title>
     <desc>After being granted the divine power of the Egyptian Gods and spending almost 5000 years in a guardhouse, Black Adam is freed and decides to unleash his style of justice on the world.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915173100 +0000" stop="20260915190600 +0000">
+    <title lang="zh">The Angry Birds Movie 2</title>
+    <desc>After years of being at odds with each other, the birds and the pigs are forced to work together when a common enemy attempts to drive them away from their homes.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915190600 +0000" stop="20260915210100 +0000">
+    <title lang="zh">American Made</title>
+    <desc>Barry Seal is a US pilot who smuggles drugs for the CIA in the 1980s. Later, his secret work gets revealed as part of the Iran-Contra scandal.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915210100 +0000" stop="20260915222500 +0000">
+    <title lang="zh">Vehicle 19</title>
+    <desc>Michael Woods, a traveller and a parolee, picks up the wrong rental car to meet his wife which makes him the prime target of a group of corrupt police officers.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915222500 +0000" stop="20260915231000 +0000">
+    <title lang="zh">Live - Mandira Bedi; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915231000 +0000" stop="20260915233500 +0000">
+    <title lang="zh">A Day's Pleasure</title>
+    <desc>When Charlie decides to take his family on an outing, misfortune strikes. First, they get stuck in traffic and then Charlie is forced to spend the day on an excursion boat.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260915233500 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Fallen</title>
+    <desc>Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, questions arise when the murders start again, eerily matching the modus operandi of Reese.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916010500 +0000" stop="20260916022000 +0000">
+    <title lang="zh">The Starving Games</title>
+    <desc>In a deadly game orchestrated by President Snowballs, skilled archer Kantmiss Evershot, her lover Dale and tech-savvy ally Peter Malarkey must rely on their wits and skills to survive.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916022000 +0000" stop="20260916034500 +0000">
+    <title lang="zh">Gun</title>
+    <desc>Gemini said Angel and Rich trade firearms after Angel's release from jail. However, chaos erupts when they storm a lounge and slay a munitions merchant.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916034500 +0000" stop="20260916061500 +0000">
+    <title lang="zh">Dune</title>
+    <desc>Paul, the young scion of House Atreides, faces troubling visions of the future. Meanwhile, his family fights to gain control over Arrakis, the only source of the valuable spice melange.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916061500 +0000" stop="20260916084500 +0000">
+    <title lang="zh">Gladiator</title>
+    <desc>A betrayed Roman general comes back as a gladiator to avenge the murder of his relatives.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916084500 +0000" stop="20260916102000 +0000">
+    <title lang="zh">The Angry Birds Movie 2</title>
+    <desc>After years of being at odds with each other, the birds and the pigs are forced to work together when a common enemy attempts to drive them away from their homes.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916102000 +0000" stop="20260916115500 +0000">
+    <title lang="zh">Rambo: First Blood</title>
+    <desc>A Vietnam War veteran arrives in a small town but faces hostility from the local sheriff, leading to a tense conflict where survival instincts and combat skills take over.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916115500 +0000" stop="20260916140000 +0000">
+    <title lang="zh">Top Gun: Maverick</title>
+    <desc>After 30 years of service, Maverick mentors a troop of elite Top Gun alumni for an esteemed mission while battling his demons from the past.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916140000 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Shrek the Third</title>
+    <desc>With the kingdom in need of a ruler after King Harold's death, Shrek embarks on a quest to find Arthur, Fiona's cousin, while Prince Charming plans to seize control of the throne.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">The Scorpion King</title>
+    <desc>A desert warrior rises up against the evil army destroying his homeland. After capturing the enemy's key sorcerer, he takes her deep into the desert and prepares for a final showdown.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.rockaction" start="20260915005000 +0000" stop="20260915022000 +0000">
     <title lang="zh">Rambo: First Blood</title>
@@ -44227,10 +44777,60 @@
     <desc>Captain Artemis and her group of soldiers are pulled into a world where dangerous monsters and humans co-exist. Grappled by danger, they must find a way to escape with help from a mysterious hunter.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.sonypix" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.sonypix" start="20260915153000 +0000" stop="20260915170300 +0000">
     <title lang="zh">The Equalizer 3</title>
     <desc>As Robert McCall finds himself forming a new bond with the locals of an Italian town, the region's oppression by the Mafia triggers him to protect his people.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915170300 +0000" stop="20260915185800 +0000">
+    <title lang="zh">Bullet Train</title>
+    <desc>Ladybug, a professional assassin, is assigned to retrieve a briefcase from a bullet train. Soon, he finds himself battling many other killers who board the same train but with a different objective.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915185800 +0000" stop="20260915203400 +0000">
+    <title lang="zh">The Unholy</title>
+    <desc>After a girl with hearing impairment envisions the Virgin Mary and regains her ability to hear along with other powers, a journalist unravels the truth behind this paranoia.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915203400 +0000" stop="20260915223000 +0000">
+    <title lang="zh">Little Women</title>
+    <desc>As the March sisters enter the threshold of womanhood, they go through many ups and downs in life and endeavour to make important decisions that can affect their future.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260915223000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260916003000 +0000" stop="20260916033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260916033000 +0000" stop="20260916063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260916063000 +0000" stop="20260916093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260916093000 +0000" stop="20260916123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260916123000 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.starmovies" start="20260915003700 +0000" stop="20260915015400 +0000">
     <title lang="zh">Super Typhoon</title>
@@ -44272,10 +44872,60 @@
     <desc>After the death of their beloved King T'Challa, the people of Wakanda attempt to protect their kingdom from the world and a new foe.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.starmovies" start="20260915151500 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.starmovies" start="20260915151500 +0000" stop="20260915171000 +0000">
     <title lang="zh">Alien: Romulus</title>
     <desc>A crew of space colonisers boards a derelict station in search of valuable resources. Their routine scavenging mission becomes a fight for survival against a deadly entity.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915171000 +0000" stop="20260915191100 +0000">
+    <title lang="zh">Speed 2: Cruise Control</title>
+    <desc>A romantic cruise trip between Annie and her police officer boyfriend turns wrong when a hacker takes control of a cruise liner's computer system. They must find a way to save everyone.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915191100 +0000" stop="20260915203700 +0000">
+    <title lang="zh">Madagascar 3: Europe's Most Wanted</title>
+    <desc>Alex, Marty, Gloria, and Melman are back and still trying to return to New York. When their journey brings them to Europe, they use a travelling circus as the perfect cover.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915203700 +0000" stop="20260915204200 +0000">
+    <title lang="zh">Filler</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260915204200 +0000" stop="20260916000000 +0000">
+    <title lang="zh">George and the Dragon</title>
+    <desc>After witnessing extreme bloodshed, Knight George decides to forsake war and seek redemption. However, he is forced to get back to his old ways when he sets out to rescue King Edgar's daughter.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260916003000 +0000" stop="20260916033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260916033000 +0000" stop="20260916063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260916063000 +0000" stop="20260916093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260916093000 +0000" stop="20260916123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260916123000 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.starmoviesselect" start="20260915003000 +0000" stop="20260915033000 +0000">
     <title lang="zh">Movie</title>
@@ -44302,10 +44952,60 @@
     <desc>Bringing the best in television.</desc>
     <date>2026-09-15</date>
   </programme>
-  <programme channel="mastro.starmoviesselect" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="mastro.starmoviesselect" start="20260915153000 +0000" stop="20260915170700 +0000">
     <title lang="zh">Movie</title>
     <desc>Bringing the best in television.</desc>
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915170700 +0000" stop="20260915183300 +0000">
+    <title lang="zh">Gatlopp</title>
+    <desc>Old friends reunite after 10 years for an evening of drinks and games. But all hell breaks loose when they realise that the game is fraught with terrifying risks.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915183300 +0000" stop="20260915202400 +0000">
+    <title lang="zh">Mojin The Treasure Valley</title>
+    <desc>Tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian and find an artefact to lift their curse on a monster-infested island.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915202400 +0000" stop="20260915214600 +0000">
+    <title lang="zh">Bad Connection</title>
+    <desc>When a downtrodden young waitress buys a stolen cell phone and discovers a snuff film on it, she soon finds herself on the run from a maniacal madman who is hell-bent on getting it back.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260915214600 +0000" stop="20260916000000 +0000">
+    <title lang="zh">Free Fall</title>
+    <desc>Although he has a girlfriend and a baby on the way, a police officer unexpectedly falls in love with his male colleague.</desc>
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260916003000 +0000" stop="20260916033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260916033000 +0000" stop="20260916063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260916063000 +0000" stop="20260916093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260916093000 +0000" stop="20260916123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260916123000 +0000" stop="20260916153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-16</date>
   </programme>
   <programme channel="mastro.prima" start="20260915003000 +0000" stop="20260915005500 +0000">
     <title lang="zh">Check In Check Out Ep02</title>
