@@ -1,0 +1,65 @@
+name: Update EPG (AU)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Boleh aktifkan jadual harian jika perlu
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download, Filter & Update EPG
+        run: |
+          curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o guide.xml.gz
+          
+          gunzip -c guide.xml.gz > source_guide.xml
+          
+          python3 -c '
+          import xml.etree.ElementTree as ET
+
+          CHANNEL_MAP = {
+              "beINSports1.au": "mastro.beinsports1au",
+              "beINSports2.au": "mastro.beinsports2au",
+              "beINSports3.au": "mastro.beinsports3au"
+          }
+
+          tree = ET.parse("source_guide.xml")
+          root = tree.getroot()
+
+          new_root = ET.Element("tv", root.attrib)
+
+          for channel in root.findall("channel"):
+              old_id = channel.get("id")
+              if old_id in CHANNEL_MAP:
+                  channel.set("id", CHANNEL_MAP[old_id])
+                  new_root.append(channel)
+
+          for programme in root.findall("programme"):
+              old_channel = programme.get("channel")
+              if old_channel in CHANNEL_MAP:
+                  programme.set("channel", CHANNEL_MAP[old_channel])
+                  new_root.append(programme)
+
+          new_tree = ET.ElementTree(new_root)
+          ET.indent(new_tree, space="  ")
+          new_tree.write("au.xml", encoding="utf-8", xml_declaration=True)
+          '
+
+          rm guide.xml.gz source_guide.xml
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add au.xml
+          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update au.xml [skip ci]" && git push)
