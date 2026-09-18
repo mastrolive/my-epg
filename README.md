@@ -57,4 +57,4 @@ This repository utilizes **GitHub Actions** workflows to automatically parse, sy
  ⚙️ AUTOMATION PIPELINE
  ├── 🛰️ Fetch Source Guides   ──► Ingest EPG Data Sources
  ├── 🧹 Filter & Format       ──► Time-Offset & XMLTV Standardization
- └── 🚀 Auto Commit & Push    ──► epg.xml / my.xml / id.xml / utv.xml
+ └── 🚀 Auto Commit & Push    ──► epg.xml / epg2.xml / my.xml / id.xml / utv.xml
