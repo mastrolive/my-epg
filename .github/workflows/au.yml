@@ -17,9 +17,13 @@ jobs:
 
       - name: Download, Filter & Update EPG
         run: |
-          curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o guide.xml.gz
+          # Muat turun kedua-dua sumber EPG
+          curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o au.xml.gz
+          curl -L "https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz" -o rally.xml.gz
           
-          gunzip -c guide.xml.gz > source_guide.xml
+          # Ekstrak fail gzip
+          gunzip -c au.xml.gz > source_au.xml
+          gunzip -c rally.xml.gz > source_rally.xml
           
           python3 -c '
           import xml.etree.ElementTree as ET
@@ -27,32 +31,42 @@ jobs:
           CHANNEL_MAP = {
               "beINSports1.au": "mastro.beinsports1au",
               "beINSports2.au": "mastro.beinsports2au",
-              "beINSports3.au": "mastro.beinsports3au"
+              "beINSports3.au": "mastro.beinsports3au",
+              "Rally.TV.de": "mastro.rallytv"
           }
 
-          tree = ET.parse("source_guide.xml")
-          root = tree.getroot()
+          # Cipta elemen punca (root element) baharu untuk au.xml
+          new_root = ET.Element("tv", {"generator-info-name": "MastroTV EPG Tool"})
 
-          new_root = ET.Element("tv", root.attrib)
+          # Senarai fail sumber untuk diproses
+          sources = ["source_au.xml", "source_rally.xml"]
 
-          for channel in root.findall("channel"):
-              old_id = channel.get("id")
-              if old_id in CHANNEL_MAP:
-                  channel.set("id", CHANNEL_MAP[old_id])
-                  new_root.append(channel)
+          for src in sources:
+              try:
+                  tree = ET.parse(src)
+                  root = tree.getroot()
 
-          for programme in root.findall("programme"):
-              old_channel = programme.get("channel")
-              if old_channel in CHANNEL_MAP:
-                  programme.set("channel", CHANNEL_MAP[old_channel])
-                  new_root.append(programme)
+                  for channel in root.findall("channel"):
+                      old_id = channel.get("id")
+                      if old_id in CHANNEL_MAP:
+                          channel.set("id", CHANNEL_MAP[old_id])
+                          new_root.append(channel)
+
+                  for programme in root.findall("programme"):
+                      old_channel = programme.get("channel")
+                      if old_channel in CHANNEL_MAP:
+                          programme.set("channel", CHANNEL_MAP[old_channel])
+                          new_root.append(programme)
+              except Exception as e:
+                  print(f"Ralat semasa memproses {src}: {e}")
 
           new_tree = ET.ElementTree(new_root)
           ET.indent(new_tree, space="  ")
           new_tree.write("au.xml", encoding="utf-8", xml_declaration=True)
           '
 
-          rm guide.xml.gz source_guide.xml
+          # Bersihkan fail sementara
+          rm -f au.xml.gz rally.xml.gz source_au.xml source_rally.xml
 
       - name: Commit and Push Changes
         run: |
