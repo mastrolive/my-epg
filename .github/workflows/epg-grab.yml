@@ -16,7 +16,7 @@ jobs:
       - name: Download and Combine epg.pw
         run: |
           mkdir -p temp_epg
-          
+
           channels=(
             "https://epg.pw/api/epg.xml?channel_id=562589|mastro.30"
             "https://epg.pw/api/epg.xml?channel_id=3683|mastro.tv1"
@@ -191,15 +191,20 @@ jobs:
             FILENAME="temp_epg/${count}.xml"
             ((count++))
             
-            curl -A "Mozilla/5.0" --connect-timeout 30 --retry 5 --retry-delay 5 -sL "$url" > "$FILENAME"
+            curl -A "Mozilla/5.0" --connect-timeout 15 --retry 3 --retry-delay 2 -sL "$url" > "$FILENAME" || true
             
-            if [ -s "$FILENAME" ] && [ $(stat -c%s "$FILENAME") -ge 100 ]; then
-              sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
-              sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
+            if [ -s "$FILENAME" ]; then
+              FILESIZE=$(wc -c < "$FILENAME")
+              if [ "$FILESIZE" -ge 100 ]; then
+                sed -i -E "s/channel id=\"[^\"]+\"/channel id=\"$custom_id\"/g" "$FILENAME"
+                sed -i -E "s/programme channel=\"[^\"]+\"/programme channel=\"$custom_id\"/g" "$FILENAME"
+              else
+                rm -f "$FILENAME"
+              fi
             else
               rm -f "$FILENAME"
             fi
-            sleep 1.2
+            sleep 0.2
           done
 
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
@@ -225,6 +230,6 @@ jobs:
           rm -rf temp_epg
           git add epg.xml
           
-          TIMESTAMP=$(date -u -d "+8 hours" "+%d-%m-%Y %H:%M MYT")
+          TIMESTAMP=$(TZ="Asia/Kuala_Lumpur" date "+%d-%m-%Y %H:%M MYT")
           git commit -m "Update EPG (epg.pw): $TIMESTAMP" || exit 0
           git push
