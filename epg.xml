@@ -200,29 +200,13 @@
     <display-name lang="US">Fox Soccer Plus HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.skysportsfootball">
-    <display-name lang="Russian Federation">Sky Sports Football HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020657818530_33.png" />
+  <channel id="mastro.premiersports">
+    <display-name lang="Malaysia">Premier Sports</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609095802192440_82.png" />
   </channel>
   <channel id="mastro.alhijrah">
     <display-name lang="Malaysia">Al-Hijrah</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080905350939_34.png" />
-  </channel>
-  <channel id="mastro.skysportsgolf">
-    <display-name lang="Russian Federation">Sky Sports Golf [UK]</display-name>
-    <icon src="https://epg.pw/media/images/epg/2026/04/22/20260422022623398594_30.png" />
-  </channel>
-  <channel id="mastro.skysportsmainevent">
-    <display-name lang="Russian Federation">Sky Sports Main Event HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608035329906090_87.png" />
-  </channel>
-  <channel id="mastro.skysportspremierleague">
-    <display-name lang="Russian Federation">Sky Sports Premier League HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608031258827840_98.png" />
-  </channel>
-  <channel id="mastro.premiersports">
-    <display-name lang="Malaysia">Premier Sports</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609095802192440_82.png" />
   </channel>
   <channel id="mastro.premiersports1">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Premier Sports 1 HD</display-name>
@@ -248,10 +232,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.tvs">
-    <display-name lang="Malaysia">TVS</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609104553161128_90.png" />
-  </channel>
   <channel id="mastro.tnt3">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
     <icon src="" />
@@ -267,6 +247,10 @@
   <channel id="mastro.foxdeportes">
     <display-name lang="US">Fox Deportes HD</display-name>
     <icon src="" />
+  </channel>
+  <channel id="mastro.tvs">
+    <display-name lang="Malaysia">TVS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609104553161128_90.png" />
   </channel>
   <channel id="mastro.channel5">
     <display-name lang="Singapore">Channel 5</display-name>
@@ -537,7 +521,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
   <channel id="mastro.celestial">
-    <display-name lang="Malaysia">Celestial Movies HD</display-name>
+    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
   <channel id="mastro.hits">
@@ -16922,415 +16906,175 @@
     <desc>From Starlight Stadium in Langford, British Columbia.</desc>
     <date>2026-09-20</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918014500 +0000" stop="20260918020000 +0000">
-    <title lang="zh">EFL Play-Off Classics. 2007: Derby v Southampton</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918010200 +0000" stop="20260918025200 +0000">
+    <title lang="zh">Top 14: Vannes V Montpellier</title>
+    <desc>RC Vannes and Montpellier Herault go head-to-head in this TOP 14 encounter at the Stade de la Rabine.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918020000 +0000" stop="20260918023000 +0000">
-    <title lang="zh">Scottish Premiership Football. Celtic v Rangers</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918025200 +0000" stop="20260918044200 +0000">
+    <title lang="zh">SANZAAR International Tour Serie: Argentina V Australia</title>
+    <desc>Australia face off again with the Pumas this time in Mendoza.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918023000 +0000" stop="20260918024500 +0000">
-    <title lang="zh">EFL Greatest. 2017: Nottingham Forest v Ipswich Town</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918044200 +0000" stop="20260918063200 +0000">
+    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
+    <desc>The fouth and final test between the All Blacks and Springboks takes place in Baltimore Maryland.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918024500 +0000" stop="20260918030000 +0000">
-    <title lang="zh">EFL Greatest. 2013: Brentford v Swindon Town</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918063200 +0000" stop="20260918064200 +0000">
+    <title lang="zh">Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918030000 +0000" stop="20260918040000 +0000">
-    <title lang="zh">EFL Cup Football. 2009: Manchester United v Tottenham Hotspur</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918064200 +0000" stop="20260918074000 +0000">
+    <title lang="zh">5 &amp; 6 Nations: Legends</title>
+    <desc>We look back at the most memorable moments legends and tries from Europe's most prestigious international rugby competition.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918040000 +0000" stop="20260918041500 +0000">
-    <title lang="zh">Scottish Premiership Football. Celtic v Aberdeen</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918074000 +0000" stop="20260918095200 +0000">
+    <title lang="zh">(L) AFLW: Hawthorn V North Melbourne</title>
+    <desc>LIVE: All the pulsating action from the 2026 AFLW season.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918041500 +0000" stop="20260918043000 +0000">
-    <title lang="zh">Scottish Premiership Football. Ross County v Rangers</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918095200 +0000" stop="20260918101200 +0000">
+    <title lang="zh">Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918043000 +0000" stop="20260918044500 +0000">
-    <title lang="zh">EFL Greatest. 2012: Bradford City v Arsenal</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918101200 +0000" stop="20260918104200 +0000">
+    <title lang="zh">5 and 6 Nations Classics: 1975 - Wales V Ireland</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918044500 +0000" stop="20260918050000 +0000">
-    <title lang="zh">EFL Greatest. 2017: Derby County v Hull City</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918104200 +0000" stop="20260918111200 +0000">
+    <title lang="zh">5 and 6 Nations Classics: 1986 - England V Ireland</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918050000 +0000" stop="20260918060000 +0000">
-    <title lang="zh">EFL Football. League Two Play-Off, Final</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918111200 +0000" stop="20260918130200 +0000">
+    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
+    <desc>Ellis Park plays host for the first test between the Springboks and All Blacks.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918060000 +0000" stop="20260918070000 +0000">
-    <title lang="zh">EFL Football. League One Play-Off Final</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918130200 +0000" stop="20260918145200 +0000">
+    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
+    <desc>The DHL Stadium in Cape Town plays host to the second test between the Springboks and All Blacks.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918070000 +0000" stop="20260918080000 +0000">
-    <title lang="zh">EFL Football. The Championship Play-Off, Final</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918145200 +0000" stop="20260918164200 +0000">
+    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
+    <desc>Johannesburg plays host to the third test between the Springboks and All Blacks.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918080000 +0000" stop="20260918083000 +0000">
-    <title lang="zh">Scottish Premiership Football. Rangers v Celtic</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918164200 +0000" stop="20260918183200 +0000">
+    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
+    <desc>The fouth and final test between the All Blacks and Springboks takes place in Baltimore Maryland.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918083000 +0000" stop="20260918084500 +0000">
-    <title lang="zh">SPFL Round-Up. Series 2026 Episode 7</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918183200 +0000" stop="20260918210200 +0000">
+    <title lang="zh">AFL: Brisbane V Adelaide</title>
+    <desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918084500 +0000" stop="20260918090000 +0000">
-    <title lang="zh">EFL Greatest. 2018: West Bromwich Albion v Leeds United</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918210200 +0000" stop="20260918213200 +0000">
+    <title lang="zh">5 and 6 Nations Classics: 2009 - Wales V Ireland</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918090000 +0000" stop="20260918110000 +0000">
-    <title lang="zh">EFL Cup Retro. 2015: Chelsea v Tottenham Hotspur</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918213200 +0000" stop="20260918233200 +0000">
+    <title lang="zh">AFLW: Hawthorn V North Melbourne</title>
+    <desc>All the pulsating action from the 2026 AFLW season.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918110000 +0000" stop="20260918111500 +0000">
-    <title lang="zh">EFL Championship. Middlesbrough v Norwich City</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260918233200 +0000" stop="20260919000000 +0000">
+    <title lang="zh">NRL: Rabbitohs V Knights</title>
+    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <date>2026-09-18</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918111500 +0000" stop="20260918113000 +0000">
-    <title lang="zh">EFL Championship. Preston North End v Lincoln City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918113000 +0000" stop="20260918120000 +0000">
-    <title lang="zh">Bundesliga Weekly</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918120000 +0000" stop="20260918123000 +0000">
-    <title lang="zh">EFL League One. Goals</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918123000 +0000" stop="20260918130000 +0000">
-    <title lang="zh">EFL League Two. Goals</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918130000 +0000" stop="20260918133000 +0000">
-    <title lang="zh">John Robertson: Hammer of Hibs</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918133000 +0000" stop="20260918134500 +0000">
-    <title lang="zh">EFL Championship. Watford v Stoke City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918134500 +0000" stop="20260918140000 +0000">
-    <title lang="zh">EFL Championship. Swansea City v Burnley</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918140000 +0000" stop="20260918141500 +0000">
-    <title lang="zh">EFL Championship. Watford v Stoke City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918141500 +0000" stop="20260918143000 +0000">
-    <title lang="zh">EFL Championship. Sheffield United v Wolverhampton Wanderers</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918143000 +0000" stop="20260918144500 +0000">
-    <title lang="zh">EFL Championship. West Ham United v Wrexham</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918144500 +0000" stop="20260918150000 +0000">
-    <title lang="zh">EFL Championship. Derby County v Birmingham City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918150000 +0000" stop="20260918153000 +0000">
-    <title lang="zh">Bundesliga Weekly</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918153000 +0000" stop="20260918160000 +0000">
-    <title lang="zh">EFL League One. Goals</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918160000 +0000" stop="20260918163000 +0000">
-    <title lang="zh">EFL League Two. Goals</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918163000 +0000" stop="20260918164500 +0000">
-    <title lang="zh">EFL Championship. Bolton Wanderers v Cardiff City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918164500 +0000" stop="20260918170000 +0000">
-    <title lang="zh">EFL Championship. West Bromwich Albion v Queens Park Rangers</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918170000 +0000" stop="20260918171500 +0000">
-    <title lang="zh">EFL Championship. Blackburn Rovers v Millwall</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918171500 +0000" stop="20260918173000 +0000">
-    <title lang="zh">EFL League One. AFC Wimbledon v Milton Keynes Dons</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918173000 +0000" stop="20260918180000 +0000">
-    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918180000 +0000" stop="20260918181500 +0000">
-    <title lang="zh">EFL Championship. Southampton v Bristol City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918181500 +0000" stop="20260918183000 +0000">
-    <title lang="zh">EFL Championship. Watford v Stoke City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918183000 +0000" stop="20260918213000 +0000">
-    <title lang="zh">⋗ EFL Championship. Bristol City v Watford</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918213000 +0000" stop="20260918214500 +0000">
-    <title lang="zh">EFL League One. AFC Wimbledon v Milton Keynes Dons</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918214500 +0000" stop="20260918221500 +0000">
-    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918221500 +0000" stop="20260918224500 +0000">
-    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918224500 +0000" stop="20260918230000 +0000">
-    <title lang="zh">EFL Play-Off Classics. 2003: Sheffield United v Nottingham Forest</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260918230000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Championship Retro. 2000: Blackburn v Manchester City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919010000 +0000" stop="20260919020000 +0000">
-    <title lang="zh">Henrik Larsson: 20 Years On</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919012200 +0000" stop="20260919031200 +0000">
+    <title lang="zh">NRL: Warriors V Dolphins</title>
+    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919020000 +0000" stop="20260919023000 +0000">
-    <title lang="zh">Scottish Premiership Football. Rangers v Celtic</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919031200 +0000" stop="20260919050200 +0000">
+    <title lang="zh">NRL: Sharks V Cowboys</title>
+    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919023000 +0000" stop="20260919024500 +0000">
-    <title lang="zh">EFL Greatest. 2017: Ipswich Town v Sheffield Wednesday</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919050200 +0000" stop="20260919065200 +0000">
+    <title lang="zh">NRL: Panthers V Roosters</title>
+    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919024500 +0000" stop="20260919030000 +0000">
-    <title lang="zh">EFL Greatest. 2017: Queens Park Rangers v Brentford</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919065200 +0000" stop="20260919084200 +0000">
+    <title lang="zh">Super League: Wigan V Catalans</title>
+    <desc>Coverage of the 30th season of the Betfred Super League the Northern Hemisphere's top rugby league competition.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919030000 +0000" stop="20260919040000 +0000">
-    <title lang="zh">EFL Cup Football. 2012 Final: Liverpool v Cardiff City</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919084200 +0000" stop="20260919094000 +0000">
+    <title lang="zh">NRL Try Time</title>
+    <desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919040000 +0000" stop="20260919041500 +0000">
-    <title lang="zh">Scottish Premiership Football. Hibernian v Heart of Midlothian</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919094000 +0000" stop="20260919114200 +0000">
+    <title lang="zh">(L) NRL: Semi-Final</title>
+    <desc>LIVE: Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919041500 +0000" stop="20260919043000 +0000">
-    <title lang="zh">Scottish Premiership Football. Hibernian v Heart of Midlothian</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919114200 +0000" stop="20260919120200 +0000">
+    <title lang="zh">Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919043000 +0000" stop="20260919044500 +0000">
-    <title lang="zh">EFL Greatest. 2017: Sheffield United v Bristol City</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919120200 +0000" stop="20260919123000 +0000">
+    <title lang="zh">Top 14 Highlights: Round 2</title>
+    <desc>Highlights of the latest round from the Top 14.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919044500 +0000" stop="20260919050000 +0000">
-    <title lang="zh">EFL Greatest. 2017: Reading v Cardiff City</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919123000 +0000" stop="20260919143000 +0000">
+    <title lang="zh">(L) Top 14: Castres V Toulon</title>
+    <desc>LIVE: Coverage of the Top 14 the top-tier league in French rugby.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919050000 +0000" stop="20260919051500 +0000">
-    <title lang="zh">EFL Championship. Bristol City v Watford</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919143000 +0000" stop="20260919163200 +0000">
+    <title lang="zh">(L) Top 14: La Rochelle V Racing</title>
+    <desc>LIVE: Coverage of the Top 14 the top-tier league in French rugby.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919051500 +0000" stop="20260919053000 +0000">
-    <title lang="zh">EFL League One. AFC Wimbledon v Milton Keynes Dons</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919163200 +0000" stop="20260919170200 +0000">
+    <title lang="zh">5 and 6 Nations Classics: 2013 - Wales V England</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919053000 +0000" stop="20260919060000 +0000">
-    <title lang="zh">WSL. Manchester City v Liverpool</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919170200 +0000" stop="20260919185500 +0000">
+    <title lang="zh">NRL: Semi-Final</title>
+    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919060000 +0000" stop="20260919063000 +0000">
-    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919185500 +0000" stop="20260919210200 +0000">
+    <title lang="zh">(L) Top 14: Vannes V Toulouse</title>
+    <desc>LIVE: Coverage of the Top 14 the top-tier league in French rugby.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919063000 +0000" stop="20260919070000 +0000">
-    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919210200 +0000" stop="20260919213200 +0000">
+    <title lang="zh">5 and 6 Nations Classics: 2003 - Ireland V England</title>
+    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919070000 +0000" stop="20260919071500 +0000">
-    <title lang="zh">EFL League One. AFC Wimbledon v Milton Keynes Dons</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919213200 +0000" stop="20260919232200 +0000">
+    <title lang="zh">Top 14: Castres V Toulon</title>
+    <desc>Coverage of the Top 14 the top-tier league in French rugby.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919071500 +0000" stop="20260919073000 +0000">
-    <title lang="zh">EFL Championship. Bristol City v Watford</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919232200 +0000" stop="20260919233200 +0000">
+    <title lang="zh">Premier Sports Extra</title>
+    <desc>A look back at some of the big games on Premier Sports.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919073000 +0000" stop="20260919080000 +0000">
-    <title lang="zh">WSL. Manchester City v Liverpool</title>
-    <desc />
+  <programme channel="mastro.premiersports" start="20260919233200 +0000" stop="20260920000000 +0000">
+    <title lang="zh">5 &amp; 6 Nations: Classic Tries</title>
+    <desc>We look back at the most memorable moments legends and tries from Europe's most prestigious international rugby competition.</desc>
     <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919080000 +0000" stop="20260919090000 +0000">
-    <title lang="zh">⋗ Saturday Social</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919090000 +0000" stop="20260919093000 +0000">
-    <title lang="zh">EFL Cup. Round 3: TBA v TBA</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919093000 +0000" stop="20260919100000 +0000">
-    <title lang="zh">WSL. Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919100000 +0000" stop="20260919101500 +0000">
-    <title lang="zh">EFL League One. AFC Wimbledon v Milton Keynes Dons</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919101500 +0000" stop="20260919103000 +0000">
-    <title lang="zh">EFL Championship. Bristol City v Watford</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919103000 +0000" stop="20260919140000 +0000">
-    <title lang="zh">⋗ EFL Championship. Millwall v West Ham United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919140000 +0000" stop="20260919160000 +0000">
-    <title lang="zh">⋗ Soccer Saturday</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919160000 +0000" stop="20260919190000 +0000">
-    <title lang="zh">⋗ WSL. Arsenal v Manchester United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919190000 +0000" stop="20260919193000 +0000">
-    <title lang="zh">WSL. Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919193000 +0000" stop="20260919213000 +0000">
-    <title lang="zh">EFL Championship. Millwall v West Ham United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919213000 +0000" stop="20260919214500 +0000">
-    <title lang="zh">EFL Championship. Cardiff City v Charlton Athletic</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919214500 +0000" stop="20260919220000 +0000">
-    <title lang="zh">EFL Championship. Stoke City v Sheffield United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919220000 +0000" stop="20260919221500 +0000">
-    <title lang="zh">EFL Championship. Birmingham City v Middlesbrough</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919221500 +0000" stop="20260919223000 +0000">
-    <title lang="zh">EFL Championship. Burnley v Derby County</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919223000 +0000" stop="20260919224500 +0000">
-    <title lang="zh">EFL Championship. Lincoln City v Swansea City</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919224500 +0000" stop="20260919230000 +0000">
-    <title lang="zh">EFL Championship. Bristol City v Watford</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919230000 +0000" stop="20260919231500 +0000">
-    <title lang="zh">EFL Championship. Portsmouth v Blackburn Rovers</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919231500 +0000" stop="20260919233000 +0000">
-    <title lang="zh">EFL Championship. Queens Park Rangers v Preston North End</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919233000 +0000" stop="20260919234500 +0000">
-    <title lang="zh">EFL Championship. Wrexham v Southampton</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260919234500 +0000" stop="20260920000000 +0000">
-    <title lang="zh">EFL Championship. Bristol City v Watford</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsfootball" start="20260920000000 +0000" stop="20260921000000 +0000">
-    <title lang="zh">EFL Championship. Millwall v West Ham United</title>
-    <desc />
-    <date>2026-09-20</date>
   </programme>
   <programme channel="mastro.alhijrah" start="20260918010000 +0000" stop="20260918020000 +0000">
     <title lang="zh">Assalamualaikum An-Nisa (L)</title>
@@ -17675,781 +17419,6 @@
   <programme channel="mastro.alhijrah" start="20260919230000 +0000" stop="20260920000000 +0000">
     <title lang="zh">Assalamualaikum(L)</title>
     <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918000000 +0000" stop="20260918010000 +0000">
-    <title lang="zh">BMW International Open, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918010000 +0000" stop="20260918020000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918020000 +0000" stop="20260918030000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918030000 +0000" stop="20260918033000 +0000">
-    <title lang="zh">Golf Academy</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918033000 +0000" stop="20260918040000 +0000">
-    <title lang="zh">Golf Academy</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918040000 +0000" stop="20260918043000 +0000">
-    <title lang="zh">School of Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918043000 +0000" stop="20260918050000 +0000">
-    <title lang="zh">School of Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918050000 +0000" stop="20260918053000 +0000">
-    <title lang="zh">PGA Tour Champions Learning Centre</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918053000 +0000" stop="20260918063000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918063000 +0000" stop="20260918170000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918170000 +0000" stop="20260918190000 +0000">
-    <title lang="zh">Biltmore Championship, PGA Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918190000 +0000" stop="20260918220000 +0000">
-    <title lang="zh">Biltmore Championship, PGA Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918220000 +0000" stop="20260918230000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260918230000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Sanford International, Champions Tour Golf</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919000000 +0000" stop="20260919010000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919010000 +0000" stop="20260919020000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919020000 +0000" stop="20260919030000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919030000 +0000" stop="20260919040000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919040000 +0000" stop="20260919043000 +0000">
-    <title lang="zh">School of Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919043000 +0000" stop="20260919050000 +0000">
-    <title lang="zh">School of Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919050000 +0000" stop="20260919070000 +0000">
-    <title lang="zh">Solheim Cup Women's Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919070000 +0000" stop="20260919080000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919080000 +0000" stop="20260919170000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919170000 +0000" stop="20260919200000 +0000">
-    <title lang="zh">Biltmore Championship, PGA Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919200000 +0000" stop="20260919210000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919210000 +0000" stop="20260919213000 +0000">
-    <title lang="zh">PGA Tour Champions Learning Centre</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919213000 +0000" stop="20260919220000 +0000">
-    <title lang="zh">European Challenge Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919220000 +0000" stop="20260919223000 +0000">
-    <title lang="zh">Chronicles of a Champion Golfer</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919223000 +0000" stop="20260919230000 +0000">
-    <title lang="zh">Chronicles of a Champion Golfer</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260919230000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsgolf" start="20260920000000 +0000" stop="20260921000000 +0000">
-    <title lang="zh">BMW PGA Championship, DP World Tour Golf</title>
-    <desc />
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918041500 +0000" stop="20260918060000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918060000 +0000" stop="20260918063000 +0000">
-    <title lang="zh">⋗ Sky Sports Breakfast</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918063000 +0000" stop="20260918170000 +0000">
-    <title lang="zh">⋗ BMW PGA Championship, DP World Tour Golf. Day 2</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918170000 +0000" stop="20260918173000 +0000">
-    <title lang="zh">⋗ The Premier League Show</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918173000 +0000" stop="20260918190000 +0000">
-    <title lang="zh">⋗ WSL. Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918190000 +0000" stop="20260918214500 +0000">
-    <title lang="zh">⋗ Friday Night Football. Brentford v Chelsea</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918214500 +0000" stop="20260918220000 +0000">
-    <title lang="zh">Paper Talk</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918220000 +0000" stop="20260918230000 +0000">
-    <title lang="zh">⋗ Through the Night</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260918230000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919000000 +0000" stop="20260919010000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919010000 +0000" stop="20260919020000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919020000 +0000" stop="20260919030000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919030000 +0000" stop="20260919040000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919040000 +0000" stop="20260919060000 +0000">
-    <title lang="zh">Through the Night</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919060000 +0000" stop="20260919070000 +0000">
-    <title lang="zh">⋗ Sky Sports Breakfast</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919070000 +0000" stop="20260919080000 +0000">
-    <title lang="zh">Sky Sports Breakfast</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919080000 +0000" stop="20260919103000 +0000">
-    <title lang="zh">⋗ BMW PGA Championship, DP World Tour Golf. Day 3</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919103000 +0000" stop="20260919133000 +0000">
-    <title lang="zh">⋗ EFL Championship. Millwall v West Ham United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919133000 +0000" stop="20260919160000 +0000">
-    <title lang="zh">⋗ International T20 Cricket. 3rd T20: England v Sri Lanka</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919160000 +0000" stop="20260919190000 +0000">
-    <title lang="zh">⋗ Saturday Night Football. Nottingham Forest v Coventry City</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919190000 +0000" stop="20260919200000 +0000">
-    <title lang="zh">⋗ Biltmore Championship, PGA Tour Golf. Day 3</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919200000 +0000" stop="20260919210000 +0000">
-    <title lang="zh">⋗ The Sky Sports Catch-Up</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919210000 +0000" stop="20260919220000 +0000">
-    <title lang="zh">⋗ The Sky Sports Catch-Up</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919220000 +0000" stop="20260919230000 +0000">
-    <title lang="zh">⋗ Through the Night</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsmainevent" start="20260919230000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">⋗ Live Tennis: WTA Guadalajara Open 2026. Final</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918000000 +0000" stop="20260918020000 +0000">
-    <title lang="zh">Prem Classics. 2017/18: Chelsea v Burnley</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918020000 +0000" stop="20260918021500 +0000">
-    <title lang="zh">Premier League Fan's Vote. 2008: Aston Villa v Birmingham City</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918021500 +0000" stop="20260918023000 +0000">
-    <title lang="zh">Premier League Fan's Vote. 1995: Liverpool v Blackburn Rovers</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918023000 +0000" stop="20260918024500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2010: Liverpool v Blackpool</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918024500 +0000" stop="20260918030000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2005: Bolton Wanderers v Chelsea</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918030000 +0000" stop="20260918040000 +0000">
-    <title lang="zh">Best Premier League Goals. 1994/95</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918040000 +0000" stop="20260918043000 +0000">
-    <title lang="zh">Barclays Premier League Legends. David Ginola</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918043000 +0000" stop="20260918050000 +0000">
-    <title lang="zh">Barclays Premier League Legends. Juninho</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918050000 +0000" stop="20260918051500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2015: Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918051500 +0000" stop="20260918053000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2013: Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918053000 +0000" stop="20260918054500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 1995: Manchester United v Liverpool</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918054500 +0000" stop="20260918060000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 1997: Liverpool v Manchester United</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918060000 +0000" stop="20260918070000 +0000">
-    <title lang="zh">Best Premier League Goals. 1995/96</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918070000 +0000" stop="20260918073000 +0000">
-    <title lang="zh">Barclays Premier League Legends. Tony Adams</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918073000 +0000" stop="20260918080000 +0000">
-    <title lang="zh">Barclays Premier League Legends. Peter Schmeichel</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918080000 +0000" stop="20260918083000 +0000">
-    <title lang="zh">The Big Interview</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918083000 +0000" stop="20260918090000 +0000">
-    <title lang="zh">Premier League Stories. Series 6 Episode 16: John Stones</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918090000 +0000" stop="20260918100000 +0000">
-    <title lang="zh">⋗ Sky Sports FC</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918100000 +0000" stop="20260918110000 +0000">
-    <title lang="zh">⋗ Sky Sports News Special. England Squad Announcement</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918110000 +0000" stop="20260918120000 +0000">
-    <title lang="zh">⋗ Total Football</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918120000 +0000" stop="20260918130000 +0000">
-    <title lang="zh">⋗ Total Football</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918130000 +0000" stop="20260918140000 +0000">
-    <title lang="zh">⋗ Total Football</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918140000 +0000" stop="20260918150000 +0000">
-    <title lang="zh">⋗ Total Football</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918150000 +0000" stop="20260918153000 +0000">
-    <title lang="zh">The Fantasy Show</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918153000 +0000" stop="20260918160000 +0000">
-    <title lang="zh">Premier League Preview. Round 5</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918160000 +0000" stop="20260918170000 +0000">
-    <title lang="zh">⋗ The Premier League Show</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918170000 +0000" stop="20260918173000 +0000">
-    <title lang="zh">⋗ The Premier League Show</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918173000 +0000" stop="20260918180000 +0000">
-    <title lang="zh">⋗ The Premier League Show</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918180000 +0000" stop="20260918214500 +0000">
-    <title lang="zh">⋗ Friday Night Football. Brentford v Chelsea</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918214500 +0000" stop="20260918221500 +0000">
-    <title lang="zh">Premier League Stories. Series 6 Episode 16: John Stones</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918221500 +0000" stop="20260918224500 +0000">
-    <title lang="zh">The Big Interview</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918224500 +0000" stop="20260918230000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2015: Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918230000 +0000" stop="20260918233000 +0000">
-    <title lang="zh">Friday Night Football. Brentford v Chelsea</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260918233000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Netbusters. Round 4</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919000000 +0000" stop="20260919020000 +0000">
-    <title lang="zh">Prem Classics. 2010/11: Manchester City v Tottenham Hotspur</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919020000 +0000" stop="20260919021500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2015: Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919021500 +0000" stop="20260919023000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2013: Manchester City v Liverpool</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919023000 +0000" stop="20260919024500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 1995: Manchester United v Liverpool</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919024500 +0000" stop="20260919030000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 1997: Liverpool v Manchester United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919030000 +0000" stop="20260919040000 +0000">
-    <title lang="zh">Best Premier League Goals. 1995/96</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919040000 +0000" stop="20260919043000 +0000">
-    <title lang="zh">Barclays Premier League Legends. Alan Shearer</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919043000 +0000" stop="20260919050000 +0000">
-    <title lang="zh">Barclays Premier League Legends. Michael Owen</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919050000 +0000" stop="20260919051500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2014: Manchester United v Chelsea</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919051500 +0000" stop="20260919053000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2016: Chelsea v Manchester United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919053000 +0000" stop="20260919054500 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 1996: Tottenham Hotspur v Manchester United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919054500 +0000" stop="20260919060000 +0000">
-    <title lang="zh">The Premier League's Greatest Games. 2001: Tottenham Hotspur v Manchester United</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919060000 +0000" stop="20260919070000 +0000">
-    <title lang="zh">Best Premier League Goals. 1996/97</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919070000 +0000" stop="20260919073000 +0000">
-    <title lang="zh">Premier League Stories. Series 6 Episode 16: John Stones</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919073000 +0000" stop="20260919080000 +0000">
-    <title lang="zh">Friday Night Football. Brentford v Chelsea</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919080000 +0000" stop="20260919090000 +0000">
-    <title lang="zh">⋗ Saturday Social</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919090000 +0000" stop="20260919103000 +0000">
-    <title lang="zh">⋗ Premier League Weekend</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919103000 +0000" stop="20260919110000 +0000">
-    <title lang="zh">Friday Night Football. Brentford v Chelsea</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919110000 +0000" stop="20260919113000 +0000">
-    <title lang="zh">⋗ Soccer Saturday</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919113000 +0000" stop="20260919134500 +0000">
-    <title lang="zh">⋗ WSL. Chelsea v Birmingham City</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919134500 +0000" stop="20260919140000 +0000">
-    <title lang="zh">⋗ Soccer Saturday</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919140000 +0000" stop="20260919160000 +0000">
-    <title lang="zh">⋗ Soccer Saturday</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919160000 +0000" stop="20260919190000 +0000">
-    <title lang="zh">⋗ Saturday Night Football. Nottingham Forest v Coventry City</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919190000 +0000" stop="20260919193000 +0000">
-    <title lang="zh">Friday Night Football. Brentford v Chelsea</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919193000 +0000" stop="20260919213000 +0000">
-    <title lang="zh">Game of the Day. Premier League</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919213000 +0000" stop="20260919220000 +0000">
-    <title lang="zh">Premier League. Everton v Ipswich Town</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919220000 +0000" stop="20260919223000 +0000">
-    <title lang="zh">Premier League. Brighton Hove Albion v Arsenal</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919223000 +0000" stop="20260919230000 +0000">
-    <title lang="zh">Premier League. Newcastle United v Hull City</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919230000 +0000" stop="20260919233000 +0000">
-    <title lang="zh">Saturday Night Football. Nottingham Forest v Coventry City</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260919233000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">Premier League. Everton v Ipswich Town</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportspremierleague" start="20260920000000 +0000" stop="20260921000000 +0000">
-    <title lang="zh">Premier League. Brighton Hove Albion v Arsenal</title>
-    <desc />
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918010200 +0000" stop="20260918025200 +0000">
-    <title lang="zh">Top 14: Vannes V Montpellier</title>
-    <desc>RC Vannes and Montpellier Herault go head-to-head in this TOP 14 encounter at the Stade de la Rabine.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918025200 +0000" stop="20260918044200 +0000">
-    <title lang="zh">SANZAAR International Tour Serie: Argentina V Australia</title>
-    <desc>Australia face off again with the Pumas this time in Mendoza.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918044200 +0000" stop="20260918063200 +0000">
-    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
-    <desc>The fouth and final test between the All Blacks and Springboks takes place in Baltimore Maryland.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918063200 +0000" stop="20260918064200 +0000">
-    <title lang="zh">Premier Sports Extra</title>
-    <desc>A look back at some of the big games on Premier Sports.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918064200 +0000" stop="20260918074000 +0000">
-    <title lang="zh">5 &amp; 6 Nations: Legends</title>
-    <desc>We look back at the most memorable moments legends and tries from Europe's most prestigious international rugby competition.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918074000 +0000" stop="20260918095200 +0000">
-    <title lang="zh">(L) AFLW: Hawthorn V North Melbourne</title>
-    <desc>LIVE: All the pulsating action from the 2026 AFLW season.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918095200 +0000" stop="20260918101200 +0000">
-    <title lang="zh">Premier Sports Extra</title>
-    <desc>A look back at some of the big games on Premier Sports.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918101200 +0000" stop="20260918104200 +0000">
-    <title lang="zh">5 and 6 Nations Classics: 1975 - Wales V Ireland</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918104200 +0000" stop="20260918111200 +0000">
-    <title lang="zh">5 and 6 Nations Classics: 1986 - England V Ireland</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918111200 +0000" stop="20260918130200 +0000">
-    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
-    <desc>Ellis Park plays host for the first test between the Springboks and All Blacks.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918130200 +0000" stop="20260918145200 +0000">
-    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
-    <desc>The DHL Stadium in Cape Town plays host to the second test between the Springboks and All Blacks.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918145200 +0000" stop="20260918164200 +0000">
-    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
-    <desc>Johannesburg plays host to the third test between the Springboks and All Blacks.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918164200 +0000" stop="20260918183200 +0000">
-    <title lang="zh">Rugby's Greatest Rivalry: South Africa V New Zealand</title>
-    <desc>The fouth and final test between the All Blacks and Springboks takes place in Baltimore Maryland.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918183200 +0000" stop="20260918210200 +0000">
-    <title lang="zh">AFL: Brisbane V Adelaide</title>
-    <desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918210200 +0000" stop="20260918213200 +0000">
-    <title lang="zh">5 and 6 Nations Classics: 2009 - Wales V Ireland</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918213200 +0000" stop="20260918233200 +0000">
-    <title lang="zh">AFLW: Hawthorn V North Melbourne</title>
-    <desc>All the pulsating action from the 2026 AFLW season.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260918233200 +0000" stop="20260919000000 +0000">
-    <title lang="zh">NRL: Rabbitohs V Knights</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919012200 +0000" stop="20260919031200 +0000">
-    <title lang="zh">NRL: Warriors V Dolphins</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919031200 +0000" stop="20260919050200 +0000">
-    <title lang="zh">NRL: Sharks V Cowboys</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919050200 +0000" stop="20260919065200 +0000">
-    <title lang="zh">NRL: Panthers V Roosters</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919065200 +0000" stop="20260919084200 +0000">
-    <title lang="zh">Super League: Wigan V Catalans</title>
-    <desc>Coverage of the 30th season of the Betfred Super League the Northern Hemisphere's top rugby league competition.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919084200 +0000" stop="20260919094000 +0000">
-    <title lang="zh">NRL Try Time</title>
-    <desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919094000 +0000" stop="20260919114200 +0000">
-    <title lang="zh">(L) NRL: Semi-Final</title>
-    <desc>LIVE: Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919114200 +0000" stop="20260919120200 +0000">
-    <title lang="zh">Premier Sports Extra</title>
-    <desc>A look back at some of the big games on Premier Sports.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919120200 +0000" stop="20260919123000 +0000">
-    <title lang="zh">Top 14 Highlights: Round 2</title>
-    <desc>Highlights of the latest round from the Top 14.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919123000 +0000" stop="20260919143000 +0000">
-    <title lang="zh">(L) Top 14: Castres V Toulon</title>
-    <desc>LIVE: Coverage of the Top 14 the top-tier league in French rugby.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919143000 +0000" stop="20260919163200 +0000">
-    <title lang="zh">(L) Top 14: La Rochelle V Racing</title>
-    <desc>LIVE: Coverage of the Top 14 the top-tier league in French rugby.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919163200 +0000" stop="20260919170200 +0000">
-    <title lang="zh">5 and 6 Nations Classics: 2013 - Wales V England</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919170200 +0000" stop="20260919185500 +0000">
-    <title lang="zh">NRL: Semi-Final</title>
-    <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919185500 +0000" stop="20260919210200 +0000">
-    <title lang="zh">(L) Top 14: Vannes V Toulouse</title>
-    <desc>LIVE: Coverage of the Top 14 the top-tier league in French rugby.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919210200 +0000" stop="20260919213200 +0000">
-    <title lang="zh">5 and 6 Nations Classics: 2003 - Ireland V England</title>
-    <desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919213200 +0000" stop="20260919232200 +0000">
-    <title lang="zh">Top 14: Castres V Toulon</title>
-    <desc>Coverage of the Top 14 the top-tier league in French rugby.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919232200 +0000" stop="20260919233200 +0000">
-    <title lang="zh">Premier Sports Extra</title>
-    <desc>A look back at some of the big games on Premier Sports.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premiersports" start="20260919233200 +0000" stop="20260920000000 +0000">
-    <title lang="zh">5 &amp; 6 Nations: Classic Tries</title>
-    <desc>We look back at the most memorable moments legends and tries from Europe's most prestigious international rugby competition.</desc>
     <date>2026-09-19</date>
   </programme>
   <programme channel="mastro.premiersports1" start="20260918003000 +0000" stop="20260918023000 +0000">
@@ -19862,556 +18831,6 @@
     <desc>Texas Rangers v Toronto Blue Jays (Start-time 12.05am). Coverage of the American League match from Globe Life Field in Arlington.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.tvs" start="20260918000000 +0000" stop="20260918000500 +0000">
-    <title lang="zh">(DL) World News</title>
-    <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918000500 +0000" stop="20260918001500 +0000">
-    <title lang="zh">TVS Music</title>
-    <desc>TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918001500 +0000" stop="20260918003000 +0000">
-    <title lang="zh">Changemakers Ep04</title>
-    <desc>This 6 episode series delves into the journeys of Sarawakian changemakers who have made significant impacts in their communities and beyond.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918003000 +0000" stop="20260918010000 +0000">
-    <title lang="zh">Aroma Malaysia Ep10</title>
-    <desc>Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918010000 +0000" stop="20260918011500 +0000">
-    <title lang="zh">(L) TVS Sana Sini</title>
-    <desc>A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918011500 +0000" stop="20260918014500 +0000">
-    <title lang="zh">Guru Luar Biasa Ep06</title>
-    <desc>Guru Luar Biasa ialah sebuah dokumentari bersiri 6 episod yang akan memaparkan perkongsian pengalaman guru-guru yang pernah berkhidmat di Sarawak.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918014500 +0000" stop="20260918020000 +0000">
-    <title lang="zh">(DL) Detik Dunia</title>
-    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918020000 +0000" stop="20260918020500 +0000">
-    <title lang="zh">(DL) TVS Ringkas</title>
-    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918020500 +0000" stop="20260918021500 +0000">
-    <title lang="zh">TVS Fillers</title>
-    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918021500 +0000" stop="20260918024500 +0000">
-    <title lang="zh">The Cloth Story S2 Ep11</title>
-    <desc>The Cloth Story season 2 focuses on textiles,such as Pua,Songket,Tenun,Batik and Keringkam from the Borneo region. The cloth,the raw materials, the artisans, the history, the evolution and so much more.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918024500 +0000" stop="20260918030000 +0000">
-    <title lang="zh">Sarawak Panorama Ep12</title>
-    <desc>Sarawak Panorama is a short story to discover beautiful places in Sarawak.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918030000 +0000" stop="20260918031500 +0000">
-    <title lang="zh">(L) Berita Iban TVS</title>
-    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918031500 +0000" stop="20260918034500 +0000">
-    <title lang="zh">Bujang Berani Ep03</title>
-    <desc>Menyingkap sejarah pasukan keselamatan yang terdiri daripada anak Sarawak seperti Iban Trackers, Sarawak Rangers,Pasukan Polis Hutan, Rajang Area Security Command(RASCOM) dan Rejimen Renjer Diraja.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918034500 +0000" stop="20260918040000 +0000">
-    <title lang="zh">Borneo From Above S2 Ep12</title>
-    <desc>To promote and highlighting development of Sarawak</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918040000 +0000" stop="20260918041500 +0000">
-    <title lang="zh">(L) TVS Tengahari</title>
-    <desc>TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918041500 +0000" stop="20260918043000 +0000">
-    <title lang="zh">TVS Music</title>
-    <desc>TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918043000 +0000" stop="20260918050000 +0000">
-    <title lang="zh">Aroma Puncak Borneo Ep12</title>
-    <desc>Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya dan tradisi..</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918050000 +0000" stop="20260918060000 +0000">
-    <title lang="zh">Dialog TVS Ep146</title>
-    <desc>Dialog TVS merupakan program bual bicara yang membincangkan mengenai perkembangan terkini serta topik-topik tertentu bersama pemimpin, pakar, penganalisis dan pemain industri.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918060000 +0000" stop="20260918060500 +0000">
-    <title lang="zh">(DL) TVS Ringkas</title>
-    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918060500 +0000" stop="20260918061500 +0000">
-    <title lang="zh">TVS Fillers</title>
-    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918061500 +0000" stop="20260918063000 +0000">
-    <title lang="zh">Living Wild Ep03</title>
-    <desc>Living Wild is a nature documentary in Sarawak, Borneo, showcasing diverse wildlife-from tarsiers and flying snakes to turtles-across Kubah, Bako, and Talang Satang, promoting eco-tourism.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918063000 +0000" stop="20260918070000 +0000">
-    <title lang="zh">Borneo's Unique Building Ep12</title>
-    <desc>Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918070000 +0000" stop="20260918070500 +0000">
-    <title lang="zh">(DL) TVS Highlight</title>
-    <desc>TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918070500 +0000" stop="20260918080000 +0000">
-    <title lang="zh">Jendela Hati Ep11</title>
-    <desc>Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918080000 +0000" stop="20260918080500 +0000">
-    <title lang="zh">(DL) TVS Ringkas</title>
-    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918080500 +0000" stop="20260918081500 +0000">
-    <title lang="zh">TVS Fillers</title>
-    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918081500 +0000" stop="20260918083000 +0000">
-    <title lang="zh">Modi &amp; The Magic Stones</title>
-    <desc>In a village by the Belaga River,Modi,a kind-hearted traditional carver,lives with his elderly parents and wife.Despite his​ selflessness,his parents fall seriously ill,he remains childless</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918083000 +0000" stop="20260918090000 +0000">
-    <title lang="zh">Behind the Blood, Sweat &amp; Tears Ep05</title>
-    <desc>Behind the scenes with the unsung heroes who tackle these tough roles, exploring the motivations, risks and rewards that come with doing some of the most overlooked professions in the world.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918090000 +0000" stop="20260918093000 +0000">
-    <title lang="zh">(L) Berita Wilayah TVS</title>
-    <desc>Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918093000 +0000" stop="20260918100000 +0000">
-    <title lang="zh">Sarawak Angler Ep10</title>
-    <desc>Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918100000 +0000" stop="20260918101500 +0000">
-    <title lang="zh">(L) Re Bao</title>
-    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918101500 +0000" stop="20260918103000 +0000">
-    <title lang="zh">Udin &amp; the Transformed Patih Fish</title>
-    <desc>A Sarawak folktale that explains why the Sarawakian Malays refrain from eating the Patin fish. Udin, a simple fisherman, marries the village's most beautiful woman, bound by her strict conditions.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918103000 +0000" stop="20260918110000 +0000">
-    <title lang="zh">3 Mak Dara Ep08</title>
-    <desc>3 Mak Dara kembali untuk Musim Kedua dengan nafas baharu yang lebih bersahaja dan santai. Dihoskan oleh tiga orang selebriti tanah air iaitu Raja Azura, Sharifah Shahora dan Rita Rudaini.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918110000 +0000" stop="20260918113000 +0000">
-    <title lang="zh">(L) Berita Iban TVS</title>
-    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918113000 +0000" stop="20260918114000 +0000">
-    <title lang="zh">(DL) Menarik Sepuluh</title>
-    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918114000 +0000" stop="20260918121500 +0000">
-    <title lang="zh">(L) UTAMA 740</title>
-    <desc>UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918121500 +0000" stop="20260918123000 +0000">
-    <title lang="zh">(DL) Detik Dunia</title>
-    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918123000 +0000" stop="20260918133000 +0000">
-    <title lang="zh">Gerak Khas 2.0 Ep12</title>
-    <desc>Pasukan elit polis menyiasat jenayah berprofil tinggi di Kuala Lumpur yang semakin berleluasa di Malaysia, di mana setiap kes bukan sahaja mencabar undang-undang, tetapi menguji kepercayaan, integriti.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918133000 +0000" stop="20260918143000 +0000">
-    <title lang="zh">Boneka Ep03</title>
-    <desc>Demi mengejar kehidupan sempurna, pengkhianatan seorang wanita terhadap suami yang pernah menyelamatkannya bermula apabila dia hanyut dalam godaan cinta dan kemewahan lelaki lain.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918143000 +0000" stop="20260918150000 +0000">
-    <title lang="zh">(L) TVS Nightline</title>
-    <desc>Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918150000 +0000" stop="20260918160000 +0000">
-    <title lang="zh">The Cube Ep07</title>
-    <desc>The challenges appear to be simple - but games become fraught with extraordinary pressure and tension when played inside The Cube</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918160000 +0000" stop="20260918170000 +0000">
-    <title lang="zh">Jendela Hati Ep10</title>
-    <desc>Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918170000 +0000" stop="20260918180000 +0000">
-    <title lang="zh">Barbarossa Ep61</title>
-    <desc>During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918180000 +0000" stop="20260918183000 +0000">
-    <title lang="zh">Kediaman Agro Ep07</title>
-    <desc>'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918183000 +0000" stop="20260918190000 +0000">
-    <title lang="zh">Setenang Mata Memandang Ep06</title>
-    <desc>Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918190000 +0000" stop="20260918193000 +0000">
-    <title lang="zh">Aroma Puncak Borneo Ep12</title>
-    <desc>Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya dan tradisi..</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918193000 +0000" stop="20260918200000 +0000">
-    <title lang="zh">Agrotech Heroes Ep12</title>
-    <desc>AGROTECH HEROES, aims to nurture future Sarawak farmers by involving six contestants in 13 challenges involving agriculture, technology, and entrepreneurship for the grand prize of RM10,000</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918200000 +0000" stop="20260918203000 +0000">
-    <title lang="zh">The Cloth Story S2 Ep11</title>
-    <desc>The Cloth Story season 2 focuses on textiles,such as Pua,Songket,Tenun,Batik and Keringkam from the Borneo region. The cloth,the raw materials, the artisans, the history, the evolution and so much more.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918203000 +0000" stop="20260918210000 +0000">
-    <title lang="zh">Sumandak Takes Borneo Ep11</title>
-    <desc>Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty-food,history,culture,nature,and diversity-while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918210000 +0000" stop="20260918213000 +0000">
-    <title lang="zh">Aroma Malaysia Ep10</title>
-    <desc>Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918213000 +0000" stop="20260918220000 +0000">
-    <title lang="zh">My Health, My Choice Ep09</title>
-    <desc>My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918220000 +0000" stop="20260918223000 +0000">
-    <title lang="zh">Beautiful Mind Ep02</title>
-    <desc>A series on the current state of our national mental health and center on stigmas around mental health conditions. Highlights the different types of mental health issue and stories happening in Malaysia.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918223000 +0000" stop="20260918230000 +0000">
-    <title lang="zh">Borneo Dive S2 Ep03</title>
-    <desc>Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo,including Sabah,Sarawak,and Labuan.Join host Baki Zainal as he is accompanied by local celebrities who are also divers</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918230000 +0000" stop="20260918233000 +0000">
-    <title lang="zh">(L) TVS Pagi</title>
-    <desc>TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260918233000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Khazanah Kenyalang S2 Ep01</title>
-    <desc>Dokumentari mengangkat 39 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919000000 +0000" stop="20260919000500 +0000">
-    <title lang="zh">(DL) World News</title>
-    <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919000500 +0000" stop="20260919001500 +0000">
-    <title lang="zh">TVS Fillers</title>
-    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919001500 +0000" stop="20260919003000 +0000">
-    <title lang="zh">Borneo From Above S2 Ep12</title>
-    <desc>To promote and highlighting development of Sarawak</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919003000 +0000" stop="20260919010000 +0000">
-    <title lang="zh">My Health, My Choice Ep09</title>
-    <desc>My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919010000 +0000" stop="20260919011500 +0000">
-    <title lang="zh">(L) TVS Sana Sini</title>
-    <desc>A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919011500 +0000" stop="20260919014500 +0000">
-    <title lang="zh">Sumandak Takes Borneo Ep11</title>
-    <desc>Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty-food,history,culture,nature,and diversity-while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919014500 +0000" stop="20260919020000 +0000">
-    <title lang="zh">(DL) Detik Dunia</title>
-    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919020000 +0000" stop="20260919020500 +0000">
-    <title lang="zh">(DL) TVS Ringkas</title>
-    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919020500 +0000" stop="20260919021500 +0000">
-    <title lang="zh">TVS Music</title>
-    <desc>TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919021500 +0000" stop="20260919024500 +0000">
-    <title lang="zh">Joran Borneo S2 Ep02</title>
-    <desc>Masih mengekalkan konsep 'Majalah' travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919024500 +0000" stop="20260919030000 +0000">
-    <title lang="zh">Studio 3 Ep02</title>
-    <desc>STUDIO 3 menampilkan persembahan khas Dato Awie diiringi muzik sentuhan elemen borneo dan turut menggandingkan penyanyi tempatan Sarawak, Carrie Geres, Hairee Francis dan Faris Malek.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919030000 +0000" stop="20260919031500 +0000">
-    <title lang="zh">(L) Berita Iban TVS</title>
-    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919031500 +0000" stop="20260919034500 +0000">
-    <title lang="zh">Decimal Point Ep02</title>
-    <desc>Weekly business show is set to become your trusted source for all things business, economics, and current affairs. Your gateway to making informed decisions in today's fast-paced business environment.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919034500 +0000" stop="20260919040000 +0000">
-    <title lang="zh">Udin &amp; the Transformed Patih Fish</title>
-    <desc>A Sarawak folktale that explains why the Sarawakian Malays refrain from eating the Patin fish. Udin, a simple fisherman, marries the village's most beautiful woman, bound by her strict conditions.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919040000 +0000" stop="20260919041500 +0000">
-    <title lang="zh">(L) TVS Tengahari</title>
-    <desc>TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919041500 +0000" stop="20260919043000 +0000">
-    <title lang="zh">TVS Fillers</title>
-    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919043000 +0000" stop="20260919050000 +0000">
-    <title lang="zh">Malaysia's War Memorial Trail Ep03</title>
-    <desc>A documentary series that explores Malaysia's wartime heritage through memorials, monuments, and historic sites that bear witness to the nation's defining moments.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919050000 +0000" stop="20260919051500 +0000">
-    <title lang="zh">(L) Re Bao</title>
-    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919051500 +0000" stop="20260919053000 +0000">
-    <title lang="zh">Modi &amp; The Magic Stones</title>
-    <desc>In a village by the Belaga River,Modi,a kind-hearted traditional carver,lives with his elderly parents and wife.Despite his​ selflessness,his parents fall seriously ill,he remains childless</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919053000 +0000" stop="20260919060000 +0000">
-    <title lang="zh">Kek &amp; Pastri S2 Ep11</title>
-    <desc>Kek and Pastri Siri 2 menampilkan selebriti mencipta resepi kek, pastri, dan hidangan savouri menggunakan bahan tempatan dan teknik membakar serta mengukus untuk hasil yang lazat dan inovatif.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919060000 +0000" stop="20260919060500 +0000">
-    <title lang="zh">(DL) TVS Ringkas</title>
-    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919060500 +0000" stop="20260919070000 +0000">
-    <title lang="zh">Buka Kedai: Now in Tokyo Ep06</title>
-    <desc>Buka Kedai is a reality show where four Malaysian celebrities head to Japan, expecting a relaxing food review gig. Instead, they get hit with a wild twist.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919070000 +0000" stop="20260919070500 +0000">
-    <title lang="zh">(DL) TVS Highlight</title>
-    <desc>TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919070500 +0000" stop="20260919080000 +0000">
-    <title lang="zh">Anggun S4 Ep02</title>
-    <desc>ANGGUN is a magazine to showcase trending topics surrounding women related to fashion, women empowerment, their involvements and achievements.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919080000 +0000" stop="20260919080500 +0000">
-    <title lang="zh">(DL) TVS Ringkas</title>
-    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919080500 +0000" stop="20260919090000 +0000">
-    <title lang="zh">Guardians Of The Peat</title>
-    <desc>This documentary follows the inspiring journey of Dr. Lulie Melling, a passionate Sarawakian scientist dedicated to the protection of Sarawak's peatlands.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919090000 +0000" stop="20260919093000 +0000">
-    <title lang="zh">(L) Berita Wilayah TVS</title>
-    <desc>Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919093000 +0000" stop="20260919100000 +0000">
-    <title lang="zh">Knead in Borneo Ep01</title>
-    <desc>Knead in Borneo is a documentary exploring how a simple ingredient-flour-became deeply woven into the food culture of Borneo.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919100000 +0000" stop="20260919101500 +0000">
-    <title lang="zh">(L) Re Bao</title>
-    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919101500 +0000" stop="20260919103000 +0000">
-    <title lang="zh">A Legacy Ep03</title>
-    <desc>An evocative docuseries exploring the history and cultural significance of Kek Lapis, Tuak, and beadmaking in Borneo, preserving these traditions for the future.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919103000 +0000" stop="20260919110000 +0000">
-    <title lang="zh">Sour, Salty &amp; Alive Ep02</title>
-    <desc>Savoury, sour, pungent and very much 'alive'. Welcome to the delicious world of ferments from Asia. This series is all about the magic of fermentation - celebrating culinary wisdom, culture and history.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919110000 +0000" stop="20260919113000 +0000">
-    <title lang="zh">(L) Berita Iban TVS</title>
-    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919113000 +0000" stop="20260919114000 +0000">
-    <title lang="zh">(DL) Menarik Sepuluh</title>
-    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919114000 +0000" stop="20260919121500 +0000">
-    <title lang="zh">(L) UTAMA 740</title>
-    <desc>UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919121500 +0000" stop="20260919123000 +0000">
-    <title lang="zh">(DL) Detik Dunia</title>
-    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919123000 +0000" stop="20260919130000 +0000">
-    <title lang="zh">HITS 122 Ep09</title>
-    <desc>HITS 122: Edisi AIM25 is a 13-episode television journey that celebrates 25 years of Malaysian music excellence while building nationwide excitement towards the AIM25 Awards Night in Kuching, Sarawak.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919130000 +0000" stop="20260919143000 +0000">
-    <title lang="zh">Remp-It</title>
-    <desc>Filem ini mengisahkan seorang pemuda terpaksa mempertaruhkan nyawa dan membela maruahnya dalam perlumbaan motosikal haram terakhir untuk menuntut bela terhadap musuh yang telah menghancurkan impiannya.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919143000 +0000" stop="20260919150000 +0000">
-    <title lang="zh">(L) TVS Nightline</title>
-    <desc>Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919150000 +0000" stop="20260919153000 +0000">
-    <title lang="zh">Remp-It</title>
-    <desc>Filem ini mengisahkan seorang pemuda terpaksa mempertaruhkan nyawa dan membela maruahnya dalam perlumbaan motosikal haram terakhir untuk menuntut bela terhadap musuh yang telah menghancurkan impiannya.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919153000 +0000" stop="20260919160000 +0000">
-    <title lang="zh">Setenang Mata Memandang Ep06</title>
-    <desc>Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919160000 +0000" stop="20260919170000 +0000">
-    <title lang="zh">Jendela Hati Ep11</title>
-    <desc>Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919170000 +0000" stop="20260919180000 +0000">
-    <title lang="zh">Barbarossa Ep62</title>
-    <desc>During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919180000 +0000" stop="20260919183000 +0000">
-    <title lang="zh">Borneo's Unique Building Ep12</title>
-    <desc>Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919183000 +0000" stop="20260919190000 +0000">
-    <title lang="zh">Joran Borneo S2 Ep02</title>
-    <desc>Masih mengekalkan konsep 'Majalah' travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919190000 +0000" stop="20260919193000 +0000">
-    <title lang="zh">Borneo Dive S2 Ep03</title>
-    <desc>Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo,including Sabah,Sarawak,and Labuan.Join host Baki Zainal as he is accompanied by local celebrities who are also divers</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919193000 +0000" stop="20260919200000 +0000">
-    <title lang="zh">Salam Nusantara Ep10</title>
-    <desc>Mengungkap lebih banyak khazanah negeri Sarawak yang masih belum lagi diketahui oleh khalayak awam khasnya tentang perkembangan tamadun masyarakat majmuk Sarawak termasuklah umat Islam di negeri ini.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919200000 +0000" stop="20260919203000 +0000">
-    <title lang="zh">Kubah Borneo Ep09</title>
-    <desc>'Kubah Borneo' will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919203000 +0000" stop="20260919210000 +0000">
-    <title lang="zh">Agrotech Heroes Ep12</title>
-    <desc>AGROTECH HEROES, aims to nurture future Sarawak farmers by involving six contestants in 13 challenges involving agriculture, technology, and entrepreneurship for the grand prize of RM10,000</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919210000 +0000" stop="20260919213000 +0000">
-    <title lang="zh">Design Nation Ep02</title>
-    <desc>Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919213000 +0000" stop="20260919220000 +0000">
-    <title lang="zh">River Tales of Borneo Ep03</title>
-    <desc>Sarawakian show that tells forgotten stories and folktales from historical times, starting from the mouth of Rejang to Iran Mountain, focusing on ethnic groups living along the rivers.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919220000 +0000" stop="20260919223000 +0000">
-    <title lang="zh">From Malaysia With Love Ep12</title>
-    <desc>Tiga Pengacara, Chef Adu Amran, Fiza Frizzy dan Kelvin Yap akan menyelami dan merasai pengalaman kehidupan masyarakat lokal dari pelbagai etnik.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919223000 +0000" stop="20260919230000 +0000">
-    <title lang="zh">Guru Luar Biasa Ep06</title>
-    <desc>Guru Luar Biasa ialah sebuah dokumentari bersiri 6 episod yang akan memaparkan perkongsian pengalaman guru-guru yang pernah berkhidmat di Sarawak.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919230000 +0000" stop="20260919233000 +0000">
-    <title lang="zh">(L) TVS Pagi</title>
-    <desc>TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260919233000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">Setenang Mata Memandang Ep06</title>
-    <desc>Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tvs" start="20260920000000 +0000" stop="20260921000000 +0000">
-    <title lang="zh">(DL) World News</title>
-    <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
-    <date>2026-09-20</date>
-  </programme>
   <programme channel="mastro.tnt3" start="20260918000000 +0000" stop="20260918003000 +0000">
     <title lang="zh">UEFA Europa League</title>
     <desc>Crystal Palace v Lech Poznan.</desc>
@@ -21285,6 +19704,556 @@
   <programme channel="mastro.foxdeportes" start="20260920000000 +0000" stop="20260921000000 +0000">
     <title lang="zh">Boxeo de campeones</title>
     <desc>Duelo entre mexicanos: Saúl "Canelo" Álvarez (60-2-2, 39 KO) defiende su campeonato indiscutible peso supermediano ante el joven invicto Jaime Munguía (43-0, 34 KO). Desde el T-Mobile Arena, en Las Vegas. Disputado el 4 de mayo de 2024.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918000000 +0000" stop="20260918000500 +0000">
+    <title lang="zh">(DL) World News</title>
+    <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918000500 +0000" stop="20260918001500 +0000">
+    <title lang="zh">TVS Music</title>
+    <desc>TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918001500 +0000" stop="20260918003000 +0000">
+    <title lang="zh">Changemakers Ep04</title>
+    <desc>This 6 episode series delves into the journeys of Sarawakian changemakers who have made significant impacts in their communities and beyond.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918003000 +0000" stop="20260918010000 +0000">
+    <title lang="zh">Aroma Malaysia Ep10</title>
+    <desc>Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918010000 +0000" stop="20260918011500 +0000">
+    <title lang="zh">(L) TVS Sana Sini</title>
+    <desc>A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918011500 +0000" stop="20260918014500 +0000">
+    <title lang="zh">Guru Luar Biasa Ep06</title>
+    <desc>Guru Luar Biasa ialah sebuah dokumentari bersiri 6 episod yang akan memaparkan perkongsian pengalaman guru-guru yang pernah berkhidmat di Sarawak.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918014500 +0000" stop="20260918020000 +0000">
+    <title lang="zh">(DL) Detik Dunia</title>
+    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918020000 +0000" stop="20260918020500 +0000">
+    <title lang="zh">(DL) TVS Ringkas</title>
+    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918020500 +0000" stop="20260918021500 +0000">
+    <title lang="zh">TVS Fillers</title>
+    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918021500 +0000" stop="20260918024500 +0000">
+    <title lang="zh">The Cloth Story S2 Ep11</title>
+    <desc>The Cloth Story season 2 focuses on textiles,such as Pua,Songket,Tenun,Batik and Keringkam from the Borneo region. The cloth,the raw materials, the artisans, the history, the evolution and so much more.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918024500 +0000" stop="20260918030000 +0000">
+    <title lang="zh">Sarawak Panorama Ep12</title>
+    <desc>Sarawak Panorama is a short story to discover beautiful places in Sarawak.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918030000 +0000" stop="20260918031500 +0000">
+    <title lang="zh">(L) Berita Iban TVS</title>
+    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918031500 +0000" stop="20260918034500 +0000">
+    <title lang="zh">Bujang Berani Ep03</title>
+    <desc>Menyingkap sejarah pasukan keselamatan yang terdiri daripada anak Sarawak seperti Iban Trackers, Sarawak Rangers,Pasukan Polis Hutan, Rajang Area Security Command(RASCOM) dan Rejimen Renjer Diraja.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918034500 +0000" stop="20260918040000 +0000">
+    <title lang="zh">Borneo From Above S2 Ep12</title>
+    <desc>To promote and highlighting development of Sarawak</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918040000 +0000" stop="20260918041500 +0000">
+    <title lang="zh">(L) TVS Tengahari</title>
+    <desc>TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918041500 +0000" stop="20260918043000 +0000">
+    <title lang="zh">TVS Music</title>
+    <desc>TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918043000 +0000" stop="20260918050000 +0000">
+    <title lang="zh">Aroma Puncak Borneo Ep12</title>
+    <desc>Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya dan tradisi..</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918050000 +0000" stop="20260918060000 +0000">
+    <title lang="zh">Dialog TVS Ep146</title>
+    <desc>Dialog TVS merupakan program bual bicara yang membincangkan mengenai perkembangan terkini serta topik-topik tertentu bersama pemimpin, pakar, penganalisis dan pemain industri.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918060000 +0000" stop="20260918060500 +0000">
+    <title lang="zh">(DL) TVS Ringkas</title>
+    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918060500 +0000" stop="20260918061500 +0000">
+    <title lang="zh">TVS Fillers</title>
+    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918061500 +0000" stop="20260918063000 +0000">
+    <title lang="zh">Living Wild Ep03</title>
+    <desc>Living Wild is a nature documentary in Sarawak, Borneo, showcasing diverse wildlife-from tarsiers and flying snakes to turtles-across Kubah, Bako, and Talang Satang, promoting eco-tourism.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918063000 +0000" stop="20260918070000 +0000">
+    <title lang="zh">Borneo's Unique Building Ep12</title>
+    <desc>Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918070000 +0000" stop="20260918070500 +0000">
+    <title lang="zh">(DL) TVS Highlight</title>
+    <desc>TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918070500 +0000" stop="20260918080000 +0000">
+    <title lang="zh">Jendela Hati Ep11</title>
+    <desc>Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918080000 +0000" stop="20260918080500 +0000">
+    <title lang="zh">(DL) TVS Ringkas</title>
+    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918080500 +0000" stop="20260918081500 +0000">
+    <title lang="zh">TVS Fillers</title>
+    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918081500 +0000" stop="20260918083000 +0000">
+    <title lang="zh">Modi &amp; The Magic Stones</title>
+    <desc>In a village by the Belaga River,Modi,a kind-hearted traditional carver,lives with his elderly parents and wife.Despite his​ selflessness,his parents fall seriously ill,he remains childless</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918083000 +0000" stop="20260918090000 +0000">
+    <title lang="zh">Behind the Blood, Sweat &amp; Tears Ep05</title>
+    <desc>Behind the scenes with the unsung heroes who tackle these tough roles, exploring the motivations, risks and rewards that come with doing some of the most overlooked professions in the world.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918090000 +0000" stop="20260918093000 +0000">
+    <title lang="zh">(L) Berita Wilayah TVS</title>
+    <desc>Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918093000 +0000" stop="20260918100000 +0000">
+    <title lang="zh">Sarawak Angler Ep10</title>
+    <desc>Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918100000 +0000" stop="20260918101500 +0000">
+    <title lang="zh">(L) Re Bao</title>
+    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918101500 +0000" stop="20260918103000 +0000">
+    <title lang="zh">Udin &amp; the Transformed Patih Fish</title>
+    <desc>A Sarawak folktale that explains why the Sarawakian Malays refrain from eating the Patin fish. Udin, a simple fisherman, marries the village's most beautiful woman, bound by her strict conditions.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918103000 +0000" stop="20260918110000 +0000">
+    <title lang="zh">3 Mak Dara Ep08</title>
+    <desc>3 Mak Dara kembali untuk Musim Kedua dengan nafas baharu yang lebih bersahaja dan santai. Dihoskan oleh tiga orang selebriti tanah air iaitu Raja Azura, Sharifah Shahora dan Rita Rudaini.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918110000 +0000" stop="20260918113000 +0000">
+    <title lang="zh">(L) Berita Iban TVS</title>
+    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918113000 +0000" stop="20260918114000 +0000">
+    <title lang="zh">(DL) Menarik Sepuluh</title>
+    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918114000 +0000" stop="20260918121500 +0000">
+    <title lang="zh">(L) UTAMA 740</title>
+    <desc>UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918121500 +0000" stop="20260918123000 +0000">
+    <title lang="zh">(DL) Detik Dunia</title>
+    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918123000 +0000" stop="20260918133000 +0000">
+    <title lang="zh">Gerak Khas 2.0 Ep12</title>
+    <desc>Pasukan elit polis menyiasat jenayah berprofil tinggi di Kuala Lumpur yang semakin berleluasa di Malaysia, di mana setiap kes bukan sahaja mencabar undang-undang, tetapi menguji kepercayaan, integriti.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918133000 +0000" stop="20260918143000 +0000">
+    <title lang="zh">Boneka Ep03</title>
+    <desc>Demi mengejar kehidupan sempurna, pengkhianatan seorang wanita terhadap suami yang pernah menyelamatkannya bermula apabila dia hanyut dalam godaan cinta dan kemewahan lelaki lain.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918143000 +0000" stop="20260918150000 +0000">
+    <title lang="zh">(L) TVS Nightline</title>
+    <desc>Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918150000 +0000" stop="20260918160000 +0000">
+    <title lang="zh">The Cube Ep07</title>
+    <desc>The challenges appear to be simple - but games become fraught with extraordinary pressure and tension when played inside The Cube</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918160000 +0000" stop="20260918170000 +0000">
+    <title lang="zh">Jendela Hati Ep10</title>
+    <desc>Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918170000 +0000" stop="20260918180000 +0000">
+    <title lang="zh">Barbarossa Ep61</title>
+    <desc>During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918180000 +0000" stop="20260918183000 +0000">
+    <title lang="zh">Kediaman Agro Ep07</title>
+    <desc>'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918183000 +0000" stop="20260918190000 +0000">
+    <title lang="zh">Setenang Mata Memandang Ep06</title>
+    <desc>Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918190000 +0000" stop="20260918193000 +0000">
+    <title lang="zh">Aroma Puncak Borneo Ep12</title>
+    <desc>Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya dan tradisi..</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918193000 +0000" stop="20260918200000 +0000">
+    <title lang="zh">Agrotech Heroes Ep12</title>
+    <desc>AGROTECH HEROES, aims to nurture future Sarawak farmers by involving six contestants in 13 challenges involving agriculture, technology, and entrepreneurship for the grand prize of RM10,000</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918200000 +0000" stop="20260918203000 +0000">
+    <title lang="zh">The Cloth Story S2 Ep11</title>
+    <desc>The Cloth Story season 2 focuses on textiles,such as Pua,Songket,Tenun,Batik and Keringkam from the Borneo region. The cloth,the raw materials, the artisans, the history, the evolution and so much more.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918203000 +0000" stop="20260918210000 +0000">
+    <title lang="zh">Sumandak Takes Borneo Ep11</title>
+    <desc>Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty-food,history,culture,nature,and diversity-while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918210000 +0000" stop="20260918213000 +0000">
+    <title lang="zh">Aroma Malaysia Ep10</title>
+    <desc>Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918213000 +0000" stop="20260918220000 +0000">
+    <title lang="zh">My Health, My Choice Ep09</title>
+    <desc>My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918220000 +0000" stop="20260918223000 +0000">
+    <title lang="zh">Beautiful Mind Ep02</title>
+    <desc>A series on the current state of our national mental health and center on stigmas around mental health conditions. Highlights the different types of mental health issue and stories happening in Malaysia.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918223000 +0000" stop="20260918230000 +0000">
+    <title lang="zh">Borneo Dive S2 Ep03</title>
+    <desc>Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo,including Sabah,Sarawak,and Labuan.Join host Baki Zainal as he is accompanied by local celebrities who are also divers</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918230000 +0000" stop="20260918233000 +0000">
+    <title lang="zh">(L) TVS Pagi</title>
+    <desc>TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260918233000 +0000" stop="20260919000000 +0000">
+    <title lang="zh">Khazanah Kenyalang S2 Ep01</title>
+    <desc>Dokumentari mengangkat 39 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919000000 +0000" stop="20260919000500 +0000">
+    <title lang="zh">(DL) World News</title>
+    <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919000500 +0000" stop="20260919001500 +0000">
+    <title lang="zh">TVS Fillers</title>
+    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919001500 +0000" stop="20260919003000 +0000">
+    <title lang="zh">Borneo From Above S2 Ep12</title>
+    <desc>To promote and highlighting development of Sarawak</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919003000 +0000" stop="20260919010000 +0000">
+    <title lang="zh">My Health, My Choice Ep09</title>
+    <desc>My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919010000 +0000" stop="20260919011500 +0000">
+    <title lang="zh">(L) TVS Sana Sini</title>
+    <desc>A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919011500 +0000" stop="20260919014500 +0000">
+    <title lang="zh">Sumandak Takes Borneo Ep11</title>
+    <desc>Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty-food,history,culture,nature,and diversity-while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919014500 +0000" stop="20260919020000 +0000">
+    <title lang="zh">(DL) Detik Dunia</title>
+    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919020000 +0000" stop="20260919020500 +0000">
+    <title lang="zh">(DL) TVS Ringkas</title>
+    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919020500 +0000" stop="20260919021500 +0000">
+    <title lang="zh">TVS Music</title>
+    <desc>TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919021500 +0000" stop="20260919024500 +0000">
+    <title lang="zh">Joran Borneo S2 Ep02</title>
+    <desc>Masih mengekalkan konsep 'Majalah' travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919024500 +0000" stop="20260919030000 +0000">
+    <title lang="zh">Studio 3 Ep02</title>
+    <desc>STUDIO 3 menampilkan persembahan khas Dato Awie diiringi muzik sentuhan elemen borneo dan turut menggandingkan penyanyi tempatan Sarawak, Carrie Geres, Hairee Francis dan Faris Malek.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919030000 +0000" stop="20260919031500 +0000">
+    <title lang="zh">(L) Berita Iban TVS</title>
+    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919031500 +0000" stop="20260919034500 +0000">
+    <title lang="zh">Decimal Point Ep02</title>
+    <desc>Weekly business show is set to become your trusted source for all things business, economics, and current affairs. Your gateway to making informed decisions in today's fast-paced business environment.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919034500 +0000" stop="20260919040000 +0000">
+    <title lang="zh">Udin &amp; the Transformed Patih Fish</title>
+    <desc>A Sarawak folktale that explains why the Sarawakian Malays refrain from eating the Patin fish. Udin, a simple fisherman, marries the village's most beautiful woman, bound by her strict conditions.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919040000 +0000" stop="20260919041500 +0000">
+    <title lang="zh">(L) TVS Tengahari</title>
+    <desc>TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919041500 +0000" stop="20260919043000 +0000">
+    <title lang="zh">TVS Fillers</title>
+    <desc>TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919043000 +0000" stop="20260919050000 +0000">
+    <title lang="zh">Malaysia's War Memorial Trail Ep03</title>
+    <desc>A documentary series that explores Malaysia's wartime heritage through memorials, monuments, and historic sites that bear witness to the nation's defining moments.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919050000 +0000" stop="20260919051500 +0000">
+    <title lang="zh">(L) Re Bao</title>
+    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919051500 +0000" stop="20260919053000 +0000">
+    <title lang="zh">Modi &amp; The Magic Stones</title>
+    <desc>In a village by the Belaga River,Modi,a kind-hearted traditional carver,lives with his elderly parents and wife.Despite his​ selflessness,his parents fall seriously ill,he remains childless</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919053000 +0000" stop="20260919060000 +0000">
+    <title lang="zh">Kek &amp; Pastri S2 Ep11</title>
+    <desc>Kek and Pastri Siri 2 menampilkan selebriti mencipta resepi kek, pastri, dan hidangan savouri menggunakan bahan tempatan dan teknik membakar serta mengukus untuk hasil yang lazat dan inovatif.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919060000 +0000" stop="20260919060500 +0000">
+    <title lang="zh">(DL) TVS Ringkas</title>
+    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919060500 +0000" stop="20260919070000 +0000">
+    <title lang="zh">Buka Kedai: Now in Tokyo Ep06</title>
+    <desc>Buka Kedai is a reality show where four Malaysian celebrities head to Japan, expecting a relaxing food review gig. Instead, they get hit with a wild twist.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919070000 +0000" stop="20260919070500 +0000">
+    <title lang="zh">(DL) TVS Highlight</title>
+    <desc>TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919070500 +0000" stop="20260919080000 +0000">
+    <title lang="zh">Anggun S4 Ep02</title>
+    <desc>ANGGUN is a magazine to showcase trending topics surrounding women related to fashion, women empowerment, their involvements and achievements.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919080000 +0000" stop="20260919080500 +0000">
+    <title lang="zh">(DL) TVS Ringkas</title>
+    <desc>TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919080500 +0000" stop="20260919090000 +0000">
+    <title lang="zh">Guardians Of The Peat</title>
+    <desc>This documentary follows the inspiring journey of Dr. Lulie Melling, a passionate Sarawakian scientist dedicated to the protection of Sarawak's peatlands.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919090000 +0000" stop="20260919093000 +0000">
+    <title lang="zh">(L) Berita Wilayah TVS</title>
+    <desc>Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919093000 +0000" stop="20260919100000 +0000">
+    <title lang="zh">Knead in Borneo Ep01</title>
+    <desc>Knead in Borneo is a documentary exploring how a simple ingredient-flour-became deeply woven into the food culture of Borneo.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919100000 +0000" stop="20260919101500 +0000">
+    <title lang="zh">(L) Re Bao</title>
+    <desc>Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919101500 +0000" stop="20260919103000 +0000">
+    <title lang="zh">A Legacy Ep03</title>
+    <desc>An evocative docuseries exploring the history and cultural significance of Kek Lapis, Tuak, and beadmaking in Borneo, preserving these traditions for the future.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919103000 +0000" stop="20260919110000 +0000">
+    <title lang="zh">Sour, Salty &amp; Alive Ep02</title>
+    <desc>Savoury, sour, pungent and very much 'alive'. Welcome to the delicious world of ferments from Asia. This series is all about the magic of fermentation - celebrating culinary wisdom, culture and history.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919110000 +0000" stop="20260919113000 +0000">
+    <title lang="zh">(L) Berita Iban TVS</title>
+    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919113000 +0000" stop="20260919114000 +0000">
+    <title lang="zh">(DL) Menarik Sepuluh</title>
+    <desc>Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919114000 +0000" stop="20260919121500 +0000">
+    <title lang="zh">(L) UTAMA 740</title>
+    <desc>UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919121500 +0000" stop="20260919123000 +0000">
+    <title lang="zh">(DL) Detik Dunia</title>
+    <desc>Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919123000 +0000" stop="20260919130000 +0000">
+    <title lang="zh">HITS 122 Ep09</title>
+    <desc>HITS 122: Edisi AIM25 is a 13-episode television journey that celebrates 25 years of Malaysian music excellence while building nationwide excitement towards the AIM25 Awards Night in Kuching, Sarawak.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919130000 +0000" stop="20260919143000 +0000">
+    <title lang="zh">Remp-It</title>
+    <desc>Filem ini mengisahkan seorang pemuda terpaksa mempertaruhkan nyawa dan membela maruahnya dalam perlumbaan motosikal haram terakhir untuk menuntut bela terhadap musuh yang telah menghancurkan impiannya.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919143000 +0000" stop="20260919150000 +0000">
+    <title lang="zh">(L) TVS Nightline</title>
+    <desc>Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919150000 +0000" stop="20260919153000 +0000">
+    <title lang="zh">Remp-It</title>
+    <desc>Filem ini mengisahkan seorang pemuda terpaksa mempertaruhkan nyawa dan membela maruahnya dalam perlumbaan motosikal haram terakhir untuk menuntut bela terhadap musuh yang telah menghancurkan impiannya.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919153000 +0000" stop="20260919160000 +0000">
+    <title lang="zh">Setenang Mata Memandang Ep06</title>
+    <desc>Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919160000 +0000" stop="20260919170000 +0000">
+    <title lang="zh">Jendela Hati Ep11</title>
+    <desc>Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919170000 +0000" stop="20260919180000 +0000">
+    <title lang="zh">Barbarossa Ep62</title>
+    <desc>During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919180000 +0000" stop="20260919183000 +0000">
+    <title lang="zh">Borneo's Unique Building Ep12</title>
+    <desc>Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919183000 +0000" stop="20260919190000 +0000">
+    <title lang="zh">Joran Borneo S2 Ep02</title>
+    <desc>Masih mengekalkan konsep 'Majalah' travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919190000 +0000" stop="20260919193000 +0000">
+    <title lang="zh">Borneo Dive S2 Ep03</title>
+    <desc>Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo,including Sabah,Sarawak,and Labuan.Join host Baki Zainal as he is accompanied by local celebrities who are also divers</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919193000 +0000" stop="20260919200000 +0000">
+    <title lang="zh">Salam Nusantara Ep10</title>
+    <desc>Mengungkap lebih banyak khazanah negeri Sarawak yang masih belum lagi diketahui oleh khalayak awam khasnya tentang perkembangan tamadun masyarakat majmuk Sarawak termasuklah umat Islam di negeri ini.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919200000 +0000" stop="20260919203000 +0000">
+    <title lang="zh">Kubah Borneo Ep09</title>
+    <desc>'Kubah Borneo' will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919203000 +0000" stop="20260919210000 +0000">
+    <title lang="zh">Agrotech Heroes Ep12</title>
+    <desc>AGROTECH HEROES, aims to nurture future Sarawak farmers by involving six contestants in 13 challenges involving agriculture, technology, and entrepreneurship for the grand prize of RM10,000</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919210000 +0000" stop="20260919213000 +0000">
+    <title lang="zh">Design Nation Ep02</title>
+    <desc>Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919213000 +0000" stop="20260919220000 +0000">
+    <title lang="zh">River Tales of Borneo Ep03</title>
+    <desc>Sarawakian show that tells forgotten stories and folktales from historical times, starting from the mouth of Rejang to Iran Mountain, focusing on ethnic groups living along the rivers.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919220000 +0000" stop="20260919223000 +0000">
+    <title lang="zh">From Malaysia With Love Ep12</title>
+    <desc>Tiga Pengacara, Chef Adu Amran, Fiza Frizzy dan Kelvin Yap akan menyelami dan merasai pengalaman kehidupan masyarakat lokal dari pelbagai etnik.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919223000 +0000" stop="20260919230000 +0000">
+    <title lang="zh">Guru Luar Biasa Ep06</title>
+    <desc>Guru Luar Biasa ialah sebuah dokumentari bersiri 6 episod yang akan memaparkan perkongsian pengalaman guru-guru yang pernah berkhidmat di Sarawak.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919230000 +0000" stop="20260919233000 +0000">
+    <title lang="zh">(L) TVS Pagi</title>
+    <desc>TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260919233000 +0000" stop="20260920000000 +0000">
+    <title lang="zh">Setenang Mata Memandang Ep06</title>
+    <desc>Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tvs" start="20260920000000 +0000" stop="20260921000000 +0000">
+    <title lang="zh">(DL) World News</title>
+    <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
     <date>2026-09-20</date>
   </programme>
   <programme channel="mastro.channel5" start="20260918000000 +0000" stop="20260918003000 +0000">
