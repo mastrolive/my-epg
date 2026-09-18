@@ -1,4 +1,4 @@
-name: Update EPG (AU)
+name: Update EPG (EPG2)
 
 on:
   workflow_dispatch:
@@ -17,7 +17,6 @@ jobs:
 
       - name: Download, Filter & Update EPG
         run: |
-          # Muat turun sumber EPG Australia & UK
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o au.xml.gz
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" -o uk.xml.gz
           
@@ -32,7 +31,11 @@ jobs:
               "beINSports1.au": "mastro.beinsports1au",
               "beINSports2.au": "mastro.beinsports2au",
               "beINSports3.au": "mastro.beinsports3au",
-              "SkySp.F1.HD.uk": "mastro.skysportsf1"
+              "SkySp.F1.HD.uk": "mastro.skysportsf1",
+              "Sky.Sports.Football.HD.uk": "mastro.skysportsfootball",
+              "SkySp.Golf.HD.uk": "mastro.skysportsgolf",
+              "SkySpMainEvHD.uk": "mastro.skysportsmainevent",
+              "SkySp.PL.HD.uk": "mastro.skysportspremierleague"
           }
 
           # Cipta elemen punca (root element) baharu
@@ -62,7 +65,7 @@ jobs:
 
           new_tree = ET.ElementTree(new_root)
           ET.indent(new_tree, space="  ")
-          new_tree.write("au.xml", encoding="utf-8", xml_declaration=True)
+          new_tree.write("epg2.xml", encoding="utf-8", xml_declaration=True)
           '
 
           # Bersihkan fail sementara
@@ -72,6 +75,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add au.xml
+          git add epg2.xml
           
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update au.xml [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update epg2.xml [skip ci]" && git push)
