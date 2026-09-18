@@ -200,17 +200,13 @@
     <display-name lang="US">Fox Soccer Plus HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.skysportsf1">
-    <display-name lang="Russian Federation">Sky Sports F1 HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608023655683681_51.png" />
+  <channel id="mastro.skysportsfootball">
+    <display-name lang="Russian Federation">Sky Sports Football HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020657818530_33.png" />
   </channel>
   <channel id="mastro.alhijrah">
     <display-name lang="Malaysia">Al-Hijrah</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080905350939_34.png" />
-  </channel>
-  <channel id="mastro.skysportsfootball">
-    <display-name lang="Russian Federation">Sky Sports Football HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608020657818530_33.png" />
   </channel>
   <channel id="mastro.skysportsgolf">
     <display-name lang="Russian Federation">Sky Sports Golf [UK]</display-name>
@@ -248,13 +244,13 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.tvs">
-    <display-name lang="Malaysia">TVS</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609104553161128_90.png" />
-  </channel>
   <channel id="mastro.tnt2">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 2 HD</display-name>
     <icon src="" />
+  </channel>
+  <channel id="mastro.tvs">
+    <display-name lang="Malaysia">TVS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609104553161128_90.png" />
   </channel>
   <channel id="mastro.tnt3">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 3 HD</display-name>
@@ -16926,571 +16922,6 @@
     <desc>From Starlight Stadium in Langford, British Columbia.</desc>
     <date>2026-09-20</date>
   </programme>
-  <programme channel="mastro.skysportsf1" start="20260918000000 +0000" stop="20260918010000 +0000">
-    <title lang="zh">F1 Explained</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918010000 +0000" stop="20260918012500 +0000">
-    <title lang="zh">Formula 1. The Best Of Australia 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918012500 +0000" stop="20260918020000 +0000">
-    <title lang="zh">Formula 1. The Best Of China 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918020000 +0000" stop="20260918021500 +0000">
-    <title lang="zh">Formula 1. The Best of Japan 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918021500 +0000" stop="20260918030000 +0000">
-    <title lang="zh">Formula 1. The Best of Miami 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918030000 +0000" stop="20260918033000 +0000">
-    <title lang="zh">Formula 1. The Best of Canada 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918033000 +0000" stop="20260918040000 +0000">
-    <title lang="zh">Formula 1. The Best Of Monaco 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918040000 +0000" stop="20260918043000 +0000">
-    <title lang="zh">Formula 1. The Best Of Barcelona 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918043000 +0000" stop="20260918050000 +0000">
-    <title lang="zh">Formula 1. The Best Of Austria 2026</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918050000 +0000" stop="20260918053000 +0000">
-    <title lang="zh">F1 Academy. Netherlands: Weekend Wrapped</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918053000 +0000" stop="20260918063000 +0000">
-    <title lang="zh">British Kart Championships</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918063000 +0000" stop="20260918073000 +0000">
-    <title lang="zh">Formula 1. Spanish Grand Prix: Highlights</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918073000 +0000" stop="20260918074500 +0000">
-    <title lang="zh">Ollie Bearman Drives Ayrton Senna's Lotus</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918074500 +0000" stop="20260918075000 +0000">
-    <title lang="zh">Strange F1 Race Absences</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918075000 +0000" stop="20260918184500 +0000">
-    <title lang="zh">⋗ Goodwood Revival. Day 1</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918184500 +0000" stop="20260918190000 +0000">
-    <title lang="zh">Ollie Bearman Drives Ayrton Senna's Lotus</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918190000 +0000" stop="20260918200000 +0000">
-    <title lang="zh">Formula 1. Spanish Grand Prix: Highlights</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918200000 +0000" stop="20260918210000 +0000">
-    <title lang="zh">Ginetta Junior Championship. Donington Park</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918210000 +0000" stop="20260918220000 +0000">
-    <title lang="zh">GB3 Championship Motor Racing. Donington Park: Highlights</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918220000 +0000" stop="20260918230000 +0000">
-    <title lang="zh">British GT Championship Motor Racing. Donington Park: Highlights</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260918230000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Formula 1. Spanish Grand Prix: Highlights</title>
-    <desc />
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919000000 +0000" stop="20260919002500 +0000">
-    <title lang="zh">Formula 1. The Best of he Dutch GP 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919002500 +0000" stop="20260919010000 +0000">
-    <title lang="zh">Formula 1. The Best of Italy 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919010000 +0000" stop="20260919011500 +0000">
-    <title lang="zh">Formula 1. The Best of Japan 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919011500 +0000" stop="20260919020000 +0000">
-    <title lang="zh">Formula 1. The Best of Miami 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919020000 +0000" stop="20260919023000 +0000">
-    <title lang="zh">Formula 1. The Best of Canada 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919023000 +0000" stop="20260919030000 +0000">
-    <title lang="zh">Formula 1. The Best Of Monaco 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919030000 +0000" stop="20260919031500 +0000">
-    <title lang="zh">Formula 1. The Best of Japan 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919031500 +0000" stop="20260919040000 +0000">
-    <title lang="zh">Formula 1. The Best of Miami 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919040000 +0000" stop="20260919042500 +0000">
-    <title lang="zh">Formula 1. The Best Of Australia 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919042500 +0000" stop="20260919050000 +0000">
-    <title lang="zh">Formula 1. The Best Of China 2026</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919050000 +0000" stop="20260919053000 +0000">
-    <title lang="zh">Ferrari Challenge UK. Brands Hatch: Highlights</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919053000 +0000" stop="20260919063000 +0000">
-    <title lang="zh">Ferrari Challenge Europe. Budapest: Highlights</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919063000 +0000" stop="20260919073000 +0000">
-    <title lang="zh">Ginetta Junior Championship. Donington Park</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919073000 +0000" stop="20260919073500 +0000">
-    <title lang="zh">McLaren's 1000th Grand Prix</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919073500 +0000" stop="20260919173000 +0000">
-    <title lang="zh">⋗ Goodwood Revival. Day 2</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919173000 +0000" stop="20260919192000 +0000">
-    <title lang="zh">⋗ GT World Challenge Europe Motor Racing. Zandvoort: Sprint Race 1</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919192000 +0000" stop="20260919193000 +0000">
-    <title lang="zh">Martin Brundle with Lando Norris</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919193000 +0000" stop="20260919200000 +0000">
-    <title lang="zh">Ferrari Challenge UK. Brands Hatch: Highlights</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919200000 +0000" stop="20260919210000 +0000">
-    <title lang="zh">Ferrari Challenge Europe. Budapest: Highlights</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919210000 +0000" stop="20260919220000 +0000">
-    <title lang="zh">Formula 1. Spanish Grand Prix: Highlights</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919220000 +0000" stop="20260919235000 +0000">
-    <title lang="zh">GT World Challenge Europe Motor Racing. Zandvoort: Sprint Race 1</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260919235000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">Crofty Hot Laps with Franc Colapin</title>
-    <desc />
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.skysportsf1" start="20260920000000 +0000" stop="20260921000000 +0000">
-    <title lang="zh">F1 Explained</title>
-    <desc />
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918010000 +0000" stop="20260918020000 +0000">
-    <title lang="zh">Assalamualaikum An-Nisa (L)</title>
-    <desc>Program yang membawa pelbagai isu hal ehwal wanita and mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918020000 +0000" stop="20260918023000 +0000">
-    <title lang="zh">Ad Dhuha</title>
-    <desc>Himpunan doa, zikir, dan bacaan Al-Quran untuk menerangi waktu Dhuha anda.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918023000 +0000" stop="20260918030000 +0000">
-    <title lang="zh">Assalamualaikum Ustaz Ep241</title>
-    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918030000 +0000" stop="20260918040000 +0000">
-    <title lang="zh">Quran@114 Ep256</title>
-    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918040000 +0000" stop="20260918050000 +0000">
-    <title lang="zh">WowShopxTVAlhijrah</title>
-    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918050000 +0000" stop="20260918050500 +0000">
-    <title lang="zh">Madani Membantu Ep28</title>
-    <desc>Kapsul Madani Membantu ini memberikan paparan penglibatan YB Senator Menteri JPM Hal Ehwal Agama dan Timbalannya turun memberikan bantuan kepada golongan2 yang memerlukan.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918050500 +0000" stop="20260918053000 +0000">
-    <title lang="zh">Panggilan Agung Zohor</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918053000 +0000" stop="20260918060000 +0000">
-    <title lang="zh">SOLAT JUMAAT (L)</title>
-    <desc>Siaran Langsung Solat Jumaat</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918060000 +0000" stop="20260918070000 +0000">
-    <title lang="zh">WowShopxTVAlhijrah</title>
-    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918070000 +0000" stop="20260918080000 +0000">
-    <title lang="zh">My Qurantime 2.0 Ep79</title>
-    <desc>Rancangan mentadabbur ayat suci Al-Quran dengan misi membawa masyarakat mendalami maksud dan pengajaran darinya setiap hari.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918080000 +0000" stop="20260918090000 +0000">
-    <title lang="zh">Dari Hati Wanita Ep11</title>
-    <desc>Program 'Dari Hati Wanita merupakan sebuah sesi perkongsian yang mengetengahkan isu dan cabaran yang dihadapi oleh wanita masa kini melalui panduan dan hikmah yang terkandung dalam al-Quran.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918090000 +0000" stop="20260918093000 +0000">
-    <title lang="zh">Assalamualaikum Asar (L)</title>
-    <desc>Mempelajari amalan doa harian yang dikupas menerusi Assalamualaikum Asar, sebagai ruang memenuhi waktu-waktu mustajab doa pada petang setiap hari Jumaat.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918093000 +0000" stop="20260918100000 +0000">
-    <title lang="zh">Tawajjuh Ep15</title>
-    <desc>Menampilkan Muhammad Saleem Noor Muhammad memperdengarkan bacaan Surah Al-Qamar dan Surah Ar -Rahman yang disertai dengan terjemahannya.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918100000 +0000" stop="20260918103000 +0000">
-    <title lang="zh">Hadis@114 Ep226</title>
-    <desc>Hadis 114, menampilkan Ustaz Tariq Jaffri Mohamad Akbar selaku pengacara yang membincangkan hadis Sahih Al-Bukhari ''Menyapu Masjid dan Membuang Kotoran dari Masjid'</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918103000 +0000" stop="20260918105500 +0000">
-    <title lang="zh">Keluarga Saranghae Ep07</title>
-    <desc>'Keluarga Saranghea' membawakan kisah 'Hadiah Dar Allah' bersama tetamu jemputan, Wan Noor Azaziah Wan Aziz berkongsi kisah ketabahan dan inspirasi kehidupan beliau dalam menghadapi ujian penyakit kulit</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918105500 +0000" stop="20260918110000 +0000">
-    <title lang="zh">Sebarkan Salam Ep26</title>
-    <desc>Kapsul mengetengahkan nilai kebersamaan (taayush) dalam kehidupan masyarakat majmuk melalui pendekatan santai, realistik dan dekat dengan gaya hidup masa kini.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918110000 +0000" stop="20260918113000 +0000">
-    <title lang="zh">Panggilan Agung Maghrib</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918113000 +0000" stop="20260918120000 +0000">
-    <title lang="zh">Tawajjuh Ep01</title>
-    <desc>Menampilkan Ustaz Aiman Ridhwan memperdengarkan bacaan surah As-Sajdah ayat 1-30. Selepas bacaan ayat ke-15, beliau mengerjakan sujud Sajadah.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918120000 +0000" stop="20260918123500 +0000">
-    <title lang="zh">Berita Alhijrah (L)</title>
-    <desc>Kompilasi laporan berita utama dalam dan luar negara, laporan eksklusif isu semasa ummah, lintas langsung dan laporan khas.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918123500 +0000" stop="20260918124500 +0000">
-    <title lang="zh">Panggilan Agung Isyak</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918124500 +0000" stop="20260918130000 +0000">
-    <title lang="zh">Global Arab Hijrah 2026 Ep35</title>
-    <desc>Berita Ringkas Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918130000 +0000" stop="20260918133000 +0000">
-    <title lang="zh">Indahnya Bersederhana Ep04</title>
-    <desc>Rancangan mengandungi mesej teras bahawa kebahagiaan dan ketenangan hidup tidak terletak pada kekayaan perabot mewah atau kemewahan harta benda</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918133000 +0000" stop="20260918140000 +0000">
-    <title lang="zh">Pesan Ep29</title>
-    <desc>Mengupas tentang 'Sehati Di Tanah Bertuah' yang menghuraikan tentang kepentingan memelihara perpaduan, keamanan dan keharmonian dalam kalangan rakyat Malaysia yang berbilang kaum dan budaya</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918140000 +0000" stop="20260918143000 +0000">
-    <title lang="zh">Podcast 3 in 1 Ep05</title>
-    <desc>Program bual bicara santai bertemakan 'Di Bawah Bayu, Kenyalang Dekat di Hati' yang dihoskan Ustaz Don Daniyal Don Biyajid bersama-sama dua tetamu jemputan</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918143000 +0000" stop="20260918150000 +0000">
-    <title lang="zh">30 Minit Bersama Ep16</title>
-    <desc>30 Minit Bersama Sahibus Samahah Ustaz Ahmad Fauwaz Fadzil Noor, Mufti Wilayah Persekutuan, membicarakan mengenai 'Memahami Kehidupan Salaf'.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918150000 +0000" stop="20260918160000 +0000">
-    <title lang="zh">Assalamualaikum Biz Ep68</title>
-    <desc>Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918160000 +0000" stop="20260918170000 +0000">
-    <title lang="zh">Siaran Langsung Madinah (L)</title>
-    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918170000 +0000" stop="20260918173000 +0000">
-    <title lang="zh">Reflections Ep14</title>
-    <desc>Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918173000 +0000" stop="20260918193000 +0000">
-    <title lang="zh">Siaran Langsung Mekah (L)</title>
-    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918193000 +0000" stop="20260918203000 +0000">
-    <title lang="zh">My Qurantime 2.0 Ep79</title>
-    <desc>Rancangan mentadabbur ayat suci Al-Quran dengan misi membawa masyarakat mendalami maksud dan pengajaran darinya setiap hari.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918203000 +0000" stop="20260918210000 +0000">
-    <title lang="zh">Tawajjuh Ep01</title>
-    <desc>Ustaz Aiman Ridhwan memperdengarkan bacaan surah Al-Insan ayat 1-31.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918210000 +0000" stop="20260918220000 +0000">
-    <title lang="zh">Quran @114 Ep256</title>
-    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918220000 +0000" stop="20260918223000 +0000">
-    <title lang="zh">Hadis @114 Ep226</title>
-    <desc>Hadis 114, menampilkan Ustaz Tariq Jaffri Mohamad Akbar selaku pengacara yang membincangkan hadis Sahih Al-Bukhari ''Menyapu Masjid dan Membuang Kotoran dari Masjid'</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918223000 +0000" stop="20260918230000 +0000">
-    <title lang="zh">Assalamualaikum Subuh (L)</title>
-    <desc>Program bual bicara keagamaan mengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260918230000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Assalamualaikum(L)</title>
-    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919010000 +0000" stop="20260919020000 +0000">
-    <title lang="zh">Assalamualaikum An-Nisa (L)</title>
-    <desc>Program yang membawa pelbagai isu hal ehwal wanita and mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919020000 +0000" stop="20260919020500 +0000">
-    <title lang="zh">Kapsul Jom Dengar Cerita Ep18</title>
-    <desc>Bersama Ustaz Fuad Mokhtar dalam menyelami kisah-kisah penuh ibrah yang dapat dijadikan pedoman untuk kehidupan seharian.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919020500 +0000" stop="20260919023000 +0000">
-    <title lang="zh">Ad Dhuha</title>
-    <desc>Himpunan doa, zikir, dan bacaan Al-Quran untuk menerangi waktu Dhuha anda.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919023000 +0000" stop="20260919030000 +0000">
-    <title lang="zh">Assalamualaikum Ustazah Ep242</title>
-    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919030000 +0000" stop="20260919040000 +0000">
-    <title lang="zh">Quran@114</title>
-    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919040000 +0000" stop="20260919050000 +0000">
-    <title lang="zh">WowShopxTVAlhijrah</title>
-    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919050000 +0000" stop="20260919050500 +0000">
-    <title lang="zh">Madani Membantu Ep28</title>
-    <desc>Kapsul Madani Membantu ini memberikan paparan penglibatan YB Senator Menteri JPM Hal Ehwal Agama dan Timbalannya turun memberikan bantuan kepada golongan2 yang memerlukan.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919050500 +0000" stop="20260919053000 +0000">
-    <title lang="zh">Panggilan Agung Zohor</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919053000 +0000" stop="20260919060000 +0000">
-    <title lang="zh">Cinta Ilmu 2025 Ep12</title>
-    <desc>Sebuah program kerohanian yang menampilkan Dato' Prof. Dr.Mohd Farid Ravi Abdullah membincangkan ceramah bertajuk 'Talak 3'.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919060000 +0000" stop="20260919070000 +0000">
-    <title lang="zh">WowShopxTVAlhijrah</title>
-    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919070000 +0000" stop="20260919073000 +0000">
-    <title lang="zh">The Best of Gema Haflah Ep01</title>
-    <desc>Susunan program hiburan islamik setiap minggu bersama sama dengan barisan artis dalam Dari Studio Hijrah, berselawat dalam Hijrah Berselawat dan bertaranun dalam Gema Haflah.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919073000 +0000" stop="20260919080000 +0000">
-    <title lang="zh">Ya Nabiyallah Ep01</title>
-    <desc>Ya Nabiyallah menampilkan Fadzli Aziz sebagai pengacara video qasidah dalam program Hijrah Berselawat yang memaparkan qasidah sebagai hiburan yang bermanfaat dimana mendekatkan diri kita dengan Rasulullah</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919080000 +0000" stop="20260919083000 +0000">
-    <title lang="zh">Selawat Zikir Fillers</title>
-    <desc>Alunan selawat, zikir dan bacaan Al-Quran.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919083000 +0000" stop="20260919090000 +0000">
-    <title lang="zh">Panggilan Agung Asar</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919090000 +0000" stop="20260919093000 +0000">
-    <title lang="zh">Politik Ummah Ep14</title>
-    <desc>Amin Idris selaku hos bersama Ustaz Marwan Bukhari mengulas tentang 'Sistem Khilafah' yang menjelaskan sejarah evolusi serta relevansi dan pendekatan praktikal kepimpinan khilafah dalam konteks zaman moden</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919093000 +0000" stop="20260919100000 +0000">
-    <title lang="zh">Qalbun Salim Ep17</title>
-    <desc>﻿﻿Qalbun Salim adalah program tazkirah oleh Habib Ali Zaenal Abidin Al-Hamid, membicarakan tentang pentingnya seorang muslim kembali kepada Allah SWT yang bertajuk 'Menelusuri Amalan Taubat'.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919100000 +0000" stop="20260919103000 +0000">
-    <title lang="zh">Indahnya Bersederhana Ep04</title>
-    <desc>Rancangan mengandungi mesej teras bahawa kebahagiaan dan ketenangan hidup tidak terletak pada kekayaan perabot mewah atau kemewahan harta benda</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919103000 +0000" stop="20260919105500 +0000">
-    <title lang="zh">Tawajjuh Ep02</title>
-    <desc>Menampilkan Ustaz Aiman Ridhwan memperdengarkan bacaan surah Al-Insan ayat 1-31.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919105500 +0000" stop="20260919110000 +0000">
-    <title lang="zh">Sebarkan Salam Ep27</title>
-    <desc>Kapsul mengetengahkan nilai kebersamaan (taayush) dalam kehidupan masyarakat majmuk melalui pendekatan santai, realistik dan dekat dengan gaya hidup masa kini.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919110000 +0000" stop="20260919113000 +0000">
-    <title lang="zh">Panggilan Agung Maghrib</title>
-    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919113000 +0000" stop="20260919120000 +0000">
-    <title lang="zh">Tawajjuh Munajat Ep16</title>
-    <desc>Menampilkan Ustaz Muhammad Isyraq bin Shahruddin memperdengarkan bacaan Surah Al-Waqiah dan Surah Al-Hadid yang disertai dengan terjemahannya.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919120000 +0000" stop="20260919123000 +0000">
-    <title lang="zh">Berita Alhijrah (L)</title>
-    <desc>Kompilasi laporan berita utama dalam dan luar negara, laporan eksklusif isu semasa ummah, lintas langsung dan laporan khas.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919123000 +0000" stop="20260919130000 +0000">
-    <title lang="zh">Podcast 3 in 1 Ep06</title>
-    <desc>Program bual bicara santai bertemakan 'Di Bawah Bayu, Kenyalang Dekat di Hati' yang dihoskan Ustaz Don Daniyal Don Biyajid bersama-sama dua tetamu jemputan</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919130000 +0000" stop="20260919140000 +0000">
-    <title lang="zh">Hijrah Berselawat Ep06</title>
-    <desc>Program kerohanian istimewa yang mengangkat tema tausiyah diselangi dengan keindahan alunan nasyid, selawat, qasidah dan doa.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919140000 +0000" stop="20260919150000 +0000">
-    <title lang="zh">Gema Haflah Ep20</title>
-    <desc>Susunan program hiburan islamik setiap minggu bersama sama dengan barisan artis dalam Dari Studio Hijrah, berselawat dalam Hijrah Berselawat dan bertaranun dalam Gema Haflah.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919150000 +0000" stop="20260919160000 +0000">
-    <title lang="zh">Assalamualaikum Biz Ep67</title>
-    <desc>Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919160000 +0000" stop="20260919170000 +0000">
-    <title lang="zh">Siaran Langsung Madinah (L)</title>
-    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919170000 +0000" stop="20260919173000 +0000">
-    <title lang="zh">Reflections Ep15</title>
-    <desc>Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919173000 +0000" stop="20260919203000 +0000">
-    <title lang="zh">Siaran Langsung Mekah (L)</title>
-    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919203000 +0000" stop="20260919210000 +0000">
-    <title lang="zh">Tawajjuh Munajat Ep16</title>
-    <desc>Menampilkan Ustaz Muhammad Isyraq bin Shahruddin memperdengarkan bacaan Surah Al-Waqiah dan Surah Al-Hadid yang disertai dengan terjemahannya.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919210000 +0000" stop="20260919220000 +0000">
-    <title lang="zh">Quran @114 Ep257</title>
-    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919220000 +0000" stop="20260919223000 +0000">
-    <title lang="zh">Hadis @114 Ep22</title>
-    <desc>Hadis 114 menampilkan Ustaz Dr. Murshidi Mohd Noor menyampaikan pengajian hadis Sahih Al-Bukhari bertajuk 'Gelaran-Gelaran Para Ahli Hadis'</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919223000 +0000" stop="20260919230000 +0000">
-    <title lang="zh">Assalamualaikum Subuh (L)</title>
-    <desc>Program bual bicara keagamaan mengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.alhijrah" start="20260919230000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">Assalamualaikum(L)</title>
-    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <date>2026-09-19</date>
-  </programme>
   <programme channel="mastro.skysportsfootball" start="20260918014500 +0000" stop="20260918020000 +0000">
     <title lang="zh">EFL Play-Off Classics. 2007: Derby v Southampton</title>
     <desc />
@@ -17900,6 +17331,351 @@
     <title lang="zh">EFL Championship. Millwall v West Ham United</title>
     <desc />
     <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918010000 +0000" stop="20260918020000 +0000">
+    <title lang="zh">Assalamualaikum An-Nisa (L)</title>
+    <desc>Program yang membawa pelbagai isu hal ehwal wanita and mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918020000 +0000" stop="20260918023000 +0000">
+    <title lang="zh">Ad Dhuha</title>
+    <desc>Himpunan doa, zikir, dan bacaan Al-Quran untuk menerangi waktu Dhuha anda.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918023000 +0000" stop="20260918030000 +0000">
+    <title lang="zh">Assalamualaikum Ustaz Ep241</title>
+    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918030000 +0000" stop="20260918040000 +0000">
+    <title lang="zh">Quran@114 Ep256</title>
+    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918040000 +0000" stop="20260918050000 +0000">
+    <title lang="zh">WowShopxTVAlhijrah</title>
+    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918050000 +0000" stop="20260918050500 +0000">
+    <title lang="zh">Madani Membantu Ep28</title>
+    <desc>Kapsul Madani Membantu ini memberikan paparan penglibatan YB Senator Menteri JPM Hal Ehwal Agama dan Timbalannya turun memberikan bantuan kepada golongan2 yang memerlukan.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918050500 +0000" stop="20260918053000 +0000">
+    <title lang="zh">Panggilan Agung Zohor</title>
+    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918053000 +0000" stop="20260918060000 +0000">
+    <title lang="zh">SOLAT JUMAAT (L)</title>
+    <desc>Siaran Langsung Solat Jumaat</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918060000 +0000" stop="20260918070000 +0000">
+    <title lang="zh">WowShopxTVAlhijrah</title>
+    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918070000 +0000" stop="20260918080000 +0000">
+    <title lang="zh">My Qurantime 2.0 Ep79</title>
+    <desc>Rancangan mentadabbur ayat suci Al-Quran dengan misi membawa masyarakat mendalami maksud dan pengajaran darinya setiap hari.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918080000 +0000" stop="20260918090000 +0000">
+    <title lang="zh">Dari Hati Wanita Ep11</title>
+    <desc>Program 'Dari Hati Wanita merupakan sebuah sesi perkongsian yang mengetengahkan isu dan cabaran yang dihadapi oleh wanita masa kini melalui panduan dan hikmah yang terkandung dalam al-Quran.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918090000 +0000" stop="20260918093000 +0000">
+    <title lang="zh">Assalamualaikum Asar (L)</title>
+    <desc>Mempelajari amalan doa harian yang dikupas menerusi Assalamualaikum Asar, sebagai ruang memenuhi waktu-waktu mustajab doa pada petang setiap hari Jumaat.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918093000 +0000" stop="20260918100000 +0000">
+    <title lang="zh">Tawajjuh Ep15</title>
+    <desc>Menampilkan Muhammad Saleem Noor Muhammad memperdengarkan bacaan Surah Al-Qamar dan Surah Ar -Rahman yang disertai dengan terjemahannya.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918100000 +0000" stop="20260918103000 +0000">
+    <title lang="zh">Hadis@114 Ep226</title>
+    <desc>Hadis 114, menampilkan Ustaz Tariq Jaffri Mohamad Akbar selaku pengacara yang membincangkan hadis Sahih Al-Bukhari ''Menyapu Masjid dan Membuang Kotoran dari Masjid'</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918103000 +0000" stop="20260918105500 +0000">
+    <title lang="zh">Keluarga Saranghae Ep07</title>
+    <desc>'Keluarga Saranghea' membawakan kisah 'Hadiah Dar Allah' bersama tetamu jemputan, Wan Noor Azaziah Wan Aziz berkongsi kisah ketabahan dan inspirasi kehidupan beliau dalam menghadapi ujian penyakit kulit</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918105500 +0000" stop="20260918110000 +0000">
+    <title lang="zh">Sebarkan Salam Ep26</title>
+    <desc>Kapsul mengetengahkan nilai kebersamaan (taayush) dalam kehidupan masyarakat majmuk melalui pendekatan santai, realistik dan dekat dengan gaya hidup masa kini.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918110000 +0000" stop="20260918113000 +0000">
+    <title lang="zh">Panggilan Agung Maghrib</title>
+    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918113000 +0000" stop="20260918120000 +0000">
+    <title lang="zh">Tawajjuh Ep01</title>
+    <desc>Menampilkan Ustaz Aiman Ridhwan memperdengarkan bacaan surah As-Sajdah ayat 1-30. Selepas bacaan ayat ke-15, beliau mengerjakan sujud Sajadah.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918120000 +0000" stop="20260918123500 +0000">
+    <title lang="zh">Berita Alhijrah (L)</title>
+    <desc>Kompilasi laporan berita utama dalam dan luar negara, laporan eksklusif isu semasa ummah, lintas langsung dan laporan khas.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918123500 +0000" stop="20260918124500 +0000">
+    <title lang="zh">Panggilan Agung Isyak</title>
+    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918124500 +0000" stop="20260918130000 +0000">
+    <title lang="zh">Global Arab Hijrah 2026 Ep35</title>
+    <desc>Berita Ringkas Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham and ekonomi.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918130000 +0000" stop="20260918133000 +0000">
+    <title lang="zh">Indahnya Bersederhana Ep04</title>
+    <desc>Rancangan mengandungi mesej teras bahawa kebahagiaan dan ketenangan hidup tidak terletak pada kekayaan perabot mewah atau kemewahan harta benda</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918133000 +0000" stop="20260918140000 +0000">
+    <title lang="zh">Pesan Ep29</title>
+    <desc>Mengupas tentang 'Sehati Di Tanah Bertuah' yang menghuraikan tentang kepentingan memelihara perpaduan, keamanan dan keharmonian dalam kalangan rakyat Malaysia yang berbilang kaum dan budaya</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918140000 +0000" stop="20260918143000 +0000">
+    <title lang="zh">Podcast 3 in 1 Ep05</title>
+    <desc>Program bual bicara santai bertemakan 'Di Bawah Bayu, Kenyalang Dekat di Hati' yang dihoskan Ustaz Don Daniyal Don Biyajid bersama-sama dua tetamu jemputan</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918143000 +0000" stop="20260918150000 +0000">
+    <title lang="zh">30 Minit Bersama Ep16</title>
+    <desc>30 Minit Bersama Sahibus Samahah Ustaz Ahmad Fauwaz Fadzil Noor, Mufti Wilayah Persekutuan, membicarakan mengenai 'Memahami Kehidupan Salaf'.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918150000 +0000" stop="20260918160000 +0000">
+    <title lang="zh">Assalamualaikum Biz Ep68</title>
+    <desc>Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918160000 +0000" stop="20260918170000 +0000">
+    <title lang="zh">Siaran Langsung Madinah (L)</title>
+    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918170000 +0000" stop="20260918173000 +0000">
+    <title lang="zh">Reflections Ep14</title>
+    <desc>Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918173000 +0000" stop="20260918193000 +0000">
+    <title lang="zh">Siaran Langsung Mekah (L)</title>
+    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918193000 +0000" stop="20260918203000 +0000">
+    <title lang="zh">My Qurantime 2.0 Ep79</title>
+    <desc>Rancangan mentadabbur ayat suci Al-Quran dengan misi membawa masyarakat mendalami maksud dan pengajaran darinya setiap hari.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918203000 +0000" stop="20260918210000 +0000">
+    <title lang="zh">Tawajjuh Ep01</title>
+    <desc>Ustaz Aiman Ridhwan memperdengarkan bacaan surah Al-Insan ayat 1-31.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918210000 +0000" stop="20260918220000 +0000">
+    <title lang="zh">Quran @114 Ep256</title>
+    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918220000 +0000" stop="20260918223000 +0000">
+    <title lang="zh">Hadis @114 Ep226</title>
+    <desc>Hadis 114, menampilkan Ustaz Tariq Jaffri Mohamad Akbar selaku pengacara yang membincangkan hadis Sahih Al-Bukhari ''Menyapu Masjid dan Membuang Kotoran dari Masjid'</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918223000 +0000" stop="20260918230000 +0000">
+    <title lang="zh">Assalamualaikum Subuh (L)</title>
+    <desc>Program bual bicara keagamaan mengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260918230000 +0000" stop="20260919000000 +0000">
+    <title lang="zh">Assalamualaikum(L)</title>
+    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919010000 +0000" stop="20260919020000 +0000">
+    <title lang="zh">Assalamualaikum An-Nisa (L)</title>
+    <desc>Program yang membawa pelbagai isu hal ehwal wanita and mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919020000 +0000" stop="20260919020500 +0000">
+    <title lang="zh">Kapsul Jom Dengar Cerita Ep18</title>
+    <desc>Bersama Ustaz Fuad Mokhtar dalam menyelami kisah-kisah penuh ibrah yang dapat dijadikan pedoman untuk kehidupan seharian.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919020500 +0000" stop="20260919023000 +0000">
+    <title lang="zh">Ad Dhuha</title>
+    <desc>Himpunan doa, zikir, dan bacaan Al-Quran untuk menerangi waktu Dhuha anda.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919023000 +0000" stop="20260919030000 +0000">
+    <title lang="zh">Assalamualaikum Ustazah Ep242</title>
+    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919030000 +0000" stop="20260919040000 +0000">
+    <title lang="zh">Quran@114</title>
+    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919040000 +0000" stop="20260919050000 +0000">
+    <title lang="zh">WowShopxTVAlhijrah</title>
+    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919050000 +0000" stop="20260919050500 +0000">
+    <title lang="zh">Madani Membantu Ep28</title>
+    <desc>Kapsul Madani Membantu ini memberikan paparan penglibatan YB Senator Menteri JPM Hal Ehwal Agama dan Timbalannya turun memberikan bantuan kepada golongan2 yang memerlukan.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919050500 +0000" stop="20260919053000 +0000">
+    <title lang="zh">Panggilan Agung Zohor</title>
+    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919053000 +0000" stop="20260919060000 +0000">
+    <title lang="zh">Cinta Ilmu 2025 Ep12</title>
+    <desc>Sebuah program kerohanian yang menampilkan Dato' Prof. Dr.Mohd Farid Ravi Abdullah membincangkan ceramah bertajuk 'Talak 3'.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919060000 +0000" stop="20260919070000 +0000">
+    <title lang="zh">WowShopxTVAlhijrah</title>
+    <desc>Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919070000 +0000" stop="20260919073000 +0000">
+    <title lang="zh">The Best of Gema Haflah Ep01</title>
+    <desc>Susunan program hiburan islamik setiap minggu bersama sama dengan barisan artis dalam Dari Studio Hijrah, berselawat dalam Hijrah Berselawat dan bertaranun dalam Gema Haflah.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919073000 +0000" stop="20260919080000 +0000">
+    <title lang="zh">Ya Nabiyallah Ep01</title>
+    <desc>Ya Nabiyallah menampilkan Fadzli Aziz sebagai pengacara video qasidah dalam program Hijrah Berselawat yang memaparkan qasidah sebagai hiburan yang bermanfaat dimana mendekatkan diri kita dengan Rasulullah</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919080000 +0000" stop="20260919083000 +0000">
+    <title lang="zh">Selawat Zikir Fillers</title>
+    <desc>Alunan selawat, zikir dan bacaan Al-Quran.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919083000 +0000" stop="20260919090000 +0000">
+    <title lang="zh">Panggilan Agung Asar</title>
+    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919090000 +0000" stop="20260919093000 +0000">
+    <title lang="zh">Politik Ummah Ep14</title>
+    <desc>Amin Idris selaku hos bersama Ustaz Marwan Bukhari mengulas tentang 'Sistem Khilafah' yang menjelaskan sejarah evolusi serta relevansi dan pendekatan praktikal kepimpinan khilafah dalam konteks zaman moden</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919093000 +0000" stop="20260919100000 +0000">
+    <title lang="zh">Qalbun Salim Ep17</title>
+    <desc>﻿﻿Qalbun Salim adalah program tazkirah oleh Habib Ali Zaenal Abidin Al-Hamid, membicarakan tentang pentingnya seorang muslim kembali kepada Allah SWT yang bertajuk 'Menelusuri Amalan Taubat'.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919100000 +0000" stop="20260919103000 +0000">
+    <title lang="zh">Indahnya Bersederhana Ep04</title>
+    <desc>Rancangan mengandungi mesej teras bahawa kebahagiaan dan ketenangan hidup tidak terletak pada kekayaan perabot mewah atau kemewahan harta benda</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919103000 +0000" stop="20260919105500 +0000">
+    <title lang="zh">Tawajjuh Ep02</title>
+    <desc>Menampilkan Ustaz Aiman Ridhwan memperdengarkan bacaan surah Al-Insan ayat 1-31.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919105500 +0000" stop="20260919110000 +0000">
+    <title lang="zh">Sebarkan Salam Ep27</title>
+    <desc>Kapsul mengetengahkan nilai kebersamaan (taayush) dalam kehidupan masyarakat majmuk melalui pendekatan santai, realistik dan dekat dengan gaya hidup masa kini.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919110000 +0000" stop="20260919113000 +0000">
+    <title lang="zh">Panggilan Agung Maghrib</title>
+    <desc>Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919113000 +0000" stop="20260919120000 +0000">
+    <title lang="zh">Tawajjuh Munajat Ep16</title>
+    <desc>Menampilkan Ustaz Muhammad Isyraq bin Shahruddin memperdengarkan bacaan Surah Al-Waqiah dan Surah Al-Hadid yang disertai dengan terjemahannya.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919120000 +0000" stop="20260919123000 +0000">
+    <title lang="zh">Berita Alhijrah (L)</title>
+    <desc>Kompilasi laporan berita utama dalam dan luar negara, laporan eksklusif isu semasa ummah, lintas langsung dan laporan khas.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919123000 +0000" stop="20260919130000 +0000">
+    <title lang="zh">Podcast 3 in 1 Ep06</title>
+    <desc>Program bual bicara santai bertemakan 'Di Bawah Bayu, Kenyalang Dekat di Hati' yang dihoskan Ustaz Don Daniyal Don Biyajid bersama-sama dua tetamu jemputan</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919130000 +0000" stop="20260919140000 +0000">
+    <title lang="zh">Hijrah Berselawat Ep06</title>
+    <desc>Program kerohanian istimewa yang mengangkat tema tausiyah diselangi dengan keindahan alunan nasyid, selawat, qasidah dan doa.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919140000 +0000" stop="20260919150000 +0000">
+    <title lang="zh">Gema Haflah Ep20</title>
+    <desc>Susunan program hiburan islamik setiap minggu bersama sama dengan barisan artis dalam Dari Studio Hijrah, berselawat dalam Hijrah Berselawat dan bertaranun dalam Gema Haflah.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919150000 +0000" stop="20260919160000 +0000">
+    <title lang="zh">Assalamualaikum Biz Ep67</title>
+    <desc>Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919160000 +0000" stop="20260919170000 +0000">
+    <title lang="zh">Siaran Langsung Madinah (L)</title>
+    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919170000 +0000" stop="20260919173000 +0000">
+    <title lang="zh">Reflections Ep15</title>
+    <desc>Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919173000 +0000" stop="20260919203000 +0000">
+    <title lang="zh">Siaran Langsung Mekah (L)</title>
+    <desc>Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919203000 +0000" stop="20260919210000 +0000">
+    <title lang="zh">Tawajjuh Munajat Ep16</title>
+    <desc>Menampilkan Ustaz Muhammad Isyraq bin Shahruddin memperdengarkan bacaan Surah Al-Waqiah dan Surah Al-Hadid yang disertai dengan terjemahannya.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919210000 +0000" stop="20260919220000 +0000">
+    <title lang="zh">Quran @114 Ep257</title>
+    <desc>Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919220000 +0000" stop="20260919223000 +0000">
+    <title lang="zh">Hadis @114 Ep22</title>
+    <desc>Hadis 114 menampilkan Ustaz Dr. Murshidi Mohd Noor menyampaikan pengajian hadis Sahih Al-Bukhari bertajuk 'Gelaran-Gelaran Para Ahli Hadis'</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919223000 +0000" stop="20260919230000 +0000">
+    <title lang="zh">Assalamualaikum Subuh (L)</title>
+    <desc>Program bual bicara keagamaan mengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.alhijrah" start="20260919230000 +0000" stop="20260920000000 +0000">
+    <title lang="zh">Assalamualaikum(L)</title>
+    <desc>Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+    <date>2026-09-19</date>
   </programme>
   <programme channel="mastro.skysportsgolf" start="20260918000000 +0000" stop="20260918010000 +0000">
     <title lang="zh">BMW International Open, DP World Tour Golf</title>
@@ -19846,6 +19622,246 @@
     <desc>Coverage of the preliminary bouts ahead of UFC 331, which takes place at Crypto.com Arena in Los Angeles, California.</desc>
     <date>2026-09-19</date>
   </programme>
+  <programme channel="mastro.tnt2" start="20260918034500 +0000" stop="20260918040000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best batting action from the First Test between West Indies and Pakistan.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918040000 +0000" stop="20260918041500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best bowling action from the First Test between West Indies and Pakistan.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918041500 +0000" stop="20260918043000 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best batting in the Second Test between West Indies and Pakistan.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918043000 +0000" stop="20260918044500 +0000">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at the best bowling in the Second Test between West Indies and Pakistan.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918044500 +0000" stop="20260918050000 +0000">
+    <title lang="zh">Playing for Our Future - Cricket</title>
+    <desc>Asking what the future holds for cricket in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918050000 +0000" stop="20260918060000 +0000">
+    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
+    <desc>Action from the ninth round of the season in Vojens, Denmark.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918060000 +0000" stop="20260918070000 +0000">
+    <title lang="zh">MotoGP Highlights</title>
+    <desc>Action from 2026 MotoGP Grand Prix of San Marino.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918070000 +0000" stop="20260918094500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Austria first free practice session. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918094500 +0000" stop="20260918100000 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Hungary.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918100000 +0000" stop="20260918101500 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Czechia.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918101500 +0000" stop="20260918103000 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>The best of the action from the Grand Prix of Netherlands.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918103000 +0000" stop="20260918104500 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Germany.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918104500 +0000" stop="20260918110000 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 Grand Prix of Great Britain.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918110000 +0000" stop="20260918111500 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Aragon.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918111500 +0000" stop="20260918141500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Austria practice session. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918141500 +0000" stop="20260918143000 +0000">
+    <title lang="zh">MotoGP Rewind</title>
+    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of San Marino.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918143000 +0000" stop="20260918153000 +0000">
+    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
+    <desc>Action from the ninth round of the season in Vojens, Denmark.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918153000 +0000" stop="20260918160000 +0000">
+    <title lang="zh">Inside Serie A</title>
+    <desc>A round-up of all the latest news from the Italian top flight.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918160000 +0000" stop="20260918163000 +0000">
+    <title lang="zh">The Fantasy Show</title>
+    <desc>The Fantasy Premier League experts look ahead to gameweek five of the 2026/27 season.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918163000 +0000" stop="20260918170100 +0000">
+    <title lang="zh">Premier League Stories</title>
+    <desc>A look back at the career of ex-Manchester City defender John Stones.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918170100 +0000" stop="20260918173000 +0000">
+    <title lang="zh">Women's CPL Highlights</title>
+    <desc>Action from the final.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918173000 +0000" stop="20260918180000 +0000">
+    <title lang="zh">Inside Serie A</title>
+    <desc>A round-up of all the latest news from the Italian top flight.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918180000 +0000" stop="20260918183000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action, news and reactions from the Grand Prix of Austria.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918183000 +0000" stop="20260918200000 +0000">
+    <title lang="zh">AFL</title>
+    <desc>Action from the Australian Football League.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918200000 +0000" stop="20260918210000 +0000">
+    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
+    <desc>Action from the ninth round of the season in Vojens, Denmark.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918210000 +0000" stop="20260918213000 +0000">
+    <title lang="zh">Women's CPL Highlights</title>
+    <desc>Action from the final.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918213000 +0000" stop="20260918220000 +0000">
+    <title lang="zh">CPL Highlights</title>
+    <desc>Action from the eliminator match.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918220000 +0000" stop="20260918223000 +0000">
+    <title lang="zh">CPL Highlights</title>
+    <desc>Action from the first qualifier.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260918223000 +0000" stop="20260919000000 +0000">
+    <title lang="zh">Live: CPL</title>
+    <desc>Coverage of the second qualifier, which takes place at Kensington Oval in Barbados.</desc>
+    <date>2026-09-18</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919024500 +0000" stop="20260919031500 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919031500 +0000" stop="20260919033000 +0000">
+    <title lang="zh">The Gruppetto</title>
+    <desc>Rob Hatch presents news from the world of cycling.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919033000 +0000" stop="20260919043000 +0000">
+    <title lang="zh">Men's Cycling Pro Series</title>
+    <desc>Action from the fourth and final stage of the 2026 Tour of Abruzzo.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919043000 +0000" stop="20260919063000 +0000">
+    <title lang="zh">Live: AFLW</title>
+    <desc>Port Adelaide Power Women v Sydney Swans Women (Bounce-up 5.35am). Coverage of the match from Alberton Oval in Adelaide.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919063000 +0000" stop="20260919080000 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Austria Moto3 and Moto2 second free practice sessions. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919080000 +0000" stop="20260919104500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Austria MotoGP second free practice and qualifying sessions. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919104500 +0000" stop="20260919124500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Austria Moto3 and Moto2 qualifying sessions. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919124500 +0000" stop="20260919134500 +0000">
+    <title lang="zh">Live MotoGP</title>
+    <desc>The Grand Prix of Austria MotoGP sprint race (Start-time 2.00pm). Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919134500 +0000" stop="20260919143000 +0000">
+    <title lang="zh">Live: British Superbikes</title>
+    <desc>Coverage from the first day of the ninth round of the season, which takes place at TT Circuit Assen in the Netherlands.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919143000 +0000" stop="20260919163000 +0000">
+    <title lang="zh">Live: European T20 Premier League</title>
+    <desc>Coverage of the qualifying final from Malahide Cricket Ground in Malahide, Ireland.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919163000 +0000" stop="20260919170000 +0000">
+    <title lang="zh">CPL Highlights</title>
+    <desc>Action from the first qualifier.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919170000 +0000" stop="20260919173000 +0000">
+    <title lang="zh">CPL Highlights</title>
+    <desc>Action from the second qualifier.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919173000 +0000" stop="20260919180000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919180000 +0000" stop="20260919183000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Austria sprint race.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919183000 +0000" stop="20260919200000 +0000">
+    <title lang="zh">AFL</title>
+    <desc>Action from the Australian Football League.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919200000 +0000" stop="20260919221500 +0000">
+    <title lang="zh">Live: NWSL</title>
+    <desc>Orlando Pride v Portland Thorns (Kick-off 9.00pm). Coverage of the match from Inter&amp;Co Stadium in Orlando.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919221500 +0000" stop="20260919223000 +0000">
+    <title lang="zh">TNT Sports Reload</title>
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919223000 +0000" stop="20260919230000 +0000">
+    <title lang="zh">MotoGP</title>
+    <desc>Action from the 2026 MotoGP Grand Prix of Austria sprint race.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.tnt2" start="20260919230000 +0000" stop="20260920000000 +0000">
+    <title lang="zh">Live MLB</title>
+    <desc>Texas Rangers v Toronto Blue Jays (Start-time 12.05am). Coverage of the American League match from Globe Life Field in Arlington.</desc>
+    <date>2026-09-19</date>
+  </programme>
   <programme channel="mastro.tvs" start="20260918000000 +0000" stop="20260918000500 +0000">
     <title lang="zh">(DL) World News</title>
     <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
@@ -20395,246 +20411,6 @@
     <title lang="zh">(DL) World News</title>
     <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
     <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918034500 +0000" stop="20260918040000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best batting action from the First Test between West Indies and Pakistan.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918040000 +0000" stop="20260918041500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best bowling action from the First Test between West Indies and Pakistan.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918041500 +0000" stop="20260918043000 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best batting in the Second Test between West Indies and Pakistan.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918043000 +0000" stop="20260918044500 +0000">
-    <title lang="zh">TNT Sports Cricket Reload</title>
-    <desc>A look back at the best bowling in the Second Test between West Indies and Pakistan.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918044500 +0000" stop="20260918050000 +0000">
-    <title lang="zh">Playing for Our Future - Cricket</title>
-    <desc>Asking what the future holds for cricket in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how cricket can be a force for change.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918050000 +0000" stop="20260918060000 +0000">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc>Action from the ninth round of the season in Vojens, Denmark.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918060000 +0000" stop="20260918070000 +0000">
-    <title lang="zh">MotoGP Highlights</title>
-    <desc>Action from 2026 MotoGP Grand Prix of San Marino.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918070000 +0000" stop="20260918094500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Austria first free practice session. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918094500 +0000" stop="20260918100000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Hungary.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918100000 +0000" stop="20260918101500 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Czechia.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918101500 +0000" stop="20260918103000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>The best of the action from the Grand Prix of Netherlands.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918103000 +0000" stop="20260918104500 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Germany.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918104500 +0000" stop="20260918110000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 Grand Prix of Great Britain.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918110000 +0000" stop="20260918111500 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of Aragon.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918111500 +0000" stop="20260918141500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Austria practice session. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918141500 +0000" stop="20260918143000 +0000">
-    <title lang="zh">MotoGP Rewind</title>
-    <desc>A look back at the best of the action from the 2026 MotoGP Grand Prix of San Marino.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918143000 +0000" stop="20260918153000 +0000">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc>Action from the ninth round of the season in Vojens, Denmark.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918153000 +0000" stop="20260918160000 +0000">
-    <title lang="zh">Inside Serie A</title>
-    <desc>A round-up of all the latest news from the Italian top flight.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918160000 +0000" stop="20260918163000 +0000">
-    <title lang="zh">The Fantasy Show</title>
-    <desc>The Fantasy Premier League experts look ahead to gameweek five of the 2026/27 season.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918163000 +0000" stop="20260918170100 +0000">
-    <title lang="zh">Premier League Stories</title>
-    <desc>A look back at the career of ex-Manchester City defender John Stones.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918170100 +0000" stop="20260918173000 +0000">
-    <title lang="zh">Women's CPL Highlights</title>
-    <desc>Action from the final.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918173000 +0000" stop="20260918180000 +0000">
-    <title lang="zh">Inside Serie A</title>
-    <desc>A round-up of all the latest news from the Italian top flight.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918180000 +0000" stop="20260918183000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action, news and reactions from the Grand Prix of Austria.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918183000 +0000" stop="20260918200000 +0000">
-    <title lang="zh">AFL</title>
-    <desc>Action from the Australian Football League.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918200000 +0000" stop="20260918210000 +0000">
-    <title lang="zh">FIM Speedway Grand Prix Highlights</title>
-    <desc>Action from the ninth round of the season in Vojens, Denmark.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918210000 +0000" stop="20260918213000 +0000">
-    <title lang="zh">Women's CPL Highlights</title>
-    <desc>Action from the final.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918213000 +0000" stop="20260918220000 +0000">
-    <title lang="zh">CPL Highlights</title>
-    <desc>Action from the eliminator match.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918220000 +0000" stop="20260918223000 +0000">
-    <title lang="zh">CPL Highlights</title>
-    <desc>Action from the first qualifier.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260918223000 +0000" stop="20260919000000 +0000">
-    <title lang="zh">Live: CPL</title>
-    <desc>Coverage of the second qualifier, which takes place at Kensington Oval in Barbados.</desc>
-    <date>2026-09-18</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919024500 +0000" stop="20260919031500 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919031500 +0000" stop="20260919033000 +0000">
-    <title lang="zh">The Gruppetto</title>
-    <desc>Rob Hatch presents news from the world of cycling.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919033000 +0000" stop="20260919043000 +0000">
-    <title lang="zh">Men's Cycling Pro Series</title>
-    <desc>Action from the fourth and final stage of the 2026 Tour of Abruzzo.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919043000 +0000" stop="20260919063000 +0000">
-    <title lang="zh">Live: AFLW</title>
-    <desc>Port Adelaide Power Women v Sydney Swans Women (Bounce-up 5.35am). Coverage of the match from Alberton Oval in Adelaide.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919063000 +0000" stop="20260919080000 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Austria Moto3 and Moto2 second free practice sessions. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919080000 +0000" stop="20260919104500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Austria MotoGP second free practice and qualifying sessions. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919104500 +0000" stop="20260919124500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Austria Moto3 and Moto2 qualifying sessions. Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919124500 +0000" stop="20260919134500 +0000">
-    <title lang="zh">Live MotoGP</title>
-    <desc>The Grand Prix of Austria MotoGP sprint race (Start-time 2.00pm). Coverage from the 15th round of the season at Red Bull Ring in Spielberg.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919134500 +0000" stop="20260919143000 +0000">
-    <title lang="zh">Live: British Superbikes</title>
-    <desc>Coverage from the first day of the ninth round of the season, which takes place at TT Circuit Assen in the Netherlands.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919143000 +0000" stop="20260919163000 +0000">
-    <title lang="zh">Live: European T20 Premier League</title>
-    <desc>Coverage of the qualifying final from Malahide Cricket Ground in Malahide, Ireland.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919163000 +0000" stop="20260919170000 +0000">
-    <title lang="zh">CPL Highlights</title>
-    <desc>Action from the first qualifier.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919170000 +0000" stop="20260919173000 +0000">
-    <title lang="zh">CPL Highlights</title>
-    <desc>Action from the second qualifier.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919173000 +0000" stop="20260919180000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919180000 +0000" stop="20260919183000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 MotoGP Grand Prix of Austria sprint race.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919183000 +0000" stop="20260919200000 +0000">
-    <title lang="zh">AFL</title>
-    <desc>Action from the Australian Football League.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919200000 +0000" stop="20260919221500 +0000">
-    <title lang="zh">Live: NWSL</title>
-    <desc>Orlando Pride v Portland Thorns (Kick-off 9.00pm). Coverage of the match from Inter&amp;Co Stadium in Orlando.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919221500 +0000" stop="20260919223000 +0000">
-    <title lang="zh">TNT Sports Reload</title>
-    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919223000 +0000" stop="20260919230000 +0000">
-    <title lang="zh">MotoGP</title>
-    <desc>Action from the 2026 MotoGP Grand Prix of Austria sprint race.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.tnt2" start="20260919230000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">Live MLB</title>
-    <desc>Texas Rangers v Toronto Blue Jays (Start-time 12.05am). Coverage of the American League match from Globe Life Field in Arlington.</desc>
-    <date>2026-09-19</date>
   </programme>
   <programme channel="mastro.tnt3" start="20260918000000 +0000" stop="20260918003000 +0000">
     <title lang="zh">UEFA Europa League</title>
