@@ -42,6 +42,7 @@ Access live EPG feeds directly via ultra-fast global CDN edge servers:
 | Feed Name | Direct Edge CDN URL | Raw GitHub URL |
 | :--- | :--- | :--- |
 | **`epg.xml`** | `https://cdn.jsdelivr.net/gh/mastrolive/my-epg@main/epg.xml` | `https://raw.githubusercontent.com/mastrolive/my-epg/main/epg.xml` |
+| **`epg2.xml`** | `https://cdn.jsdelivr.net/gh/mastrolive/my-epg@main/epg2.xml` | `https://raw.githubusercontent.com/mastrolive/my-epg/main/epg2.xml` |
 | **`my.xml`** | `https://cdn.jsdelivr.net/gh/mastrolive/my-epg@main/my.xml` | `https://raw.githubusercontent.com/mastrolive/my-epg/main/my.xml` |
 | **`id.xml`** | `https://cdn.jsdelivr.net/gh/mastrolive/my-epg@main/id.xml` | `https://raw.githubusercontent.com/mastrolive/my-epg/main/id.xml` |
 | **`utv.xml`** | `https://cdn.jsdelivr.net/gh/mastrolive/my-epg@main/utv.xml` | `https://raw.githubusercontent.com/mastrolive/my-epg/main/utv.xml` |
