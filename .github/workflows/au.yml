@@ -2,8 +2,6 @@ name: Update EPG (AU)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Boleh aktifkan jadual harian jika perlu
 
 jobs:
   update-epg:
