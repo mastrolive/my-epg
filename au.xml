@@ -4649,10 +4649,976 @@
       <value>NR</value>
     </rating>
   </programme>
-  <channel id="mastro.rallytv">
-    <display-name lang="en">Rally TV</display-name>
-    <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
-    <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
-    <url>http://www.rally.tv</url>
+  <channel id="mastro.skysportsf1">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1 HD</display-name>
   </channel>
+  <programme channel="mastro.skysportsf1" start="20260917000000 +0000" stop="20260917002500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917002500 +0000" stop="20260917010000 +0000">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06c1779b-1c80-432f-833a-7643c26905a4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917010000 +0000" stop="20260917011500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917011500 +0000" stop="20260917020000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917020000 +0000" stop="20260917023000 +0000">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92dba463-7123-4a4a-b6bd-22c66d64a2af/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917023000 +0000" stop="20260917030000 +0000">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/472e3c77-a04f-4c89-b4fa-ea92d1998b92/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917030000 +0000" stop="20260917031500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917031500 +0000" stop="20260917040000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917040000 +0000" stop="20260917042500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917042500 +0000" stop="20260917050000 +0000">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06c1779b-1c80-432f-833a-7643c26905a4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917050000 +0000" stop="20260917060000 +0000">
+    <title lang="en">Best of F1 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f1752049-ff72-3a4a-ad86-3f7c1b615c7a/16-9" />
+    <episode-num system="onscreen">10</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917060000 +0000" stop="20260917070000 +0000">
+    <title lang="en">Best of F1 2023</title>
+    <desc lang="en">After taking Sprint victory, Max Verstappen starts from sixth for the 2023 United States Grand Prix. Charles Leclerc and Lando Norris are on the front row with Lewis Hamilton third. (22.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/70fbe88a-201b-331a-9a56-d8eaf665be9e/16-9" />
+    <episode-num system="onscreen">10</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917070000 +0000" stop="20260917080000 +0000">
+    <title lang="en">Best of F1 2023</title>
+    <desc lang="en">On race day at Interlagos, it's lights out for the Sao Paulo Grand Prix. Yesterday's Sprint winner Max Verstappen starts from pole and is joined by Charles Leclerc on the front row. (05.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8c2ea6fc-dfed-3779-a709-47ffdf58a156/16-9" />
+    <episode-num system="onscreen">11</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917080000 +0000" stop="20260917090000 +0000">
+    <title lang="en">Ginetta Junior Champ Hlts</title>
+    <desc lang="en">One of the UK's longest-running and most-prestigious junior series continues in 2026, with the seventh meet of the campaign at Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e95a9696-dc82-4510-98a7-8c52fced3eff/16-9" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917090000 +0000" stop="20260917100000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917100000 +0000" stop="20260917103000 +0000">
+    <title lang="en">Ted's Notebook: Spain</title>
+    <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/16-9" />
+    <episode-num system="xmltv_ns">.282.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917103000 +0000" stop="20260917121000 +0000">
+    <title lang="en">Spanish F2: Feature Race</title>
+    <desc lang="en">The FIA F2 Championship concludes its weekend at the Madring with a Feature Race. Dino Beganovic leads from the front, with Alexander Dunne and Rafael Câmara rounding out the top three.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c511f71f-83aa-4cf4-80d8-f0947f08fbeb/16-9" />
+    <episode-num system="xmltv_ns">.43.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917121000 +0000" stop="20260917143000 +0000">
+    <title lang="en">Spanish F1 Grand Prix</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917143000 +0000" stop="20260917150000 +0000">
+    <title lang="en">Ted's Notebook: Spain</title>
+    <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/16-9" />
+    <episode-num system="xmltv_ns">.282.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917150000 +0000" stop="20260917161500 +0000">
+    <title lang="en">Spanish F3: Feature Race</title>
+    <desc lang="en">The 2026 season of Formula 3 racing comes to an end in the Spanish capital with the weekend's second Feature Race as the drivers' championship hangs in the balance.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9a8fe67c-0302-40ab-ba78-91f870314e50/16-9" />
+    <episode-num system="xmltv_ns">.39.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917161500 +0000" stop="20260917175500 +0000">
+    <title lang="en">Spanish F2: Feature Race</title>
+    <desc lang="en">The FIA F2 Championship concludes its weekend at the Madring with a Feature Race. Dino Beganovic leads from the front, with Alexander Dunne and Rafael Câmara rounding out the top three.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c511f71f-83aa-4cf4-80d8-f0947f08fbeb/16-9" />
+    <episode-num system="xmltv_ns">.43.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917175500 +0000" stop="20260917180000 +0000">
+    <title lang="en">Strange F1 Race Absences</title>
+    <desc lang="en">Sky F1 commentator Harry Benjamin examines strange absences that have caused F1 drivers to miss races.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92fff8cd-e625-452f-9496-8908332bc53a/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917180000 +0000" stop="20260917190000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917190000 +0000" stop="20260917212000 +0000">
+    <title lang="en">Spanish F1 Grand Prix</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917212000 +0000" stop="20260917215000 +0000">
+    <title lang="en">Ted's Notebook: Spain</title>
+    <desc lang="en">Ted Kravitz is live following the Spanish Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fd561647-9178-4a6c-9c01-4a15ede1822a/16-9" />
+    <episode-num system="xmltv_ns">.282.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917215000 +0000" stop="20260917220000 +0000">
+    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
+    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917220000 +0000" stop="20260917230000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260917230000 +0000" stop="20260918000000 +0000">
+    <title lang="en">Indycar Highlights</title>
+    <desc lang="en">The 2026 season of the NTT IndyCar Series reaches its climax at WeatherTech Raceway Laguna Seca with the Grand Prix of Monterey. (06.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/66af2ee7-7273-4f27-8e14-fcc333996a3b/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918000000 +0000" stop="20260918010000 +0000">
+    <title lang="en">F1 Explained...</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64db3d65-ede9-4639-9467-6de48715f5b7/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918010000 +0000" stop="20260918012500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918012500 +0000" stop="20260918020000 +0000">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06c1779b-1c80-432f-833a-7643c26905a4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918020000 +0000" stop="20260918021500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918021500 +0000" stop="20260918030000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918030000 +0000" stop="20260918033000 +0000">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92dba463-7123-4a4a-b6bd-22c66d64a2af/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918033000 +0000" stop="20260918040000 +0000">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/472e3c77-a04f-4c89-b4fa-ea92d1998b92/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918040000 +0000" stop="20260918043000 +0000">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0eb60a1a-c17f-4c5c-ad37-80fd874c18dd/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918043000 +0000" stop="20260918050000 +0000">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3a494020-7472-40c5-870d-9e9ab33b29d0/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918050000 +0000" stop="20260918053000 +0000">
+    <title lang="en">Weekend Wrapped</title>
+    <desc lang="en">Revisit the fifth F1 Academy weekend of the 2026 season with a recap of all the racing from Zandvoort.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7bf040f7-7160-4f03-ba1b-a170c95c1598/16-9" />
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918053000 +0000" stop="20260918063000 +0000">
+    <title lang="en">British Kart Champs Highlights</title>
+    <desc lang="en">Eighth-round highlights from the 2026 season of the British Kart Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dbfdc2f6-aebf-470a-84b1-6ae1328bed72/16-9" />
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918063000 +0000" stop="20260918073000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918073000 +0000" stop="20260918074500 +0000">
+    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
+    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918074500 +0000" stop="20260918075000 +0000">
+    <title lang="en">Strange F1 Race Absences</title>
+    <desc lang="en">Sky F1 commentator Harry Benjamin examines strange absences that have caused F1 drivers to miss races.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92fff8cd-e625-452f-9496-8908332bc53a/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918075000 +0000" stop="20260918184500 +0000">
+    <title lang="en">Live Goodwood Revival 2026</title>
+    <desc lang="en">Day one of the 2026 Goodwood Revival, promising wheel-to-wheel racing featuring iconic cars driven by legendary drivers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35652760-108c-49ab-9deb-2330a92e4890/16-9" />
+    <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918184500 +0000" stop="20260918190000 +0000">
+    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
+    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918190000 +0000" stop="20260918200000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918200000 +0000" stop="20260918210000 +0000">
+    <title lang="en">Ginetta Junior Champ Hlts</title>
+    <desc lang="en">One of the UK's longest-running and most-prestigious junior series continues in 2026, with the seventh meet of the campaign at Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e95a9696-dc82-4510-98a7-8c52fced3eff/16-9" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918210000 +0000" stop="20260918220000 +0000">
+    <title lang="en">British GB3 Highlights</title>
+    <desc lang="en">Highlights from the sixth stop on the 2026 GB3 Championship calendar from Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36a6eb46-5c42-4e5a-8ac9-5879a62193b7/16-9" />
+    <episode-num system="xmltv_ns">.8.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918220000 +0000" stop="20260918230000 +0000">
+    <title lang="en">British GT Highlights</title>
+    <desc lang="en">With round seven of the 2026 British GT Championship emanating from Derby, catch up on the racing at Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/48e5a565-9735-469a-8177-66708de5b27b/16-9" />
+    <episode-num system="xmltv_ns">.9.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260918230000 +0000" stop="20260919000000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919000000 +0000" stop="20260919002500 +0000">
+    <title lang="en">The Best of The Dutch GP 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Dutch Grand Prix in Zandvoort.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cb994b3a-5b54-4d8b-931e-ad8980b17156/16-9" />
+    <episode-num system="xmltv_ns">.126.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919002500 +0000" stop="20260919010000 +0000">
+    <title lang="en">The Best of Italy 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Italian Grand Prix at Monza.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/74d2577a-f934-4656-a4ba-129f7b85bdf2/16-9" />
+    <episode-num system="xmltv_ns">.135.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919010000 +0000" stop="20260919011500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919011500 +0000" stop="20260919020000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919020000 +0000" stop="20260919023000 +0000">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92dba463-7123-4a4a-b6bd-22c66d64a2af/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919023000 +0000" stop="20260919030000 +0000">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/472e3c77-a04f-4c89-b4fa-ea92d1998b92/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919030000 +0000" stop="20260919031500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919031500 +0000" stop="20260919040000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919040000 +0000" stop="20260919042500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919042500 +0000" stop="20260919050000 +0000">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06c1779b-1c80-432f-833a-7643c26905a4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919050000 +0000" stop="20260919053000 +0000">
+    <title lang="en">Ferrari Challenge UK Highlights</title>
+    <desc lang="en">Catch up on the highlights from the Brands Hatch stop on the 2026 calendar of the Ferrari Challenge UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/39788161-3e4b-40c6-969b-efbee48a5135/16-9" />
+    <episode-num system="xmltv_ns">.32.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919053000 +0000" stop="20260919063000 +0000">
+    <title lang="en">Ferrari Challenge Europe Highlights</title>
+    <desc lang="en">Highlights from the sixth round of the 2026 Ferrari Challenge campaign as the racing continued in the Hungarian capital of Budapest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fadbe3eb-fe2c-42c4-9940-78258cf355e8/16-9" />
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919063000 +0000" stop="20260919073000 +0000">
+    <title lang="en">Ginetta Junior Champ Hlts</title>
+    <desc lang="en">One of the UK's longest-running and most-prestigious junior series continues in 2026, with the seventh meet of the campaign at Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e95a9696-dc82-4510-98a7-8c52fced3eff/16-9" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919073000 +0000" stop="20260919073500 +0000">
+    <title lang="en">McLaren's 1000th GP</title>
+    <desc lang="en">Sky F1's Natalie Pinkham celebrates McLaren's 1000th grand prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c2877cc7-8bd5-4938-b7a8-a6d0839617c6/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919073500 +0000" stop="20260919173000 +0000">
+    <title lang="en">Live Goodwood Revival 2026</title>
+    <desc lang="en">Day two of the 2026 Goodwood Revival, promising wheel-to-wheel racing featuring iconic cars driven by legendary drivers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9dc75e5b-8acd-4be8-a741-36f62da07c86/16-9" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919173000 +0000" stop="20260919192000 +0000">
+    <title lang="en">GTWC Europe: Zandvoort Race 1</title>
+    <desc lang="en">On a Sprint Cup weekend at Zandvoort in the Netherlands, the opening GT World Challenge Europe race gets underway.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/66002e08-68b5-47b0-86b7-2acc3eeb89fe/16-9" />
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919192000 +0000" stop="20260919193000 +0000">
+    <title lang="en">Martin Brundle with Lando Norris</title>
+    <desc lang="en">Sky F1's Martin Brundle joins the reigning Formula 1 world champion Lando Norris for an extended, two-part chat. (1 of.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d4531689-e61e-4eac-9820-c6dbf95a3466/16-9" />
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919193000 +0000" stop="20260919200000 +0000">
+    <title lang="en">Ferrari Challenge UK Highlights</title>
+    <desc lang="en">Catch up on the highlights from the Brands Hatch stop on the 2026 calendar of the Ferrari Challenge UK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/39788161-3e4b-40c6-969b-efbee48a5135/16-9" />
+    <episode-num system="xmltv_ns">.32.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919200000 +0000" stop="20260919210000 +0000">
+    <title lang="en">Ferrari Challenge Europe Highlights</title>
+    <desc lang="en">Highlights from the sixth round of the 2026 Ferrari Challenge campaign as the racing continued in the Hungarian capital of Budapest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fadbe3eb-fe2c-42c4-9940-78258cf355e8/16-9" />
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919210000 +0000" stop="20260919220000 +0000">
+    <title lang="en">Spanish F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/738c74fa-a34c-46d6-ae19-ad346f9a1dad/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919220000 +0000" stop="20260919235000 +0000">
+    <title lang="en">GTWC Europe: Zandvoort Race</title>
+    <desc lang="en">On a Sprint Cup weekend at Zandvoort in the Netherlands, the opening GT World Challenge Europe race gets underway.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/66002e08-68b5-47b0-86b7-2acc3eeb89fe/16-9" />
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260919235000 +0000" stop="20260920000000 +0000">
+    <title lang="en">Crofty Hot Laps with Franc Colapin</title>
+    <desc lang="en">Sky F1 commentator Crofty joins Alpine's Franco Colapinto for some hot laps.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/720ec65e-887d-4bc2-a550-dac626a89d95/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920000000 +0000" stop="20260920010000 +0000">
+    <title lang="en">F1 Explained...</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64db3d65-ede9-4639-9467-6de48715f5b7/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920010000 +0000" stop="20260920012500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920012500 +0000" stop="20260920020000 +0000">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06c1779b-1c80-432f-833a-7643c26905a4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920020000 +0000" stop="20260920021500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920021500 +0000" stop="20260920030000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920030000 +0000" stop="20260920033000 +0000">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92dba463-7123-4a4a-b6bd-22c66d64a2af/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920033000 +0000" stop="20260920040000 +0000">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/472e3c77-a04f-4c89-b4fa-ea92d1998b92/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920040000 +0000" stop="20260920043000 +0000">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0eb60a1a-c17f-4c5c-ad37-80fd874c18dd/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920043000 +0000" stop="20260920050000 +0000">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3a494020-7472-40c5-870d-9e9ab33b29d0/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920050000 +0000" stop="20260920052000 +0000">
+    <title lang="en">Chasing The Dream</title>
+    <desc lang="en">Step behind the scenes of Formula 2 in this captivating series. Here, a look at all the action from the Spanish capital of Madrid.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4eab6115-575b-40b6-abc4-cfa5912757da/16-9" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920052000 +0000" stop="20260920053000 +0000">
+    <title lang="en">Crofty Hot Laps with Franc Colapin</title>
+    <desc lang="en">Sky F1 commentator Crofty joins Alpine's Franco Colapinto for some hot laps.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/720ec65e-887d-4bc2-a550-dac626a89d95/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920053000 +0000" stop="20260920063000 +0000">
+    <title lang="en">British GB3 Highlights</title>
+    <desc lang="en">Highlights from the sixth stop on the 2026 GB3 Championship calendar from Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36a6eb46-5c42-4e5a-8ac9-5879a62193b7/16-9" />
+    <episode-num system="xmltv_ns">.8.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920063000 +0000" stop="20260920073000 +0000">
+    <title lang="en">British GT Highlights</title>
+    <desc lang="en">With round seven of the 2026 British GT Championship emanating from Derby, catch up on the racing at Donington Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/48e5a565-9735-469a-8177-66708de5b27b/16-9" />
+    <episode-num system="xmltv_ns">.9.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920073000 +0000" stop="20260920074500 +0000">
+    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
+    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920074500 +0000" stop="20260920075000 +0000">
+    <title lang="en">Liam Lawson IV</title>
+    <desc lang="en">Lightning McQueen superfan Liam Lawson is quizzed on the classic Pixar character.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/55075dc2-a34c-4110-9366-86e715cafa6d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920075000 +0000" stop="20260920162000 +0000">
+    <title lang="en">Live Goodwood Revival 2026</title>
+    <desc lang="en">Day three of the 2026 Goodwood Revival, promising wheel-to-wheel racing featuring iconic cars driven by legendary drivers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ff493144-d4ec-4e3a-a6e5-a2d2cf634beb/16-9" />
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920162000 +0000" stop="20260920163000 +0000">
+    <title lang="en">Ferrari at Home in Monza</title>
+    <desc lang="en">With the Tifosi set to deck out the grandstands of the Temple of Speed, take a look at Ferrari and their home grand prix at Monza.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/913e84c8-a480-4d5d-9019-c8f6cc1bf67b/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920163000 +0000" stop="20260920181500 +0000">
+    <title lang="en">GTWC Europe: Zandvoort Race 2</title>
+    <desc lang="en">On a Sprint Cup weekend at Zandvoort in the Netherlands, the GT World Challenge Europe racing continues with race two.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d6ec76bd-7a9c-4d13-91c7-2cac31d507c9/16-9" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920181500 +0000" stop="20260920182000 +0000">
+    <title lang="en">Drifting with Conor Shanahan</title>
+    <desc lang="en">Sky F1's Bernie Collins goes drifting with Red Bull star Conor Shanahan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1cdb5b33-6126-4292-b797-c0364198ddef/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920182000 +0000" stop="20260920183000 +0000">
+    <title lang="en">Naomi with Alex &amp; Carlos</title>
+    <desc lang="en">Sky F1's Naomi Schiff sits down with Williams F1 drivers Alex Albon and Carlos Sainz.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/21519c76-15fa-41c9-9dde-ef2ef4ba64b5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920183000 +0000" stop="20260920205000 +0000">
+    <title lang="en">Spanish F1 Grand Prix</title>
+    <desc lang="en">It's lights out for the Spanish Grand Prix, taking place at the brand-new Madring. Lando Norris starts from pole with Kimi Antonelli joining the Brit on the front row. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35d6c533-c228-4e35-91dd-7c4cbf067d81/16-9" />
+    <episode-num system="onscreen">09</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920205000 +0000" stop="20260920210000 +0000">
+    <title lang="en">Martin Brundle with Lando Norris</title>
+    <desc lang="en">Sky F1's Martin Brundle joins the reigning Formula 1 world champion Lando Norris for an extended, two-part chat. (1 of.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d4531689-e61e-4eac-9820-c6dbf95a3466/16-9" />
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920210000 +0000" stop="20260920220000 +0000">
+    <title lang="en">Ferrari Challenge Europe Highlights</title>
+    <desc lang="en">Highlights from the sixth round of the 2026 Ferrari Challenge campaign as the racing continued in the Hungarian capital of Budapest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fadbe3eb-fe2c-42c4-9940-78258cf355e8/16-9" />
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme channel="mastro.skysportsf1" start="20260920220000 +0000" stop="20260920234500 +0000">
+    <title lang="en">GTWC Europe: Zandvoort Race</title>
+    <desc lang="en">On a Sprint Cup weekend at Zandvoort in the Netherlands, the GT World Challenge Europe racing continues with race two.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d6ec76bd-7a9c-4d13-91c7-2cac31d507c9/16-9" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
 </tv>
