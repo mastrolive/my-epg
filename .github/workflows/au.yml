@@ -17,13 +17,13 @@ jobs:
 
       - name: Download, Filter & Update EPG
         run: |
-          # Muat turun kedua-dua sumber EPG
+          # Muat turun sumber EPG Australia & UK
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o au.xml.gz
-          curl -L "https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz" -o rally.xml.gz
+          curl -L "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" -o uk.xml.gz
           
           # Ekstrak fail gzip
           gunzip -c au.xml.gz > source_au.xml
-          gunzip -c rally.xml.gz > source_rally.xml
+          gunzip -c uk.xml.gz > source_uk.xml
           
           python3 -c '
           import xml.etree.ElementTree as ET
@@ -32,14 +32,14 @@ jobs:
               "beINSports1.au": "mastro.beinsports1au",
               "beINSports2.au": "mastro.beinsports2au",
               "beINSports3.au": "mastro.beinsports3au",
-              "Rally.TV.de": "mastro.rallytv"
+              "SkySp.F1.HD.uk": "mastro.skysportsf1"
           }
 
-          # Cipta elemen punca (root element) baharu untuk au.xml
+          # Cipta elemen punca (root element) baharu
           new_root = ET.Element("tv", {"generator-info-name": "MastroTV EPG Tool"})
 
           # Senarai fail sumber untuk diproses
-          sources = ["source_au.xml", "source_rally.xml"]
+          sources = ["source_au.xml", "source_uk.xml"]
 
           for src in sources:
               try:
@@ -66,7 +66,7 @@ jobs:
           '
 
           # Bersihkan fail sementara
-          rm -f au.xml.gz rally.xml.gz source_au.xml source_rally.xml
+          rm -f au.xml.gz uk.xml.gz source_au.xml source_uk.xml
 
       - name: Commit and Push Changes
         run: |
