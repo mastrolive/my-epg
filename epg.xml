@@ -133,8 +133,8 @@
     <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018011443588338_92.png" />
   </channel>
   <channel id="mastro.premierleague2">
-    <display-name lang="Malaysia">Astro Premier League</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018011443588338_92.png" />
+    <display-name lang="Malaysia">Astro Premier League 2</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018013047543202_17.png" />
   </channel>
   <channel id="mastro.aura">
     <display-name lang="Malaysia">Astro Aura HD</display-name>
@@ -13181,215 +13181,340 @@
     <desc>Premier League 2026/27: Match Week 5: Fulham vs Manchester United, from Craven Cottage.</desc>
     <date>2026-09-20</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919001000 +0000" stop="20260919004000 +0000">
-    <title lang="zh">Fantasy Show 2025/26: Week 6</title>
-    <desc>Haaland or Ekitike? Saka or Palmer? Cunha or Joao Pedro? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+  <programme channel="mastro.premierleague2" start="20260919000000 +0000" stop="20260919010000 +0000">
+    <title lang="zh">PL Moments: Ep06: Dimitar Berbatov Ep06</title>
+    <desc>As far as cult heroes go, few are as beloved as Dimitar Berbatov. In a seven-year Premier League career, the Bulgarian set the league alight with his grace and elegance with the ball at this feet.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919004000 +0000" stop="20260919011000 +0000">
-    <title lang="zh">PL Preview 2026/27: Week 5</title>
-    <desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  <programme channel="mastro.premierleague2" start="20260919010000 +0000" stop="20260919020000 +0000">
+    <title lang="zh">Team Talks</title>
+    <desc>Punditry, pressers and predictions ahead of the PL weekend.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919011000 +0000" stop="20260919032000 +0000">
-    <title lang="zh">PL: Brentford vs Chelsea</title>
-    <desc>Premier League 2026/27: Match Week 5: Brentford vs Chelsea, from Gtech Community Stadium.</desc>
+  <programme channel="mastro.premierleague2" start="20260919020000 +0000" stop="20260919023000 +0000">
+    <title lang="zh">PL Stories: Ep16: John Stones Ep16</title>
+    <desc>John Stones has experienced almost everything the game can offer; from the pressure of the biggest stage to the injuries and setbacks that have tested him along the way.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919032000 +0000" stop="20260919035000 +0000">
-    <title lang="zh">Fantasy Show 2025/26: Week 6</title>
-    <desc>Haaland or Ekitike? Saka or Palmer? Cunha or Joao Pedro? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919035000 +0000" stop="20260919065000 +0000">
-    <title lang="zh">PL: Man Utd vs Man City</title>
-    <desc>Premier League 2026/27: Match Week 4: Manchester United vs Manchester City, from Old Trafford.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919065000 +0000" stop="20260919072000 +0000">
-    <title lang="zh">PL Preview 2026/27: Week 5</title>
-    <desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919072000 +0000" stop="20260919075000 +0000">
-    <title lang="zh">Fantasy Show 2025/26: Week 6</title>
-    <desc>Haaland or Ekitike? Saka or Palmer? Cunha or Joao Pedro? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919075000 +0000" stop="20260919100000 +0000">
-    <title lang="zh">PL: Brentford vs Chelsea</title>
-    <desc>Premier League 2026/27: Match Week 5: Brentford vs Chelsea, from Gtech Community Stadium.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919100000 +0000" stop="20260919103000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: BRE vs CHE</title>
+  <programme channel="mastro.premierleague2" start="20260919023000 +0000" stop="20260919030000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Bre Vs Che</title>
     <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919103000 +0000" stop="20260919110000 +0000">
-    <title lang="zh">PL Preview 2026/27: Week 5</title>
-    <desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  <programme channel="mastro.premierleague2" start="20260919030000 +0000" stop="20260919033000 +0000">
+    <title lang="zh">Preview</title>
+    <desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919110000 +0000" stop="20260919113000 +0000">
-    <title lang="zh">(L) Preshow</title>
-    <desc>LIVE: Catch team arrivals, pre-match interviews, player warm-ups, team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
+  <programme channel="mastro.premierleague2" start="20260919033000 +0000" stop="20260919040000 +0000">
+    <title lang="zh">Classic Match: Bha Vs Ars</title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919113000 +0000" stop="20260919133000 +0000">
-    <title lang="zh">(L) PL: Tottenham vs Aston Villa</title>
-    <desc>LIVE: Premier League 2026/27: Match Week 5: Tottenham Hotspur vs Aston Villa, from Tottenham Hotspur Stadium.</desc>
+  <programme channel="mastro.premierleague2" start="20260919040000 +0000" stop="20260919043000 +0000">
+    <title lang="zh">The Big Interview: Ep05</title>
+    <desc>Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919133000 +0000" stop="20260919134500 +0000">
-    <title lang="zh">(L) Postshow</title>
-    <desc>LIVE: Catch team after match interviews, player team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
+  <programme channel="mastro.premierleague2" start="20260919043000 +0000" stop="20260919050000 +0000">
+    <title lang="zh">PL Stories: Ep02: Pochettino's Spurs Ep02</title>
+    <desc>Ahead of the World Cup, we revisit the rise of current USA manager Mauricio Pochettino's unforgettable Tottenham Hotspur side; the team that transformed Spurs into genuine challengers.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919134500 +0000" stop="20260919140000 +0000">
-    <title lang="zh">(L) Preshow</title>
-    <desc>LIVE: Catch team arrivals, pre-match interviews, player warm-ups, team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
+  <programme channel="mastro.premierleague2" start="20260919050000 +0000" stop="20260919060000 +0000">
+    <title lang="zh">Team Talks</title>
+    <desc>Punditry, pressers and predictions ahead of the PL weekend.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919140000 +0000" stop="20260919160000 +0000">
-    <title lang="zh">(L) PL: Brighton vs Arsenal</title>
-    <desc>LIVE: Premier League 2026/27: Match Week 5: Brighton and Hove Albion vs Arsenal, from American Express Stadium.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919160000 +0000" stop="20260919163000 +0000">
-    <title lang="zh">(L) Postshow</title>
-    <desc>LIVE: Catch team after match interviews, player team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919163000 +0000" stop="20260919170000 +0000">
-    <title lang="zh">PL Preview 2026/27: Week 5</title>
-    <desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919170000 +0000" stop="20260919195000 +0000">
-    <title lang="zh">PL: Liverpool vs Fulham</title>
-    <desc>Premier League 2026/27: Match Week 4: Liverpool vs Fulham, from Anfield.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919195000 +0000" stop="20260919221000 +0000">
-    <title lang="zh">PL: Chelsea vs Hull City</title>
-    <desc>Premier League 2026/27: Match Week 4: Chelsea vs Hull City, from Stamford Bridge.</desc>
-    <date>2026-09-19</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260919221000 +0000" stop="20260919225000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: BRE vs CHE</title>
+  <programme channel="mastro.premierleague2" start="20260919060000 +0000" stop="20260919063000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Bre Vs Che</title>
     <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260919225000 +0000" stop="20260920000000 +0000">
-    <title lang="zh">(D) PL: Everton vs Ipswich</title>
-    <desc>Premier League 2026/27: Match Week 5: Everton vs Ipswich Town, from Hill Dickinson Stadium.</desc>
+  <programme channel="mastro.premierleague2" start="20260919063000 +0000" stop="20260919070000 +0000">
+    <title lang="zh">Preview</title>
+    <desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
     <date>2026-09-19</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260920010000 +0000" stop="20260920035000 +0000">
-    <title lang="zh">PL: Tottenham vs Aston Villa</title>
-    <desc>Premier League 2026/27: Match Week 5: Tottenham Hotspur vs Aston Villa, from Tottenham Hotspur Stadium.</desc>
+  <programme channel="mastro.premierleague2" start="20260919070000 +0000" stop="20260919073000 +0000">
+    <title lang="zh">PL Stories: Ep16: John Stones Ep16</title>
+    <desc>John Stones has experienced almost everything the game can offer; from the pressure of the biggest stage to the injuries and setbacks that have tested him along the way.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919073000 +0000" stop="20260919080000 +0000">
+    <title lang="zh">The Big Interview: Ep05</title>
+    <desc>Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919080000 +0000" stop="20260919083000 +0000">
+    <title lang="zh">Classic Match: Bha Vs Ars</title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919083000 +0000" stop="20260919093000 +0000">
+    <title lang="zh">Team Talks</title>
+    <desc>Punditry, pressers and predictions ahead of the PL weekend.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919093000 +0000" stop="20260919100000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Bre Vs Che</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919100000 +0000" stop="20260919123000 +0000">
+    <title lang="zh">Premier League 2026/27: Match Week 2: Chelsea vs Brighton and Hove Albion</title>
+    <desc>Premier League 2026/27: Match Week 2: Chelsea vs Brighton and Hove Albion, Stamford Bridge, London, England.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919123000 +0000" stop="20260919130000 +0000">
+    <title lang="zh">PL Stories 2026/27: Coventry Rising</title>
+    <desc>We follow Coventry City as they prepare for a long-awaited return to the Premier League, ending a 25-year absence from English football's top flight.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919130000 +0000" stop="20260919135000 +0000">
+    <title lang="zh">PLTV: 1-To-11 2026/27 Ep.2 (8/9)</title>
+    <desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919135000 +0000" stop="20260919160000 +0000">
+    <title lang="zh">(L) PL: Newcastle vs Hull City</title>
+    <desc>LIVE: Premier League 2026/27: Match Week 5: Newcastle United vs Hull City, from St James' Park, Newcastle upon Tyne, England.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919160000 +0000" stop="20260919162000 +0000">
+    <title lang="zh">PL Stories 2026/27: Pep - the Legacy</title>
+    <desc>As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919162000 +0000" stop="20260919183000 +0000">
+    <title lang="zh">(L) PL: Nottingham vs Coventry</title>
+    <desc>LIVE: Premier League 2026/27: Match Week 5: Nottingham Forest vs Coventry City, from City Ground, Nottingham, England.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919183000 +0000" stop="20260919190000 +0000">
+    <title lang="zh">PL Stories 2026/27: Petr Cech</title>
+    <desc>PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919190000 +0000" stop="20260919200000 +0000">
+    <title lang="zh">The Saturday Wrap</title>
+    <desc>A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919200000 +0000" stop="20260919203000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Tot Vs Avl</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919203000 +0000" stop="20260919210000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Bha Vs Ars</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919210000 +0000" stop="20260919213000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Mci Vs Sun</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919213000 +0000" stop="20260919220000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: New Vs Hul</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919220000 +0000" stop="20260919223000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Eve Vs Ips</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919223000 +0000" stop="20260919230000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Lee Vs Cry</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919230000 +0000" stop="20260919233000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Nfo Vs Cov</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260919233000 +0000" stop="20260920000000 +0000">
+    <title lang="zh">The Saturday Wrap</title>
+    <desc>A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <date>2026-09-19</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920003000 +0000" stop="20260920010000 +0000">
+    <title lang="zh">Classic Match: Bou Vs Liv</title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2016/2017 season.</desc>
     <date>2026-09-20</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260920035000 +0000" stop="20260920064000 +0000">
-    <title lang="zh">PL: Brighton vs Arsenal</title>
-    <desc>Premier League 2026/27: Match Week 5: Brighton and Hove Albion vs Arsenal, from American Express Stadium.</desc>
+  <programme channel="mastro.premierleague2" start="20260920010000 +0000" stop="20260920013000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Tot Vs Avl</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <date>2026-09-20</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260920064000 +0000" stop="20260920085000 +0000">
-    <title lang="zh">(D) PL: Newcastle vs Hull</title>
-    <desc>Premier League 2026/27: Match Week 5: Newcastle United vs Hull City, from St. James' Park.</desc>
+  <programme channel="mastro.premierleague2" start="20260920013000 +0000" stop="20260920020000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Bha Vs Ars</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <date>2026-09-20</date>
   </programme>
-  <programme channel="mastro.premierleague2" start="20260920085000 +0000" stop="20260920110000 +0000">
-    <title lang="zh">(D) PL: Nottm Forest vs Coventry</title>
-    <desc>Premier League 2026/27: Match Week 5: Nottingham Forest vs Coventry City, from The City Ground.</desc>
+  <programme channel="mastro.premierleague2" start="20260920020000 +0000" stop="20260920023000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Mci Vs Sun</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920023000 +0000" stop="20260920030000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: New Vs Hul</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920030000 +0000" stop="20260920033000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Eve Vs Ips</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920033000 +0000" stop="20260920040000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Lee Vs Cry</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920040000 +0000" stop="20260920043000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Nfo Vs Cov</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920043000 +0000" stop="20260920053000 +0000">
+    <title lang="zh">The Saturday Wrap</title>
+    <desc>A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920053000 +0000" stop="20260920060000 +0000">
+    <title lang="zh">Classic Match: Ful Vs Mun</title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2011/2012 season.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920060000 +0000" stop="20260920063000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Tot Vs Avl</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920063000 +0000" stop="20260920070000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Bha Vs Ars</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920070000 +0000" stop="20260920073000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Mci Vs Sun</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920073000 +0000" stop="20260920080000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: New Vs Hul</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920080000 +0000" stop="20260920083000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Eve Vs Ips</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920083000 +0000" stop="20260920090000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Lee Vs Cry</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920090000 +0000" stop="20260920093000 +0000">
+    <title lang="zh">Match Hls 26/27: MW05: Nfo Vs Cov</title>
+    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920093000 +0000" stop="20260920103000 +0000">
+    <title lang="zh">The Saturday Wrap</title>
+    <desc>A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920103000 +0000" stop="20260920110000 +0000">
+    <title lang="zh">Classic Match: Bou Vs Liv</title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2016/2017 season.</desc>
     <date>2026-09-20</date>
   </programme>
   <programme channel="mastro.premierleague2" start="20260920110000 +0000" stop="20260920113000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: TOT vs AVL</title>
-    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920113000 +0000" stop="20260920120000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: BHA vs ARS</title>
-    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920120000 +0000" stop="20260920123000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: EVE vs IPS</title>
-    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920123000 +0000" stop="20260920130000 +0000">
-    <title lang="zh">(L) Preshow</title>
-    <desc>LIVE: Catch team arrivals, pre-match interviews, player warm-ups, team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920130000 +0000" stop="20260920150000 +0000">
-    <title lang="zh">(L) PL: Bournemouth vs Liverpool</title>
-    <desc>LIVE: Premier League 2026/27: Match Week 5: Bournemouth vs Liverpool, from Vitality Stadium.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920150000 +0000" stop="20260920153000 +0000">
-    <title lang="zh">(L) Postshow</title>
-    <desc>LIVE: Catch team after match interviews, player team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920153000 +0000" stop="20260920154000 +0000">
-    <title lang="zh">Ben &amp; Son Bola Tepuk</title>
-    <desc>Tottenham Hotspur stars Son Heung-min and Ben Davies face off in a traditional Malaysian game of Bola Tepuk! Host Adam C guides them through the crazy rules, testing their agility and strategy on a mini-pi</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920154000 +0000" stop="20260920161000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: NEW vs HUL</title>
-    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920161000 +0000" stop="20260920190000 +0000">
-    <title lang="zh">PL: Brighton vs Arsenal</title>
-    <desc>Premier League 2026/27: Match Week 5: Brighton and Hove Albion vs Arsenal, from American Express Stadium.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920190000 +0000" stop="20260920193000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: NFO vs COV</title>
-    <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920193000 +0000" stop="20260920200000 +0000">
-    <title lang="zh">PL Rewind 2026/27: Yaya Toure: Man City 13/14</title>
-    <desc>Yaya Toure is widely regarded as one of the Premier League's most complete midfielders. He was at the peak of his powers in 2013/14, hitting 20 league goals en route to his second league title.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920200000 +0000" stop="20260920203000 +0000">
-    <title lang="zh">PL Rewind 2026/27: Robbie Fowler</title>
-    <desc>Adored by Liverpool fans around the world, Robbie Fowler is one of the Premier League's all-time greats.</desc>
-    <date>2026-09-20</date>
-  </programme>
-  <programme channel="mastro.premierleague2" start="20260920203000 +0000" stop="20260920210000 +0000">
-    <title lang="zh">PL Stories 2026/27: John Stones</title>
+    <title lang="zh">PL Stories: Ep16: John Stones Ep16</title>
     <desc>John Stones has experienced almost everything the game can offer; from the pressure of the biggest stage to the injuries and setbacks that have tested him along the way.</desc>
     <date>2026-09-20</date>
   </programme>
+  <programme channel="mastro.premierleague2" start="20260920113000 +0000" stop="20260920123000 +0000">
+    <title lang="zh">PLTV: 1-To-11 2026/27 Ep.1 (1/9)</title>
+    <desc>Dion Dublin selects his ultimate Premier League 1 to 11 from the outstanding players he played alongside during his career.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920123000 +0000" stop="20260920125000 +0000">
+    <title lang="zh">PLTV: PL Stories 2026/27</title>
+    <desc>PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920125000 +0000" stop="20260920150000 +0000">
+    <title lang="zh">(L) PL: Man City vs Sunderland</title>
+    <desc>LIVE: Premier League 2026/27: Match Week 5: Manchester City vs Sunderland, from Etihad Stadium, Manchester, England.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920150000 +0000" stop="20260920152000 +0000">
+    <title lang="zh">PL Stories 2026/27: Amad Diallo</title>
+    <desc>PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920152000 +0000" stop="20260920173000 +0000">
+    <title lang="zh">(L) PL: Fulham vs Man Utd</title>
+    <desc>LIVE: Premier League 2026/27: Match Week 5: Fulham vs Manchester United, from Craven Cottage, London, England.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920173000 +0000" stop="20260920180000 +0000">
+    <title lang="zh">PL Stories 2026/27: John Stones</title>
+    <desc>PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920180000 +0000" stop="20260920190000 +0000">
+    <title lang="zh">The Weekend Wrap</title>
+    <desc>The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920190000 +0000" stop="20260920193000 +0000">
+    <title lang="zh">The Big Interview: Ep05</title>
+    <desc>Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920193000 +0000" stop="20260920200000 +0000">
+    <title lang="zh">PL Stories: Ep16: John Stones Ep16</title>
+    <desc>John Stones has experienced almost everything the game can offer; from the pressure of the biggest stage to the injuries and setbacks that have tested him along the way.</desc>
+    <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260920200000 +0000" stop="20260920210000 +0000">
+    <title lang="zh">PL Moments: Ep06: Dimitar Berbatov Ep06</title>
+    <desc>As far as cult heroes go, few are as beloved as Dimitar Berbatov. In a seven-year Premier League career, the Bulgarian set the league alight with his grace and elegance with the ball at this feet.</desc>
+    <date>2026-09-20</date>
+  </programme>
   <programme channel="mastro.premierleague2" start="20260920210000 +0000" stop="20260920220000 +0000">
-    <title lang="zh">PL Moments Ep.9: Gary Cahill</title>
-    <desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+    <title lang="zh">Review: MW05</title>
+    <desc>A comprehensive recap of each match week, delivered within hours of the final fixture of the round.</desc>
     <date>2026-09-20</date>
   </programme>
   <programme channel="mastro.premierleague2" start="20260920220000 +0000" stop="20260920223000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: BRE vs CHE</title>
+    <title lang="zh">Match Hls 26/27: MW05: Bou Vs Liv</title>
     <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <date>2026-09-20</date>
   </programme>
   <programme channel="mastro.premierleague2" start="20260920223000 +0000" stop="20260920230000 +0000">
-    <title lang="zh">Match HL 2026/27: WK5: TOT vs AVL</title>
+    <title lang="zh">Match Hls 26/27: MW05: Ful Vs Mun</title>
     <desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <date>2026-09-20</date>
   </programme>
   <programme channel="mastro.premierleague2" start="20260920230000 +0000" stop="20260921000000 +0000">
-    <title lang="zh">(D) PL: Fulham vs Man Utd</title>
-    <desc>Premier League 2026/27: Match Week 5: Fulham vs Manchester United, from Craven Cottage.</desc>
+    <title lang="zh">The Weekend Wrap</title>
+    <desc>The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
     <date>2026-09-20</date>
+  </programme>
+  <programme channel="mastro.premierleague2" start="20260921000000 +0000" stop="20260922000000 +0000">
+    <title lang="zh">The Weekend Wrap</title>
+    <desc>The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
+    <date>2026-09-21</date>
   </programme>
   <programme channel="mastro.aura" start="20260919003000 +0000" stop="20260919013000 +0000">
     <title lang="zh">Cinta Karena Cinta Ep52</title>
