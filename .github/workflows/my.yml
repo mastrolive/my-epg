@@ -33,7 +33,12 @@ jobs:
               "TravelandTaste": "mastro.traveltaste",
               "OhMyCeria": "mastro.ohmyceria",
               "beINSports4": "mastro.beinsports4",
-              "beINSports5": "mastro.beinsports5"
+              "beINSports5": "mastro.beinsports5",
+              "ASG1": "mastro.asg1",
+              "ASG2": "mastro.asg2",
+              "ASG3": "mastro.asg3",
+              "ASG4": "mastro.asg4",
+              "ASG5": "mastro.asg5"
           }
 
           tree = ET.parse("source_my.xml")
