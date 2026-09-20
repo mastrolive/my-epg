@@ -19,10 +19,12 @@ jobs:
         run: |
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o au.xml.gz
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" -o uk.xml.gz
+          curl -L "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" -o my.xml.gz
           
           # Ekstrak fail gzip
           gunzip -c au.xml.gz > source_au.xml
           gunzip -c uk.xml.gz > source_uk.xml
+          gunzip -c my.xml.gz > source_my.xml
           
           python3 -c '
           import xml.etree.ElementTree as ET
@@ -39,14 +41,16 @@ jobs:
               "TNT.Sports.1.HD.uk": "mastro.tnt1",
               "TNT.Sports.2.HD.uk": "mastro.tnt2",
               "TNT.Sports.3.HD.uk": "mastro.tnt3",
-              "TNT.Sports.4.HD.uk": "mastro.tnt4"
+              "TNT.Sports.4.HD.uk": "mastro.tnt4",
+              "Arena.Bola.my": "mastro.arenabola",
+              "Arena.Bola.2.my": "mastro.arenabola2"
           }
 
           # Cipta elemen punca (root element) baharu
           new_root = ET.Element("tv", {"generator-info-name": "MastroTV EPG Tool"})
 
           # Senarai fail sumber untuk diproses
-          sources = ["source_au.xml", "source_uk.xml"]
+          sources = ["source_au.xml", "source_uk.xml", "source_my.xml"]
 
           for src in sources:
               try:
@@ -73,7 +77,7 @@ jobs:
           '
 
           # Bersihkan fail sementara
-          rm -f au.xml.gz uk.xml.gz source_au.xml source_uk.xml
+          rm -f au.xml.gz uk.xml.gz my.xml.gz source_au.xml source_uk.xml source_my.xml
 
       - name: Commit and Push Changes
         run: |
