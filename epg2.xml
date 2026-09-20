@@ -11087,4 +11087,1132 @@
     <desc lang="en">Action from the 2026 final.</desc>
     <icon src="https://tv.assets.pressassociation.io/5ed46dbe-b08c-5c5b-8bfc-4c3e57583079.jpg" />
   </programme>
+  <channel id="mastro.arenabola">
+    <display-name lang="en">Arena Bola</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="mastro.arenabola2">
+    <display-name lang="en">Arena Bola 2</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <programme start="20260919173000 +0000" stop="20260919175000 +0000" channel="mastro.arenabola">
+    <title lang="en">NYDL: This is Our Time</title>
+    <desc lang="en">Perjalanan Marissa dan rakan sepasukannya dalam atasi perbezaan budaya dan membina kerjasama antara ahli pasukan New York Dutch Lions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919175000 +0000" stop="20260919180000 +0000" channel="mastro.arenabola">
+    <title lang="en">Disebalik Harapan - Syafiq Ahmad</title>
+    <desc lang="en">Syafiq Ahmad mengetepikan kisah silam dan cabaran peribadi demi memikul tanggungjawab besar sebagai ketua pasukan dalam misi penting membawa Malaysia ke Piala Asia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919180000 +0000" stop="20260919200000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: NSE lwn SCT</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-15: Negeri Sembilan FC lwn Star City FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919200000 +0000" stop="20260919220000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: KLC lwn KUC</title>
+    <desc lang="en">Liga Super 2026/27 perlawanan ke-32: Kuala Lumpur City FC lwn Kuching City FC dari Stadium Bola Sepak Kuala Lumpur, Cheras.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMLE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919220000 +0000" stop="20260920000200 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: MEL lwn KUC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-21: Melaka FC lwn Kuching City FC dari Stadium Hang Jebat, Melaka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920000200 +0000" stop="20260920020300 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: PEN lwn KRW</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-20: Penang FC lwn Kelantan Red Warrior FC dari Stadium Bandaraya, Georgetown Pulau Pinang.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920020300 +0000" stop="20260920040000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: SAB lwn DPMM</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-24: Sabah FC lwn DPMM FC dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920040000 +0000" stop="20260920060000 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: KUC lwn KRW</title>
+    <desc lang="en">Piala FA 2026/27: Kuching City FC lwn Kelantan Red Warriors FC dari Stadium Bolasepak Kuala Lumpur, Cheras.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQAK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920060000 +0000" stop="20260920063300 +0000" channel="mastro.arenabola">
+    <title lang="en">Sorotan MSL 2025/26: KLC lwn PDRM</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Kuala Lumpur City lwn PDRM.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFI.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920063300 +0000" stop="20260920083500 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: NSE lwn KEL</title>
+    <desc lang="en">Piala FA 2026/27: Negeri Sembilan FC lwn Kelantan City dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQAJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920083500 +0000" stop="20260920084500 +0000" channel="mastro.arenabola">
+    <title lang="en">Disebalik Harapan - Syafiq Ahmad</title>
+    <desc lang="en">Syafiq Ahmad mengetepikan kisah silam dan cabaran peribadi demi memikul tanggungjawab besar sebagai ketua pasukan dalam misi penting membawa Malaysia ke Piala Asia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920084500 +0000" stop="20260920085000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920085000 +0000" stop="20260920110000 +0000" channel="mastro.arenabola">
+    <title lang="en">(L) Piala FA 2026/27: Suku Akhir: PEN lwn JDT</title>
+    <desc lang="en">(Langsung) Piala FA 2026/27: Perlawanan Suku Akhir: Penang lwn Johor Darul Ta'zim dari Stadium Bandaraya Pulau Pinang, George Town, Pulau Pinang.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVGT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920110000 +0000" stop="20260920110500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920110500 +0000" stop="20260920112500 +0000" channel="mastro.arenabola">
+    <title lang="en">NYDL: This is Our Time</title>
+    <desc lang="en">Perjalanan Marissa dan rakan sepasukannya dalam atasi perbezaan budaya dan membina kerjasama antara ahli pasukan New York Dutch Lions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920112500 +0000" stop="20260920113000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sudi Tinggal</title>
+    <desc lang="en">Ikuti kisah Hellma, kini seorang pendidik dan bagaimana Astro mengubah masa depannya.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSQ.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920113000 +0000" stop="20260920120000 +0000" channel="mastro.arenabola">
+    <title lang="en">Sorotan MSL 2025/26: PEN lwn KTRW</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Penang lwn Kelantan The Real Warriors FC.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920120000 +0000" stop="20260920120500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920120500 +0000" stop="20260920141500 +0000" channel="mastro.arenabola">
+    <title lang="en">(L) Piala FA 2026/27: Suku Akhir: DPMM lwn KLC</title>
+    <desc lang="en">(Langsung) Piala FA 2026/27: Perlawanan Suku Akhir: DPMM lwn Kuala Lumpur City dari Stadium Negara Hassanal Bolkiah, Berakas, Bandar Seri Begawan, Brunei.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZARR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920141500 +0000" stop="20260920142500 +0000" channel="mastro.arenabola">
+    <title lang="en">Legasi Sang Harimau - Datuk Santokh Singh</title>
+    <desc lang="en">Mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920142500 +0000" stop="20260920143000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920143000 +0000" stop="20260920153000 +0000" channel="mastro.arenabola">
+    <title lang="en">Bola Dulu Baru Kamu!</title>
+    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUFIL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920153000 +0000" stop="20260920180000 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: TER lwn DPMM</title>
+    <desc lang="en">Piala FA 2026/27: Terengganu FC lwn DPMM FC dari Stadium Sultan Mizan Zainal Abidin, Gong Badak, Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVGR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920180000 +0000" stop="20260920200000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: DPMM lwn JDT</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-13: DPMM FC lwn Johor Darul Ta'zim dari Stadium Negara Hassanal Bolkiah, Berakas, Bandar Seri Begawan, Brunei.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920200000 +0000" stop="20260920220000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: JDT lwn KRW</title>
+    <desc lang="en">Liga Super 2026/27 perlawanan ke-31: Johor Darul Ta'zim lwn Kelantan Red Warriors dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor Bahru.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMLD.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920220000 +0000" stop="20260920230000 +0000" channel="mastro.arenabola">
+    <title lang="en">Bola Dulu Baru Kamu!</title>
+    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUFIL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920230000 +0000" stop="20260920230500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sudi Tinggal</title>
+    <desc lang="en">Ikuti kisah Hellma, kini seorang pendidik dan bagaimana Astro mengubah masa depannya.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSQ.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920230500 +0000" stop="20260920233500 +0000" channel="mastro.arenabola">
+    <title lang="en">Sorotan MSL 2025/26: IFC lwn NSE</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Imigresen lwn Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920233500 +0000" stop="20260920234500 +0000" channel="mastro.arenabola">
+    <title lang="en">Legasi Sang Harimau - Datuk Santokh Singh</title>
+    <desc lang="en">Mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920234500 +0000" stop="20260920235000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Berani Bermimpi</title>
+    <desc lang="en">Ikuti kisah Hael, dari pentas AF kepada nama besar industri muzik yang bersinar menerusi Astro.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSR.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920235000 +0000" stop="20260921015000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: NSE lwn SCT</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-15: Negeri Sembilan FC lwn Star City FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921015000 +0000" stop="20260921015500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sudi Tinggal</title>
+    <desc lang="en">Ikuti kisah Hellma, kini seorang pendidik dan bagaimana Astro mengubah masa depannya.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSQ.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921015500 +0000" stop="20260921035500 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: DPMM lwn JDT</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-13: DPMM FC lwn Johor Darul Ta'zim dari Stadium Negara Hassanal Bolkiah, Berakas, Bandar Seri Begawan, Brunei.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921035500 +0000" stop="20260921055500 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: SEL lwn MEL</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-18: Selangor FC lwn Melaka FC dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921055500 +0000" stop="20260921060000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Berani Bermimpi</title>
+    <desc lang="en">Ikuti kisah Hael, dari pentas AF kepada nama besar industri muzik yang bersinar menerusi Astro.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSR.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921060000 +0000" stop="20260921080000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: SAB lwn KUC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-16: Sabah lwn Kuching City FC dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKO.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921080000 +0000" stop="20260921100000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: KRW lwn KLC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-14: Kelantan Red Warrior FC lwn Kuala Lumpur City FC dari Stadium Sultan Muhammad ke-IV, Kota Bharu, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921100000 +0000" stop="20260921120000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: TER lwn PEN</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-17: Terengganu FC lwn Penang FC dari Stadium Sultan Mizan Zainal Abidin, Gong Badak, Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921120000 +0000" stop="20260921120500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921120500 +0000" stop="20260921140500 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: Suku Akhir: SCT lwn SEL</title>
+    <desc lang="en">Piala FA 2026/27: Perlawanan Suku Akhir: Star City lwn Selangor dari Stadium Tuanku Syed Putra, Kangar, Perlis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVGS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921140500 +0000" stop="20260921141000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921141000 +0000" stop="20260921142000 +0000" channel="mastro.arenabola">
+    <title lang="en">Bangkit Semula - Faisal Halim</title>
+    <desc lang="en">Tragedi yang menimpa Faisal Halim tidak mematahkan semangatnya. Sebaliknya, ia menjadi pembakar semangat untuk terus berjuang demi jersi kebangsaan dan harapan penyokong Harimau Malaya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921142000 +0000" stop="20260921162500 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: Suku Akhir: PEN lwn JDT</title>
+    <desc lang="en">Piala FA 2026/27: Perlawanan Suku Akhir: Penang lwn Johor Darul Ta'zim dari Stadium Bandaraya Pulau Pinang, George Town, Pulau Pinang.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVGT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921162500 +0000" stop="20260921163500 +0000" channel="mastro.arenabola">
+    <title lang="en">Legasi Sang Harimau - Datuk Santokh Singh</title>
+    <desc lang="en">Mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921163500 +0000" stop="20260921183500 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2025/26: DPMM lwn SAB</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-148: DPMM lwn Sabah dari Stadium Negara Hassanal Bolkiah, Berakas, Brunei.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLDQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921183500 +0000" stop="20260921184500 +0000" channel="mastro.arenabola">
+    <title lang="en">Bangkit Semula - Faisal Halim</title>
+    <desc lang="en">Tragedi yang menimpa Faisal Halim tidak mematahkan semangatnya. Sebaliknya, ia menjadi pembakar semangat untuk terus berjuang demi jersi kebangsaan dan harapan penyokong Harimau Malaya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921184500 +0000" stop="20260921220000 +0000" channel="mastro.arenabola">
+    <title lang="en">MFL Challenge Cup 2025/26: SAB lwn PEN</title>
+    <desc lang="en">MFL Challenge Cup 2025/26: Perlawanan Akhir Kedua: Sabah FC lwn Penang FC dari Stadium Majlis Likas, Kota Kinabalu, Sabah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSXE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: NSE lwn SCT</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-15: Negeri Sembilan FC lwn Star City FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922000000 +0000" stop="20260922020000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: SAB lwn KUC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-16: Sabah lwn Kuching City FC dari Stadium Likas, Kota Kinabalu, Sabah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKO.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922020000 +0000" stop="20260922040000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: TER lwn PEN</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-17: Terengganu FC lwn Penang FC dari Stadium Sultan Mizan Zainal Abidin, Gong Badak, Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922040000 +0000" stop="20260922043000 +0000" channel="mastro.arenabola">
+    <title lang="en">Sorotan MSL 2025/26: PEN lwn KTRW</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Penang lwn Kelantan The Real Warriors FC.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922043000 +0000" stop="20260922063000 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: KRW lwn KUC</title>
+    <desc lang="en">Piala FA 2026/27: Kelantan Red Warrior FC lwn Kuching City FC dari Stadium Sultan Muhammad ke-IV, Kota Bahru, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQAD.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922063000 +0000" stop="20260922083000 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: KEL lwn NSE</title>
+    <desc lang="en">Piala FA 2026/27: Kelantan City FC lwn Negeri Sembilan FC dari Stadium Sultan Muhammad ke-IV, Kota Bahru, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQAH.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922083000 +0000" stop="20260922083500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sudi Tinggal</title>
+    <desc lang="en">Ikuti kisah Hellma, kini seorang pendidik dan bagaimana Astro mengubah masa depannya.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSQ.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922083500 +0000" stop="20260922104500 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: Suku Akhir: SCT lwn SEL</title>
+    <desc lang="en">Piala FA 2026/27: Perlawanan Suku Akhir: Star City lwn Selangor dari Stadium Tuanku Syed Putra, Kangar, Perlis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVGS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922104500 +0000" stop="20260922105000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Berani Bermimpi</title>
+    <desc lang="en">Ikuti kisah Hael, dari pentas AF kepada nama besar industri muzik yang bersinar menerusi Astro.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSR.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922105000 +0000" stop="20260922115000 +0000" channel="mastro.arenabola">
+    <title lang="en">Bola Dulu Baru Kamu!</title>
+    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUFIE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922115000 +0000" stop="20260922115500 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922115500 +0000" stop="20260922120500 +0000" channel="mastro.arenabola">
+    <title lang="en">Bangkit Semula - Faisal Halim</title>
+    <desc lang="en">Tragedi yang menimpa Faisal Halim tidak mematahkan semangatnya. Sebaliknya, ia menjadi pembakar semangat untuk terus berjuang demi jersi kebangsaan dan harapan penyokong Harimau Malaya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922120500 +0000" stop="20260922141500 +0000" channel="mastro.arenabola">
+    <title lang="en">Piala FA 2026/27: Suku Akhir: PEN lwn JDT</title>
+    <desc lang="en">Piala FA 2026/27: Perlawanan Suku Akhir: Penang lwn Johor Darul Ta'zim dari Stadium Bandaraya Pulau Pinang, George Town, Pulau Pinang.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVGT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922141500 +0000" stop="20260922142000 +0000" channel="mastro.arenabola">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit Singh \"The Flying Sikh\" berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922142000 +0000" stop="20260922143000 +0000" channel="mastro.arenabola">
+    <title lang="en">Legasi Sang Harimau - Datuk Santokh Singh</title>
+    <desc lang="en">Mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922143000 +0000" stop="20260922183000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: NSE lwn SCT</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-15: Negeri Sembilan FC lwn Star City FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922183000 +0000" stop="20260922203000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: SEL lwn MEL</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-18: Selangor FC lwn Melaka FC dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922203000 +0000" stop="20260922210000 +0000" channel="mastro.arenabola">
+    <title lang="en">Sorotan MSL 2025/26: TER lwn MEL</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Terengganu lwn Melaka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922210000 +0000" stop="20260922220000 +0000" channel="mastro.arenabola">
+    <title lang="en">Bola Dulu Baru Kamu!</title>
+    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArenaBola_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922220000 +0000" stop="20260923000000 +0000" channel="mastro.arenabola">
+    <title lang="en">MSL 2026/27: SEL lwn MEL</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-18: Selangor FC lwn Melaka FC dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYMKQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919160000 +0000" stop="20260919163000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Sorotan MSL 2025/26: TER lwn MEL</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Terengganu lwn Melaka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Sorotan MSL 2025/26: TER lwn PDRM</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Terengganu lwn PDRM.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLEZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala FA 2025/26: PEN lwn MEL</title>
+    <desc lang="en">Piala FA 2025/26: Pusingan ke 16: Penang lwn Melaka dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTUBU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919190000 +0000" stop="20260919210000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MFL Challenge Cup 2025/26: KTRW lwn PEN</title>
+    <desc lang="en">MFL Challenge Cup 2025/26: Separuh Akhir Pertama: Kelantan The Real Warriors FC lwn Penang FC dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWKKY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919210000 +0000" stop="20260919220000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Bola Dulu Baru Kamu!</title>
+    <desc lang="en">4 orang legenda bolasepak Malaysia berkumpul di dalam satu program menceritakan tentang bolasepak Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUFID.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260919220000 +0000" stop="20260920000000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: MEL lwn IFC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-78: Melaka lwn Imigresen dari Stadium Hang Jebat, Melaka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLAY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920000000 +0000" stop="20260920020000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: PDRM lwn SEL</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-74: PDRM lwn Selangor dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLAU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920020000 +0000" stop="20260920040000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: SEL lwn KTRW</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-58: Selangor lwn Kelantan The Real Warriors FC dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLAE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920040000 +0000" stop="20260920060000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: NSE lwn KLC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-72: Negeri Sembilan lwn KL City dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLAS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920060000 +0000" stop="20260920080000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MFL Challenge Cup 2025/26: PDRM lwn SAB</title>
+    <desc lang="en">MFL Challenge Cup 2025/26: PDRM FC lwn Sabah FC dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWCWJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920080000 +0000" stop="20260920100000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MFL Challenge Cup 2025/26: KTRW lwn IFC</title>
+    <desc lang="en">MFL Challenge Cup 2025/26: Kelantan The Real Warriors FC lwn Imigresen FC dari Stadium Sultan Muhammad ke IV, Kota Bahru, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWCWK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920100000 +0000" stop="20260920120000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MFL Challenge Cup 2025/26: KTRW lwn PEN</title>
+    <desc lang="en">MFL Challenge Cup 2025/26: Separuh Akhir Pertama: Kelantan The Real Warriors FC lwn Penang FC dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWKKY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920120000 +0000" stop="20260920123000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Botak Terjah Stadium</title>
+    <desc lang="en">Kalau Abang Botak bagi mic, jangan lari! Botak Terjah Stadium membawakan perkembangan Liga Malaysia 2025/26 dari perspektif peminat-peminat bola sepak negara.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUVGP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920123000 +0000" stop="20260920123500 +0000" channel="mastro.arenabola2">
+    <title lang="en">Yang Sanggup Berjuang</title>
+    <desc lang="en">Karamjit 'The Flying Sikh' Singh berkongsi erti sebenar berbakti kepada negara, sempena ulang tahun ke-30 Astro ini buat para atlet dan veteran yang telah mencurahkan bakti kepada Malaysia.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920123500 +0000" stop="20260920125000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Kisah Disebalik Bola (KL City Boys)</title>
+    <desc lang="en">Menceritakan tentang kisah penyokong bola sepak. Tiga penyokong KL City yang berbilang bangsa berkongsi minat dalam bola sepak serta sentiasa memberikan sokongan yang padu kepada pasukan kegemarannya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KOROQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920125000 +0000" stop="20260920150000 +0000" channel="mastro.arenabola2">
+    <title lang="en">(L) Piala FA 2026/27: Suku Akhir: KEL lwn KUC</title>
+    <desc lang="en">(Langsung) Piala FA 2026/27: Perlawanan Suku Akhir: Kelantan City FC lwn Kuching City FC Stadium Sultan Muhammad ke-IV, Kota Bahru, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZARS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920150000 +0000" stop="20260920153000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Sorotan MSL 2025/26: SEL lwn TER</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Selangor lwn Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFH.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920153000 +0000" stop="20260920180000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Sorotan MSL 2025/26: MEL lwn DPMM</title>
+    <desc lang="en">Sorotan aksi-aksi menarik perlawanan Liga Super 2025/26: Melaka lwn DPMM.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLFJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920180000 +0000" stop="20260920200000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala FA 2025/26: NSE lwn SEL</title>
+    <desc lang="en">Piala FA 2025/26: Suku Akhir Pusingan Pertama: Negeri Sembilan FC lwn Selangor FC dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUKFE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920200000 +0000" stop="20260920220000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala FA 2025/26: TER lwn KUC</title>
+    <desc lang="en">Piala FA 2025/26: Suku Akhir Pusingan Pertama: Terengganu FC lwn Kuching City FC dari Stadium Sultan Mizan Zainal Abidin, Kuala Terengganu, Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KUKFF.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260920220000 +0000" stop="20260921000000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala FA 2026/27: Suku Akhir: KEL lwn KUC</title>
+    <desc lang="en">Piala FA 2026/27: Perlawanan Suku Akhir: Kelantan City FC lwn Kuching City FC Stadium Sultan Muhammad ke-IV, Kota Bahru, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZARS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921000000 +0000" stop="20260921020000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: KLC lwn SAB</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-11: Kuala Lumpur City lwn Sabah Stadium Bolasepak Kuala Lumpur, Cheras.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTKYJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921020000 +0000" stop="20260921040000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: TER lwn PDRM</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-12: Terengganu lwn PDRM dari Stadium Sultan Mizan Zainal Abidin, Kuala Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTKYK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921040000 +0000" stop="20260921060000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: DPMM lwn TER</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-13: DPMM lwn Terengganu dari Stadium Negara Hassanal Bolkiah, Berakas, Brunei.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTKYL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921060000 +0000" stop="20260921080000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala FA 2026/27: Suku Akhir: KEL lwn KUC</title>
+    <desc lang="en">Piala FA 2026/27: Perlawanan Suku Akhir: Kelantan City FC lwn Kuching City FC Stadium Sultan Muhammad ke-IV, Kota Bahru, Kelantan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KZARS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921080000 +0000" stop="20260921100000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Shopee 2025/26: SHU lwn CAM</title>
+    <desc lang="en">Piala Shopee 2025/26: Shan United lwn Preach Khan Reach Svay Rieng dari Stadium Thuwunna, Yangon, Myanmar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTTNU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921100000 +0000" stop="20260921120000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Shopee 2025/26: BGP lwn BUR</title>
+    <desc lang="en">Piala Shopee 2025/26: BG Pathum United lwn Buriram United dari Stadium True BG, Pathum Thani, Thailand.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTTNV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921120000 +0000" stop="20260921140000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Shopee 2025/26: CAH lwn DHC</title>
+    <desc lang="en">Piala Shopee 2025/26: Cong An Ha Noi lwn DH Cebu dari Stadium Hang Day, Hanoi, Vietnam.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTTNW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921140000 +0000" stop="20260921180000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 1st Leg: MEL lwn SAB</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Pertama: Melaka FC lwn Sabah FC dari Stadium Hang Jebat, Melaka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVNSF.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921180000 +0000" stop="20260921200000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 1st Leg: PDRM lwn JDT</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Pertama: PDRM FC lwn Johor Darul Ta'zim dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor Bahru.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVNSI.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260921220000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 1st Leg: PRK lwn KLC</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Pertama: Perak FA lwn Kuala Lumpur City dari Stadium Majlis Perbandaran Manjung, Seri Manjung, Perak.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVNSJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Shopee 2025/26: SEL lwn TAM</title>
+    <desc lang="en">Piala Shopee 2025/26: Selangor lwn Tampines Rovers dari Stadium Majlis Perbandaran Petaling Jaya, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTTNX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922000000 +0000" stop="20260922020000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Shopee 2025/26: JDT lwn BAN</title>
+    <desc lang="en">Piala Shopee 2025/26: Johor Darul Ta'zim lwn Bangkok United dari Stadium Sultan Ibrahim, Johor, Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTTNY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922020000 +0000" stop="20260922040000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Shopee 2025/26: NDI lwn PKR</title>
+    <desc lang="en">Piala Shopee 2025/26: Nam Dinh FC lwn Preach Khan Reach Svay Rieng dari Stadium Thien Truong, Nam Dinh, Vietnam.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTTNZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922040000 +0000" stop="20260922060000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 1st Leg: UMD lwn TER</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Pertama: UM Damansara United lwn Terengganu FC dari Stadium UM Arena, Kuala Lumpur.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVNSK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922060000 +0000" stop="20260922080000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 2nd Leg: SEL lwn KTRW</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Kedua: Selangor lwn Kelantan The Real Warriors FC dari Stadium Majlis Bandaraya Petaling Jaya, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVTLX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922080000 +0000" stop="20260922100000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 2nd Leg: TER lwn UMD</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Kedua: Terengganu FC lwn UM Damansara United dari Stadium Sultan Mizan Zainal Abidin, Kuala Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVTLY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922100000 +0000" stop="20260922120000 +0000" channel="mastro.arenabola2">
+    <title lang="en">Piala Malaysia 2025/26: 2nd Leg: JDT lwn PDRM</title>
+    <desc lang="en">Piala Malaysia 2025/26: Pusingan Kedua: Johor Darul Ta'zim lwn PDRM dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor Bahru.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVTLZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922120000 +0000" stop="20260922140000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: NSE lwn KLC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-72: Negeri Sembilan lwn KL City dari Stadium Tuanku Abdul Rahman, Paroi, Negeri Sembilan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLAS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922140000 +0000" stop="20260922180000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: PDRM lwn SEL</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-74: PDRM lwn Selangor dari Stadium Majlis Perbandaran Selayang, Selangor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLAU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922180000 +0000" stop="20260922200000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: JDT lwn IFC</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-101: Johor Darul Ta'zim lwn Imigresen dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLBV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922200000 +0000" stop="20260922220000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: MEL lwn KTRW</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-126: Melaka lwn Kelantan The Real Warriors FC dari Stadium Hang Jebat, Melaka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLCU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260922220000 +0000" stop="20260923000000 +0000" channel="mastro.arenabola2">
+    <title lang="en">MSL 2025/26: TER lwn SEL</title>
+    <desc lang="en">Liga Super 2025/26 perlawanan ke-102: Terengganu lwn Selangor dari Stadium Sultan Mizan Zainal Abidin, Kuala Terengganu.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTLBW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
 </tv>
