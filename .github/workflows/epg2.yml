@@ -35,7 +35,11 @@ jobs:
               "Sky.Sports.Football.HD.uk": "mastro.skysportsfootball",
               "SkySp.Golf.HD.uk": "mastro.skysportsgolf",
               "SkySpMainEvHD.uk": "mastro.skysportsmainevent",
-              "SkySp.PL.HD.uk": "mastro.skysportspremierleague"
+              "SkySp.PL.HD.uk": "mastro.skysportspremierleague",
+              "TNT.Sports.1.HD.uk": "mastro.tnt1",
+              "TNT.Sports.2.HD.uk": "mastro.tnt2",
+              "TNT.Sports.3.HD.uk": "mastro.tnt3",
+              "TNT.Sports.4.HD.uk": "mastro.tnt4"
           }
 
           # Cipta elemen punca (root element) baharu
