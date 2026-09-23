@@ -20,11 +20,13 @@ jobs:
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o au.xml.gz
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" -o uk.xml.gz
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" -o my.xml.gz
+          curl -L "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" -o in.xml.gz
           
           # Ekstrak fail gzip
           gunzip -c au.xml.gz > source_au.xml
           gunzip -c uk.xml.gz > source_uk.xml
           gunzip -c my.xml.gz > source_my.xml
+          gunzip -c in.xml.gz > source_in.xml
           
           python3 -c '
           import xml.etree.ElementTree as ET
@@ -46,8 +48,16 @@ jobs:
               "Astro.QJ.my": "mastro.qj",
               "Astro.Awani.HD.my": "mastro.awani",
               "BOO.HD.my": "mastro.boo",
+              "MN+.HD.in": "mastro.mnplus",
+              "Movies.Now.HD.in": "mastro.moviesnow",
+              "MNX.HD.in": "mastro.mnx",
+              "Romedy.Now.HD.in": "mastro.romedynow",
+              "Sony.Pix.HD.in": "mastro.sonypix",
+              "Star.Movies.in": "mastro.starmovies",
+              "Star.Movies.Select.HD.in": "mastro.starmoviesselect",
               "Astro.Tutor.TV.my": "mastro.tutortv",
               "Astro.Ceria.HD.my": "mastro.ceria",
+              "Disney.International.HD.in": "mastro.disneyinter",
               "Astro.Arena.my": "mastro.arena",
               "Astro.Arena.2.my": "mastro.arena2",
               "Arena.Bola.my": "mastro.arenabola",
@@ -79,7 +89,7 @@ jobs:
           new_root = ET.Element("tv", {"generator-info-name": "MastroTV EPG Tool"})
 
           # Senarai fail sumber untuk diproses
-          sources = ["source_au.xml", "source_uk.xml", "source_my.xml"]
+          sources = ["source_au.xml", "source_uk.xml", "source_my.xml", "source_in.xml"]
 
           for src in sources:
               try:
@@ -106,7 +116,7 @@ jobs:
           '
 
           # Bersihkan fail sementara
-          rm -f au.xml.gz uk.xml.gz my.xml.gz source_au.xml source_uk.xml source_my.xml
+          rm -f au.xml.gz uk.xml.gz my.xml.gz in.xml.gz source_au.xml source_uk.xml source_my.xml source_in.xml
 
       - name: Commit and Push Changes
         run: |
