@@ -46,11 +46,7 @@ jobs:
               "tvOne.id@SD": "mastro.tvone",
               "NHKWorldJapan.jp@SD": "mastro.nhkworld",
               "KIX.hk@SD": "mastro.kix",
-              "MentariTV.id@SD": "mastro.mentaritv",
-              "SoccerChannel.id@SD": "mastro.soccer",
-              "Sportstars.id@SD": "mastro.sportstars",
-              "Sportstars2.id@SD": "mastro.sportstars2",
-              "Sportstars3.id@SD": "mastro.sportstars3"
+              "MentariTV.id@SD": "mastro.mentaritv"
           }
 
           tree = ET.parse("source_guide.xml")
