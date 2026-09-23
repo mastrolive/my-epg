@@ -4297,11 +4297,23 @@
       <value>NR</value>
     </rating>
   </programme>
-  <channel id="mastro.skysportsf1">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1 HD</display-name>
+  <channel id="mastro.tnt1">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="mastro.skysportsfootball">
+    <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
+    <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">Sky Sports Football HD</display-name>
+  </channel>
+  <channel id="mastro.tnt3">
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
   <channel id="mastro.tnt2">
     <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
@@ -4315,23 +4327,11 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 4 HD</display-name>
   </channel>
-  <channel id="mastro.skysportspremierleague">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+  <channel id="mastro.skysportsf1">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp PL HD</display-name>
-  </channel>
-  <channel id="mastro.tnt3">
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 3 HD</display-name>
-  </channel>
-  <channel id="mastro.tnt1">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
+    <display-name lang="en">SkySp F1 HD</display-name>
   </channel>
   <channel id="mastro.skysportsmainevent">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
@@ -4345,11 +4345,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Golf HD</display-name>
   </channel>
-  <channel id="mastro.skysportsfootball">
-    <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
-    <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">Sky Sports Football HD</display-name>
+  <channel id="mastro.skysportspremierleague">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp PL HD</display-name>
   </channel>
   <programme channel="mastro.skysportsf1" start="20260921000000 +0000" stop="20260921002500 +0000">
     <title lang="en">The Best of Australia 2026</title>
