@@ -8,6 +8,10 @@
     <display-name lang="Malaysia">TVS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609104553161128_90.png" />
   </channel>
+  <channel id="mastro.football">
+    <display-name lang="Malaysia">Astro Football</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018014020330238_34.png" />
+  </channel>
   <channel id="mastro.golf">
     <display-name lang="Malaysia">Golf Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081039584517_43.png" />
@@ -36,13 +40,13 @@
     <display-name lang="Malaysia">beIN Sports 3</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084036958516_28.png" />
   </channel>
-  <channel id="mastro.cbssports">
-    <display-name lang="US">CBS Sports Golazo Network</display-name>
-    <icon src="" />
-  </channel>
   <channel id="mastro.channel5">
     <display-name lang="Singapore">Channel 5</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064229303987_48" />
+  </channel>
+  <channel id="mastro.cbssports">
+    <display-name lang="US">CBS Sports Golazo Network</display-name>
+    <icon src="" />
   </channel>
   <channel id="mastro.fs1">
     <display-name lang="US">FS1 HD</display-name>
@@ -80,13 +84,13 @@
     <display-name lang="US">USA Network HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.foxdeportes">
-    <display-name lang="US">Fox Deportes HD</display-name>
-    <icon src="" />
-  </channel>
   <channel id="mastro.channel8">
     <display-name lang="Singapore">Channel 8</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064641961761_54" />
+  </channel>
+  <channel id="mastro.foxdeportes">
+    <display-name lang="US">Fox Deportes HD</display-name>
+    <icon src="" />
   </channel>
   <channel id="mastro.channelu">
     <display-name lang="Singapore">Channel U</display-name>
@@ -464,9 +468,9 @@
     <display-name lang="US">Nicktoons</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.football">
-    <display-name lang="Malaysia">Astro Football</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018014020330238_34.png" />
+  <channel id="mastro.teennick">
+    <display-name lang="US">Teen Nick</display-name>
+    <icon src="" />
   </channel>
   <programme channel="mastro.30" start="20260923000000 +0000" stop="20260923010000 +0000">
     <title lang="zh">Podcast Life Confession Ep01</title>
@@ -1466,6 +1470,136 @@
   <programme channel="mastro.tvs" start="20260925000000 +0000" stop="20260926000000 +0000">
     <title lang="zh">(DL) World News</title>
     <desc>Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923000000 +0000" stop="20260923020000 +0000">
+    <title lang="zh">Serie A: Atalanta vs Cagliari</title>
+    <desc>Serie A 2026/27: Matches</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923020000 +0000" stop="20260923040000 +0000">
+    <title lang="zh">Serie A: Torino vs Roma</title>
+    <desc>Serie A 2026/27: Matches</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923040000 +0000" stop="20260923060000 +0000">
+    <title lang="zh">Serie A: Como vs Parma</title>
+    <desc>Serie A 2026/27: Matches</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923060000 +0000" stop="20260923080000 +0000">
+    <title lang="zh">DFB: St.Tonis vs Eintracht</title>
+    <desc>DFB-Pokal 2026/27: Round 1: SC St.Tonis vs Eintracht Frankfurt, from Grotenburg-Stadion, Krefeld, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923080000 +0000" stop="20260923100000 +0000">
+    <title lang="zh">DFB: Rostock vs Stuttgart</title>
+    <desc>DFB-Pokal 2026/27: Round 1: Hansa Rostock vs VfB Stuttgart, from Ostseestadion, Rostock, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923100000 +0000" stop="20260923110000 +0000">
+    <title lang="zh">Dutch League 2026/27: Highlights Rd7</title>
+    <desc>Highlights of all the matches during the week, including players and managers interviews.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923110000 +0000" stop="20260923130000 +0000">
+    <title lang="zh">DFB: Wiesbaden vs Leverkusen</title>
+    <desc>DFB-Pokal 2026/27: Round 1: Wehen Wiesbaden vs Bayer 04 Leverkusen, from Brita Arena, Wiesbaden, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923130000 +0000" stop="20260923150000 +0000">
+    <title lang="zh">DFB: Luneburger vs Bremen</title>
+    <desc>DFB-Pokal 2026/27: Round 1: Luneburger SK vs Werder Bremen, from Millerntor-Stadion, Hamburg, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923150000 +0000" stop="20260923170000 +0000">
+    <title lang="zh">DFB: Schott vs M'gladbach</title>
+    <desc>DFB-Pokal 2026/27: Round 1: TSV Schott vs Borussia M'gladbach, from MEWA Arena, Mainz, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923170000 +0000" stop="20260923190000 +0000">
+    <title lang="zh">DFB: Dusseldorf vs Freiburg</title>
+    <desc>DFB-Pokal 2026/27: Round 1: Fortuna Dusseldorf vs SC Freiburg, from Merkur Spiel-Arena, Dusseldorf, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923190000 +0000" stop="20260923220000 +0000">
+    <title lang="zh">DFB: Berlin vs Wolfsburg</title>
+    <desc>DFB-Pokal 2026/27: Round 1: Altglienicke Berlin vs VfL Wolfsburg, from Friedrich‑Ludwig‑Jahn‑Sportpark, Berlin, Germany.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260923220000 +0000" stop="20260924000000 +0000">
+    <title lang="zh">Dutch: Ajax vs Willem II</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924000000 +0000" stop="20260924020000 +0000">
+    <title lang="zh">Dutch: PSV vs Groningen</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924020000 +0000" stop="20260924040000 +0000">
+    <title lang="zh">Dutch: Cambuur vs Feyenoord</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924040000 +0000" stop="20260924060000 +0000">
+    <title lang="zh">Dutch: Utrecht vs PSV</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924060000 +0000" stop="20260924080000 +0000">
+    <title lang="zh">Dutch: Feyenoord vs Den Haag</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924080000 +0000" stop="20260924100000 +0000">
+    <title lang="zh">Dutch: Telstar vs Ajax</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924100000 +0000" stop="20260924120000 +0000">
+    <title lang="zh">Dutch: Feyenoord vs GA Eagles</title>
+    <desc>Dutch League 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924120000 +0000" stop="20260924140000 +0000">
+    <title lang="zh">DFB: Hamburg vs Dortmund</title>
+    <desc>DFB-Pokal 2026/27: Round 1: HEBC Hamburg vs Borussia Dortmund, from Volksparkstadion, Hamburg, Germany.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924140000 +0000" stop="20260924160000 +0000">
+    <title lang="zh">DFB: Osnabruck vs Bayern</title>
+    <desc>DFB-Pokal 2026/27: Round 1: VfL Osnabruck vs FC Bayern Munich, from Bremer Brucke, Osnabruck, Germany.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924160000 +0000" stop="20260924183000 +0000">
+    <title lang="zh">DFB: Hallescher vs Schalke</title>
+    <desc>DFB-Pokal 2026/27: Round 1: Hallescher FC vs Schalke 04, from Leuna Chemie Stadion, Halle, Germany.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924183000 +0000" stop="20260924190000 +0000">
+    <title lang="zh">Serie A 2026/27: Full Impact Rd4</title>
+    <desc>Serie A 2026/27: Highlights of all the matches during the week, including players and managers interviews.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924190000 +0000" stop="20260924200000 +0000">
+    <title lang="zh">Dutch League 2026/27: Highlights Rd7</title>
+    <desc>Highlights of all the matches during the week, including players and managers interviews.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924200000 +0000" stop="20260924220000 +0000">
+    <title lang="zh">Serie A: Fiorentina vs Torino</title>
+    <desc>Serie A 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260924220000 +0000" stop="20260925000000 +0000">
+    <title lang="zh">Serie A: Roma vs Atalanta</title>
+    <desc>Serie A 2026/27: Matches</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.football" start="20260925000000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Serie A: Frosinone vs Venezia</title>
+    <desc>Serie A 2026/27: Matches</desc>
     <date>2026-09-25</date>
   </programme>
   <programme channel="mastro.golf" start="20260923033000 +0000" stop="20260923040000 +0000">
@@ -3108,216 +3242,6 @@
     <desc>UEFA Europa/Conference League Highlights 2026/27: Thu, MD1</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.cbssports" start="20260923000000 +0000" stop="20260923010000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923010000 +0000" stop="20260923020000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923020000 +0000" stop="20260923030000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923030000 +0000" stop="20260923040000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923040000 +0000" stop="20260923050000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923050000 +0000" stop="20260923060000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923060000 +0000" stop="20260923070000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923070000 +0000" stop="20260923080000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923080000 +0000" stop="20260923090000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923090000 +0000" stop="20260923100000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923100000 +0000" stop="20260923110000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923110000 +0000" stop="20260923120000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923120000 +0000" stop="20260923140000 +0000">
-    <title lang="zh">Morning Footy</title>
-    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923140000 +0000" stop="20260923160000 +0000">
-    <title lang="zh">Morning Footy</title>
-    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923160000 +0000" stop="20260923180000 +0000">
-    <title lang="zh">Morning Footy</title>
-    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923180000 +0000" stop="20260923190000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923190000 +0000" stop="20260923210000 +0000">
-    <title lang="zh">Live: UEFA Women's Champions League Soccer</title>
-    <desc>From Estadi Johan Cruyff in Sant Joan Despí, Barcelona, Spain.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923210000 +0000" stop="20260923220000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923220000 +0000" stop="20260923230000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260923230000 +0000" stop="20260924000000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924000000 +0000" stop="20260924010000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924010000 +0000" stop="20260924020000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924020000 +0000" stop="20260924030000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924030000 +0000" stop="20260924040000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924040000 +0000" stop="20260924050000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924050000 +0000" stop="20260924060000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924060000 +0000" stop="20260924070000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924070000 +0000" stop="20260924080000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924080000 +0000" stop="20260924090000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924090000 +0000" stop="20260924100000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924100000 +0000" stop="20260924110000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924110000 +0000" stop="20260924120000 +0000">
-    <title lang="zh">UEFA Women's Champions League Today</title>
-    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924120000 +0000" stop="20260924140000 +0000">
-    <title lang="zh">Morning Footy</title>
-    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924140000 +0000" stop="20260924160000 +0000">
-    <title lang="zh">Morning Footy</title>
-    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924160000 +0000" stop="20260924180000 +0000">
-    <title lang="zh">Morning Footy</title>
-    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924180000 +0000" stop="20260924190000 +0000">
-    <title lang="zh">Best of Morning Footy</title>
-    <desc />
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924190000 +0000" stop="20260924200000 +0000">
-    <title lang="zh">90 in 60</title>
-    <desc>Best of the football match in 60 minutes.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924200000 +0000" stop="20260924210000 +0000">
-    <title lang="zh">90 in 60</title>
-    <desc>Best of the football match in 60 minutes.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924210000 +0000" stop="20260924220000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924220000 +0000" stop="20260924230000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260924230000 +0000" stop="20260925000000 +0000">
-    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc>News impacting global football and match highlights.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.cbssports" start="20260925000000 +0000" stop="20260926000000 +0000">
-    <title lang="zh">90 in 60</title>
-    <desc>Best of the football match in 60 minutes.</desc>
-    <date>2026-09-25</date>
-  </programme>
   <programme channel="mastro.channel5" start="20260923000000 +0000" stop="20260923003000 +0000">
     <title lang="zh">Bugsville - EP 18</title>
     <desc>Bugsville is an entertaining and educational pre-school programme featuring NATALIE, her parents (Mary and Fred) and her friends. The show will feature live action filmed in home sets as well as composited CGI shot in a green screen studio.</desc>
@@ -3736,6 +3660,216 @@
   <programme channel="mastro.channel5" start="20260925000000 +0000" stop="20260926000000 +0000">
     <title lang="zh">Bugsville - EP 20</title>
     <desc>Bugsville is an entertaining and educational pre-school programme featuring NATALIE, her parents (Mary and Fred) and her friends. The show will feature live action filmed in home sets as well as composited CGI shot in a green screen studio.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923000000 +0000" stop="20260923010000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923010000 +0000" stop="20260923020000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923020000 +0000" stop="20260923030000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923030000 +0000" stop="20260923040000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923040000 +0000" stop="20260923050000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923050000 +0000" stop="20260923060000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923060000 +0000" stop="20260923070000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923070000 +0000" stop="20260923080000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923080000 +0000" stop="20260923090000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923090000 +0000" stop="20260923100000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923100000 +0000" stop="20260923110000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923110000 +0000" stop="20260923120000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923120000 +0000" stop="20260923140000 +0000">
+    <title lang="zh">Morning Footy</title>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923140000 +0000" stop="20260923160000 +0000">
+    <title lang="zh">Morning Footy</title>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923160000 +0000" stop="20260923180000 +0000">
+    <title lang="zh">Morning Footy</title>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923180000 +0000" stop="20260923190000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923190000 +0000" stop="20260923210000 +0000">
+    <title lang="zh">Live: UEFA Women's Champions League Soccer</title>
+    <desc>From Estadi Johan Cruyff in Sant Joan Despí, Barcelona, Spain.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923210000 +0000" stop="20260923220000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923220000 +0000" stop="20260923230000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260923230000 +0000" stop="20260924000000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924000000 +0000" stop="20260924010000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924010000 +0000" stop="20260924020000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924020000 +0000" stop="20260924030000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924030000 +0000" stop="20260924040000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924040000 +0000" stop="20260924050000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924050000 +0000" stop="20260924060000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924060000 +0000" stop="20260924070000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924070000 +0000" stop="20260924080000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924080000 +0000" stop="20260924090000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924090000 +0000" stop="20260924100000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924100000 +0000" stop="20260924110000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924110000 +0000" stop="20260924120000 +0000">
+    <title lang="zh">UEFA Women's Champions League Today</title>
+    <desc>Studio coverage of the UEFA Women's Champions League with highlights and expert analysis.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924120000 +0000" stop="20260924140000 +0000">
+    <title lang="zh">Morning Footy</title>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924140000 +0000" stop="20260924160000 +0000">
+    <title lang="zh">Morning Footy</title>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924160000 +0000" stop="20260924180000 +0000">
+    <title lang="zh">Morning Footy</title>
+    <desc>Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924180000 +0000" stop="20260924190000 +0000">
+    <title lang="zh">Best of Morning Footy</title>
+    <desc />
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924190000 +0000" stop="20260924200000 +0000">
+    <title lang="zh">90 in 60</title>
+    <desc>Best of the football match in 60 minutes.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924200000 +0000" stop="20260924210000 +0000">
+    <title lang="zh">90 in 60</title>
+    <desc>Best of the football match in 60 minutes.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924210000 +0000" stop="20260924220000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924220000 +0000" stop="20260924230000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260924230000 +0000" stop="20260925000000 +0000">
+    <title lang="zh">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc>News impacting global football and match highlights.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.cbssports" start="20260925000000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">90 in 60</title>
+    <desc>Best of the football match in 60 minutes.</desc>
     <date>2026-09-25</date>
   </programme>
   <programme channel="mastro.fs1" start="20260923000000 +0000" stop="20260923003000 +0000">
@@ -5568,241 +5702,6 @@
     <desc>The Minnesota Lynx hosts the Indiana Fever at Target Center in Minneapolis for a WNBA game. Minnesota leads the season series 1-0. The Fever dropped its last game to the Mystics, while the Lynx beat the Sun 101-89 behind Napheesa Collier's 23 points.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.foxdeportes" start="20260923010000 +0000" stop="20260923030000 +0000">
-    <title lang="zh">Fútbol Mexicano Primera División</title>
-    <desc>Acción de la jornada 9 del Torneo Apertura 2026. Bravos busca sus primeros puntos y Tigres romper su racha de tres empates consecutivos.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923030000 +0000" stop="20260923040000 +0000">
-    <title lang="zh">Los espartanos con José Pablo Coello</title>
-    <desc>El deporte con conocimiento en tendencia y voz editorial fuerte, sin filtros. Debate, humor e irreverencia dentro de una conversación deportiva más allá del fútbol.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923040000 +0000" stop="20260923050000 +0000">
-    <title lang="zh">Live: FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923050000 +0000" stop="20260923060000 +0000">
-    <title lang="zh">Live: Cuadro titular</title>
-    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923060000 +0000" stop="20260923070000 +0000">
-    <title lang="zh">FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923070000 +0000" stop="20260923080000 +0000">
-    <title lang="zh">Cuadro titular</title>
-    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923080000 +0000" stop="20260923083000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923083000 +0000" stop="20260923090000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923090000 +0000" stop="20260923093000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923093000 +0000" stop="20260923100000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923100000 +0000" stop="20260923103000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923103000 +0000" stop="20260923110000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923110000 +0000" stop="20260923120000 +0000">
-    <title lang="zh">FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923120000 +0000" stop="20260923130000 +0000">
-    <title lang="zh">Cuadro titular</title>
-    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923130000 +0000" stop="20260923150000 +0000">
-    <title lang="zh">El Chiringuito de Jugones</title>
-    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923150000 +0000" stop="20260923160000 +0000">
-    <title lang="zh">FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923160000 +0000" stop="20260923180000 +0000">
-    <title lang="zh">Live: Gol x gol América</title>
-    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923180000 +0000" stop="20260923200000 +0000">
-    <title lang="zh">Fútbol Colombiano Primera División</title>
-    <desc>Acción de la fecha 11 del Torneo Finalización 2026 de la Categoría Primera A. Independiente Medellín se enfrenta a Jaguares. Desde el estadio Atanasio Girardot, en Medellín, Colombia.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923200000 +0000" stop="20260923203000 +0000">
-    <title lang="zh">Fox noticias en Fox Deportes</title>
-    <desc>Noticias para estar al tanto de lo que está sucediendo en el mundo.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923203000 +0000" stop="20260923210000 +0000">
-    <title lang="zh">Gol x gol América Xpress</title>
-    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923210000 +0000" stop="20260923220000 +0000">
-    <title lang="zh">Live: Mother Soccer</title>
-    <desc>Una mezcla de entretenimiento, información y análisis relajado, en la que se buscan las tendencias en redes y temas virales con enlaces a todas las sedes.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260923220000 +0000" stop="20260924000000 +0000">
-    <title lang="zh">Live: El Chiringuito de Jugones</title>
-    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
-    <date>2026-09-23</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924000000 +0000" stop="20260924003000 +0000">
-    <title lang="zh">El gran show del fútbol</title>
-    <desc>Liderar a Argentina hacia la gloria en la Copa del Mundo de 2022 consolidó la posición de Lionel Messi como el mejor futbolista de la historia.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924003000 +0000" stop="20260924023000 +0000">
-    <title lang="zh">Live: Fútbol Colombiano Primera División</title>
-    <desc>Acción de la fecha 12 del Torneo Finalización 2026 de la Categoría Primera A. América de Cali se enfrenta a Águilas Doradas. Desde el estadio Pascual Guerrero, en Cali, Valle del Cauca, Colombia.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924023000 +0000" stop="20260924030000 +0000">
-    <title lang="zh">El gran show del fútbol</title>
-    <desc>Las selecciones españolas de 2008 a 2012 quedarán grabadas en la memoria como una de las mejores de la historia de este deporte.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924030000 +0000" stop="20260924040000 +0000">
-    <title lang="zh">Los espartanos con José Pablo Coello</title>
-    <desc>El deporte con conocimiento, tendencias y voz editorial fuerte, sin filtros. Debate, humor e irreverencia en una conversación deportiva que va más allá del fútbol.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924040000 +0000" stop="20260924050000 +0000">
-    <title lang="zh">Live: FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924050000 +0000" stop="20260924060000 +0000">
-    <title lang="zh">Live: Cuadro titular</title>
-    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924060000 +0000" stop="20260924070000 +0000">
-    <title lang="zh">FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924070000 +0000" stop="20260924080000 +0000">
-    <title lang="zh">Cuadro titular</title>
-    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924080000 +0000" stop="20260924083000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924083000 +0000" stop="20260924090000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924090000 +0000" stop="20260924093000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924093000 +0000" stop="20260924100000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924100000 +0000" stop="20260924103000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924103000 +0000" stop="20260924110000 +0000">
-    <title lang="zh">Programa pagado</title>
-    <desc>Programa que muestra diversos productos para la venta.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924110000 +0000" stop="20260924120000 +0000">
-    <title lang="zh">FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924120000 +0000" stop="20260924130000 +0000">
-    <title lang="zh">Cuadro titular</title>
-    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924130000 +0000" stop="20260924150000 +0000">
-    <title lang="zh">El Chiringuito de Jugones</title>
-    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924150000 +0000" stop="20260924160000 +0000">
-    <title lang="zh">FOX 365</title>
-    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924160000 +0000" stop="20260924180000 +0000">
-    <title lang="zh">Live: Gol x gol América</title>
-    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924180000 +0000" stop="20260924200000 +0000">
-    <title lang="zh">Fútbol Colombiano Primera División</title>
-    <desc>Acción de la fecha 12 del Torneo Finalización 2026 de la Categoría Primera A. América de Cali se enfrenta a Águilas Doradas. Desde el estadio Pascual Guerrero, en Cali, Valle del Cauca, Colombia.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924200000 +0000" stop="20260924203000 +0000">
-    <title lang="zh">Fox noticias en Fox Deportes</title>
-    <desc>Noticias para estar al tanto de lo que está sucediendo en el mundo.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924203000 +0000" stop="20260924210000 +0000">
-    <title lang="zh">Gol x gol América Xpress</title>
-    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924210000 +0000" stop="20260924220000 +0000">
-    <title lang="zh">Live: Mother Soccer</title>
-    <desc>Una mezcla de entretenimiento, información y análisis relajado, en la que se buscan las tendencias en redes y temas virales con enlaces a todas las sedes.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924220000 +0000" stop="20260924230000 +0000">
-    <title lang="zh">Live: El Chiringuito de Jugones</title>
-    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
-    <date>2026-09-24</date>
-  </programme>
-  <programme channel="mastro.foxdeportes" start="20260924230000 +0000" stop="20260925000000 +0000">
-    <title lang="zh">Live: Béisbol MLB</title>
-    <desc>Tercer juego de la serie regular de la MLB 2026. Cincinnati Reds visita a Atlanta Braves. Desde el Truist Park, en Atlanta, Georgia.</desc>
-    <date>2026-09-24</date>
-  </programme>
   <programme channel="mastro.channel8" start="20260923000000 +0000" stop="20260923010000 +0000">
     <title lang="zh">In his hands - EP 2 / 神之手</title>
     <desc>Jiaheng makes a deal with Situ to save his son. Cheng Feng is manipulated by Situ to locate the person who filmed the video, oblivious to his hidden motive. After Situ succeeded in covering up Dekai’s crime, Xiaolong starts wondering if this cold-blooded man did kill his parents. A battle of wits unfolds when Cheng finally realises Situ is working against him on Dekai’s case.</desc>
@@ -6192,6 +6091,241 @@
     <title lang="zh">In his hands - EP 4 / 神之手</title>
     <desc>When a man is beaten to death, Cheng Feng traces his death to a scam syndicate. Under Situ’s orders, Xiaolong saves the dead man’s girlfriend Ailin and gets key information from her. Situ gains the syndicate leader’s trust by disguising himself as a scammer. Meanwhile, Wang Ruonan falls for a recruitment scam and is trapped by the syndicate. Instead of saving her, Situ sells her out.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923010000 +0000" stop="20260923030000 +0000">
+    <title lang="zh">Fútbol Mexicano Primera División</title>
+    <desc>Acción de la jornada 9 del Torneo Apertura 2026. Bravos busca sus primeros puntos y Tigres romper su racha de tres empates consecutivos.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923030000 +0000" stop="20260923040000 +0000">
+    <title lang="zh">Los espartanos con José Pablo Coello</title>
+    <desc>El deporte con conocimiento en tendencia y voz editorial fuerte, sin filtros. Debate, humor e irreverencia dentro de una conversación deportiva más allá del fútbol.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923040000 +0000" stop="20260923050000 +0000">
+    <title lang="zh">Live: FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923050000 +0000" stop="20260923060000 +0000">
+    <title lang="zh">Live: Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923060000 +0000" stop="20260923070000 +0000">
+    <title lang="zh">FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923070000 +0000" stop="20260923080000 +0000">
+    <title lang="zh">Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923080000 +0000" stop="20260923083000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923083000 +0000" stop="20260923090000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923090000 +0000" stop="20260923093000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923093000 +0000" stop="20260923100000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923100000 +0000" stop="20260923103000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923103000 +0000" stop="20260923110000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923110000 +0000" stop="20260923120000 +0000">
+    <title lang="zh">FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923120000 +0000" stop="20260923130000 +0000">
+    <title lang="zh">Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923130000 +0000" stop="20260923150000 +0000">
+    <title lang="zh">El Chiringuito de Jugones</title>
+    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923150000 +0000" stop="20260923160000 +0000">
+    <title lang="zh">FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923160000 +0000" stop="20260923180000 +0000">
+    <title lang="zh">Live: Gol x gol América</title>
+    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923180000 +0000" stop="20260923200000 +0000">
+    <title lang="zh">Fútbol Colombiano Primera División</title>
+    <desc>Acción de la fecha 11 del Torneo Finalización 2026 de la Categoría Primera A. Independiente Medellín se enfrenta a Jaguares. Desde el estadio Atanasio Girardot, en Medellín, Colombia.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923200000 +0000" stop="20260923203000 +0000">
+    <title lang="zh">Fox noticias en Fox Deportes</title>
+    <desc>Noticias para estar al tanto de lo que está sucediendo en el mundo.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923203000 +0000" stop="20260923210000 +0000">
+    <title lang="zh">Gol x gol América Xpress</title>
+    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923210000 +0000" stop="20260923220000 +0000">
+    <title lang="zh">Live: Mother Soccer</title>
+    <desc>Una mezcla de entretenimiento, información y análisis relajado, en la que se buscan las tendencias en redes y temas virales con enlaces a todas las sedes.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260923220000 +0000" stop="20260924000000 +0000">
+    <title lang="zh">Live: El Chiringuito de Jugones</title>
+    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924000000 +0000" stop="20260924003000 +0000">
+    <title lang="zh">El gran show del fútbol</title>
+    <desc>Liderar a Argentina hacia la gloria en la Copa del Mundo de 2022 consolidó la posición de Lionel Messi como el mejor futbolista de la historia.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924003000 +0000" stop="20260924023000 +0000">
+    <title lang="zh">Live: Fútbol Colombiano Primera División</title>
+    <desc>Acción de la fecha 12 del Torneo Finalización 2026 de la Categoría Primera A. América de Cali se enfrenta a Águilas Doradas. Desde el estadio Pascual Guerrero, en Cali, Valle del Cauca, Colombia.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924023000 +0000" stop="20260924030000 +0000">
+    <title lang="zh">El gran show del fútbol</title>
+    <desc>Las selecciones españolas de 2008 a 2012 quedarán grabadas en la memoria como una de las mejores de la historia de este deporte.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924030000 +0000" stop="20260924040000 +0000">
+    <title lang="zh">Los espartanos con José Pablo Coello</title>
+    <desc>El deporte con conocimiento, tendencias y voz editorial fuerte, sin filtros. Debate, humor e irreverencia en una conversación deportiva que va más allá del fútbol.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924040000 +0000" stop="20260924050000 +0000">
+    <title lang="zh">Live: FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924050000 +0000" stop="20260924060000 +0000">
+    <title lang="zh">Live: Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924060000 +0000" stop="20260924070000 +0000">
+    <title lang="zh">FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924070000 +0000" stop="20260924080000 +0000">
+    <title lang="zh">Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924080000 +0000" stop="20260924083000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924083000 +0000" stop="20260924090000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924090000 +0000" stop="20260924093000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924093000 +0000" stop="20260924100000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924100000 +0000" stop="20260924103000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924103000 +0000" stop="20260924110000 +0000">
+    <title lang="zh">Programa pagado</title>
+    <desc>Programa que muestra diversos productos para la venta.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924110000 +0000" stop="20260924120000 +0000">
+    <title lang="zh">FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924120000 +0000" stop="20260924130000 +0000">
+    <title lang="zh">Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924130000 +0000" stop="20260924150000 +0000">
+    <title lang="zh">El Chiringuito de Jugones</title>
+    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924150000 +0000" stop="20260924160000 +0000">
+    <title lang="zh">FOX 365</title>
+    <desc>Noticiero deportivo que combina análisis y opinión, ofreciendo diferentes ángulos para desarrollar las noticias más importantes del mundo del deporte.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924160000 +0000" stop="20260924180000 +0000">
+    <title lang="zh">Live: Gol x gol América</title>
+    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924180000 +0000" stop="20260924200000 +0000">
+    <title lang="zh">Fútbol Colombiano Primera División</title>
+    <desc>Acción de la fecha 12 del Torneo Finalización 2026 de la Categoría Primera A. América de Cali se enfrenta a Águilas Doradas. Desde el estadio Pascual Guerrero, en Cali, Valle del Cauca, Colombia.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924200000 +0000" stop="20260924203000 +0000">
+    <title lang="zh">Fox noticias en Fox Deportes</title>
+    <desc>Noticias para estar al tanto de lo que está sucediendo en el mundo.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924203000 +0000" stop="20260924210000 +0000">
+    <title lang="zh">Gol x gol América Xpress</title>
+    <desc>Especialistas de fútbol comentan sobre lo más destacado de los partidos y las noticias de las ligas de balompié de América.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924210000 +0000" stop="20260924220000 +0000">
+    <title lang="zh">Live: Mother Soccer</title>
+    <desc>Una mezcla de entretenimiento, información y análisis relajado, en la que se buscan las tendencias en redes y temas virales con enlaces a todas las sedes.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924220000 +0000" stop="20260924230000 +0000">
+    <title lang="zh">Live: El Chiringuito de Jugones</title>
+    <desc>Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.foxdeportes" start="20260924230000 +0000" stop="20260925000000 +0000">
+    <title lang="zh">Live: Béisbol MLB</title>
+    <desc>Tercer juego de la serie regular de la MLB 2026. Cincinnati Reds visita a Atlanta Braves. Desde el Truist Park, en Atlanta, Georgia.</desc>
+    <date>2026-09-24</date>
   </programme>
   <programme channel="mastro.channelu" start="20260923025700 +0000" stop="20260923031400 +0000">
     <title lang="zh">The Wonder Shop - EP 236</title>
@@ -35608,134 +35742,554 @@
     <desc>Mr. Krabs warns SpongeBob to stay away from fishhooks; SpongeBob summons his favorite superheroes for so-called emergencies.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260923000000 +0000" stop="20260923020000 +0000">
-    <title lang="zh">Serie A: Atalanta vs Cagliari</title>
-    <desc>Serie A 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260923000900 +0000" stop="20260923003600 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>A training accident makes Chloe's powers faulty; Max tries to cure her and gets a misleading positive result, so she goes to a party; but his treatment actually creates brand-new powers Chloe can't control.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923020000 +0000" stop="20260923040000 +0000">
-    <title lang="zh">Serie A: Torino vs Roma</title>
-    <desc>Serie A 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260923003600 +0000" stop="20260923010300 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>Chloe has been missing school by going on missions with her siblings; she has to go to summer school to catch up on everything she has missed; Max, acting as the substitute for summer school, has a new student who agrees to tutor her.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923040000 +0000" stop="20260923060000 +0000">
-    <title lang="zh">Serie A: Como vs Parma</title>
-    <desc>Serie A 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260923010300 +0000" stop="20260923013000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Lincoln and Clyde both get an internship at Flip's, they compete to win the title of manager; after seeing how tame Pop Pop has gotten in his advanced age, Lincoln takes him out for a day to remember.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923060000 +0000" stop="20260923080000 +0000">
-    <title lang="zh">DFB: St.Tonis vs Eintracht</title>
-    <desc>DFB-Pokal 2026/27: Round 1: SC St.Tonis vs Eintracht Frankfurt, from Grotenburg-Stadion, Krefeld, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923013000 +0000" stop="20260923015700 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lola struggles to dampen her sweet tooth when mom challenges her to go an entire week without added sugar; Lincoln strives to impress the Amazing Brailster when he's chosen to be his assistant at the Illusion Château.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923080000 +0000" stop="20260923100000 +0000">
-    <title lang="zh">DFB: Rostock vs Stuttgart</title>
-    <desc>DFB-Pokal 2026/27: Round 1: Hansa Rostock vs VfB Stuttgart, from Ostseestadion, Rostock, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923015700 +0000" stop="20260923022400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>To get out of doing things they don't like, Lana and Lola secretly switch places and pretend to be the other; after causing Flip to get hurt, the kids sneak him into the attic to care for him without Mom and Dad knowing.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923100000 +0000" stop="20260923110000 +0000">
-    <title lang="zh">Dutch League 2026/27: Highlights Rd7</title>
-    <desc>Highlights of all the matches during the week, including players and managers interviews.</desc>
+  <programme channel="mastro.teennick" start="20260923022400 +0000" stop="20260923025100 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>After a pun-filled trip to the grocery store with Luan and Lola, Dad worries Lola thinks he plays favorites; when Lynn's friend Margo is celebrated for a one-in-a-million soccer goal, Lynn tries to be supportive.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923110000 +0000" stop="20260923130000 +0000">
-    <title lang="zh">DFB: Wiesbaden vs Leverkusen</title>
-    <desc>DFB-Pokal 2026/27: Round 1: Wehen Wiesbaden vs Bayer 04 Leverkusen, from Brita Arena, Wiesbaden, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923025100 +0000" stop="20260923031800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>The kids promise to help their dad with the opening of his new restaurant by coming up with promotions, but their lack of teamwork and crazy promos lead to a nightmare in the kitchen.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923130000 +0000" stop="20260923150000 +0000">
-    <title lang="zh">DFB: Luneburger vs Bremen</title>
-    <desc>DFB-Pokal 2026/27: Round 1: Luneburger SK vs Werder Bremen, from Millerntor-Stadion, Hamburg, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923031800 +0000" stop="20260923034500 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln is convinced the middle school lunch lady is holding a grudge against him and his older sisters; Mr. Grouse attempts to find some peace and quiet after moving away from the Louds.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923150000 +0000" stop="20260923170000 +0000">
-    <title lang="zh">DFB: Schott vs M'gladbach</title>
-    <desc>DFB-Pokal 2026/27: Round 1: TSV Schott vs Borussia M'gladbach, from MEWA Arena, Mainz, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923034500 +0000" stop="20260923041200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Dad discovers that his childhood camp is closing, he decides to take the family for one final visit; they soon uncover a map that could lead to a treasure big enough to save the camp and prove the existence of an old camp legend.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923170000 +0000" stop="20260923190000 +0000">
-    <title lang="zh">DFB: Dusseldorf vs Freiburg</title>
-    <desc>DFB-Pokal 2026/27: Round 1: Fortuna Dusseldorf vs SC Freiburg, from Merkur Spiel-Arena, Dusseldorf, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923041200 +0000" stop="20260923043900 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>To make it to school, the Louds must survive a monstrous Lynn when the weatherman declares it a Packing Day; when there are signs of a yeti in Royal Woods, the Action News Team sets out to prove its existence.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923190000 +0000" stop="20260923220000 +0000">
-    <title lang="zh">DFB: Berlin vs Wolfsburg</title>
-    <desc>DFB-Pokal 2026/27: Round 1: Altglienicke Berlin vs VfL Wolfsburg, from Friedrich‑Ludwig‑Jahn‑Sportpark, Berlin, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260923043900 +0000" stop="20260923050600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>While on a field trip, Lincoln worries that his friend group is splintering; to buy her dream car, Lori becomes a local ride-share driver.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260923220000 +0000" stop="20260924000000 +0000">
-    <title lang="zh">Dutch: Ajax vs Willem II</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260923050600 +0000" stop="20260923053300 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln spills one of Lisa's experiments, setting off a chain reaction throughout the house; Lincoln tries to encourage the family to stop using so much electricity.</desc>
     <date>2026-09-23</date>
   </programme>
-  <programme channel="mastro.football" start="20260924000000 +0000" stop="20260924020000 +0000">
-    <title lang="zh">Dutch: PSV vs Groningen</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260923053300 +0000" stop="20260923060000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lynn tries to stall her friends from riding the new coaster at Dairyland, before they find out her secret; after Lola and Mr. Grouse find a precious gem, the two struggle to decide who gets to watch over it.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923060000 +0000" stop="20260923062400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Leni and Carlota's working styles clash when they are both interning for a famous fashion designer, Mariella Moss; the Louds book a stay at an all-inclusive resort, only to find the vacation is not what they imagined.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923062400 +0000" stop="20260923064800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>All of Lincoln's sisters develop a crush on his new tutor, making it impossible for Lincoln to study; the children complain about their house, but they start to feel differently after a tornado threatens to destroy it.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923064800 +0000" stop="20260923071200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Howard and Harold tear their home apart after Clyde starts spending more time with the gang and less time at home; Sunset Canyon is falling apart and Lincoln and Clyde are determined to find out why.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923071200 +0000" stop="20260923073600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>A competition creates a rift; Lana struggles to find homes for the exotic pets at the Royal Woods Animal Shelter before they're moved out.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923073600 +0000" stop="20260923080000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lana and Lincoln enter to compete in a soap box derby; Luan must enroll in a culinary class.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923080000 +0000" stop="20260923082400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lola and Lana try out for Bluebell Scouts, but discover one of them might be more suited for it; when Lincoln and Clyde think Bobby is cheating on Lori, they follow him around town gathering evidence.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923082400 +0000" stop="20260923084800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>The Loud siblings intervene when they think Lori is failing out of Fairway U; Benny struggles to rein in Luan and her practical jokes when she becomes his coworker at the Burpin' Burger.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923084800 +0000" stop="20260923091200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Afraid they will be forgotten, Lincoln and Clyde want to make a splash in the yearbook and crash group photos; seeing his sisters fight with their roommates, Lincoln suggests a room shuffle based on a compatibility test.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923091200 +0000" stop="20260923093600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lynn's extreme sports superstitions cause chaos; the kids try to convince Mom and Dad that they still play with their childhood toys.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923093600 +0000" stop="20260923100000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln worries that he has lost his manliness from growing up with sisters, so he and Clyde decide to go camping; Lincoln gets Lori a job at a pizza arcade, but Lori gets in trouble when he starts to ask for favors.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923100000 +0000" stop="20260923102700 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Ronnie Anne makes friends with Sid, a girl whose family wants to rent the apartment upstairs; when it looks like another couple might get it first, the girls resort to sabotage to try and dissuade them.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923102700 +0000" stop="20260923105400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When a high utility bill threatens Hector and Rosa's annual trip, Ronnie Anne spearheads an effort to lower usage; desperate for their own space, Ronnie Anne and Sid find a hidden room and try to keep it from the other tenants.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923105400 +0000" stop="20260923112100 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Vanzilla seems too broken down to ever drive again, Lana, Dad and Gramps band together to fix her; Lynn and friends enjoy free perks around Royal Woods when their team gets sponsored by local businesses.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923112100 +0000" stop="20260923114800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lucy casts a spell; Rusty and the rest of their friends try to toughen Zach up.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923114800 +0000" stop="20260923121500 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Hit by the realization that her big sister will be going off to college soon, Leni tries to thwart Lori's plans; Lincoln and Clyde start their own cookie-making business, but realize it's a lot more work than they realized.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923121500 +0000" stop="20260923124200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When the lights go out in the Loud House, the kids entertain themselves by taking turns telling parts of a story; Lucy and the Morticians' Club try to thwart plans for a school field trip to the beach.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923124200 +0000" stop="20260923130900 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Lincoln and Clyde overwater Howard's rare orchid, the two embark on an adventure to replace it; Lynn Sr. is stoked to compete on a televised cooking show until he learns he's up against Rosa Casagrande.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923130900 +0000" stop="20260923133600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lola does everything to stop Lana from planning their joint birthday party; Lincoln and the Middle School Action News Team solve a mystery.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923133600 +0000" stop="20260923140200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln is tired of his sisters' meddling until he is being picked on at school; Lincoln records his sisters' most embarrassing moments.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923140200 +0000" stop="20260923142800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When the children hear Lily curse, they become worried that they have been a bad influence on her; when a love letter addressed to L. Loud arrives, the family tries to figure out who it was meant for.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923142800 +0000" stop="20260923145400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln and his friends try to find another way to get to school after a run in with the eighth-grade bullies on the bus; Lincoln and Clyde are at odds when they discover there's only room for one of their grandmas at Sunset Canyon.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923145400 +0000" stop="20260923152000 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>While Phoebe is baby-sitting her boyfriend's brother, the boy discovers his evil side after getting his hands on one of Max's inventions.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923152000 +0000" stop="20260923154700 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>After Cherry accidentally posts a photo revealing the Thundermans' secret, the Hero League forces Phoebe to end the relationship with her best friend.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923154700 +0000" stop="20260923161300 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe and Max Thunderman are twins in a family of superheroes; Phoebe strives to use her powers for good, and Max embraces the dark side.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923161300 +0000" stop="20260923163900 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max uses Phoebe to help retrieve his chronicle of evil deeds from the school's confiscation closet, but breaks her trust to pull off his plan.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923163900 +0000" stop="20260923170500 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max is nervous when his girlfriend auditions for the romantic lead in the school play opposite a cute boy, so he convinces Phoebe to audition for the same role.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923170500 +0000" stop="20260923173100 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Billy and Nora seek Phoebe's help to retrieve their mother's tablet after it is confiscated at school.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923173100 +0000" stop="20260923175700 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>When Chloe announces that Max is her favorite sibling, Phoebe tries to reveal Max's true colors using a bedtime story.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923175700 +0000" stop="20260923182300 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>Max convinces Cherry to pretend they are dating to get discounts at her new workplace, Splat by Sea; Chloe must choose between winning a quiz or supporting Billy's wish to join her team.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923182300 +0000" stop="20260923184900 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>The former protector of Secret Shores arrives at the Thundermans' beach house and reclaims it as his home; Phoebe, Max and Chloe try to reason with him; when a protest at the school goes wrong, the former hero proves more harmful than helpful.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923184900 +0000" stop="20260923191500 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe must baby-sit President Kuckbutt's troublemaking teen daughter as her latest superhero mission, but the assignment quickly gets out of control.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923191500 +0000" stop="20260923194200 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe's allegiance is torn when she learns that her boyfriend's father might be plotting a return to evil.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923194200 +0000" stop="20260923200800 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>After discovering that Link's ex-girlfriend is a secret supervillain, Phoebe enlists Max's help in exposing her rival's true motives.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923200800 +0000" stop="20260923203400 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>The Thunder family splits up for the night; the boys decide to survive 24 hours in the wilderness, while the girls try to bond over some of Barb's favorite farm activities from her childhood.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923203400 +0000" stop="20260923210100 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe makes a life-altering decision when her powers combined with Max's powers are not enough to stop one of Max's old pranks from ruining a superhero gathering.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923210100 +0000" stop="20260923212800 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe enlists Max's help in a tennis tournament in order to win a membership at Link's family's country club.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923212800 +0000" stop="20260923215400 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max and Phoebe ask Cherry to secretly fill-in after Phoebe injures herself the night before a meeting with the Z-Force.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923215400 +0000" stop="20260923222100 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max and Phoebe take Billy to the hospital when he hurts his thumb; Max faints when he sees a needle.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923222100 +0000" stop="20260923224800 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>The twins work together to get even with a mean girl at school.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923224800 +0000" stop="20260923231500 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>When Max feels nervous about meeting his girlfriend's parents, he seeks Phoebe's help to try and win them over.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923231500 +0000" stop="20260923234200 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Despite hoping to be matched with her favorite hero in the Superhero Mentor Program, Phoebe feels pressure to choose her father instead.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260923234200 +0000" stop="20260924000000 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Determined to meet a famous pop singer visiting Hiddenville High, Phoebe and Max devise elaborate schemes to insert themselves into her performance that quickly lead to disastrous results.</desc>
+    <date>2026-09-23</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924000900 +0000" stop="20260924003600 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>Captain Perfect's younger sister, Penny, is headed down the path of becoming a supervillain; eager to impress Captain Perfect, Max takes it upon himself to guide her toward a better path.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924020000 +0000" stop="20260924040000 +0000">
-    <title lang="zh">Dutch: Cambuur vs Feyenoord</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924003600 +0000" stop="20260924010300 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>Phoebe and Max tell holiday stories to compete in the Thundermans Story Slam, but it's Chloe's story that makes them understand the meaning of the holiday.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924040000 +0000" stop="20260924060000 +0000">
-    <title lang="zh">Dutch: Utrecht vs PSV</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924010300 +0000" stop="20260924013000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Dad gets upset with the children for never locking the front door, they decide to take home security to the next level; when Lincoln accidentally erases his childhood photos, he and Clyde attempt to recreate them before his memory fades.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924060000 +0000" stop="20260924080000 +0000">
-    <title lang="zh">Dutch: Feyenoord vs Den Haag</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924013000 +0000" stop="20260924015700 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Luna needs to get rid of a nasty case of the hiccups before a big rock competition; the Morticians Club plans Bertrand's escape from the cruise ship his parents work on.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924080000 +0000" stop="20260924100000 +0000">
-    <title lang="zh">Dutch: Telstar vs Ajax</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924015700 +0000" stop="20260924022400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln has a plan to get the best seat in the car for a long road trip; Lincoln needs to prove he is mature so he can sit at the adult table.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924100000 +0000" stop="20260924120000 +0000">
-    <title lang="zh">Dutch: Feyenoord vs GA Eagles</title>
-    <desc>Dutch League 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924022400 +0000" stop="20260924025100 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln has a plan for introducing himself to a new girl; Pop Pop introduces his new girlfriend to the family; she seems great until she starts showing up unannounced.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924120000 +0000" stop="20260924140000 +0000">
-    <title lang="zh">DFB: Hamburg vs Dortmund</title>
-    <desc>DFB-Pokal 2026/27: Round 1: HEBC Hamburg vs Borussia Dortmund, from Volksparkstadion, Hamburg, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260924025100 +0000" stop="20260924031800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>After discovering he has rituals, Lincoln worries he's predictable and vows to change things up; Lori develops the yips when she finds out that the golf coach from her dream college is coming to see her play.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924140000 +0000" stop="20260924160000 +0000">
-    <title lang="zh">DFB: Osnabruck vs Bayern</title>
-    <desc>DFB-Pokal 2026/27: Round 1: VfL Osnabruck vs FC Bayern Munich, from Bremer Brucke, Osnabruck, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260924031800 +0000" stop="20260924034500 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Lincoln and Clyde discover a centuries-old pirate flag, they accidentally awaken the ghost of a vengeful zombie pirate and his octopus sidekick; during a nature hike gone wrong, Leni clashes with a snarky co-counselor.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924160000 +0000" stop="20260924183000 +0000">
-    <title lang="zh">DFB: Hallescher vs Schalke</title>
-    <desc>DFB-Pokal 2026/27: Round 1: Hallescher FC vs Schalke 04, from Leuna Chemie Stadion, Halle, Germany.</desc>
+  <programme channel="mastro.teennick" start="20260924034500 +0000" stop="20260924041200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>The Loud family and Clyde arrive for a fun-filled summer at Camp Mastodon, but Lincoln and Clyde quickly find themselves in a battle against the toughest bunk at camp.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924183000 +0000" stop="20260924190000 +0000">
-    <title lang="zh">Serie A 2026/27: Full Impact Rd4</title>
-    <desc>Serie A 2026/27: Highlights of all the matches during the week, including players and managers interviews.</desc>
+  <programme channel="mastro.teennick" start="20260924041200 +0000" stop="20260924043900 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>The cheerleaders challenge Lynn and her teammates to a cheer-off when Lynn dismisses them as athletes; Lori becomes a celebrity at school when she hits a hole-in-one on a notoriously difficult course.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924190000 +0000" stop="20260924200000 +0000">
-    <title lang="zh">Dutch League 2026/27: Highlights Rd7</title>
-    <desc>Highlights of all the matches during the week, including players and managers interviews.</desc>
+  <programme channel="mastro.teennick" start="20260924043900 +0000" stop="20260924050600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln and Clyde submit an Ace Savvy comic to a meet-the-creator contest, but are foiled by a surprising nemesis; when Lana brings home a new pet, whom the children adore, the four original Loud pets scheme to get rid of him.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924200000 +0000" stop="20260924220000 +0000">
-    <title lang="zh">Serie A: Fiorentina vs Torino</title>
-    <desc>Serie A 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924050600 +0000" stop="20260924053300 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Luan tries out for the school play to get closer to her crush, Benny; when Clyde and schoolmate Zach begin bonding over a mutual interest in antiques, Lincoln quickly finds himself feeling like a third wheel.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260924220000 +0000" stop="20260925000000 +0000">
-    <title lang="zh">Serie A: Roma vs Atalanta</title>
-    <desc>Serie A 2026/27: Matches</desc>
+  <programme channel="mastro.teennick" start="20260924053300 +0000" stop="20260924060000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Ronnie Anne and Bobby visit their crazy extended family, Bobby fits in great, but Ronnie Anne struggles with the smothering nature of their relatives.</desc>
     <date>2026-09-24</date>
   </programme>
-  <programme channel="mastro.football" start="20260925000000 +0000" stop="20260926000000 +0000">
-    <title lang="zh">Serie A: Frosinone vs Venezia</title>
-    <desc>Serie A 2026/27: Matches</desc>
-    <date>2026-09-25</date>
+  <programme channel="mastro.teennick" start="20260924060000 +0000" stop="20260924062400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lynn desperately wants to win a basketball championship but gets drafted onto a terrible team; Mom and Dad decide to build a secret bathroom after they become sick of waiting their turn in line.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924062400 +0000" stop="20260924064800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lincoln and the gang are trapped in the woods with Mr. Bolhofner, who may not be who he says he is; Lana gets more than she bargained for when she takes on Stella.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924064800 +0000" stop="20260924071200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Clyde thinks that his parents are having another baby, he seeks Lincoln's advice on how to be a big brother; a fight breaks out in the Loud house when Lori and Leni buy identical dresses.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924071200 +0000" stop="20260924073600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When the kids break Mom and Dad's priceless vase, they decide the only thing to do is go back in time to their wedding day and prevent them from ever receiving it.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924073600 +0000" stop="20260924080000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Royal Woods is in danger of being flooded to make room for a sixth Great Lake, the town comes together to prove that they're worth saving.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924080000 +0000" stop="20260924082400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lynn finds an unexpected TV sports-watching buddy in the family's next-door neighbor, Mr. Grouse; when Lisa realizes that Pop Pop won't be around forever, she turns to science to ensure his longevity.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924082400 +0000" stop="20260924084800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Hoping to win a songwriting contest, Luna contemplates whether she should go with a song that's true to her sound or try to make something that the whole world will love.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924084800 +0000" stop="20260924091200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lana convinces the children to go to the Burpin' Burger to meet her racecar driving hero despite the heavy snowfall; when Lincoln goes on vacation with Clyde, he realizes how overprotective Clyde's parents are.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924091200 +0000" stop="20260924093600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>The Louds rent a boat for a relaxing day trip on the lake, but the family ends up marooned on a desert island; Lincoln and Clyde, as Ace and Jack, investigate when they discover a frozen food company is using Dad's recipes.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924093600 +0000" stop="20260924100000 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>The Louds journey to Naples, Italy to taste the world's best pizza, made by a secretive and legendary chef; When Lynn crushes on a boy in the Swiss Alps, Lori and Leni become her crush-coaches to help her talk to him.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924100000 +0000" stop="20260924102700 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When the Louds run into Mom's old camp crush turned celebrity at a State Fair, Dad tries to one-up him to impress Rita; Mr. Coconuts is missing and Luan rallies the Louds to track him down along Route 66.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924102700 +0000" stop="20260924105400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>At Camp Mastodon, Lynn pushes an overly-cautious Lisa to become more adventurous; when Lori learns her Camp Mastodon campers think she's uncool, she tries to impress them by breaking the rules.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924105400 +0000" stop="20260924112100 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lola realizes that double the cuteness could help her break into show business, so she teams up with Lily; Lori vows to make up for lost time in her senior year.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924112100 +0000" stop="20260924114800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Annoyed by Leni's intrusive babysitting, Lisa accidentally blasts herself and Todd into space; Lola tries to whip Mom into tip-top pageant condition for a mother-daughter pageant.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924114800 +0000" stop="20260924121500 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Lori struggles to make a good impression on Bobby's dad after accidentally pushing him into a puddle; desperate to have the best show-and-tell in class, Lily takes Lisa's shrink ray to school.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924121500 +0000" stop="20260924124200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Mom tries to convince a newspaper editor that her kids are perfect in order to land a parenting advice column job; Luna is hired to watch the McBrides' cat when they go out of town, but the job becomes more demanding than she imagined.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924124200 +0000" stop="20260924130900 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>When Leni and her friends start hanging out at Gus', Lincoln and the gang start a turf war for control; Lucy gets jealous of Lola's newfound attention after she joins the Mortician's Club.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924130900 +0000" stop="20260924133600 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Tired of monotonous meals, the children make a plan to sabotage dinner so they can have pizza; Lincoln and Ronnie Anne have to take care of an egg baby, but Lincoln does not trust her with the fragile egg.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924133600 +0000" stop="20260924140200 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Eager to uncover secrets from the past, Lisa uses her technology to wake up a frozen caveman; to win the prank war between Fairway University and their rival Par College, Lori recruits the help of Luan.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924140200 +0000" stop="20260924142800 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Luna and the Moon Goats try to form a kiddie band to raise enough money for new equipment; when Lori mentions her new boyfriend's habit, Lori and Luna start to notice their partners' habits.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924142800 +0000" stop="20260924145400 +0000">
+    <title lang="zh">The Loud House</title>
+    <desc>Luan thinks Mr. Coconuts is out for revenge when she replaces him with Lola in her act; hoping to drive out to the outlets to meet Lori, Leni looks for alternative ways to get her driver's license.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924145400 +0000" stop="20260924152000 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe and Max use one of his devices to make Hank and Barb act like teenagers, but the siblings quickly grow to regret their actions.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924152000 +0000" stop="20260924154700 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe's plan to get Max and Link to be friends backfires when Link starts spending more time with Max than her.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924154700 +0000" stop="20260924161300 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>When Phoebe sneaks out to a party and saves someone's life, she asks Max to take credit for the save so she can remain on the superhero training path.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924161300 +0000" stop="20260924163900 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max causes a rift between Phoebe and Link when he uses personal information about them in a song for his band; Hank and Barb try to teach Billy and Nora a valuable lesson.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924163900 +0000" stop="20260924170500 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe joins the cool group for a class project, but quickly discovers that they do not want to work as hard as she does.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924170500 +0000" stop="20260924173100 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Cherry asks Max to use his superpowers to help her get her driver's license; Phoebe's jealousy threatens her relationship with her best friend.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924173100 +0000" stop="20260924175700 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max tries to find the culprit when his skin turns blue during a date.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924175700 +0000" stop="20260924182300 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>A new super-fast villain is wreaking havoc in Secret Shores; after Billy's speed accidentally triggers an avalanche, he decides to hang up his cape and retire.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924182300 +0000" stop="20260924184900 +0000">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc>Max bets Phoebe she can't turn off being a superhero and go on a normal date; Chloe helps Phoebe do well on the date, but Max tries to sabotage by crying wolf; suddenly, a real supervillain emerges and puts Max and Chloe in serious danger.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924184900 +0000" stop="20260924191500 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>While preoccupied with Z-Force training, Phoebe and Max discover that they have forgotten special family events.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924191500 +0000" stop="20260924194200 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe worries that Max will revert to his evil ways after he is asked to give a "Scared Straight" talk to a group of young supervillains in prison, but her efforts to protect Max from himself end up doing more harm than good.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924194200 +0000" stop="20260924200800 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Hank and Phoebe think their house has been robbed when they return home and discover the furniture is missing.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924200800 +0000" stop="20260924203400 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>The children wind up bringing home a real baby instead of Nora's doll when Phoebe drags Billy and Nora to the park to meet her crush and his baby brother.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924203400 +0000" stop="20260924210100 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe believes that her MKTO concert tickets were destroyed, but Max is going to use them to take his crush to the concert.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924210100 +0000" stop="20260924212800 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max tries to reestablish his evil reputation by committing petty crimes; Max must choose between his friends and his reputation.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924212800 +0000" stop="20260924215400 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>When Hank raises the stakes of family game night to a new high, each member of the family will do whatever it takes to win the grand prize.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924215400 +0000" stop="20260924222100 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>When Phoebe gets help from Billy on an art project, she learns that he took the piece from a museum.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924222100 +0000" stop="20260924224800 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Max takes on a group of freshmen to be his minions; Max becomes the victim of a humiliating prank.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924224800 +0000" stop="20260924231500 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>When Phoebe gets too busy, Max tries to help her out by creating a clone of her so she can be in two places at once; but things go sideways when the clone starts to create problems for the real Phoebe.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924231500 +0000" stop="20260924234200 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>After Phoebe chooses Billy to accompany her to their favorite cookie factory's exclusive tasting event, Max and Nora are determined to sneak in and get to the delicious treats first.</desc>
+    <date>2026-09-24</date>
+  </programme>
+  <programme channel="mastro.teennick" start="20260924234200 +0000" stop="20260925000000 +0000">
+    <title lang="zh">The Thundermans</title>
+    <desc>Phoebe and Max must work together on a series of superhero team-building exercises, but their different approaches to training jeopardizes their future as a crime fighting duo.</desc>
+    <date>2026-09-24</date>
   </programme>
 </tv>
