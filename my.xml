@@ -20,6 +20,10 @@
     <display-name lang="en">ASG5</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/627_144.png" />
   </channel>
+  <channel id="mastro.sukanplus">
+    <display-name lang="en">Sukan+</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/621_144.png" />
+  </channel>
   <channel id="mastro.jomngaji">
     <display-name lang="en">Jom Ngaji</display-name>
     <icon src="https://datastore.vr.ctrp.sooka.my/content/images/6e847aJomNgaji.png" />
@@ -2315,6 +2319,853 @@
     <category lang="en">Sports</category>
     <category lang="en">Special Events</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYVOE.jpg" />
+  </programme>
+  <programme start="20260923160000 +0000" stop="20260923163000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Turun Padang</title>
+    <desc lang="en">Program majalah sukan yang memperkenalkan pelbagai jenis permainan sukan secara aktif, santai, dan menghiburkan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923163000 +0000" stop="20260923170000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Liga Geng Kuiz</title>
+    <desc lang="en">Rancangan Kuiz Sukan yang menguji minda serta memfokuskan kepada dunia sukan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923170000 +0000" stop="20260923173000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Dunia Ekstrem</title>
+    <desc lang="en">Sebuah program majalah sukan yang memaparkan aksi lasak, keberanian, dan cabaran mendebarkan</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923173000 +0000" stop="20260923180000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Demi Pertiwi</title>
+    <desc lang="en">Merupakan sebuah siri dokumentari yang mengimbas kembali legasi dan kegemilangan legenda bola sepak tersohor tanah air, Datuk Zainal Abidin Hassan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923180000 +0000" stop="20260923190000 +0000" channel="mastro.sukanplus">
+    <title lang="en">15 Beradik</title>
+    <desc lang="en">Sebuah program realiti yang memfokuskan kepada pencarian bakat sukan ragbi di Malaysia untuk kategori umur di bawah 18 tahun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923190000 +0000" stop="20260923193000 +0000" channel="mastro.sukanplus">
+    <title lang="en">P Untuk Malaysia</title>
+    <desc lang="en">Berkisar tentang paparan kisah kejayaan, cabaran, dan pengorbanan barisan personaliti serta atlet ikonik tanah air yang telah mengharumkan nama Malaysia di pentas antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923193000 +0000" stop="20260923194500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923194500 +0000" stop="20260923200000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sport Shoot</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923200000 +0000" stop="20260923202000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Fifa World Cup Unseen</title>
+    <desc lang="en">Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923202000 +0000" stop="20260923203000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923203000 +0000" stop="20260923210000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Match Day Highlights</title>
+    <desc lang="en">Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923210000 +0000" stop="20260923213000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Generasi Aktif</title>
+    <desc lang="en">Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923213000 +0000" stop="20260923220000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923220000 +0000" stop="20260923220500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Klip Negaraku</title>
+    <desc lang="en">Lagu Negaraku</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923220500 +0000" stop="20260923221500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923221500 +0000" stop="20260923223000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923223000 +0000" stop="20260923230000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923230000 +0000" stop="20260923234500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260923234500 +0000" stop="20260924000000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Padu Fizikal</title>
+    <desc lang="en">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924000000 +0000" stop="20260924040000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924040000 +0000" stop="20260924043000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Para Jaguh</title>
+    <desc lang="en">Rancangan temu bual mengenai kisah perjuangan dan kejayaan atlet paralimpik negara.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924043000 +0000" stop="20260924050000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Arena Piksel</title>
+    <desc lang="en">Menyingkap kisah di sebalik tabir dan perjalanan hidup para atlet e-sukan, berkongsi ilmu, tip permainan, serta perkembangan ekosistem e-sukan negara.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924050000 +0000" stop="20260924090000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924090000 +0000" stop="20260924100000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Wira Emas</title>
+    <desc lang="en">Mengisahkan tentang atltet Malaysia yang telah berjaya membawa pulang pingat Emas di pelbagai kejohanan peringkat Negara, Asia dan juga Dunia .</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924130000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Stadium E-sukan</title>
+    <desc lang="en">Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924150000 +0000" stop="20260924153000 +0000" channel="mastro.sukanplus">
+    <title lang="en">15 Beradik</title>
+    <desc lang="en">Sebuah program realiti yang memfokuskan kepada pencarian bakat sukan ragbi di Malaysia untuk kategori umur di bawah 18 tahun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924153000 +0000" stop="20260924160000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Stadium E-sukan</title>
+    <desc lang="en">Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Jurnal Sukan #sportpedia</title>
+    <desc lang="en">Membawa penonton meneroka di sebalik tabir pelbagai jenis sukan dari sudut sains,falsafah dan sejarah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924170000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924170000 +0000" stop="20260924180000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Wira Emas</title>
+    <desc lang="en">Mengisahkan tentang atltet Malaysia yang telah berjaya membawa pulang pingat Emas di pelbagai kejohanan peringkat Negara, Asia dan juga Dunia .</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924180000 +0000" stop="20260924190000 +0000" channel="mastro.sukanplus">
+    <title lang="en">15 Beradik</title>
+    <desc lang="en">Sebuah program realiti yang memfokuskan kepada pencarian bakat sukan ragbi di Malaysia untuk kategori umur di bawah 18 tahun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924190000 +0000" stop="20260924193000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Para Jaguh</title>
+    <desc lang="en">Rancangan temu bual mengenai kisah perjuangan dan kejayaan atlet paralimpik negara.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924193000 +0000" stop="20260924200000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Arena Piksel</title>
+    <desc lang="en">Menyingkap kisah di sebalik tabir dan perjalanan hidup para atlet e-sukan, berkongsi ilmu, tip permainan, serta perkembangan ekosistem e-sukan negara.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924200000 +0000" stop="20260924203000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Jurnal Sukan #sportpedia</title>
+    <desc lang="en">Membawa penonton meneroka di sebalik tabir pelbagai jenis sukan dari sudut sains,falsafah dan sejarah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924203000 +0000" stop="20260924210000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Match Day Highlights</title>
+    <desc lang="en">Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924210000 +0000" stop="20260924213000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Generasi Aktif</title>
+    <desc lang="en">Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924213000 +0000" stop="20260924220000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924220000 +0000" stop="20260924220500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Klip Negaraku</title>
+    <desc lang="en">Lagu Negaraku</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924220500 +0000" stop="20260924221500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924221500 +0000" stop="20260924223000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924223000 +0000" stop="20260924230000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924230000 +0000" stop="20260924234500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260924234500 +0000" stop="20260925000000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Padu Fizikal</title>
+    <desc lang="en">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925000000 +0000" stop="20260925040000 +0000" channel="mastro.sukanplus">
+    <title lang="en">(L): Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925040000 +0000" stop="20260925050000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Bintang Muda Takraw</title>
+    <desc lang="en">Bintang Muda Takraw ialah sebuah rancangan realiti sukan yang memfokuskan kepada pencarian, pengasahan, dan pertandingan bakat-bakat muda dalam sukan sepak takraw di peringkat sekolah di seluruh Malaysia</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925050000 +0000" stop="20260925064800 +0000" channel="mastro.sukanplus">
+    <title lang="en">(L): Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925064800 +0000" stop="20260925110000 +0000" channel="mastro.sukanplus">
+    <title lang="en">(L) Fifa Asean Cup 2026 Bangladesh Vs Malaysia</title>
+    <desc lang="en">Ikuti Siaran Langsung perlawanan FIFA Asean Cup 2026 antara pasukan Bangladesh menentang pasukan Malaysia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925110000 +0000" stop="20260925111500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sports Shoot</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925111500 +0000" stop="20260925140000 +0000" channel="mastro.sukanplus">
+    <title lang="en">(L) Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925150000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Aichi-nagoya 2026</title>
+    <desc lang="en">Saksikan siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Planet Sukan 2026</title>
+    <desc lang="en">Sebuah program bual bicara sukan yang memaparkan analisis, kupasan serta berita terkini mengenai dunia sukan tempatan dan antarabangsa</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925161500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925161500 +0000" stop="20260925163000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925163000 +0000" stop="20260925173000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Bintang Muda Takraw</title>
+    <desc lang="en">Bintang Muda Takraw ialah sebuah rancangan realiti sukan yang memfokuskan kepada pencarian, pengasahan, dan pertandingan bakat-bakat muda dalam sukan sepak takraw di peringkat sekolah di seluruh Malaysia</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925173000 +0000" stop="20260925174500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Padu Fizikal</title>
+    <desc lang="en">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925174500 +0000" stop="20260925180000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925183000 +0000" channel="mastro.sukanplus">
+    <title lang="en">House of Champions</title>
+    <desc lang="en">Saksikan majalah sukan House of Champions yang memaparkan atlet sukan yang berjaya mengharumkan naman negara -Pengacara Luqman Hafidz.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260925190000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Aksi 2026</title>
+    <desc lang="en">Rancangan berbentuk dokumentari dan liputan sukan lasak yang penuh dengan aksi mencabar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925190000 +0000" stop="20260925200000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Aichi-nagoya 2026</title>
+    <desc lang="en">Saksikan siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Planet Sukan 2026</title>
+    <desc lang="en">Sebuah program bual bicara sukan yang memaparkan analisis, kupasan serta berita terkini mengenai dunia sukan tempatan dan antarabangsa</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Aksi 2026</title>
+    <desc lang="en">Rancangan berbentuk dokumentari dan liputan sukan lasak yang penuh dengan aksi mencabar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925213000 +0000" stop="20260925220000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260925220500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Klip Negaraku</title>
+    <desc lang="en">Lagu Negaraku</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925220500 +0000" stop="20260925221500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925221500 +0000" stop="20260925223000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925223000 +0000" stop="20260925230000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260925234500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260925234500 +0000" stop="20260926000000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Padu Fizikal</title>
+    <desc lang="en">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926040000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Rashid Mencari Juara (rmj)</title>
+    <desc lang="en">Sebuah program realiti TV bertujuan mencungkil pelapis baharu pemain badminton bagi kategori perseorangan lelaki bertaraf dunia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926091500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sport Shoot</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926091500 +0000" stop="20260926093000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926093000 +0000" stop="20260926100000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sukan Gergasi</title>
+    <desc lang="en">Sukan Gergasi ialah sebuah rancangan permainan sukan santai yang menggabungkan elemen sukan, aktiviti fizikal berskala besar, dan hiburan komedi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926130000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Diari Harimau Muda</title>
+    <desc lang="en">program berbentuk dokumentari sukan dan majalah TV yang menyoroti perjalanan, persiapan, serta kehidupan harian skuad bola sepak muda kebangsaan (Harimau Muda)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="mastro.sukanplus">
+    <title lang="en">P Untuk Malaysia</title>
+    <desc lang="en">Berkisar tentang paparan kisah kejayaan, cabaran, dan pengorbanan barisan personaliti serta atlet ikonik tanah air yang telah mengharumkan nama Malaysia di pentas antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926150000 +0000" stop="20260926151500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sport Shoot</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926151500 +0000" stop="20260926153000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Fifa World Cup Unseen</title>
+    <desc lang="en">Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926163000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Stadium E-sukan</title>
+    <desc lang="en">Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926173000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Rashid Mencari Juara (rmj)</title>
+    <desc lang="en">Sebuah program realiti TV bertujuan mencungkil pelapis baharu pemain badminton bagi kategori perseorangan lelaki bertaraf dunia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Diari Harimau Muda</title>
+    <desc lang="en">program berbentuk dokumentari sukan dan majalah TV yang menyoroti perjalanan, persiapan, serta kehidupan harian skuad bola sepak muda kebangsaan (Harimau Muda)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926181500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926181500 +0000" stop="20260926183000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926190000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sukan Gergasi</title>
+    <desc lang="en">Sukan Gergasi ialah sebuah rancangan permainan sukan santai yang menggabungkan elemen sukan, aktiviti fizikal berskala besar, dan hiburan komedi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926193000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Match Day Highlights</title>
+    <desc lang="en">Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926193000 +0000" stop="20260926195000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Fifa World Cup Unseen</title>
+    <desc lang="en">Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926195000 +0000" stop="20260926200000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sport Shoot</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926210000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Stadium E-sukan</title>
+    <desc lang="en">Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926213000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Generasi Aktif</title>
+    <desc lang="en">Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926213000 +0000" stop="20260926220000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260926220500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Klip Negaraku</title>
+    <desc lang="en">Lagu Negaraku</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926220500 +0000" stop="20260926221500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kapsul Rtm Sports</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926221500 +0000" stop="20260926223000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Inovasi Prestasi</title>
+    <desc lang="en">Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926223000 +0000" stop="20260926230000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260926234500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260926234500 +0000" stop="20260927000000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Padu Fizikal</title>
+    <desc lang="en">Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927000000 +0000" stop="20260927040000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Dunia Ekstrem</title>
+    <desc lang="en">Sebuah program majalah sukan yang memaparkan aksi lasak, keberanian, dan cabaran mendebarkan</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Ekstrem Adrenalin</title>
+    <desc lang="en">Rancangan yang memaparkan tentang pelbagai aksi sukan dan aktiviti ekstrem penuh bertenaga.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Diari Harimau Muda</title>
+    <desc lang="en">program berbentuk dokumentari sukan dan majalah TV yang menyoroti perjalanan, persiapan, serta kehidupan harian skuad bola sepak muda kebangsaan (Harimau Muda)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927093000 +0000" stop="20260927100000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Turun Padang</title>
+    <desc lang="en">Program majalah sukan yang memperkenalkan pelbagai jenis permainan sukan secara aktif, santai, dan menghiburkan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927130000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Luncur Emas : Dua Juara Akuatik Malaysia</title>
+    <desc lang="en">Memaparkan tentang perjalanan kerjaya, pengorbanan, dan formula kejayaan dua orang jaguh sukan akuatik Malaysia dalam memburu kilauan pingat emas demi mengharumkan nama negara di pentas antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sorotan Harian Sukan Asia Aichi-nagoya 2026</title>
+    <desc lang="en">Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927151500 +0000" channel="mastro.sukanplus">
+    <title lang="en">Sport Shoot</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927151500 +0000" stop="20260927153000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Fifa World Cup Unseen</title>
+    <desc lang="en">Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927153000 +0000" stop="20260927163000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Stadium E-sukan</title>
+    <desc lang="en">Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927163000 +0000" stop="20260927173000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Luncur Emas : Dua Juara Akuatik Malaysia</title>
+    <desc lang="en">Memaparkan tentang perjalanan kerjaya, pengorbanan, dan formula kejayaan dua orang jaguh sukan akuatik Malaysia dalam memburu kilauan pingat emas demi mengharumkan nama negara di pentas antarabangsa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Match Day Highlights</title>
+    <desc lang="en">Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927183000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Ekstrem Adrenalin</title>
+    <desc lang="en">Rancangan yang memaparkan tentang pelbagai aksi sukan dan aktiviti ekstrem penuh bertenaga.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927183000 +0000" stop="20260927190000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Diari Harimau Muda</title>
+    <desc lang="en">program berbentuk dokumentari sukan dan majalah TV yang menyoroti perjalanan, persiapan, serta kehidupan harian skuad bola sepak muda kebangsaan (Harimau Muda)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927193000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Turun Padang</title>
+    <desc lang="en">Program majalah sukan yang memperkenalkan pelbagai jenis permainan sukan secara aktif, santai, dan menghiburkan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927193000 +0000" stop="20260927203000 +0000" channel="mastro.sukanplus">
+    <title lang="en">15 Beradik</title>
+    <desc lang="en">Sebuah program realiti yang memfokuskan kepada pencarian bakat sukan ragbi di Malaysia untuk kategori umur di bawah 18 tahun.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other Sports / General</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Dunia Ekstrem</title>
+    <desc lang="en">Sebuah program majalah sukan yang memaparkan aksi lasak, keberanian, dan cabaran mendebarkan</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927210000 +0000" stop="20260927213000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Generasi Aktif</title>
+    <desc lang="en">Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
+  </programme>
+  <programme start="20260927213000 +0000" stop="20260927220000 +0000" channel="mastro.sukanplus">
+    <title lang="en">Kalori</title>
+    <desc lang="en">Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Sports Magazine</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_1280x720.jpg" />
   </programme>
   <programme start="20260924173000 +0000" stop="20260924183000 +0000" channel="mastro.jomngaji">
     <title lang="en">Bacalah</title>
