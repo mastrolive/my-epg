@@ -188,10 +188,6 @@
     <display-name lang="India">SONY SPORTS TEN 1 HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.sukanplus">
-    <display-name lang="Malaysia">Sukan+</display-name>
-    <icon src="" />
-  </channel>
   <channel id="mastro.usanetwork">
     <display-name lang="US">USA Network HD</display-name>
     <icon src="" />
@@ -14837,6 +14833,686 @@
     <desc>LIVE: Watch Carolina Ascent FC v Sporting Jax. The 2026 season of the USL Super league will be the 3rd season of US's second tier football league.</desc>
     <date>2026-09-27</date>
   </programme>
+  <programme channel="mastro.mutv" start="20260925000000 +0000" stop="20260925004000 +0000">
+    <title lang="zh">Farewell Casemiro</title>
+    <desc>To celebrate Casemiro's time at United we pay tribute to his journey in this original film. Have tissues at the ready, this one is an emotional rollercoaster.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925004000 +0000" stop="20260925010000 +0000">
+    <title lang="zh">All The Goals: Casemiro</title>
+    <desc>Tale a look back at all 17 goals Casemiro scored for United.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925010000 +0000" stop="20260925024500 +0000">
+    <title lang="zh">PL Match: Fulham (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Fulham.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925024500 +0000" stop="20260925030000 +0000">
+    <title lang="zh">Access All Areas</title>
+    <desc>Join us behind the scenes as we travel to Craven Cottage for our Premier League match against Fulham.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925030000 +0000" stop="20260925050000 +0000">
+    <title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against Ipswich Town.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925050000 +0000" stop="20260925063000 +0000">
+    <title lang="zh">All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925063000 +0000" stop="20260925081500 +0000">
+    <title lang="zh">UEFA Champions League 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925081500 +0000" stop="20260925090000 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925090000 +0000" stop="20260925093000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925093000 +0000" stop="20260925100000 +0000">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Brentford Academy.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925100000 +0000" stop="20260925103000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925103000 +0000" stop="20260925110000 +0000">
+    <title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Fulham.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925110000 +0000" stop="20260925123000 +0000">
+    <title lang="zh">All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925123000 +0000" stop="20260925141500 +0000">
+    <title lang="zh">PL Match: Fulham (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Fulham.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925141500 +0000" stop="20260925150000 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925150000 +0000" stop="20260925170000 +0000">
+    <title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against Ipswich Town.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925170000 +0000" stop="20260925183000 +0000">
+    <title lang="zh">All The Goals: Rashford</title>
+    <desc>Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925183000 +0000" stop="20260925190000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925190000 +0000" stop="20260925204500 +0000">
+    <title lang="zh">UEFA Champions League 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925204500 +0000" stop="20260925213000 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925213000 +0000" stop="20260925220000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925220000 +0000" stop="20260925223000 +0000">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Brentford Academy.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925223000 +0000" stop="20260925230000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925230000 +0000" stop="20260925233000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260925233000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Fulham.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926000000 +0000" stop="20260926003000 +0000">
+    <title lang="zh">All The Goals: PL Free-Kicks</title>
+    <desc>After Bruno's worldie against Arsenal, watch all 66 of United's direct free-kick goals from the premier Premier League era..</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926003000 +0000" stop="20260926011500 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926011500 +0000" stop="20260926030000 +0000">
+    <title lang="zh">PL Match: Fulham (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926030000 +0000" stop="20260926033000 +0000">
+    <title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926033000 +0000" stop="20260926040000 +0000">
+    <title lang="zh">PL Highlights: Everton (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Everton.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926040000 +0000" stop="20260926043000 +0000">
+    <title lang="zh">UEFA Champions League Highlights 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926043000 +0000" stop="20260926050000 +0000">
+    <title lang="zh">UEFA Youth League Highlights</title>
+    <desc>Highlights of the U19s UEFA Youth League match against Sabah FK.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926050000 +0000" stop="20260926054500 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926054500 +0000" stop="20260926060000 +0000">
+    <title lang="zh">Access All Areas</title>
+    <desc>Join us behind the scenes as we travel to Craven Cottage for our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926060000 +0000" stop="20260926063000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Charlton Athletic.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926063000 +0000" stop="20260926070000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Everton.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926070000 +0000" stop="20260926073000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Middlesbrough.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926073000 +0000" stop="20260926080000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Newcastle United.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926080000 +0000" stop="20260926083000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926083000 +0000" stop="20260926090000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926090000 +0000" stop="20260926093000 +0000">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Leicester City.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926093000 +0000" stop="20260926100000 +0000">
+    <title lang="zh">UEFA Youth League Highlights</title>
+    <desc>Highlights of the U19s UEFA Youth League match against Sabah FK.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926100000 +0000" stop="20260926103000 +0000">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Brentford Academy.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926103000 +0000" stop="20260926121500 +0000">
+    <title lang="zh">PL Match: Fulham (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926121500 +0000" stop="20260926130000 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926130000 +0000" stop="20260926134000 +0000">
+    <title lang="zh">Farewell Casemiro</title>
+    <desc>To celebrate Casemiro's time at United we pay tribute to his journey in this original film. Have tissues at the ready, this one is an emotional rollercoaster.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926134000 +0000" stop="20260926140000 +0000">
+    <title lang="zh">All The Goals: Casemiro</title>
+    <desc>Tale a look back at all 17 goals Casemiro scored for United.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926140000 +0000" stop="20260926143000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926143000 +0000" stop="20260926151500 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926151500 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Access All Areas</title>
+    <desc>Join us behind the scenes as we travel to Craven Cottage for our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926153000 +0000" stop="20260926160000 +0000">
+    <title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+    <desc>Highlights of our Premier League match against Ipswich Town.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926160000 +0000" stop="20260926163000 +0000">
+    <title lang="zh">UEFA Champions League Highlights 26/27</title>
+    <desc>Highlights of the UEFA Champions League game against Sabah FK.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926163000 +0000" stop="20260926171500 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926171500 +0000" stop="20260926173000 +0000">
+    <title lang="zh">Access All Areas</title>
+    <desc>Join us behind the scenes as we travel to Craven Cottage for our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926173000 +0000" stop="20260926180000 +0000">
+    <title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+    <desc>Highlights of our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926180000 +0000" stop="20260926183000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926183000 +0000" stop="20260926190000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Everton.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926190000 +0000" stop="20260926193000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Middlesbrough.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926193000 +0000" stop="20260926200000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Newcastle United.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926200000 +0000" stop="20260926203000 +0000">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926203000 +0000" stop="20260926210000 +0000">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Ipswich Town.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926210000 +0000" stop="20260926213000 +0000">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Leicester City.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926213000 +0000" stop="20260926220000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Sheffield United.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926220000 +0000" stop="20260926224500 +0000">
+    <title lang="zh">Podcast</title>
+    <desc>Wes Brown and Joe Ganley join us on Inside Carrington to discuss our 'Kings of the World' book release.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926224500 +0000" stop="20260926230000 +0000">
+    <title lang="zh">Access All Areas</title>
+    <desc>Join us behind the scenes as we travel to Craven Cottage for our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20260926230000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">PL Match: Fulham (A) 26/27</title>
+    <desc>Full coverage of our Premier League match against Fulham.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925001500 +0000" stop="20260925003000 +0000">
+    <title lang="zh">Liverpool Women v Sunderland: Shortcut</title>
+    <desc>The best of the action as Liverpool Women take on Sunderland in the Subway Players Cup.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925003000 +0000" stop="20260925020000 +0000">
+    <title lang="zh">Robbo: My Liverpool</title>
+    <desc>An exclusive LFC Original documentary paying tribute to Andy Robertson and his remarkable nine-year journey at Liverpool.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925020000 +0000" stop="20260925023000 +0000">
+    <title lang="zh">Ultimate XI</title>
+    <desc>Former Liverpool striker Michael Owen takes on the role of fantasy manager and reveals who would make it into his Ultimate XI.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925023000 +0000" stop="20260925030000 +0000">
+    <title lang="zh">Rush Scored Four</title>
+    <desc>An LFC Original mini-documentary that relives the unforgettable afternoon at Goodison in 1982 when Ian Rush inspired the Reds to a famous 5-0 derby victory.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925030000 +0000" stop="20260925050000 +0000">
+    <title lang="zh">Bournemouth v Liverpool: The Match</title>
+    <desc>All the action as Liverpool take on Bournemouth.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925050000 +0000" stop="20260925060000 +0000">
+    <title lang="zh">Sturridge: All the Goals</title>
+    <desc>Relive every single one of Daniel Sturridge's 67 goals for the Reds.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925060000 +0000" stop="20260925070000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925070000 +0000" stop="20260925074500 +0000">
+    <title lang="zh">Press Box</title>
+    <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925074500 +0000" stop="20260925080000 +0000">
+    <title lang="zh">Goal Rush: Origi</title>
+    <desc>A look back at some of Darwin Núñez greatest goals.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925080000 +0000" stop="20260925084500 +0000">
+    <title lang="zh">Alisson: My Story</title>
+    <desc>In this LFC Originals exclusive, we visit the childhood home of Alisson Becker and discover the story of his first steps towards becoming one of the world's finest goalkeepers.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925084500 +0000" stop="20260925093000 +0000">
+    <title lang="zh">Alisson: My Story</title>
+    <desc>We are in Rome for the second part of our exclusive documentary, learning how Alisson fought to establish himself in the Italian capital and in Jürgen Klopp's Liverpool plans.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925093000 +0000" stop="20260925101500 +0000">
+    <title lang="zh">Alisson: My Story</title>
+    <desc>In the final part of our story, we experience the incredible highs and devastating lows on and off the pitch as Alisson becomes a Reds legend and makes Liverpool his home.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925101500 +0000" stop="20260925103000 +0000">
+    <title lang="zh">A Day With Rio Ngumoha</title>
+    <desc>Rio Ngumoha is joined by Susannah Fuller in Chicago to discuss life as a young footballer for Liverpool, including his breakthrough into the senior setup with club and country.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925103000 +0000" stop="20260925111500 +0000">
+    <title lang="zh">Retro Reds: The Champions Years 81/82</title>
+    <desc>Relive four classic Football League matches from Liverpool¿s 13th title-winning season.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925111500 +0000" stop="20260925113000 +0000">
+    <title lang="zh">Liverpool Women v Sunderland: Shortcut</title>
+    <desc>The best of the action as Liverpool Women take on Sunderland in the Subway Players Cup.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925113000 +0000" stop="20260925123000 +0000">
+    <title lang="zh">One Week In May...</title>
+    <desc>The Story Of A Unique Treble: A documentary about the unforgettable 2000/01 season when Gerard Houllier's team charged to three trophies and Champions League qualification for the first time.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925123000 +0000" stop="20260925131500 +0000">
+    <title lang="zh">Press Box</title>
+    <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925131500 +0000" stop="20260925133000 +0000">
+    <title lang="zh">Goal Rush: Origi</title>
+    <desc>A look back at some of Divock Origi's greatest goals.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925133000 +0000" stop="20260925143000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925143000 +0000" stop="20260925151500 +0000">
+    <title lang="zh">We Are Liverpool: Steve McManaman</title>
+    <desc>From Merseyside to Madrid, 'Macca' looks back over his football career from the gift Kenny Dalglish gave him when joining the Reds to stepping out to do battle in 'El Classico.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925151500 +0000" stop="20260925161500 +0000">
+    <title lang="zh">Gerrard: My Liverpool</title>
+    <desc>Liverpool legend Steven Gerrard relives the highs and lows of his illustrious Anfield career, featuring exclusive interviews with those who know him best.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925161500 +0000" stop="20260925163000 +0000">
+    <title lang="zh">One Moment In Time</title>
+    <desc>Anfield heroes relive defining moments from their Liverpool careers.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925163000 +0000" stop="20260925174500 +0000">
+    <title lang="zh">Flags and Banners: The Art of LFC</title>
+    <desc>An exclusive documentary which delves into the history and culture of the club's flags and banners.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925174500 +0000" stop="20260925180000 +0000">
+    <title lang="zh">Goal of the Season 2023-24</title>
+    <desc>LFCTV revisits the Reds' top ten Premier League strikes from the 2023-24 season.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925180000 +0000" stop="20260925184500 +0000">
+    <title lang="zh">Press Box</title>
+    <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925184500 +0000" stop="20260925190000 +0000">
+    <title lang="zh">Liverpool Women v Sunderland: Shortcut</title>
+    <desc>The best of the action as Liverpool Women take on Sunderland in the Subway Players Cup.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925190000 +0000" stop="20260925194500 +0000">
+    <title lang="zh">Retro Review Show - 1983 League Cup</title>
+    <desc>Ronnie Whelan joins Neil Mellor to analyse the action and talk through the stats from the 1983 League Cup win over Manchester United.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925194500 +0000" stop="20260925200000 +0000">
+    <title lang="zh">Goal of the Season 2020-21</title>
+    <desc>LFCTV revisits the Reds' top ten Premier League strikes from the 2020-21 season.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925200000 +0000" stop="20260925204500 +0000">
+    <title lang="zh">Captains</title>
+    <desc>An exclusive LFC Original bringing together Graeme Souness, Steven Gerrard and Virgil van Dijk to discuss the art of leading Liverpool FC.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925204500 +0000" stop="20260925210000 +0000">
+    <title lang="zh">Liverpool Women v Sunderland: Shortcut</title>
+    <desc>The best of the action as Liverpool Women take on Sunderland in the Subway Players Cup.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925210000 +0000" stop="20260925220000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925220000 +0000" stop="20260925230000 +0000">
+    <title lang="zh">European Royalty: The Joy of Six</title>
+    <desc>An exclusive documentary in which we relive Liverpool's sixth European Cup victory in Madrid - and the subsequent parade which brought the city to a standstill.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925230000 +0000" stop="20260925233000 +0000">
+    <title lang="zh">Ultimate XI</title>
+    <desc>Former Liverpool midfielder Jan Molby takes on the role of fantasy manager and reveals who would make it into his Ultimate XI.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260925233000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Press Box</title>
+    <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926001500 +0000" stop="20260926003000 +0000">
+    <title lang="zh">Goal Rush: Virgil Van Dijk</title>
+    <desc>A collection of the best Liverpool goals scored by Virgil Van Dijk.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926003000 +0000" stop="20260926010000 +0000">
+    <title lang="zh">Wembley Wizards: Liverpool's Cup Double</title>
+    <desc>Relive the Reds successful Carabao Cup and FA Cup campaigns of 2021/22 in LFCTVs exclusive mini-documentary.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926010000 +0000" stop="20260926020000 +0000">
+    <title lang="zh">We are Liverpool: Rafa Benitez</title>
+    <desc>The man who masterminded the miracle of Istanbul discusses that night in 2005, his time at the club and taking charge at Goodison Park.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926020000 +0000" stop="20260926033000 +0000">
+    <title lang="zh">Double Winners '86</title>
+    <desc>On The March With Kenny's Army: A feature-length documentary telling the story of Liverpool's unforgettable 1985/86 double-winning season.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926033000 +0000" stop="20260926043000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926043000 +0000" stop="20260926050000 +0000">
+    <title lang="zh">Bugsy Moran</title>
+    <desc>A tribute to Liverpool's Sergeant Major. A documentary looking back on the illustrious Anfield career of Bootroom legend Ronnie Moran.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926050000 +0000" stop="20260926060000 +0000">
+    <title lang="zh">Firmino: All The Goals</title>
+    <desc>From two-yard tap-ins to unstoppable scorchers - and the odd no-look finish - sit back and enjoy all 111 of the samba star's goals in a Liverpool shirt.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926060000 +0000" stop="20260926061500 +0000">
+    <title lang="zh">A Day With Rio Ngumoha</title>
+    <desc>Rio Ngumoha is joined by Susannah Fuller in Chicago to discuss life as a young footballer for Liverpool, including his breakthrough into the senior setup with club and country.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926061500 +0000" stop="20260926063000 +0000">
+    <title lang="zh">Premier League Rewind</title>
+    <desc>Fernando Torres inspires Liverpool to an emphatic victory over the Tigers in this Anfield clash from September.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926063000 +0000" stop="20260926070000 +0000">
+    <title lang="zh">Macca &amp; Macca</title>
+    <desc>Steve McManaman discusses his match-winning performance in the 1995 League Cup Final with his opponent that day, Jason McAteer.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926070000 +0000" stop="20260926073000 +0000">
+    <title lang="zh">Rush Scored Four</title>
+    <desc>An LFC Original mini-documentary that relives the unforgettable afternoon at Goodison in 1982 when Ian Rush inspired the Reds to a famous 5-0 derby victory.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926073000 +0000" stop="20260926083000 +0000">
+    <title lang="zh">Shankly's Second Coming</title>
+    <desc>An LFC Originals documentary that charts the rise of Bill Shanklys second great team and how it came to fruition with an unprecedented double in 1972/73.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926083000 +0000" stop="20260926093000 +0000">
+    <title lang="zh">We Are Liverpool: Jan Molby</title>
+    <desc>One of LFC's most gifted players joins Peter McDowall &amp; Robbie Fowler to discuss his life and career before, during and after representing the Reds.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926093000 +0000" stop="20260926100000 +0000">
+    <title lang="zh">Robbo: All the goals and assists</title>
+    <desc>Enjoy a collection of goals and assists by Andy Robertson.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926100000 +0000" stop="20260926110000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926110000 +0000" stop="20260926120000 +0000">
+    <title lang="zh">One Week In May...</title>
+    <desc>The Story Of A Unique Treble: A documentary about the unforgettable 2000/01 season when Gerard Houllier's team charged to three trophies and Champions League qualification for the first time.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926120000 +0000" stop="20260926124500 +0000">
+    <title lang="zh">Alisson: My Story</title>
+    <desc>In this LFC Originals exclusive, we visit the childhood home of Alisson Becker and discover the story of his first steps towards becoming one of the world's finest goalkeepers.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926124500 +0000" stop="20260926133000 +0000">
+    <title lang="zh">Alisson: My Story</title>
+    <desc>We are in Rome for the second part of our exclusive documentary, learning how Alisson fought to establish himself in the Italian capital and in Jürgen Klopp's Liverpool plans.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926133000 +0000" stop="20260926141500 +0000">
+    <title lang="zh">Alisson: My Story</title>
+    <desc>In the final part of our story, we experience the incredible highs and devastating lows on and off the pitch as Alisson becomes a Reds legend and makes Liverpool his home.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926141500 +0000" stop="20260926143000 +0000">
+    <title lang="zh">In The Frame</title>
+    <desc>Record Reds' goalscorer Ian Rush is taken on a whistle-stop tour of his career in another revealing edition of In The Frame.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926143000 +0000" stop="20260926151500 +0000">
+    <title lang="zh">Press Box</title>
+    <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926151500 +0000" stop="20260926153000 +0000">
+    <title lang="zh">In The Frame</title>
+    <desc>Liverpool FC's most decorated player is taken on a trip down memory lane as he describes a series of emotive photographs charting his stellar Reds' career.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926153000 +0000" stop="20260926163000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926163000 +0000" stop="20260926171500 +0000">
+    <title lang="zh">Retro Reds: The Champions Years 79/80</title>
+    <desc>Relive four classic Football League games from Liverpool's 12th title-winning season.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926171500 +0000" stop="20260926173000 +0000">
+    <title lang="zh">Goal Rush: Dominik Szoboszlai</title>
+    <desc>Enjoy a selection of memorable goals scored by Dominik Szoboszlai.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926173000 +0000" stop="20260926180000 +0000">
+    <title lang="zh">Diogo Jota: All the Goals</title>
+    <desc>Remember the impact Diogo made on us as we run through every one of his 65 Liverpool goals.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926180000 +0000" stop="20260926181500 +0000">
+    <title lang="zh">In The Frame</title>
+    <desc>The man known as Super Sub takes an emotional trip through his life as a footballer with the help of a projector and some photographs.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926181500 +0000" stop="20260926183000 +0000">
+    <title lang="zh">Premier League Rewind</title>
+    <desc>Fernando Torres inspires Liverpool to an emphatic victory over the Tigers in this Anfield clash from September.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926183000 +0000" stop="20260926191500 +0000">
+    <title lang="zh">Press Box</title>
+    <desc>Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926191500 +0000" stop="20260926200000 +0000">
+    <title lang="zh">Captains</title>
+    <desc>An exclusive LFC Original bringing together Graeme Souness, Steven Gerrard and Virgil van Dijk to discuss the art of leading Liverpool FC.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926200000 +0000" stop="20260926211500 +0000">
+    <title lang="zh">Flags and Banners: The Art of LFC</title>
+    <desc>An exclusive documentary which delves into the history and culture of the club's flags and banners.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926211500 +0000" stop="20260926213000 +0000">
+    <title lang="zh">Goal of the Season 2005-06</title>
+    <desc>LFCTV revisits the Reds' top ten Premier League strikes from the 2005-06 season.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926213000 +0000" stop="20260926223000 +0000">
+    <title lang="zh">When We Were Kings</title>
+    <desc>Kop legends Kenny Dalglish and Graeme Souness are reunited at Anfield to reminisce about the their glory-laden playing careers and their part in Liverpool's most dominant spell of European success.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926223000 +0000" stop="20260926230000 +0000">
+    <title lang="zh">Wembley Wizards: Liverpool's Cup Double</title>
+    <desc>Relive the Reds successful Carabao Cup and FA Cup campaigns of 2021/22 in LFCTVs exclusive mini-documentary.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260926230000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Liverpool's Sound</title>
+    <desc>Kop Chants and their Origins - We explore the history of Liverpool's unique and unrivalled songbook in an exclusive documentary.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20260927000000 +0000" stop="20260928000000 +0000">
+    <title lang="zh">Bobby: The Rise of Roberto Firmino</title>
+    <desc>From the humble origins of his hometown in Brazil to the height of success with the Reds, this LFC Originals documentary maps the life of samba star Roberto Firmino.</desc>
+    <date>2026-09-27</date>
+  </programme>
   <programme channel="mastro.beinsports3" start="20260925000000 +0000" stop="20260925010000 +0000">
     <title lang="zh">UEFA Europa/Conference League Highlights 2026/27</title>
     <desc>UEFA Europa/Conference League Highlights 2026/27: Thu, MD1</desc>
@@ -16447,345 +17123,130 @@
     <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.ten1" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.ten1" start="20260925153000 +0000" stop="20260925160000 +0000">
     <title lang="zh">Men's Cricket: Afghanistan vs. Nepal; 2026 Asian Games Highlights</title>
     <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925000000 +0000" stop="20260925003000 +0000">
-    <title lang="zh">Match Day Highlights Ep05</title>
-    <desc>Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
+  <programme channel="mastro.ten1" start="20260925160000 +0000" stop="20260925180000 +0000">
+    <title lang="zh">Live - Georgia vs. Northern Ireland; UEFA Nations League Soccer</title>
+    <desc>European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925003000 +0000" stop="20260925010000 +0000">
-    <title lang="zh">Fifa World Cup Unseen Ep09</title>
-    <desc>Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+  <programme channel="mastro.ten1" start="20260925180000 +0000" stop="20260925183000 +0000">
+    <title lang="zh">England vs Sri Lanka: 2nd ODI; Cricket Highlights</title>
+    <desc>Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925010000 +0000" stop="20260925020000 +0000">
-    <title lang="zh">Sorotan Harian Sukan Aichi-nagoya 2026 Ep05</title>
-    <desc>Saksikan siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260925183000 +0000" stop="20260925184500 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925020000 +0000" stop="20260925050000 +0000">
-    <title lang="zh">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
-    <desc>Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260925184500 +0000" stop="20260925204500 +0000">
+    <title lang="zh">Live - Italy vs. Belgium; UEFA Nations League Soccer</title>
+    <desc>European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925050000 +0000" stop="20260925060000 +0000">
-    <title lang="zh">Bintang Muda Takraw Ep09</title>
-    <desc>Bintang Muda Takraw ialah sebuah rancangan realiti sukan yang memfokuskan kepada pencarian, pengasahan, dan pertandingan bakat-bakat muda dalam sukan sepak takraw di peringkat sekolah di seluruh Malaysia</desc>
+  <programme channel="mastro.ten1" start="20260925204500 +0000" stop="20260925210000 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925060000 +0000" stop="20260925090000 +0000">
-    <title lang="zh">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
-    <desc>Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260925210000 +0000" stop="20260925213000 +0000">
+    <title lang="zh">2026: Final: India vs Sri Lanka; Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925090000 +0000" stop="20260925093000 +0000">
-    <title lang="zh">Jejak Atlet - Juara Kita Inspirasi Kita Ep10</title>
-    <desc>Rancangan ini memfokuskan kepada paparan kehidupan, perjuangan, pengorbanan, dan pencapaian cemerlang para atlet negara, sama ada yang bertanding di peringkat domestik mahupun antarabangsa.</desc>
+  <programme channel="mastro.ten1" start="20260925213000 +0000" stop="20260925223000 +0000">
+    <title lang="zh">2025: Super Four: Pakistan vs. Bangladesh; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between Pakistan and Bangladesh in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925093000 +0000" stop="20260925100000 +0000">
-    <title lang="zh">Sentuhan Berbisa Ep10</title>
-    <desc>Program ini memfokuskan kepada kupasan mendalam, rangkuman aksi dramatik, serta analisis analitikal mengenai landskap dan perkembangan semasa arena sukan tempatan serta antarabangsa.</desc>
+  <programme channel="mastro.ten1" start="20260925223000 +0000" stop="20260925230000 +0000">
+    <title lang="zh">Kohli's Crown; Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925100000 +0000" stop="20260925130000 +0000">
-    <title lang="zh">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
-    <desc>Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260925230000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260925130000 +0000" stop="20260925133000 +0000">
-    <title lang="zh">Aksi 2026 Ep01</title>
-    <desc>Rancangan berbentuk dokumentari dan liputan sukan lasak yang penuh dengan aksi mencabar.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925133000 +0000" stop="20260925140000 +0000">
-    <title lang="zh">House of Champions Ep12</title>
-    <desc>Saksikan majalah sukan House of Champions yang memaparkan atlet sukan yang berjaya mengharumkan naman negara -Pengacara Luqman Hafidz.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925140000 +0000" stop="20260925150000 +0000">
-    <title lang="zh">Sorotan Harian Sukan Aichi-nagoya 2026 Ep05</title>
-    <desc>Saksikan siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925150000 +0000" stop="20260925160000 +0000">
-    <title lang="zh">Planet Sukan 2026 Ep17</title>
-    <desc>Sebuah program bual bicara sukan yang memaparkan analisis, kupasan serta berita terkini mengenai dunia sukan tempatan dan antarabangsa</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925160000 +0000" stop="20260925161500 +0000">
-    <title lang="zh">Inovasi Prestasi Ep12</title>
-    <desc>Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925161500 +0000" stop="20260925163000 +0000">
-    <title lang="zh">Kapsul Rtm Sports</title>
-    <desc>Himpunan kapsul,promo dan selingan.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925163000 +0000" stop="20260925173000 +0000">
-    <title lang="zh">Bintang Muda Takraw Ep09</title>
-    <desc>Bintang Muda Takraw ialah sebuah rancangan realiti sukan yang memfokuskan kepada pencarian, pengasahan, dan pertandingan bakat-bakat muda dalam sukan sepak takraw di peringkat sekolah di seluruh Malaysia</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925173000 +0000" stop="20260925175000 +0000">
-    <title lang="zh">Fifa World Cup Unseen Ep09</title>
-    <desc>Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925175000 +0000" stop="20260925180000 +0000">
-    <title lang="zh">Kapsul Rtm Sports</title>
-    <desc>Himpunan kapsul,promo dan selingan.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925180000 +0000" stop="20260925183000 +0000">
-    <title lang="zh">Sentuhan Berbisa Ep08</title>
-    <desc>Program ini memfokuskan kepada kupasan mendalam, rangkuman aksi dramatik, serta analisis analitikal mengenai landskap dan perkembangan semasa arena sukan tempatan serta antarabangsa.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925183000 +0000" stop="20260925190000 +0000">
-    <title lang="zh">Aksi 2026 Ep11</title>
-    <desc>Rancangan berbentuk dokumentari dan liputan sukan lasak yang penuh dengan aksi mencabar.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925190000 +0000" stop="20260925193000 +0000">
-    <title lang="zh">House of Champions Ep12</title>
-    <desc>Saksikan majalah sukan House of Champions yang memaparkan atlet sukan yang berjaya mengharumkan naman negara -Pengacara Luqman Hafidz.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925193000 +0000" stop="20260925200000 +0000">
-    <title lang="zh">Jejak Atlet - Juara Kita Inspirasi Kita Ep09</title>
-    <desc>Sebuah siri dokumentari sukan yang memfokuskan kepada paparan kehidupan, perjuangan, dan pencapaian cemerlang para atlet negara di peringkat domestik serta antarabangsa.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925200000 +0000" stop="20260925210000 +0000">
-    <title lang="zh">Planet Sukan 2026 Ep17</title>
-    <desc>Sebuah program bual bicara sukan yang memaparkan analisis, kupasan serta berita terkini mengenai dunia sukan tempatan dan antarabangsa</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925210000 +0000" stop="20260925213000 +0000">
-    <title lang="zh">Generasi Aktif Ep10</title>
-    <desc>Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925213000 +0000" stop="20260925220000 +0000">
-    <title lang="zh">Kalori Ep13</title>
-    <desc>Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925220000 +0000" stop="20260925220500 +0000">
-    <title lang="zh">Klip Negaraku</title>
-    <desc>Lagu Negaraku</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925220500 +0000" stop="20260925221500 +0000">
-    <title lang="zh">Kapsul Rtm Sports</title>
-    <desc>Himpunan kapsul,promo dan selingan.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925221500 +0000" stop="20260925223000 +0000">
-    <title lang="zh">Inovasi Prestasi Ep11</title>
-    <desc>Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925223000 +0000" stop="20260925230000 +0000">
-    <title lang="zh">Kalori Ep01</title>
-    <desc>Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925230000 +0000" stop="20260925233000 +0000">
-    <title lang="zh">Generasi Aktif Ep11</title>
-    <desc>Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925233000 +0000" stop="20260925234000 +0000">
-    <title lang="zh">Live: Stadium Rtm</title>
-    <desc>Membawakan perkembangan terkini, isu-isu semasa Sukan dalam negara dan luar negara.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260925234000 +0000" stop="20260926000000 +0000">
-    <title lang="zh">Padu Fizikal Ep02</title>
-    <desc>Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
-    <date>2026-09-25</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926000000 +0000" stop="20260926003000 +0000">
-    <title lang="zh">Match Day Highlights Ep06</title>
-    <desc>Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
+  <programme channel="mastro.ten1" start="20260926000000 +0000" stop="20260926034500 +0000">
+    <title lang="zh">Live - Men's Cricket: Japan vs. Nepal; 2026 Asian Games</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926003000 +0000" stop="20260926010000 +0000">
-    <title lang="zh">Fifa World Cup Unseen Ep10</title>
-    <desc>Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+  <programme channel="mastro.ten1" start="20260926034500 +0000" stop="20260926041500 +0000">
+    <title lang="zh">3rd T20: Afghanistan vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926010000 +0000" stop="20260926020000 +0000">
-    <title lang="zh">Sorotan Harian Sukan Asia Aichi-nagoya 2026 Ep06</title>
-    <desc>Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260926041500 +0000" stop="20260926043000 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926020000 +0000" stop="20260926050000 +0000">
-    <title lang="zh">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
-    <desc>Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260926043000 +0000" stop="20260926050000 +0000">
+    <title lang="zh">Kohli's Crown; Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926050000 +0000" stop="20260926060000 +0000">
-    <title lang="zh">Rashid Mencari Juara (rmj) Ep03</title>
-    <desc>Sebuah program realiti TV bertujuan mencungkil pelapis baharu pemain badminton bagi kategori perseorangan lelaki bertaraf dunia.</desc>
+  <programme channel="mastro.ten1" start="20260926050000 +0000" stop="20260926084500 +0000">
+    <title lang="zh">Live - Men's Cricket: Malaysia vs. Oman; 2026 Asian Games</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926060000 +0000" stop="20260926090000 +0000">
-    <title lang="zh">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
-    <desc>Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260926084500 +0000" stop="20260926091500 +0000">
+    <title lang="zh">Men's Cricket: Afghanistan vs. Nepal; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926090000 +0000" stop="20260926091500 +0000">
-    <title lang="zh">Sport Shoot Ep01</title>
-    <desc>Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan</desc>
+  <programme channel="mastro.ten1" start="20260926091500 +0000" stop="20260926093000 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926091500 +0000" stop="20260926093000 +0000">
-    <title lang="zh">Kapsul Rtm Sports</title>
-    <desc>Himpunan kapsul,promo dan selingan.</desc>
+  <programme channel="mastro.ten1" start="20260926093000 +0000" stop="20260926100000 +0000">
+    <title lang="zh">Women's Cricket, Bronze Medal Match; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926093000 +0000" stop="20260926100000 +0000">
-    <title lang="zh">Sukan Gergasi Ep08</title>
-    <desc>Sukan Gergasi ialah sebuah rancangan permainan sukan santai yang menggabungkan elemen sukan, aktiviti fizikal berskala besar, dan hiburan komedi.</desc>
+  <programme channel="mastro.ten1" start="20260926100000 +0000" stop="20260926103000 +0000">
+    <title lang="zh">Women's Cricket, Gold Medal Match - India vs. Sri Lanka; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926100000 +0000" stop="20260926130000 +0000">
-    <title lang="zh">Siaran Langsung Laporan Harian Sukan Asia Aichi-nagoya 2026</title>
-    <desc>Ikuti siaran langsung laporan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260926103000 +0000" stop="20260926110000 +0000">
+    <title lang="zh">Men's Cricket: Japan vs. Nepal; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926130000 +0000" stop="20260926133000 +0000">
-    <title lang="zh">Diari Harimau Muda Ep08</title>
-    <desc>program berbentuk dokumentari sukan dan majalah TV yang menyoroti perjalanan, persiapan, serta kehidupan harian skuad bola sepak muda kebangsaan (Harimau Muda)</desc>
+  <programme channel="mastro.ten1" start="20260926110000 +0000" stop="20260926113000 +0000">
+    <title lang="zh">Men's Cricket: Malaysia vs. Oman; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926133000 +0000" stop="20260926140000 +0000">
-    <title lang="zh">P Untuk Malaysia Ep01</title>
-    <desc>Berkisar tentang paparan kisah kejayaan, cabaran, dan pengorbanan barisan personaliti serta atlet ikonik tanah air yang telah mengharumkan nama Malaysia di pentas antarabangsa.</desc>
+  <programme channel="mastro.ten1" start="20260926113000 +0000" stop="20260926123000 +0000">
+    <title lang="zh">2025: Final: India vs Pakistan; Asia Cup Highlights</title>
+    <desc>Highlights from the finals match between India and Pakistan in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926140000 +0000" stop="20260926150000 +0000">
-    <title lang="zh">Sorotan Harian Sukan Asia Aichi-nagoya 2026 Ep06</title>
-    <desc>Ikuti siaran ulangan sorotan harian Sukan Asia 2026 yang berlangsung di Wilayah Aichi ,Nagoya, Jepun.</desc>
+  <programme channel="mastro.ten1" start="20260926123000 +0000" stop="20260926130000 +0000">
+    <title lang="zh">Men's Cricket: Japan vs. Nepal; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926150000 +0000" stop="20260926151500 +0000">
-    <title lang="zh">Sport Shoot Ep01</title>
-    <desc>Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan</desc>
+  <programme channel="mastro.ten1" start="20260926130000 +0000" stop="20260926150000 +0000">
+    <title lang="zh">Live - Slovenia vs. Scotland; UEFA Nations League Soccer</title>
+    <desc>European national football teams compete with each other to clinch the top title at the UEFA Nations League, an international football competition.</desc>
     <date>2026-09-26</date>
   </programme>
-  <programme channel="mastro.sukanplus" start="20260926151500 +0000" stop="20260926153000 +0000">
-    <title lang="zh">Fifa World Cup Unseen Ep10</title>
-    <desc>Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
+  <programme channel="mastro.ten1" start="20260926150000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926153000 +0000" stop="20260926163000 +0000">
-    <title lang="zh">Stadium E-sukan Ep06</title>
-    <desc>Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926163000 +0000" stop="20260926173000 +0000">
-    <title lang="zh">Rashid Mencari Juara (rmj) Ep03</title>
-    <desc>Sebuah program realiti TV bertujuan mencungkil pelapis baharu pemain badminton bagi kategori perseorangan lelaki bertaraf dunia.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926173000 +0000" stop="20260926180000 +0000">
-    <title lang="zh">Diari Harimau Muda Ep08</title>
-    <desc>program berbentuk dokumentari sukan dan majalah TV yang menyoroti perjalanan, persiapan, serta kehidupan harian skuad bola sepak muda kebangsaan (Harimau Muda)</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926180000 +0000" stop="20260926181500 +0000">
-    <title lang="zh">Inovasi Prestasi Ep11</title>
-    <desc>Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926181500 +0000" stop="20260926183000 +0000">
-    <title lang="zh">Kapsul Rtm Sports</title>
-    <desc>Himpunan kapsul,promo dan selingan.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926183000 +0000" stop="20260926190000 +0000">
-    <title lang="zh">Sukan Gergasi Ep08</title>
-    <desc>Sukan Gergasi ialah sebuah rancangan permainan sukan santai yang menggabungkan elemen sukan, aktiviti fizikal berskala besar, dan hiburan komedi.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926190000 +0000" stop="20260926193000 +0000">
-    <title lang="zh">Match Day Highlights Ep06</title>
-    <desc>Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926193000 +0000" stop="20260926195000 +0000">
-    <title lang="zh">Fifa World Cup Unseen Ep10</title>
-    <desc>Rangkuman sukan sepanjang berlangsungnya kemeriahan Piala Dunia FIFA 2026 serta mengimbau kembali pelbagai klip dan sejarah FIFA sepanjang zaman.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926195000 +0000" stop="20260926200000 +0000">
-    <title lang="zh">Sport Shoot Ep01</title>
-    <desc>Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926200000 +0000" stop="20260926210000 +0000">
-    <title lang="zh">Stadium E-sukan Ep06</title>
-    <desc>Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926210000 +0000" stop="20260926213000 +0000">
-    <title lang="zh">Generasi Aktif Ep11</title>
-    <desc>Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926213000 +0000" stop="20260926220000 +0000">
-    <title lang="zh">Kalori Ep01</title>
-    <desc>Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926220000 +0000" stop="20260926220500 +0000">
-    <title lang="zh">Klip Negaraku</title>
-    <desc>Lagu Negaraku</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926220500 +0000" stop="20260926221500 +0000">
-    <title lang="zh">Kapsul Rtm Sports</title>
-    <desc>Himpunan kapsul,promo dan selingan.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926221500 +0000" stop="20260926223000 +0000">
-    <title lang="zh">Inovasi Prestasi Ep13</title>
-    <desc>Membawakan pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi sukan, kajian sains sukan, serta evolusi peralatan sukan prestasi tinggi.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926223000 +0000" stop="20260926230000 +0000">
-    <title lang="zh">Kalori Ep04</title>
-    <desc>Berkongsi tentang pengurusan kesihatan diri yang optimum melalui kawalan serta pengukuran unit kalori dalam diet seharian.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926230000 +0000" stop="20260926233000 +0000">
-    <title lang="zh">Generasi Aktif Ep03</title>
-    <desc>Memaparkan kepada gaya hidup cergas, aktiviti sukan, dan pembinaan sahsiah positif dalam kalangan generasi muda.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926233000 +0000" stop="20260926234000 +0000">
-    <title lang="zh">Live: Stadium Rtm</title>
-    <desc>Membawakan perkembangan terkini, isu-isu semasa Sukan dalam negara dan luar negara.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260926234000 +0000" stop="20260927000000 +0000">
-    <title lang="zh">Padu Fizikal Ep01</title>
-    <desc>Padu Fizikal merupakan program majalah sains sukan yang menerangkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
-    <date>2026-09-26</date>
-  </programme>
-  <programme channel="mastro.sukanplus" start="20260927000000 +0000" stop="20260928000000 +0000">
-    <title lang="zh">Match Day Highlights Ep07</title>
-    <desc>Rangkuman perlawanan, kemeriahan dan jaringan yang dihasilkan oleh pasukan bertanding dalam Bola Sepak Piala Dunia FIFA 2026.</desc>
-    <date>2026-09-27</date>
   </programme>
   <programme channel="mastro.usanetwork" start="20260925000000 +0000" stop="20260925020000 +0000">
     <title lang="zh">Live: WNBA Basketball</title>
@@ -24397,10 +24858,65 @@
     <desc>Tripura, whose dreams turn into reality, is taken to Hyderabad for treatment. She falls in love with and marries her doctor, whom she, one day, dreams of killing.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.zeethirai" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.zeethirai" start="20260925153000 +0000" stop="20260925183000 +0000">
     <title lang="zh">Jawaan</title>
     <desc>Yellapragada Jai, an honest man, faces challenges when his childhood friend, Keshava, becomes a criminal. To protect his country, Jai puts everything on the line to thwart Keshava's perilous plans.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260925183000 +0000" stop="20260925193000 +0000">
+    <title lang="zh">Free Ticket</title>
+    <desc>A comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies is played to entertain the audience.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260925193000 +0000" stop="20260925214400 +0000">
+    <title lang="zh">K.G.F: Chapter 2</title>
+    <desc>Rocky successfully rises as the leader and saviour of the people of the Kolar Gold Fields. But, in his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat Khalil and Ramika Sen.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260925214400 +0000" stop="20260925220000 +0000">
+    <title lang="zh">Fillers</title>
+    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260925220000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Nerkonda Paarvai</title>
+    <desc>A retired lawyer defends three troubled women against rich young men in a trial that highlights the gender-based double standards prevalent in society.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926001700 +0000" stop="20260926003000 +0000">
+    <title lang="zh">Fillers</title>
+    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies featuring popular actors is played sequentially.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926003000 +0000" stop="20260926023000 +0000">
+    <title lang="zh">The smile man</title>
+    <desc>A skilled detective races against time to apprehend a dangerous serial killer. Diagnosed with Alzheimer's, his investigation becomes a desperate quest as his memories fade with each passing day.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926023000 +0000" stop="20260926050000 +0000">
+    <title lang="zh">Vetrikani</title>
+    <desc>Ghani, a spirited boxer, always wanted to make it big in the world of boxing. However, he soon learns that success does not come easy, when life throws several hurdles in his path to triumph.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926050000 +0000" stop="20260926073000 +0000">
+    <title lang="zh">Saithan</title>
+    <desc>Dinesh, a newly married software engineer, begins experiencing mental distress when a voice inside his head commands him to take his own life.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926073000 +0000" stop="20260926103000 +0000">
+    <title lang="zh">Thangaraja</title>
+    <desc>A deceased couple returns to Earth to help their grandson, who lost his way in life after familial and personal problems start to haunt him.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926103000 +0000" stop="20260926130000 +0000">
+    <title lang="zh">Veetla Vishesham</title>
+    <desc>Elango struggles to accept his middle-aged mother's unexpected pregnancy.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.zeethirai" start="20260926130000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Mark Antony</title>
+    <desc>Mark, the son of a former gangster, comes across a telephone that can contact people in the past.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.aec" start="20260925002800 +0000" stop="20260925003000 +0000">
     <title lang="zh">WOLONG: The Mastermind Behind The Scenes Ep02</title>
@@ -38882,10 +39398,90 @@
     <desc>Louis Bloom, a petty thief, realises that he can make money by capturing photographs of crime scenes and starts resorting to extreme tactics to get them.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.mnplus" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.mnplus" start="20260925153000 +0000" stop="20260925172600 +0000">
     <title lang="zh">Nightcrawler</title>
     <desc>Louis Bloom, a petty thief, realises that he can make money by capturing photographs of crime scenes and starts resorting to extreme tactics to get them.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925172600 +0000" stop="20260925185800 +0000">
+    <title lang="zh">Poseidon</title>
+    <desc>On New Year's Eve, the luxury ocean liner Poseidon capsizes after being swamped by a rogue wave. Later, the survivors are left to fight for their lives as they attempt to escape the sinking ship.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925185800 +0000" stop="20260925202000 +0000">
+    <title lang="zh">Jennifer Lopez: Dance Again</title>
+    <desc>Documentary follows Jennifer Lopez's personal and professional journey during her first global tour. Later, it reveals behind-the-scenes moments on and off-stage.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925202000 +0000" stop="20260925210600 +0000">
+    <title lang="zh">Fallen</title>
+    <desc>Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, questions arise when the murders start again, eerily matching the modus operandi of Reese.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925210600 +0000" stop="20260925214000 +0000">
+    <title lang="zh">Stars!</title>
+    <desc>The host sheds light on various popular individuals from different walks of life and highlights their individual journeys to stardom.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925214000 +0000" stop="20260925221200 +0000">
+    <title lang="zh">DSC</title>
+    <desc>Talented directors provide an entertaining insight into the most intriguing stories and anecdotes concerning some of their best works.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925221200 +0000" stop="20260925222100 +0000">
+    <title lang="zh">Stars!</title>
+    <desc>The host sheds light on various popular individuals from different walks of life and highlights their individual journeys to stardom.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925222100 +0000" stop="20260925224600 +0000">
+    <title lang="zh">Hollywood on Set</title>
+    <desc>The key aspects of filmmaking are explored, with behind-the-scenes insights and intriguing interviews with prominent cast and crew members.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260925224600 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926002400 +0000" stop="20260926020900 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926020900 +0000" stop="20260926042600 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926042600 +0000" stop="20260926065800 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926065800 +0000" stop="20260926094300 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926094300 +0000" stop="20260926112000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926112000 +0000" stop="20260926132300 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926132300 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnplus" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.moviesnow" start="20260925012500 +0000" stop="20260925040000 +0000">
     <title lang="zh">John Wick: Chapter 4</title>
@@ -38922,10 +39518,70 @@
     <desc>A woman is transformed into a lethal post-human weapon after she is forced into a dark underworld deal. She uses her newfound abilities to take revenge on the criminal empire that enslaved her.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.moviesnow" start="20260925151500 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.moviesnow" start="20260925151500 +0000" stop="20260925175500 +0000">
     <title lang="zh">Transformers: Age of Extinction</title>
     <desc>Cade Yeager, a struggling single father, discovers a damaged truck which turns out to be Optimus Prime. Together with the remaining Autobots, he and his family must rise to face an impending threat.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260925175500 +0000" stop="20260925192400 +0000">
+    <title lang="zh">Despicable Me 3</title>
+    <desc>After losing his job at the Anti-Villain League, Gru meets his estranged twin brother. Soon, the brothers find themselves locking horns with a child artist-turned-villain.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260925192400 +0000" stop="20260925193000 +0000">
+    <title lang="zh">Riteish &amp; Genelia Deshmukh; The Love Laugh Live Show</title>
+    <desc>The famous Bollywood couple Riteish and Genelia Deshmukh share insights into their love life, marriage and parenting with Mandira Bedi.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260925193000 +0000" stop="20260925195300 +0000">
+    <title lang="zh">Ready 2 Mingle</title>
+    <desc>Nirav Chhabra and Myra Malik reflect on their romance and their shared mission to connect lonely hearts. However, secret tensions suggest their ideal partnership is actually a facade.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260925195300 +0000" stop="20260925201500 +0000">
+    <title lang="zh">Ready 2 Mingle</title>
+    <desc>Radhika and Zeeshan join the single adults at a match-making social event. Meanwhile, an unforeseen emergency emerges during the gathering, throwing the evening into total chaos.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260925201500 +0000" stop="20260925213000 +0000">
+    <title lang="zh">Ready 2 Mingle</title>
+    <desc>Nirav and Myra devise a strategy to mend their fractured romance and move forward together. However, unexpected twists of fate threaten to completely derail their carefully laid plans.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260925213000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260926003000 +0000" stop="20260926033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260926033000 +0000" stop="20260926063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260926063000 +0000" stop="20260926093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260926093000 +0000" stop="20260926123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260926123000 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.moviesnow" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.mnx" start="20260925002500 +0000" stop="20260925022000 +0000">
     <title lang="zh">Wedding Crashers</title>
@@ -38967,10 +39623,60 @@
     <desc>Shrek is tired of his domesticated life and makes a deal with Rumpelstiltskin to live one day as a free ogre. But, this puts him in a dark alternate timeline where he never met his wife or friends.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.mnx" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.mnx" start="20260925153000 +0000" stop="20260925170100 +0000">
     <title lang="zh">A Quiet Place Part II</title>
     <desc>In a post-apocalyptic world, Regan and her family learn that the alien predators can be defeated using high-frequency audio. Soon, armed with this knowledge, they set out to look for other survivors.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260925170100 +0000" stop="20260925183700 +0000">
+    <title lang="zh">Rambo: First Blood Part II</title>
+    <desc>John Rambo is offered the chance to cut short his prison tenure by going on a secret mission for the US government deep into the jungles of Vietnam and locating American POWs.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260925183700 +0000" stop="20260925201800 +0000">
+    <title lang="zh">The LEGO NINJAGO Movie</title>
+    <desc>Ostracized by everyone for being the child of a cruel overlord, a teen assembles his fellow ninjas to fight off his father.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260925201800 +0000" stop="20260925213000 +0000">
+    <title lang="zh">Recoil</title>
+    <desc>When his family is killed by a notorious gang, Ryan Varett, a former police officer, suits up to seek revenge against the perpetrators.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260925213000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260926003000 +0000" stop="20260926033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260926033000 +0000" stop="20260926063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260926063000 +0000" stop="20260926093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260926093000 +0000" stop="20260926123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260926123000 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.mnx" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.romedynow" start="20260925011200 +0000" stop="20260925025600 +0000">
     <title lang="zh">Yes Man</title>
@@ -39012,10 +39718,70 @@
     <desc>Best friends Barb and Star leave their small town to go on vacation to sunny Vista Del Mar. However, their holiday takes a strange turn due to a villain's plot to destroy the community.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.romedynow" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.romedynow" start="20260925153000 +0000" stop="20260925173600 +0000">
     <title lang="zh">The Great Dictator</title>
     <desc>After suffering from memory loss, a soldier returns to his former profession as a barber and attempts to escape persecution by the military forces.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260925173600 +0000" stop="20260925194800 +0000">
+    <title lang="zh">The Holiday</title>
+    <desc>Amanda and Iris, two women from different countries, decide to swap houses for the Christmas holidays. However, things take a turn when the swap brings them an unexpected dose of romance.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260925194800 +0000" stop="20260925213000 +0000">
+    <title lang="zh">Safe Haven</title>
+    <desc>A mysterious young woman arrives in Southport, North Carolina, and falls in love with a widowed store owner. However, her dark past intrudes in her new life.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260925213000 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926015000 +0000" stop="20260926031900 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926031900 +0000" stop="20260926050100 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926050100 +0000" stop="20260926065300 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926065300 +0000" stop="20260926083700 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926083700 +0000" stop="20260926103000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926103000 +0000" stop="20260926121300 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926121300 +0000" stop="20260926134300 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926134300 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.rockaction" start="20260925005500 +0000" stop="20260925023000 +0000">
     <title lang="zh">The Bodyguard From Beijing</title>
@@ -39407,10 +40173,60 @@
     <desc>Bringing the best in television.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.sonypix" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.sonypix" start="20260925153000 +0000" stop="20260925171300 +0000">
     <title lang="zh">Movie</title>
     <desc>Bringing the best in television.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260925171300 +0000" stop="20260925190600 +0000">
+    <title lang="zh">Hitch</title>
+    <desc>A professional dating expert helps men woo the women of their dreams. However, while helping a hapless client, he finds himself challenged by a gossip columnist.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260925190600 +0000" stop="20260925200700 +0000">
+    <title lang="zh">Resident Evil</title>
+    <desc>Two associates of an elite commando team fight an army of zombies controlled by an evil desktop computer in a genetic research facility.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260925200700 +0000" stop="20260925214300 +0000">
+    <title lang="zh">28 Days Later</title>
+    <desc>After a mysterious virus wreaks havoc in the United Kingdom, a team of survivors tries to cope with the aftermath of the disaster and find security.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260925214300 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Insidious: The Last Key</title>
+    <desc>Parapsychologist Elise Rainier gets thrust into returning to her eerie childhood home where she and her family have to fight a dangerous otherworldly entity.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260926003000 +0000" stop="20260926033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260926033000 +0000" stop="20260926063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260926063000 +0000" stop="20260926093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260926093000 +0000" stop="20260926123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260926123000 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.sonypix" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.starmovies" start="20260925013000 +0000" stop="20260925034500 +0000">
     <title lang="zh">Kingsman: The Golden Circle</title>
@@ -39447,10 +40263,55 @@
     <desc>After Thanos, an intergalactic warlord, disintegrates half of all life in the universe, the Avengers rally together to reverse his act and defeat him once and for all.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.starmovies" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.starmovies" start="20260925153000 +0000" stop="20260925171900 +0000">
     <title lang="zh">Aladdin</title>
     <desc>Aladdin, a lovable street urchin, teams up with a powerful, wisecracking genie to save the kingdom of Agrabah, and its beautiful princess Jasmine from the evil grand vizier Jafar.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260925171900 +0000" stop="20260925185700 +0000">
+    <title lang="zh">Toy Story 4</title>
+    <desc>Woody, Buzz Lightyear, and the rest of the gang join a new toy, Forky, on a road trip. But the trip soon turns into an unexpected reunion between Woody and Bo Peep.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260925185700 +0000" stop="20260925202900 +0000">
+    <title lang="zh">Resident Evil: Afterlife</title>
+    <desc>Alice learns of a mysterious haven named Arcadia while fighting the Umbrella Corporation. She decides to join a group of survivors headed to Arcadia, unaware that they are walking into a trap.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260925202900 +0000" stop="20260926000000 +0000">
+    <title lang="zh">Mojin The Treasure Valley</title>
+    <desc>Tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian and find an artefact to lift their curse on a monster-infested island.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260926003000 +0000" stop="20260926033000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260926033000 +0000" stop="20260926063000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260926063000 +0000" stop="20260926093000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260926093000 +0000" stop="20260926123000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260926123000 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmovies" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Movie</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.starmoviesselect" start="20260925001500 +0000" stop="20260925020000 +0000">
     <title lang="zh">Samson</title>
@@ -39497,10 +40358,80 @@
     <desc>Four animals from New York's Central Park Zoo find themselves stranded in the Madagascan jungle.</desc>
     <date>2026-09-25</date>
   </programme>
-  <programme channel="mastro.starmoviesselect" start="20260925153000 +0000" stop="20260926000000 +0000">
+  <programme channel="mastro.starmoviesselect" start="20260925153000 +0000" stop="20260925170800 +0000">
     <title lang="zh">Up</title>
     <desc>A 78-year-old balloon salesman ties thousands of balloons to his house and flies to South America, but discovers a young stowaway aboard.</desc>
     <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260925170800 +0000" stop="20260925185800 +0000">
+    <title lang="zh">The Interview</title>
+    <desc>Aaron and Dave, who run a popular late-night show, get a chance to interview Kim Jong-un. The CIA decides to take advantage of the opportunity and devices a plan to assassinate the infamous dictator.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260925185800 +0000" stop="20260925202200 +0000">
+    <title lang="zh">Ooops! Noah Is Gone ...</title>
+    <desc>During an apocalyptic flood, Finny and Leah, a couple of animals, join other creatures on Noah's Ark. However, they fall overboard and struggle for survival.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260925202200 +0000" stop="20260925214900 +0000">
+    <title lang="zh">The Python</title>
+    <desc>When a dictatorial commander orders the death of a python within three days, members of a snake-hunting village must comply or face the consequences of his wrath.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260925214900 +0000" stop="20260926000000 +0000">
+    <title lang="zh">King Of Serpant</title>
+    <desc>A man's small village faces certain death unless he kills a giant python. So, he leads the hunt against the beast to keep his village safe.</desc>
+    <date>2026-09-25</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926000000 +0000" stop="20260926014500 +0000">
+    <title lang="zh">Mojin The Treasure Valley</title>
+    <desc>In search of a curse breaker, tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian on a monster-infested island.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926014500 +0000" stop="20260926033000 +0000">
+    <title lang="zh">Unbending Mr. Fang</title>
+    <desc>Fang Shiyu, a martial artist, decides to exact revenge on the corrupt officials who falsely accuse and frame him in a case of corruption.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926033000 +0000" stop="20260926053000 +0000">
+    <title lang="zh">Ferdinand</title>
+    <desc>A wisecracking goat and three hedgehogs try to help a giant but gentle bull escape from his captors.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926053000 +0000" stop="20260926073000 +0000">
+    <title lang="zh">We Bought a Zoo</title>
+    <desc>Benjamin Mee quits his job and moves his young family to the countryside of Southern California to renovate and re-open a struggling zoo.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926073000 +0000" stop="20260926090000 +0000">
+    <title lang="zh">Ice Age: The Meltdown</title>
+    <desc>A valley threatened by flooding forces Manny, Sid and Diego into an adventure across a changing world, where danger and discovery go hand in hand.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926090000 +0000" stop="20260926110000 +0000">
+    <title lang="zh">Murder on the Orient Express</title>
+    <desc>While travelling on the Orient Express, celebrated Belgian detective Hercule Poirot investigates the brutal murder of a passenger.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926110000 +0000" stop="20260926123000 +0000">
+    <title lang="zh">Monsters, Inc.</title>
+    <desc>In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926123000 +0000" stop="20260926141500 +0000">
+    <title lang="zh">The Pacifier</title>
+    <desc>Shane Wolfe, a Navy SEAL, fails to rescue a government scientist, Howard Plummer, from Serbian rebels. Later, he is assigned to protect Plummer's children from his enemies.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926141500 +0000" stop="20260926153000 +0000">
+    <title lang="zh">Darkroom</title>
+    <desc>Michelle accepts a professional role suggested by her advisor. This position confines her within a residence where three deranged relatives attempt to cleanse her soul.</desc>
+    <date>2026-09-26</date>
+  </programme>
+  <programme channel="mastro.starmoviesselect" start="20260926153000 +0000" stop="20260927000000 +0000">
+    <title lang="zh">Alice in Wonderland</title>
+    <desc>After following a white rabbit to a magical world called Underland, Alice, a 19-year-old girl, teams up with the Mad Hatter and friends to overthrow the evil queen and her dragon.</desc>
+    <date>2026-09-26</date>
   </programme>
   <programme channel="mastro.tvnmovies" start="20260925001000 +0000" stop="20260925023000 +0000">
     <title lang="zh">The Witch: Part 2. the Other One</title>
