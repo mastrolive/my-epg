@@ -11376,14 +11376,745 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="mastro.disneyinter">
-    <display-name lang="en">Disney International HD</display-name>
-    <icon src="https://tvwish.com/Img/Channel/737.png" />
-    <icon src="https://tvwish.com/Img/Channel/737.png" />
-    <icon src="https://tvwish.com/Img/Channel/602.png" />
-    <icon src="https://tvwish.com/Img/Channel/602.png" />
-    <url>http://www.tvwish.com</url>
+  <channel id="mastro.sonypix">
+    <display-name>Sony Pix HD</display-name>
+    <icon src="SonyPIX.png" />
   </channel>
+  <channel id="mastro.starmovies">
+    <display-name>Star Movies HD</display-name>
+    <icon src="StarMoviesHD1.png" />
+  </channel>
+  <channel id="mastro.starmoviesselect">
+    <display-name>Star Movies Select HD</display-name>
+    <icon src="StarMoviesSelectHD1.png" />
+  </channel>
+  <channel id="mastro.disneyinter">
+    <display-name>Disney International HD</display-name>
+    <icon src="Disney_International_HD.png" />
+  </channel>
+  <programme start="20260926000000 +0000" stop="20260926003600 +0000" channel="mastro.sonypix" catchup-id="260926762000">
+    <title>Hitch</title>
+    <desc>A professional dating expert helps men woo the women of their dreams. However, while helping a hapless client, he finds himself challenged by a gossip columnist.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/eecafb06bcb5c673ff7605cbde9ef3cc.jpg" />
+    <credits>
+      <director>Andy Tennant,Kevin Bisch</director>
+      <actor>Will Smith (Alex "Hitch" Hitchens),Eva Mendes (Sara),Kevin James (Albert),Amber Valletta (Allegra Cole),Julie Ann Emery (Casey),Michael Rapaport (Ben),Adam Arkin (Max),Robinne Lee (Cressida),Nathan Lee Graham (Geoff),Jeffrey Donovan (Vance),Philip Bosco (CEO),Ato Essandoh (Tanis),Darrell Foster (Bartender),Amy Hohn (Marla),Janet Huege (Reporter),Rebecca Mader (Kim),Paula Patton (Mandy)</actor>
+    </credits>
+    <sub-title>A professional dating expert helps men woo the women of their dreams. However, while helping a hapless client, he finds himself challenged by a gossip columnist.</sub-title>
+  </programme>
+  <programme start="20260926003600 +0000" stop="20260926013700 +0000" channel="mastro.sonypix" catchup-id="260926762001">
+    <title>Resident Evil</title>
+    <desc>Two associates of an elite commando team fight an army of zombies controlled by an evil desktop computer in a genetic research facility.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0b8d171c6c790f2fe9a62608fe1e67c5.jpg" />
+    <credits>
+      <actor>Milla Jovovich (Alice),Michelle Rodriguez (Rain),Eric Mabius (Matt),Ryan McCluskey (Mr. Grey),Oscar Pearce (Mr. Red),Indra Ové (Ms. Black),Anna Bolt (Dr. Green),Joseph May (Dr. Blue),Robert Tannion (Dr. Brown),Heike Makatsch (Lisa),Jaymes Butler (Clarence),Stephen Billington (Mr. White),Fiona Glascott (Ms. Gold),Colin Salmon (One),Martin Crewes (Kaplan),Pasquale Aleardi (J.D.),Liz May Brice (Medic),Torsten Jerabek (Commando 1),Marc Logan-Black (Commando 2),James Purefoy (Spence),Michaela Dicker (Red Queen)</actor>
+    </credits>
+    <sub-title>Two associates of an elite commando team fight an army of zombies controlled by an evil desktop computer in a genetic research facility.</sub-title>
+  </programme>
+  <programme start="20260926013700 +0000" stop="20260926031300 +0000" channel="mastro.sonypix" catchup-id="260926762002">
+    <title>28 Days Later</title>
+    <desc>After a mysterious virus wreaks havoc in the United Kingdom, a team of survivors tries to cope with the aftermath of the disaster and find security.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a3cc9c938898d44d4b4f2779474d608c.jpg" />
+    <credits>
+      <director>Danny Boyle</director>
+      <actor>Cillian Murphy,Noah Huntley,Naomie Harris,Brendan Gleeson,Megan Burns,Christopher Eccleston,Marvin Campbell,Sanjay Rambaruth,Ray Panthaki,Junior Laniyan,Leo Bill,Ricci Harnett,Stuart McQuarrie,Luke Mably,Justin Hackney,Kim McGarrity,Alexander Delamere,Emma Hitching,Christopher Dunne,Toby Sedgwick</actor>
+    </credits>
+    <sub-title>After a mysterious virus wreaks havoc in the United Kingdom, a team of survivors tries to cope with the aftermath of the disaster and find security.</sub-title>
+  </programme>
+  <programme start="20260926031300 +0000" stop="20260926044200 +0000" channel="mastro.sonypix" catchup-id="260926762003">
+    <title>Insidious: The Last Key</title>
+    <desc>Parapsychologist Elise Rainier gets thrust into returning to her eerie childhood home where she and her family have to fight a dangerous otherworldly entity.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fb87de98be4fa70926dcb9968bd455c8.jpg" />
+    <credits>
+      <director>Adam Robitel</director>
+      <actor>Lin Shaye,Leigh Whannell,Angus Sampson,Kirk Acevedo,Caitlin Gerard,Spencer Locke,Josh Stewart,Tessa Ferrer,Aleque Reid,Ava Kolker,Pierce Pope,Bruce Davison,Javier Botet,Marcus Henderson,Amanda Jaros,Judith Drake,Hana Hayes,Thomas Robie,Josh Wingate,Danielle Kennedy,Melanie Gaydos,Ty Simpkins,Rose Byrne,Patrick Wilson,Joseph Bishara,Stefanie Scott,Barbara Hershey,Danielle Bisutti,Brynn Bowie,Madison Bowie</actor>
+    </credits>
+    <sub-title>Parapsychologist Elise Rainier gets thrust into returning to her eerie childhood home where she and her family have to fight a dangerous otherworldly entity.</sub-title>
+  </programme>
+  <programme start="20260926044200 +0000" stop="20260926055900 +0000" channel="mastro.sonypix" catchup-id="260926762004">
+    <title>Don't Breathe</title>
+    <desc>Three delinquents break into the house of Norman, a Gulf War veteran who is visually impaired, to steal his money. However, they discover that Norman is not as helpless as he seems.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fbc1da364f43e66d01c9869c7924531c.jpg" />
+    <credits>
+      <director>Rodo Sayagues</director>
+      <actor>Jane Levy (Rocky),Dylan Minnette (Alex),Daniel Zovatto (Money),Stephen Lang (The Blind Man),Emma Bercovici (Diddy),Franciska Töröcsik (Cindy),Christian Zagia (Raul),Katia Bokor (Ginger),Sergej Onopko (Trevor)</actor>
+    </credits>
+    <sub-title>Three delinquents break into the house of Norman, a Gulf War veteran who is visually impaired, to steal his money. However, they discover that Norman is not as helpless as he seems.</sub-title>
+  </programme>
+  <programme start="20260926055900 +0000" stop="20260926071500 +0000" channel="mastro.sonypix" catchup-id="260926762005">
+    <title>Lake Placid vs. Anaconda</title>
+    <desc>A genetically modified anaconda and a giant crocodile escape captivity and enter a nearby lake. When the two massive creatures fight, the sheriff tries to prevent the town from being destroyed.</desc>
+    <category>TV Movie</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/952456eba8fa80ec563913bebee4037a.jpg" />
+    <credits>
+      <director>G.E. Furst,Berkeley Anderson</director>
+      <actor>Robert Englund,Yancy Butler,Corin Nemec,Stephen Billington,Laura Dale,Luke Dinchev,Ali Eagle,Colin Ferguson,Jenny May Darcy</actor>
+    </credits>
+    <sub-title>A genetically modified anaconda and a giant crocodile escape captivity and enter a nearby lake. When the two massive creatures fight, the sheriff tries to prevent the town from being destroyed.</sub-title>
+  </programme>
+  <programme start="20260926071500 +0000" stop="20260926085200 +0000" channel="mastro.sonypix" catchup-id="260926762006">
+    <title>Never Back Down: No Surrender</title>
+    <desc>Former martial arts titleholder prepares to return to familiar fields and uses his traditional fighting skills against the new line of fighters in order to reclaim his position.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/29fe548b0f6ffc9ba8a34be89eb99dc0.jpg" />
+    <credits>
+      <director>Michael Jai White,Chris Hauty</director>
+      <actor>Michael Jai White,Josh Barnett,Gillian White,JeeJa Yanin,Esai Morales,Stephen Quadros,Nathan Jones,Ron Smoorenburg</actor>
+    </credits>
+    <sub-title>Former martial arts titleholder prepares to return to familiar fields and uses his traditional fighting skills against the new line of fighters in order to reclaim his position.</sub-title>
+  </programme>
+  <programme start="20260926085200 +0000" stop="20260926103600 +0000" channel="mastro.sonypix" catchup-id="260926762007">
+    <title>Ghost Rider</title>
+    <desc>Motorcycle stuntman Johnny Blaze gives up his soul to save his father and becomes the Ghost Rider to fight against Blackheart, the son of Mephistopheles, the devil himself.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b1a97a175bdcb3193c8978feffda4295.jpg" />
+    <credits>
+      <actor>Nicolas Cage (Johnny Blaze/Ghost Rider),Eva Mendes (Roxanne Simpson),Wes Bentley (Blackheart),Sam Elliott (Caretaker),Donal Logue (Mack),Peter Fonda (Mephistopheles),Eddie Baroo (Motorcycle Gang Member),Jessica Napier (Broken Spoke Waitress)</actor>
+    </credits>
+    <sub-title>Motorcycle stuntman Johnny Blaze gives up his soul to save his father and becomes the Ghost Rider to fight against Blackheart, the son of Mephistopheles, the devil himself.</sub-title>
+  </programme>
+  <programme start="20260926103600 +0000" stop="20260926121800 +0000" channel="mastro.sonypix" catchup-id="260926762008">
+    <title>The Adventures of Tintin</title>
+    <desc>Tintin's new model ship sparks an adventure of intrigue and theft. He uncovers a historical mystery involving treasure, rival groups and a quest for scrolls revealing a sunken ship's location.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b98575eb1ff973d511774dc5f9491e62.jpg" />
+    <credits>
+      <director>Steven Moffat,Edgar Wright,Joe Cornish</director>
+      <actor>Jamie Bell (Tintin),Andy Serkis (Capt. Archibald Haddock),Daniel Craig (Ivan Ivanovitch Sakharine/Red Rackham),Nick Frost (Thomson),Simon Pegg (Thompson),Toby Jones (Silk),Mackenzie Crook (Tom),Daniel Mays (Allan),Gad Elmaleh (Ben Salaad),Joe Starr (Barnaby),Kim Stengel (Bianca Castafiore),Sonja Fortag (Mrs. Finch),Tony Curran (Lt. Delacourt)</actor>
+    </credits>
+    <sub-title>Tintin's new model ship sparks an adventure of intrigue and theft. He uncovers a historical mystery involving treasure, rival groups and a quest for scrolls revealing a sunken ship's location.</sub-title>
+  </programme>
+  <programme start="20260926121800 +0000" stop="20260926143400 +0000" channel="mastro.sonypix" catchup-id="260926762009">
+    <title>Blade Runner 2049</title>
+    <desc>K, an officer with the Los Angeles Police Department, unearths a secret that could create chaos. He goes in search of a former Blade Runner who has been missing for over three decades.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/452bb68df244d534046ddadf82c7222a.jpg" />
+    <credits>
+      <director>Denis Villeneuve,Hampton Fancher,Michael Green</director>
+      <actor>Ryan Gosling ("K"),Harrison Ford (Rick Deckard),Ana de Armas (Joi),Sylvia Hoeks (Luv),Robin Wright (Lieutenant Joshi),Jared Leto (Niander Wallace),Mackenzie Davis (Mariette),Carla Juri (Dr. Ana Stelline),Lennie James (Mister Cotton),Dave Bautista (Sapper Morton),Hiam Abbass (Freysa),Barkhad Abdi (Doc Badger),David Dastmalchian (Coco),Wood Harris (Nandez),Edward James Olmos (Gaff),Sean Young (Rachael),Tómas Lemarquis (File Clerk)</actor>
+    </credits>
+    <sub-title>K, an officer with the Los Angeles Police Department, unearths a secret that could create chaos. He goes in search of a former Blade Runner who has been missing for over three decades.</sub-title>
+  </programme>
+  <programme start="20260926143400 +0000" stop="20260926163400 +0000" channel="mastro.sonypix" catchup-id="260926762010">
+    <title>Jumanji: The Next Level</title>
+    <desc>After Spencer goes missing, his team of confidantes comes back to Jumanji to go to the undiscovered regions and support him in escaping the world's most lethal game.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1e6bc1519db4a0a4dd62f58947e6c9c9.jpg" />
+    <credits>
+      <actor>Dwayne Johnson,Kevin Hart,Jack Black,Karen Gillan,Awkwafina,Nick Jonas,Alex Wolff,Morgan Turner,Ashley Scott,Madison Iseman,Ser'Darius Blain,Danny DeVito,Danny Glover,Rhys Darby,Colin Hanks,Rory McCann,Marin Hinkle,Vince Pisani,Dorothy Steel,Jennifer Patino,Madison Johnson,Dania Ramirez,Derek Russo</actor>
+    </credits>
+    <sub-title>After Spencer goes missing, his team of confidantes comes back to Jumanji to go to the undiscovered regions and support him in escaping the world's most lethal game.</sub-title>
+  </programme>
+  <programme start="20260926163400 +0000" stop="20260926185300 +0000" channel="mastro.sonypix" catchup-id="260926762011">
+    <title>Spider-Man: Across the Spider-Verse</title>
+    <desc>Miles Morales travels the spider-verse and meets a league of spider-people as he fights a new enemy, the Spot. But upon trying to change his canon event, he is pitted against the other Spider-Men.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c1537c4f6c0f16378ec1114a23555e9b.jpg" />
+    <credits>
+      <director>Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,Dave Callaham</director>
+      <actor>Shameik Moore (Miles Morales),Hailee Steinfeld (Gwen Stacy),Brian Tyree Henry (Jefferson Davis),Luna Lauren Velez (Rio Morales),Jake Johnson (Peter B. Parker),Oscar Isaac (Miguel O'Hara),Jason Schwartzman (Jonathan Ohnn/The Spot),Daniel Kaluuya (Hobart "Hobie" Brown/Spider-Punk),Issa Rae (Jessica Drew),Shea Whigham (George Stacy),Amandla Stenberg (Margo Kess/Spider-Byte),Karan Soni (Spider-Man India),Rachel Dratch (Principal),Andy Samberg (Ben Reilly/Scarlet Spider),Jorma Taccone (Adrian Toomes/The Vulture)</actor>
+    </credits>
+    <sub-title>Miles Morales travels the spider-verse and meets a league of spider-people as he fights a new enemy, the Spot. But upon trying to change his canon event, he is pitted against the other Spider-Men.</sub-title>
+  </programme>
+  <programme start="20260926185300 +0000" stop="20260926210200 +0000" channel="mastro.sonypix" catchup-id="260926762012">
+    <title>Gran Turismo</title>
+    <desc>With the help of a mechanic having a tragic past, an avid player of racing video games attempts to become a professional car racer.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/26bc9e0c6b8fb8056ef82492bd37b9bf.jpg" />
+    <credits>
+      <director>Neill Blomkamp,Jason Hall,Zach Baylin</director>
+      <actor>David Harbour (Jack Salter),Orlando Bloom (Danny Moore),Archie Madekwe (Jann Mardenborough),Darren Barnet (Matty Davis),Geri Halliwell Horner (Lesley Mardenborough),Djimon Hounsou (Steve Mardenborough),Maeve Courtier-Lilley (Audrey),Takehiro Hira (Kazunori Yamauchi),Josha Stradowski (Nicholas Capa),Emelia Hartford (Leah Vega),Pepe Barroso (Antonio Cruz),Daniel Puig (Coby Mardenborough),Sang Heon Lee (Joo-Hwan Lee)</actor>
+    </credits>
+    <sub-title>With the help of a mechanic having a tragic past, an avid player of racing video games attempts to become a professional car racer.</sub-title>
+  </programme>
+  <programme start="20260926210200 +0000" stop="20260926230000 +0000" channel="mastro.sonypix" catchup-id="260926762013">
+    <title>Hellboy</title>
+    <desc>Hellboy is a demonic warrior who protects the Earth from paranormal threats. When an enemy from his past makes a comeback, it is up to him and his team to stop the villain once and for all.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d8e3997cddfb42af0ed176d70465b43.jpg" />
+    <credits>
+      <director>Guillermo del Toro</director>
+      <actor>Ron Perlman,John Hurt,Selma Blair,Rupert Evans,Karel Roden,Jeffrey Tambor,Doug Jones,Brian Steele,Ladislav Beran,Kevin Trainor,Brian Caspe,James Babson,Stephen Fisher,Garth Cooper,Angus MacInnes</actor>
+    </credits>
+    <sub-title>Hellboy is a demonic warrior who protects the Earth from paranormal threats. When an enemy from his past makes a comeback, it is up to him and his team to stop the villain once and for all.</sub-title>
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260926235959 +0000" channel="mastro.sonypix" catchup-id="260926762014">
+    <title>The Unholy</title>
+    <desc>After a girl with hearing impairment envisions the Virgin Mary and regains her ability to hear along with other powers, a journalist unravels the truth behind this paranoia.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0d5d29197c70aece87d14890bbf58375.jpg" />
+    <credits>
+      <actor>Jeffrey Dean Morgan (Gerry Fenn),Cricket Brown (Alice),Cary Elwes (Bishop Gyles),Katie Aselton (Dr. Natalie Gates),William Sadler (Father Hagan),Diogo Morgado (Monsignor Delgarde),Marina Mazepa (Mary Elnor),Celeste Oliva (Librarian),Kiara Pichardo (Faithful #3),Janelle Feigley (Photographer/Reporter)</actor>
+    </credits>
+    <sub-title>After a girl with hearing impairment envisions the Virgin Mary and regains her ability to hear along with other powers, a journalist unravels the truth behind this paranoia.</sub-title>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="mastro.starmovies" catchup-id="2609261104000">
+    <title>Toy Story 4</title>
+    <desc>Woody, Buzz Lightyear, and the rest of the gang join a new toy, Forky, on a road trip. But the trip soon turns into an unexpected reunion between Woody and Bo Peep.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/14179aef025de9efde2e495b62f89505.jpg" />
+    <credits>
+      <director>Josh Cooley,Stephany Folsom</director>
+      <actor>Tom Hanks (Woody),Tim Allen (Buzz Lightyear),Annie Potts (Bo Peep),Tony Hale (Forky),Keegan-Michael Key (Ducky),Madeleine McGraw (Bonnie),Christina Hendricks (Gabby Gabby),Jordan Peele (Bunny),Keanu Reeves (Duke Caboom),Ally Maki (Giggle McDimples),Jay Hernandez (Bonnie's Dad),Lori Alan (Bonnie's Mom),Joan Cusack (Jessie),Bonnie Hunt (Dolly),Kristen Schaal (Trixie),Emily Davis (Billy/Goat/Gruff),Wallace Shawn (Rex),John Ratzenberger (Hamm),Blake Clark (Slinky Dog),June Squibb (Margaret the Store Owner),Carl Weathers (Combat Carls),Lila Sage Bromley (Harmony),Don Rickles (Mr. Potato Head),Jeff Garlin (Buttercup)</actor>
+    </credits>
+    <sub-title>Woody, Buzz Lightyear, and the rest of the gang join a new toy, Forky, on a road trip. But the trip soon turns into an unexpected reunion between Woody and Bo Peep.</sub-title>
+  </programme>
+  <programme start="20260926003000 +0000" stop="20260926020100 +0000" channel="mastro.starmovies" catchup-id="2609261104001">
+    <title>Resident Evil: Afterlife</title>
+    <desc>Alice learns of a mysterious haven named Arcadia while fighting the Umbrella Corporation. She decides to join a group of survivors headed to Arcadia, unaware that they are walking into a trap.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5f978144434455b01a81c39c42cf3f28.jpg" />
+    <credits>
+      <actor>Milla Jovovich (Alice),Ali Larter (Claire Redfield),Kim Coates (Bennett),Shawn Roberts (Albert Wesker),Sergio Peris-Mencheta (Angel),Spencer Locke (K-Mart),Boris Kodjoe (Luther),Wentworth Miller (Chris Redfield),Sienna Guillory (Jill Valentine),Ray Olubowale (The Axeman),Kacey Barnfield (Crystal Waters),Norman Yeung (Kim Yong),Fulvio Cecere (Wendell),Denis Akiyama (Capt. Hotaka)</actor>
+    </credits>
+    <sub-title>Alice learns of a mysterious haven named Arcadia while fighting the Umbrella Corporation. She decides to join a group of survivors headed to Arcadia, unaware that they are walking into a trap.</sub-title>
+  </programme>
+  <programme start="20260926020100 +0000" stop="20260926034400 +0000" channel="mastro.starmovies" catchup-id="2609261104002">
+    <title>Mojin The Treasure Valley</title>
+    <desc>In search of a curse breaker, tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian on a monster-infested island.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/19e8ed5d8c2eb7dcecfe74b911051112.jpg" />
+    <credits>
+      <director>Fei Xing</director>
+      <actor>Heng Cai,Xuan Gu,Heng Yu,Taishen Cheng (Professor Sun),Yusi Chen (Zhou Linglong),Chih-Wei Tang (Zhou Jiuye(as Zhiwei Tang)),Chung Hua Tou (Chen Yukou(as Zonghua Tuo))</actor>
+    </credits>
+    <sub-title>In search of a curse breaker, tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian on a monster-infested island.</sub-title>
+  </programme>
+  <programme start="20260926034400 +0000" stop="20260926035300 +0000" channel="mastro.starmovies" catchup-id="2609261104003">
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg" />
+    <sub-title>Bringing the best in television.</sub-title>
+  </programme>
+  <programme start="20260926035300 +0000" stop="20260926050400 +0000" channel="mastro.starmovies" catchup-id="2609261104004">
+    <title>Catch The Dragon</title>
+    <desc>A palaeontology expert embarks on a quest with a skilled hunter and a mechanic to hunt dragons and uncover the truth about his father's death.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4dbaffddeb335306f757e65a5b5d8962.jpg" />
+    <credits>
+      <director>Liu Yang,Weizhong Huang</director>
+      <actor>Shi Yan Neng,Guo Zhen,Qi Cheng,Bryan Hughes (Will),Haoyue Huang</actor>
+    </credits>
+    <sub-title>A palaeontology expert embarks on a quest with a skilled hunter and a mechanic to hunt dragons and uncover the truth about his father's death.</sub-title>
+  </programme>
+  <programme start="20260926050400 +0000" stop="20260926063400 +0000" channel="mastro.starmovies" catchup-id="2609261104005">
+    <title>George and the Dragon</title>
+    <desc>After witnessing extreme bloodshed, Knight George decides to forsake war and seek redemption. However, he is forced to get back to his old ways when he sets out to rescue King Edgar's daughter.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/039d5c18e64af7e64d31a13da773094b.jpg" />
+    <credits>
+      <actor>James Purefoy (George),Piper Perabo (Princess Luma),Patrick Swayze (Garth),Michael Clarke Duncan (Tarik),Bill Treacher (Elmendorf),Jean-Pierre Castaldi (Father Bernard),Rollo Weeks (Wryn),Paul Freeman (Sir Robert),Stefan Jürgens (Bulchar),Caroline Carver (Sister Angela),Joan Plowright (Mother Superior),Simon Callow (King Edgar),Carl Chase (Aard),Bill Oddie (Odo),Stefan Weinert (Mercenary No. 1)</actor>
+    </credits>
+    <sub-title>After witnessing extreme bloodshed, Knight George decides to forsake war and seek redemption. However, he is forced to get back to his old ways when he sets out to rescue King Edgar's daughter.</sub-title>
+  </programme>
+  <programme start="20260926063400 +0000" stop="20260926082500 +0000" channel="mastro.starmovies" catchup-id="2609261104006">
+    <title>Incredibles 2</title>
+    <desc>Entrusted with a task to restore public faith in superheroes, Helen sets off on a mission to catch a supervillain, while Bob faces the challenges of stay-at-home parenting.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a33b7e4e119ad9b19c5df800859e5f41.jpg" />
+    <credits>
+      <director>Brad Bird</director>
+      <actor>Craig T. Nelson (Bob Parr/Mr. Incredible),Holly Hunter (Helen Parr/Elastigirl),Sarah Vowell (Violet Parr),Huck Milner (Dashiell Parr (Dash)),Samuel L. Jackson (Lucius Best/Frozone),Bob Odenkirk (Winston Deavor),Catherine Keener (Evelyn Deavor),Brad Bird (Edna Mode (E)),Bill Wise (Screenslaver/Pizza Guy),Isabella Rossellini (Ambassador),Barry Bostwick (Mayor),Jonathan Banks (Rick Dicker),Sophia Bush (Voyd)</actor>
+    </credits>
+    <sub-title>Entrusted with a task to restore public faith in superheroes, Helen sets off on a mission to catch a supervillain, while Bob faces the challenges of stay-at-home parenting.</sub-title>
+  </programme>
+  <programme start="20260926082500 +0000" stop="20260926095800 +0000" channel="mastro.starmovies" catchup-id="2609261104007">
+    <title>Taken 2</title>
+    <desc>During a holiday with his ex-wife, retired CIA operative Bryan Mills faces the wrath of the father of one of the kidnappers he murdered while rescuing his daughter.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4718d11f73094a3431b6a65dd32ffb2f.jpg" />
+    <credits>
+      <director>Olivier Megaton,Robert Mark Kamen</director>
+      <actor>Liam Neeson (Bryan Mills),Maggie Grace (Kim),Famke Janssen (Lenore),Rade Serbedzija (Murad Krasniqi),Leland Orser (Sam),Jon Gries (Casey),D.B. Sweeney (Bernie),Luke Grimes (Jamie),Kevork Malikyan (Inspector Durmaz),Alain Figlarz (Suko),Frank Alvarez (Car Wash Attendant),Murat Tuncelli (Custom Officer Albania),Ali Yildirim (Imam),Ergun Kuyucu (Mirko),Naci Adigüzel (Cheikh),Alexander Amadeus Dawe (Johnson),Olivier Rabourdin (Jean-Claude)</actor>
+    </credits>
+    <sub-title>During a holiday with his ex-wife, retired CIA operative Bryan Mills faces the wrath of the father of one of the kidnappers he murdered while rescuing his daughter.</sub-title>
+  </programme>
+  <programme start="20260926095800 +0000" stop="20260926114300 +0000" channel="mastro.starmovies" catchup-id="2609261104008">
+    <title>Cinderella</title>
+    <desc>Ella, a young woman, lives with her abusive stepmother, who treats her as the maid of the house. However, things change for the better when she encounters Kit, a young palace apprentice.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b0855c2b5058ec56aa87a75b9f8007e8.jpg" />
+    <credits>
+      <director>Kenneth Branagh,Chris Weitz</director>
+      <actor>Cate Blanchett (Stepmother),Lily James (Ella),Richard Madden (Prince),Helena Bonham-Carter (Fairy Godmother),Nonso Anozie (Captain),Stellan Skarsgard (Grand Duke),Sophie McShera (Drisella),Holliday Grainger (Anastasia),Derek Jacobi (King),Ben Chaplin (Ella's Father),Hayley Atwell (Ella's Mother),Rob Brydon (Master Phineus),Jana Perez (Princess Chelina),Alex MacQueen (Royal Crier),Tom Edden (Lizard Footman),Gareth Mason (Goose Coachman),Eloise Webb (Ella (10 Years))</actor>
+    </credits>
+    <sub-title>Ella, a young woman, lives with her abusive stepmother, who treats her as the maid of the house. However, things change for the better when she encounters Kit, a young palace apprentice.</sub-title>
+  </programme>
+  <programme start="20260926114300 +0000" stop="20260926132500 +0000" channel="mastro.starmovies" catchup-id="2609261104009">
+    <title>Pete's Dragon</title>
+    <desc>Pete Healy, an orphan, accompanied by his new friends, sets out to search for Elliot, a large dragon who he has befriended as a child, after the latter suddenly leaves.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0fee967056a920b8510a0e8fc2e69d10.jpg" />
+    <credits>
+      <director>David Lowery,Toby Halbrooks,Malcolm Marmorstein</director>
+      <actor>Bryce Dallas Howard (Grace),Oakes Fegley (Pete),Wes Bentley (Jack),Karl Urban (Gavin),Oona Laurence (Natalie),Robert Redford (Meacham),Isiah Whitlock Jr. (Sheriff Gene Dentler),Marcus Henderson (Woodrow),Aaron Jackson (Abner),Phil Grieve (Bobby)</actor>
+    </credits>
+    <sub-title>Pete Healy, an orphan, accompanied by his new friends, sets out to search for Elliot, a large dragon who he has befriended as a child, after the latter suddenly leaves.</sub-title>
+  </programme>
+  <programme start="20260926132500 +0000" stop="20260926155000 +0000" channel="mastro.starmovies" catchup-id="2609261104010">
+    <title>Avengers: Infinity War</title>
+    <desc>The Avengers and their allies set out to stop Thanos, an alien warlord, from acquiring the Infinity Stones as he plans to eliminate half of all life from the universe using them.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ddfe5de4ce7612c00561f09df36f48d3.jpg" />
+    <credits>
+      <director>Anthony Russo,Joe Russo,Christopher Markus,Stephen McFeely</director>
+      <actor>Robert Downey Jr. (Tony Stark/Iron Man),Chris Hemsworth (Thor),Josh Brolin (Thanos),Chadwick Boseman (T'Challa/Black Panther),Mark Ruffalo (Bruce Banner/Hulk),Zoe Saldana (Gamora),Chris Evans (Steve Rogers),Chris Pratt (Peter Quill/Star-Lord),Benedict Cumberbatch (Dr. Stephen Strange),Dave Bautista (Drax),Don Cheadle (James Rhodes/War Machine),Tom Holland (Peter Parker/Spider-Man),Paul Bettany (Vision),Elizabeth Olsen (Wanda Maximoff/Scarlet Witch),Scarlett Johansson (Natasha Romanoff/Black Widow),Anthony Mackie (Sam Wilson/Falcon),Sebastian Stan (Bucky Barnes/Winter Soldier),Danai Gurira (Okoye),Letitia Wright (Shuri),Karen Gillan (Nebula),Peter Dinklage (Eitri),Bradley Cooper (Rocket Raccoon),Gwyneth Paltrow (Pepper Potts),Vin Diesel (Groot),Benicio del Toro (The Collector),Tom Hiddleston (Loki),Idris Elba (Heimdall),Benedict Wong (Wong),Pom Klementieff (Mantis),William Hurt (Secretary of State Thaddeus Ross),Tom Vaughan-Lawlor (Ebony Maw),Terry Notary (Cull Obsidian/On-Set Groot),Carrie Coon (Proxima Midnight)</actor>
+    </credits>
+    <sub-title>The Avengers and their allies set out to stop Thanos, an alien warlord, from acquiring the Infinity Stones as he plans to eliminate half of all life from the universe using them.</sub-title>
+  </programme>
+  <programme start="20260926155000 +0000" stop="20260926173600 +0000" channel="mastro.starmovies" catchup-id="2609261104011">
+    <title>Transformers One</title>
+    <desc>Optimus Prime and Megatron share a close bond while shaping the destiny of Cybertron forever. However, their alliance eventually crumbles as they turn into bitter enemies.</desc>
+    <category>Short Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4d3c16bd5f05093cd0d871d016d4238d.jpg" />
+    <credits>
+      <director>Josh Cooley</director>
+      <actor>Brian Tyree Henry,Scarlett Johansson,Keegan-Michael Key,Steve Buscemi,Laurence Fishburne,Jon Hamm,Chris Hemsworth</actor>
+    </credits>
+    <sub-title>Optimus Prime and Megatron share a close bond while shaping the destiny of Cybertron forever. However, their alliance eventually crumbles as they turn into bitter enemies.</sub-title>
+  </programme>
+  <programme start="20260926173600 +0000" stop="20260926191100 +0000" channel="mastro.starmovies" catchup-id="2609261104012">
+    <title>Cars 3</title>
+    <desc>Lighting McQueen, a legendary racer, is overcome by new generation racers. Later, he sets out to prove that he is the best racer in the world with the help of a technician, Cruz Ramirez.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/020bc9401526bd2e1e0e48c15309bb2d.jpg" />
+    <credits>
+      <director>Brian Fee,Kiel Murray,Bob Peterson,Mike Rich</director>
+      <actor>Owen Wilson (Lightning McQueen),Cristela Alonzo (Cruz Ramirez),Armie Hammer (Jackson Storm),Chris Cooper (Smokey),Nathan Fillion (Sterling),Larry the Cable Guy (Mater),Tony Shalhoub (Luigi),Margo Martindale (Louise Nash),Kerry Washington (Natalie Certain),Cheech Marin (Ramone),Lea DeLaria (Miss Fritter),Bonnie Hunt (Sally),Bob Costas (Bob Cutlass),Paul Newman (Doc Hudson),Michael Wallis (Sheriff),Paul Dooley (Sarge)</actor>
+    </credits>
+    <sub-title>Lighting McQueen, a legendary racer, is overcome by new generation racers. Later, he sets out to prove that he is the best racer in the world with the help of a technician, Cruz Ramirez.</sub-title>
+  </programme>
+  <programme start="20260926191100 +0000" stop="20260926204500 +0000" channel="mastro.starmovies" catchup-id="2609261104013">
+    <title>Turning Red</title>
+    <desc>Facing a dilemma about her future, a thirteen-year-old girl's life becomes extremely exciting when she turns into a giant red panda.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/432f81381e50e56d7222e0b1696714b5.jpg" />
+    <credits>
+      <director>Domee Shi,Julia Cho</director>
+      <actor>Patrick Baehr (Aaron Z. (4*Town)),Franziska Trunte (Abby),Marianne Groß (Grandma / Grandma Panda),Collien Monica Fernandes (Helen),Nico Stank (Jesse (4*Town)),Florian Clyde (Jin),Christina-Ann Zalamea (Lily),Jenniffer Kae (Ming (jung)),Christin Marquitan (Ming / Panda Ming),Frederic Phung (Aaron T. (4*Town)),Tim Schäcker (Devon),Lana Finn Marti (Meilin / Panda Meilin)</actor>
+    </credits>
+    <sub-title>Facing a dilemma about her future, a thirteen-year-old girl's life becomes extremely exciting when she turns into a giant red panda.</sub-title>
+  </programme>
+  <programme start="20260926204500 +0000" stop="20260926225400 +0000" channel="mastro.starmovies" catchup-id="2609261104014">
+    <title>Iron Man</title>
+    <desc>Tony Stark, a brilliant inventor, gets kidnapped by terrorists while working on a project overseas. He builds a high-tech armour in order to escape and later uses it to save people.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/aa7d8248039df7c187f2a5f77913438a.jpg" />
+    <credits>
+      <director>Jon Favreau,Mark Fergus,Hawk Ostby,Art Marcum,Matt Holloway</director>
+      <actor>Robert Downey Jr. (Tony Stark/Iron Man),Terrence Howard (Jim "Rhodey" Rhodes),Jeff Bridges (Obadiah Stane),Gwyneth Paltrow (Virginia "Pepper" Potts),Leslie Bibb (Christine Everhart),Shaun Toub (Yinsen),Faran Tahir (Raza),Clark Gregg (Coulson),Bill Smitrovich (Gen. Gabriel),Sayed Badreya (Abu Bakar),Jon Favreau (Happy Hogan),Paul Bettany (Jarvis),Peter Billingsley (William Ginter Riva),Tim Guinee (Major Allen),Will Lyman (Award Ceremony Narrator),Tom Morello (Guard),Marco Khan (Guard),Dastan Khalili (Guard),Ido Mor (Guard),Kevin Foster (Jimmy),Garret Noël (Pratt),Eileen Weisinger (Ramirez),Ahmed Ahmed (Ahmed),Fahim Fazli (Omar),Gerard Sanders (Howard Stark),Tim Rigby (Viper 1),Russell Richardson (Viper 2),Nazanin Boniadi (Amira Ahmed),Thomas Craig Plumer (Colonel Craig),Jim Cramer,Reid Harper (Kid in SUV),Ava Rose Williams (Kid in SUV),Sahar Bibiyan (Gulmira mom),Patrick O'Connell (Reporter),Adam Harrington (Reporter),Meera Simhan (Reporter),Ben Newmark (Reporter),Ricki Lander (Flight Attendant),Jeannine Kaspar (Flight Attendant),Sarah Cahill (Flight Attendant),Stan Lee,Zorianna Kit,Lana Kinnear (Stan's Girl),Masha Lund (Stan's Girl),Gabrielle Tuite (Stan's Girl)</actor>
+    </credits>
+    <sub-title>Tony Stark, a brilliant inventor, gets kidnapped by terrorists while working on a project overseas. He builds a high-tech armour in order to escape and later uses it to save people.</sub-title>
+  </programme>
+  <programme start="20260926225400 +0000" stop="20260926235959 +0000" channel="mastro.starmovies" catchup-id="2609261104015">
+    <title>X-Men: Dark Phoenix</title>
+    <desc>Jean Grey's superpowers magnify after she is struck by solar energy. However, when she is unable to control her capabilities, the X Men strive to rescue her.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/59c127d35a3584a0fb94af8bcf5cbc08.jpg" />
+    <credits>
+      <actor>James McAvoy (Professor Charles Xavier),Michael Fassbender (Erik Lehnsherr/Magneto),Jennifer Lawrence (Raven/Mystique),Nicholas Hoult (Hank McCoy/Beast),Sophie Turner (Jean Grey/Phoenix),Tye Sheridan (Scott Summers/Cyclops),Alexandra Shipp (Ororo Munroe/Storm),Evan Peters (Peter Maximoff/Quicksilver),Kodi Smit-McPhee (Kurt Wagner/Nightcrawler),Jessica Chastain (Vuk),Scott Shepherd (John Grey),Ato Essandoh (Jones),Brian d'Arcy James (President of the United States),Halston Sage (Dazzler),Lamar Johnson (Match),Summer Fontana (Young Jean Grey (8yrs Old)),Hannah Anderson (Elaine Grey),Josh McLaglen (Hospital Doctor),Todd Hallowell (Hospital Doctor),Julianne Jain (Hospital Doctor)</actor>
+    </credits>
+    <sub-title>Jean Grey's superpowers magnify after she is struck by solar energy. However, when she is unable to control her capabilities, the X Men strive to rescue her.</sub-title>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926002900 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110000">
+    <title>The Interview</title>
+    <desc>Aaron and Dave, who run a popular late-night show, get a chance to interview Kim Jong-un. The CIA decides to take advantage of the opportunity and devices a plan to assassinate the infamous dictator.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4e8c77e278e65818cd5d0bc3f046aaeb.jpg" />
+    <credits>
+      <actor>James Franco,Seth Rogen,Lizzy Caplan,Randall Park,Diana Bang,Timothy Simons,James Yi,Paul Bae,Geoff Gustafson,Dominique Lalonde,Anesha Bailey,Anders Holm,Rob Lowe</actor>
+    </credits>
+    <sub-title>Aaron and Dave, who run a popular late-night show, get a chance to interview Kim Jong-un. The CIA decides to take advantage of the opportunity and devices a plan to assassinate the infamous dictator.</sub-title>
+  </programme>
+  <programme start="20260926002900 +0000" stop="20260926015500 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110001">
+    <title>Ooops! Noah Is Gone ...</title>
+    <desc>During an apocalyptic flood, Finny and Leah, a couple of animals, join other creatures on Noah's Ark. However, they fall overboard and struggle for survival.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8fe91734257ba7715ace17d50882a964.jpg" />
+    <credits>
+      <director>Toby Genkel,Sean McCormack,Mark Hodkinson,Marteinn Thorisson,Richie Conroy</director>
+      <actor>Callum Maloney (Finny),Dermot Magennis (Dave/Mr. Griffin/Prairie Dog),Ava Connolly (Leah),Tara Flynn (Hazel),Patrick Fitzsymons (Tanglefoot),Paul Tylak (Obesey),Alan Stanford (Lion),Aileen Mythen (Mrs. Griffin)</actor>
+    </credits>
+    <sub-title>During an apocalyptic flood, Finny and Leah, a couple of animals, join other creatures on Noah's Ark. However, they fall overboard and struggle for survival.</sub-title>
+  </programme>
+  <programme start="20260926015500 +0000" stop="20260926031800 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110002">
+    <title>The Python</title>
+    <desc>When a dictatorial commander orders the death of a python within three days, members of a snake-hunting village must comply or face the consequences of his wrath.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/98c4c9998d85565e5ef3b059e10a8f3e.jpg" />
+    <credits>
+      <director>Dai Yi-Lin</director>
+      <actor>Naomen Eerdeni,Eric Suen,Mengxuan Jian</actor>
+    </credits>
+    <sub-title>When a dictatorial commander orders the death of a python within three days, members of a snake-hunting village must comply or face the consequences of his wrath.</sub-title>
+  </programme>
+  <programme start="20260926031800 +0000" stop="20260926045200 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110003">
+    <title>King Of Serpant</title>
+    <desc>A man's small village faces certain death unless he kills a giant python. So, he leads the hunt against the beast to keep his village safe.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5856ae5e9f25fec25d5f4fe962ac82cc.jpg" />
+    <credits>
+      <director>Yilin Dai</director>
+      <actor>Yun Shao,Hongqian Wang,Lincheng Liu,Weifeng Rong,Daning Xu,Ye Guo</actor>
+    </credits>
+    <sub-title>A man's small village faces certain death unless he kills a giant python. So, he leads the hunt against the beast to keep his village safe.</sub-title>
+  </programme>
+  <programme start="20260926045200 +0000" stop="20260926051600 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110004">
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfdca0c81d36c76aae93b5c0b0124d0f.jpg" />
+    <sub-title>Bringing the best in television.</sub-title>
+  </programme>
+  <programme start="20260926051600 +0000" stop="20260926071300 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110005">
+    <title>Mojin The Treasure Valley</title>
+    <desc>Tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian and find an artefact to lift their curse on a monster-infested island.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/bdb41cdffda22b9de8ec459d4320b526.jpg" />
+    <credits>
+      <actor>Heng Cai (Hu Bayi),Xuan Gu (Shirley Yang),Heng Yu (Wang Kaixuan),Taishen Cheng (Professor Sun),Marc Ma (Jin Ya)</actor>
+    </credits>
+    <sub-title>Tomb raider Hu Bayi and his team set out to look for the lost tomb of Emperor Xian and find an artefact to lift their curse on a monster-infested island.</sub-title>
+  </programme>
+  <programme start="20260926071300 +0000" stop="20260926084700 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110006">
+    <title>Unbending Mr. Fang</title>
+    <desc>Fang Shiyu, a martial artist, decides to exact revenge on the corrupt officials who falsely accuse and frame him in a case of corruption.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2a52b4052b137acfad133f90886a2d52.jpg" />
+    <credits>
+      <director>Guo Yulong</director>
+      <actor>Shi Xuanru,Zhao Wang,Liu Yu Chi,Yi Long</actor>
+    </credits>
+    <sub-title>Fang Shiyu, a martial artist, decides to exact revenge on the corrupt officials who falsely accuse and frame him in a case of corruption.</sub-title>
+  </programme>
+  <programme start="20260926084700 +0000" stop="20260926103800 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110007">
+    <title>Ferdinand</title>
+    <desc>A bull's peaceful existence comes crashing down when the authorities return him to his former captors. With help from a wisecracking goat and three hedgehogs, the giant but gentle bovine must find a way to escape before he meets a famous bullfighter.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d57a4587767850d453bd371b4ae78e40.jpg" />
+    <credits>
+      <director>Carlos Saldanha,Robert L. Baird,Tim Federle,Brad Copeland</director>
+      <actor>John Cena (Ferdinand),Kate McKinnon (Lupe),Gina Rodriguez (Una),Daveed Diggs (Dos),Gabriel Iglesias (Cuatro),Bobby Cannavale (Valiente),David Tennant (Angus),Anthony Anderson (Bones),Flula Borg (Hans),Sally Phillips (Greta),Boris Kodjoe (Klaus),Jerrod Carmichael (Paco),Raúl Esparza (Moreno),Karla Martínez (Village Mother),Miguel Ángel Silvestre (El Primero),Peyton Manning (Guapo),Juanes (Juan),Jeremy Sisto (Ferdinand's Father)</actor>
+    </credits>
+    <sub-title>A bull's peaceful existence comes crashing down when the authorities return him to his former captors. With help from a wisecracking goat and three hedgehogs, the giant but gentle bovine must find a way to escape before he meets a famous bullfighter.</sub-title>
+  </programme>
+  <programme start="20260926103800 +0000" stop="20260926124300 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110008">
+    <title>We Bought a Zoo</title>
+    <desc>Benjamin Mee quits his job and moves his young family to the countryside of Southern California to renovate and re-open a struggling zoo.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/280fcbf3d450a7065d09875af9681fe1.jpg" />
+    <credits>
+      <director>Aline Brosh McKenna</director>
+      <actor>Matt Damon (Benjamin Mee),Scarlett Johansson (Kelly Foster),Thomas Haden Church (Duncan Mee),Patrick Fugit (Robin Jones),Colin Ford (Dylan Mee),Elle Fanning (Lily Miska),Maggie Elizabeth Jones (Rosie Mee),John Michael Higgins (Walter Ferris),Angus MacFadyen (Peter MacCready),Peter Riegert (Delbert McGinty),Stephanie Szostak (Katherine Mee),JB Smoove (Mr. Stevens),Dustin Ybarra (Nathan),Sam Fox (Alison)</actor>
+    </credits>
+    <sub-title>Benjamin Mee quits his job and moves his young family to the countryside of Southern California to renovate and re-open a struggling zoo.</sub-title>
+  </programme>
+  <programme start="20260926124300 +0000" stop="20260926141700 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110009">
+    <title>Ice Age: The Meltdown</title>
+    <desc>A valley threatened by flooding forces Manny, Sid and Diego into an adventure across a changing world, where danger and discovery go hand in hand.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5857a7dcf375891431328f3ca9b7d62f.jpg" />
+    <credits>
+      <director>Carlos Saldanha</director>
+      <actor>Ray Romano (Manny),John Leguizamo (Sid),Denis Leary (Diego),Queen Latifah (Ellie),Chris Wedge (Scrat),Josh Peck (Eddie),Jay Leno (Fast Tony),Seann William Scott (Crash),Jason Fricchione (Grandpa Molehog),Denny Dillon (Freaky Female)</actor>
+    </credits>
+    <sub-title>A valley threatened by flooding forces Manny, Sid and Diego into an adventure across a changing world, where danger and discovery go hand in hand.</sub-title>
+  </programme>
+  <programme start="20260926141700 +0000" stop="20260926161600 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110010">
+    <title>Murder on the Orient Express</title>
+    <desc>While travelling on the Orient Express, celebrated Belgian detective Hercule Poirot investigates the brutal murder of a passenger.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5de070fc48ee316d84a8565106f85631.jpg" />
+    <credits>
+      <director>Kenneth Branagh,Michael Green</director>
+      <actor>Kenneth Branagh (Hercule Poirot),Johnny Depp (Edward Ratchett),Michelle Pfeiffer (Caroline Hubbard),Penélope Cruz (Pilar Estravados),Willem Dafoe (Gerhard Hardman),Judi Dench (Princess Natalia Dragomiroff),Josh Gad (Hector MacQueen),Derek Jacobi (Edward Henry Masterman),Leslie Odom Jr. (Dr. Arbuthnot),Daisy Ridley (Mary Debenham),Marwan Kenzari (Pierre Michel),Olivia Colman (Hildegarde Schmidt),Lucy Boynton (Countess Elena Andrenyi),Manuel Garcia-Rulfo (Marquez),Sergei Polunin (Count Rudolph Andrenyi),Tom Bateman (Bouc),Miranda Raison (Sonia Armstrong)</actor>
+    </credits>
+    <sub-title>While travelling on the Orient Express, celebrated Belgian detective Hercule Poirot investigates the brutal murder of a passenger.</sub-title>
+  </programme>
+  <programme start="20260926161600 +0000" stop="20260926175200 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110011">
+    <title>Monsters, Inc.</title>
+    <desc>In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/627f8243e56a31f934a9809045c2a015.jpg" />
+    <credits>
+      <director>Pete Docter,Daniel Gerson</director>
+      <actor>John Goodman (James P. Sullivan),Billy Crystal (Mike Wazowski),Mary Gibbs (Boo),Steve Buscemi (Randall),James Coburn (Henry J. Waternoose),Jennifer Tilly (Celia),Bob Peterson (Roz),John Ratzenberger (Yeti),Frank Oz (Fungus),Steve Susskind (Floor Manager),Bonnie Hunt (Ms. Flint),Jeff Pidgeon (Bile),Sam Black (George)</actor>
+    </credits>
+    <sub-title>In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world.</sub-title>
+  </programme>
+  <programme start="20260926175200 +0000" stop="20260926193300 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110012">
+    <title>The Pacifier</title>
+    <desc>Shane Wolfe, a Navy SEAL, fails to rescue a government scientist, Howard Plummer, from Serbian rebels. Later, he is assigned to protect Plummer's children from his enemies.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4e3450b0b94b868b7f233921ee0958f5.jpg" />
+    <credits>
+      <actor>Vin Diesel (Shane Wolfe),Lauren Graham (Principal Claire),Faith Ford (Julie),Brittany Snow (Zoe Plummer),Max Thieriot (Seth Plummer),Chris Potter (Capt. Bill Fawcett),Morgan York (LuLu Plummer),Scott Thompson (Director),Carol Kane (Helga),Brad Garrett (Coach),Denis Akiyama (Mr. Chun),Mung-Ling Tsui (Mrs. Chun),Kegan Hoover (Peter Plummer),Logan Hoover (Peter Plummer),Kyle Schmid (Scott),Anne Fletcher (Liesel),Tate Donovan (Howard Plummer)</actor>
+    </credits>
+    <sub-title>Shane Wolfe, a Navy SEAL, fails to rescue a government scientist, Howard Plummer, from Serbian rebels. Later, he is assigned to protect Plummer's children from his enemies.</sub-title>
+  </programme>
+  <programme start="20260926193300 +0000" stop="20260926210000 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110013">
+    <title>Darkroom</title>
+    <desc>Michelle accepts a professional role suggested by her advisor. This position confines her within a residence where three deranged relatives attempt to cleanse her soul.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/159a6a45170809222d7219aa46593c67.jpg" />
+    <credits>
+      <director>Michaelbrent Collings</director>
+      <actor>Kaylee DeFer (Michelle),Elisabeth Röhm (Rachel),Christian Campbell (Larry),Tobias Segal (Daniel),Steve Stanulis (Guy),Bonnie Bentley (Josylyn),Phil Haus (Trey),Natalie Knepp (Lauren),Britne Oldford (Jean),Bess Rous (Melanie)</actor>
+    </credits>
+    <sub-title>Michelle accepts a professional role suggested by her advisor. This position confines her within a residence where three deranged relatives attempt to cleanse her soul.</sub-title>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926225900 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110014">
+    <title>Alice in Wonderland</title>
+    <desc>After following a white rabbit to a magical world called Underland, Alice, a 19-year-old girl, teams up with the Mad Hatter and friends to overthrow the evil queen and her dragon.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0fe7922540adfc237f2f4f88a5e664c8.jpg" />
+    <credits>
+      <director>Tim Burton,Linda Woolverton</director>
+      <actor>Johnny Depp (The Mad Hatter),Mia Wasikowska (Alice),Helena Bonham Carter (The Red Queen),Anne Hathaway (The White Queen),Crispin Glover (Stayne - The Knave of Hearts),Matt Lucas (Tweedledum/Tweedledee),Michael Sheen (The White Rabbit),Stephen Fry (The Cheshire Cat),Alan Rickman (The Caterpillar),Barbara Windsor (The Dormouse),Paul Whitehouse (The March Hare),Timothy Spall (Bayard),Marton Csokas (Charles Kingsleigh),Tim Pigott-Smith (Lord Ascot),Lindsay Duncan (Helen Kingsleigh),Geraldine James (Lady Ascot),Leo Bill (Hamish Ascot),Jemma Powell (Margaret),Christopher Lee (Jabberwocky)</actor>
+    </credits>
+    <sub-title>After following a white rabbit to a magical world called Underland, Alice, a 19-year-old girl, teams up with the Mad Hatter and friends to overthrow the evil queen and her dragon.</sub-title>
+  </programme>
+  <programme start="20260926225900 +0000" stop="20260926235959 +0000" channel="mastro.starmoviesselect" catchup-id="2609261110015">
+    <title>Mary Poppins Returns</title>
+    <desc>A magical nanny returns to the Banks family and helps them avoid grave dangers by leading them on various mystical adventures with her unique powers and charms.</desc>
+    <category>Feature Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/41c24c527c1570f85f99f6b7ac643977.jpg" />
+    <credits>
+      <director>Rob Marshall</director>
+      <actor>Vassia Zacharopoulou (Mary Poppins),Aris Plaskasovitis (Jack),Vasilis Papastathis (Michael Banks),Ariel Konstantinidis (Jane Banks),Orestis Marizas (John),Giannos Koilakos (George),Emily Blunt,Lin-Manuel Miranda,Ben Whishaw,Emily Mortimer,Julie Walters,Angela Lansbury,Colin Firth,Meryl Streep,Dick Van Dyke</actor>
+    </credits>
+    <sub-title>A magical nanny returns to the Banks family and helps them avoid grave dangers by leading them on various mystical adventures with her unique powers and charms.</sub-title>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="mastro.disneyinter" catchup-id="2609261375000">
+    <title>Liv and Maddie</title>
+    <desc>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21bd9eb9f79ae86755b0016d3de77f80.jpg" />
+    <credits>
+      <actor>Dove Cameron (Liv Rooney/Maddie Rooney),Kali Rocha (Karen Rooney),Benjamin King (Pete Rooney),Joey Bragg (Joey Rooney),Tenzing Norgay Trainor (Parker Rooney)</actor>
+    </credits>
+    <sub-title>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</sub-title>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="mastro.disneyinter" catchup-id="2609261375001">
+    <title>Girl Meets World</title>
+    <desc>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/beb791128540af90cb50bb459985e0d1.jpg" />
+    <credits>
+      <actor>Ben Savage (Cory Matthews),Danielle Fishel (Topanga Matthews),Rowan Blanchard (Riley Matthews),August Maturo (Auggie Matthews),Sabrina Carpenter (Maya Hart),Peyton Meyer (Lucas Friar),Corey Fogelmanis (Farkle)</actor>
+    </credits>
+    <sub-title>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</sub-title>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="mastro.disneyinter" catchup-id="2609261375002">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie, and help her get her powers under control.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a0ca9885bd5e23f040a77a5c2c1bdacc.jpg" />
+    <credits>
+      <director>Raven-Symoné,Danielle Fishel</director>
+      <actor>David Henrie (Justin Russo),Mimi Gianopulos (Giada Russo),Janice LeAnn Brown (Billie),Alkaio Thiele (Roman Russo),Max Matenko (Milo Russo),Taylor Cora (Winter)</actor>
+    </credits>
+    <sub-title>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie, and help her get her powers under control.</sub-title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="mastro.disneyinter" catchup-id="2609261375003">
+    <title>Liv and Maddie</title>
+    <desc>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21bd9eb9f79ae86755b0016d3de77f80.jpg" />
+    <credits>
+      <actor>Dove Cameron (Liv Rooney/Maddie Rooney),Kali Rocha (Karen Rooney),Benjamin King (Pete Rooney),Joey Bragg (Joey Rooney),Tenzing Norgay Trainor (Parker Rooney)</actor>
+    </credits>
+    <sub-title>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</sub-title>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="mastro.disneyinter" catchup-id="2609261375004">
+    <title>Liv and Maddie</title>
+    <desc>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21bd9eb9f79ae86755b0016d3de77f80.jpg" />
+    <credits>
+      <actor>Dove Cameron (Liv Rooney/Maddie Rooney),Kali Rocha (Karen Rooney),Benjamin King (Pete Rooney),Joey Bragg (Joey Rooney),Tenzing Norgay Trainor (Parker Rooney)</actor>
+    </credits>
+    <sub-title>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</sub-title>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926083000 +0000" channel="mastro.disneyinter" catchup-id="2609261375005">
+    <title>Girl Meets World</title>
+    <desc>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/beb791128540af90cb50bb459985e0d1.jpg" />
+    <credits>
+      <actor>Ben Savage (Cory Matthews),Danielle Fishel (Topanga Matthews),Rowan Blanchard (Riley Matthews),August Maturo (Auggie Matthews),Sabrina Carpenter (Maya Hart),Peyton Meyer (Lucas Friar),Corey Fogelmanis (Farkle)</actor>
+    </credits>
+    <sub-title>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</sub-title>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926100000 +0000" channel="mastro.disneyinter" catchup-id="2609261375006">
+    <title>Hannah Montana</title>
+    <desc>Miley Stewart, an average teenage girl, lives a double life as a famous pop singer named Hannah Montana and constantly tries to conceal her true identity from the public.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d203de73cc0c3b857e4845d0eed4ee5c.jpg" />
+    <credits>
+      <actor>Miley Cyrus (Miley Stewart/Hannah Montana),Billy Ray Cyrus (Robbie Stewart),Emily Osment (Lilly Truscott),Jason Earles (Jackson Stewart),Mitchel Musso (Oliver Oken),Moises Arias (Rico)</actor>
+    </credits>
+    <sub-title>Miley Stewart, an average teenage girl, lives a double life as a famous pop singer named Hannah Montana and constantly tries to conceal her true identity from the public.</sub-title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926110000 +0000" channel="mastro.disneyinter" catchup-id="2609261375007">
+    <title>Good Luck Charlie</title>
+    <desc>Three brothers, Teddy, Casey, and Gabe, whose parents enlist their help when they return to work after the birth of their fourth child, Charlie.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/bccbd36c2173f1725c6ecb1f0ccc7468.jpg" />
+    <episode-num system="xmltv_ns">0.231</episode-num>
+    <credits>
+      <actor>Bridgit Mendler,Leigh-Allyn Baker,Bradley Steven Perry,Eric Allan Kramer,Jason Dolley,Mia Talerico</actor>
+    </credits>
+    <sub-title>Three brothers, Teddy, Casey, and Gabe, whose parents enlist their help when they return to work after the birth of their fourth child, Charlie.</sub-title>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="mastro.disneyinter" catchup-id="2609261375008">
+    <title>Liv and Maddie</title>
+    <desc>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21bd9eb9f79ae86755b0016d3de77f80.jpg" />
+    <credits>
+      <actor>Dove Cameron (Liv Rooney/Maddie Rooney),Kali Rocha (Karen Rooney),Benjamin King (Pete Rooney),Joey Bragg (Joey Rooney),Tenzing Norgay Trainor (Parker Rooney)</actor>
+    </credits>
+    <sub-title>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</sub-title>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926133000 +0000" channel="mastro.disneyinter" catchup-id="2609261375009">
+    <title>Descendants 3</title>
+    <desc>Mal, Evie, Jay and Carlos, the children of notorious supervillains, must return order in Auradon after Audrey, who is jealous of Mal, steals Maleficent's sceptre and terrorises the locals.</desc>
+    <category>TV Movie</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a69e3678e9061cd1efb22169defbbf73.jpg" />
+    <credits>
+      <actor>Dove Cameron (Mal),Sofia Carson (Evie),Cameron Boyce (Carlos),Booboo Stewart (Jay),Mitchell Hope (King Ben),China Anne McClain (Uma),Thomas Doherty (Harry Hook),Dylan Playfair (Gil),Anna Cathcart (Dizzy),Sarah Jeffery (Audrey),Jedidiah Goodacre (Chad Charming),Zachary Gibson (Doug),Brenna D'Amico (Jane),Judith Maxie (Queen Leah),Dan Payne (Beast),Keegan Connor Tracy (Belle),Melanie Paxson (Fairy Godmother),Cheyenne Jackson (Hades),Jadah Marie (Celia),Jamal Sims (Dr. Facilier),Christian Convery (Squeaky),Luke Roessler (Squirmy)</actor>
+    </credits>
+    <sub-title>Mal, Evie, Jay and Carlos, the children of notorious supervillains, must return order in Auradon after Audrey, who is jealous of Mal, steals Maleficent's sceptre and terrorises the locals.</sub-title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="mastro.disneyinter" catchup-id="2609261375010">
+    <title>Wizards Beyond Waverly Place</title>
+    <desc>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie, and help her get her powers under control.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a0ca9885bd5e23f040a77a5c2c1bdacc.jpg" />
+    <credits>
+      <director>Raven-Symoné,Danielle Fishel</director>
+      <actor>David Henrie (Justin Russo),Mimi Gianopulos (Giada Russo),Janice LeAnn Brown (Billie),Alkaio Thiele (Roman Russo),Max Matenko (Milo Russo),Taylor Cora (Winter)</actor>
+    </credits>
+    <sub-title>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie, and help her get her powers under control.</sub-title>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="mastro.disneyinter" catchup-id="2609261375011">
+    <title>Stuck in the Middle</title>
+    <desc>Harley Diaz, a young genius and the middle child of her family, uses her creativity and technical know-how to stand out from her six siblings and deal with her busy parents.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/04975e6d6922f32df1a3d604163e9b6b.jpg" />
+    <credits>
+      <actor>Jenna Ortega (Harley Diaz),Ronni Hawk (Rachel Diaz),Kayla Maisonet (Georgie Diaz),Isaak Presley (Ethan Diaz),Nicolas Bechtel (Lewie Diaz),Malachi Barton ("Beast" Diaz),Ariana Greenblatt (Daphne Diaz),Cerina Vincent (Suzy Diaz),Joe Nieves (Tom Diaz)</actor>
+    </credits>
+    <sub-title>Harley Diaz, a young genius and the middle child of her family, uses her creativity and technical know-how to stand out from her six siblings and deal with her busy parents.</sub-title>
+  </programme>
+  <programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="mastro.disneyinter" catchup-id="2609261375012">
+    <title>Stuck in the Middle</title>
+    <desc>Harley Diaz, a young genius and the middle child of her family, uses her creativity and technical know-how to stand out from her six siblings and deal with her busy parents.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/04975e6d6922f32df1a3d604163e9b6b.jpg" />
+    <credits>
+      <actor>Jenna Ortega (Harley Diaz),Ronni Hawk (Rachel Diaz),Kayla Maisonet (Georgie Diaz),Isaak Presley (Ethan Diaz),Nicolas Bechtel (Lewie Diaz),Malachi Barton ("Beast" Diaz),Ariana Greenblatt (Daphne Diaz),Cerina Vincent (Suzy Diaz),Joe Nieves (Tom Diaz)</actor>
+    </credits>
+    <sub-title>Harley Diaz, a young genius and the middle child of her family, uses her creativity and technical know-how to stand out from her six siblings and deal with her busy parents.</sub-title>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="mastro.disneyinter" catchup-id="2609261375013">
+    <title>Bunk'd</title>
+    <desc>Emma, Ravi and Zuri Ross embark on a new adventure as they head to a rustic summer camp where their parents met for the first time as teenagers.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d0e2f11618ab3c1d1f5f224d311c2bf6.jpg" />
+    <credits>
+      <actor>Miranda May (Lou Hockhauser),Mallory James Mahoney (Destiny Baker),Raphael Alejandro (Matteo Silva),Will Buie Jr. (Finn Sawyer),Shelby Simmons (Ava King),Israel Johnson (Noah Lambert),Trevor Tordjman (Parker Preston)</actor>
+    </credits>
+    <sub-title>Emma, Ravi and Zuri Ross embark on a new adventure as they head to a rustic summer camp where their parents met for the first time as teenagers.</sub-title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="mastro.disneyinter" catchup-id="2609261375014">
+    <title>Bunk'd</title>
+    <desc>Emma, Ravi and Zuri Ross embark on a new adventure as they head to a rustic summer camp where their parents met for the first time as teenagers.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d0e2f11618ab3c1d1f5f224d311c2bf6.jpg" />
+    <credits>
+      <actor>Miranda May (Lou Hockhauser),Mallory James Mahoney (Destiny Baker),Raphael Alejandro (Matteo Silva),Will Buie Jr. (Finn Sawyer),Shelby Simmons (Ava King),Israel Johnson (Noah Lambert),Trevor Tordjman (Parker Preston)</actor>
+    </credits>
+    <sub-title>Emma, Ravi and Zuri Ross embark on a new adventure as they head to a rustic summer camp where their parents met for the first time as teenagers.</sub-title>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926180000 +0000" channel="mastro.disneyinter" catchup-id="2609261375015">
+    <title>Girl Meets World</title>
+    <desc>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/beb791128540af90cb50bb459985e0d1.jpg" />
+    <credits>
+      <actor>Ben Savage (Cory Matthews),Danielle Fishel (Topanga Matthews),Rowan Blanchard (Riley Matthews),August Maturo (Auggie Matthews),Sabrina Carpenter (Maya Hart),Peyton Meyer (Lucas Friar),Corey Fogelmanis (Farkle)</actor>
+    </credits>
+    <sub-title>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</sub-title>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926193000 +0000" channel="mastro.disneyinter" catchup-id="2609261375016">
+    <title>Good Luck Charlie</title>
+    <desc>Three brothers, Teddy, Casey, and Gabe, whose parents enlist their help when they return to work after the birth of their fourth child, Charlie.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/bccbd36c2173f1725c6ecb1f0ccc7468.jpg" />
+    <episode-num system="xmltv_ns">0.231</episode-num>
+    <credits>
+      <actor>Bridgit Mendler,Leigh-Allyn Baker,Bradley Steven Perry,Eric Allan Kramer,Jason Dolley,Mia Talerico</actor>
+    </credits>
+    <sub-title>Three brothers, Teddy, Casey, and Gabe, whose parents enlist their help when they return to work after the birth of their fourth child, Charlie.</sub-title>
+  </programme>
+  <programme start="20260926193000 +0000" stop="20260926200000 +0000" channel="mastro.disneyinter" catchup-id="2609261375017">
+    <title>The Suite Life on Deck</title>
+    <desc>Twin brothers Zack and Cody board the luxury SS Tipton liner alongside London and Mr. Moseby. While living aboard the ship, the teens enroll in a unique semester-at-sea high school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d96c7c5995ab03ff7a0edfa987e67ecd.jpg" />
+    <credits>
+      <actor>Dylan Sprouse (Zack Martin),Cole Sprouse (Cody Martin),Brenda Song (London Tipton),Phill Lewis (Mr. Moseby),Debby Ryan (Bailey),Doc Shaw (Marcus Little)</actor>
+    </credits>
+    <sub-title>Twin brothers Zack and Cody board the luxury SS Tipton liner alongside London and Mr. Moseby. While living aboard the ship, the teens enroll in a unique semester-at-sea high school.</sub-title>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926203000 +0000" channel="mastro.disneyinter" catchup-id="2609261375018">
+    <title>The Suite Life on Deck</title>
+    <desc>Twin brothers Zack and Cody board the luxury SS Tipton liner alongside London and Mr. Moseby. While living aboard the ship, the teens enroll in a unique semester-at-sea high school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d96c7c5995ab03ff7a0edfa987e67ecd.jpg" />
+    <credits>
+      <actor>Dylan Sprouse (Zack Martin),Cole Sprouse (Cody Martin),Brenda Song (London Tipton),Phill Lewis (Mr. Moseby),Debby Ryan (Bailey),Doc Shaw (Marcus Little)</actor>
+    </credits>
+    <sub-title>Twin brothers Zack and Cody board the luxury SS Tipton liner alongside London and Mr. Moseby. While living aboard the ship, the teens enroll in a unique semester-at-sea high school.</sub-title>
+  </programme>
+  <programme start="20260926203000 +0000" stop="20260926220000 +0000" channel="mastro.disneyinter" catchup-id="2609261375019">
+    <title>Liv and Maddie</title>
+    <desc>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21bd9eb9f79ae86755b0016d3de77f80.jpg" />
+    <credits>
+      <actor>Dove Cameron (Liv Rooney/Maddie Rooney),Kali Rocha (Karen Rooney),Benjamin King (Pete Rooney),Joey Bragg (Joey Rooney),Tenzing Norgay Trainor (Parker Rooney)</actor>
+    </credits>
+    <sub-title>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</sub-title>
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260926230000 +0000" channel="mastro.disneyinter" catchup-id="2609261375020">
+    <title>Girl Meets World</title>
+    <desc>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/beb791128540af90cb50bb459985e0d1.jpg" />
+    <credits>
+      <actor>Ben Savage (Cory Matthews),Danielle Fishel (Topanga Matthews),Rowan Blanchard (Riley Matthews),August Maturo (Auggie Matthews),Sabrina Carpenter (Maya Hart),Peyton Meyer (Lucas Friar),Corey Fogelmanis (Farkle)</actor>
+    </credits>
+    <sub-title>Middle-school student Riley Matthews faces many problems growing up but finds solace in Maya Hart, her best friend, who helps her overcome all the obstacles.</sub-title>
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260926235959 +0000" channel="mastro.disneyinter" catchup-id="2609261375021">
+    <title>Liv and Maddie</title>
+    <desc>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/21bd9eb9f79ae86755b0016d3de77f80.jpg" />
+    <credits>
+      <actor>Dove Cameron (Liv Rooney/Maddie Rooney),Kali Rocha (Karen Rooney),Benjamin King (Pete Rooney),Joey Bragg (Joey Rooney),Tenzing Norgay Trainor (Parker Rooney)</actor>
+    </credits>
+    <sub-title>Maddie's life turns chaotic when her twin sister Liv, a superstar, returns to high school. Matters get worse as their parents work for the same school.</sub-title>
+  </programme>
   <channel id="mastro.babyshark">
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" />
