@@ -20,21 +20,20 @@ jobs:
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz" -o au.xml.gz
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" -o uk.xml.gz
           curl -L "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" -o my.xml.gz
-          curl -L "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" -o in.xml.gz
+          curl -L "https://raw.githubusercontent.com/mitthu786/tvepg/refs/heads/main/epg.xml.gz" -o tvepg.xml.gz
           curl -L "https://i.mjh.nz/PlutoTV/us.xml.gz" -o pluto_us.xml.gz
           
           # Ekstrak fail gzip
           gunzip -c au.xml.gz > source_au.xml
           gunzip -c uk.xml.gz > source_uk.xml
           gunzip -c my.xml.gz > source_my.xml
-          gunzip -c in.xml.gz > source_in.xml
+          gunzip -c tvepg.xml.gz > source_tvepg.xml
           gunzip -c pluto_us.xml.gz > source_pluto_us.xml
           
           python3 -c '
           import xml.etree.ElementTree as ET
 
           CHANNEL_MAP = {
-              "Disney.International.HD.in": "mastro.disneyinter",
               "Astro.Premier.League.3.my": "mastro.premierleague3",
               "Astro.Premier.League.4.my": "mastro.premierleague4",
               "Astro.Premier.League.5.my": "mastro.premierleague5",
@@ -52,14 +51,18 @@ jobs:
               "TNT.Sports.2.HD.uk": "mastro.tnt2",
               "TNT.Sports.3.HD.uk": "mastro.tnt3",
               "TNT.Sports.4.HD.uk": "mastro.tnt4",
-              "60faffc3fbbc120007fc4376": "mastro.babyshark"
+              "60faffc3fbbc120007fc4376": "mastro.babyshark",
+              "762": "mastro.sonypix",
+              "1104": "mastro.starmovies",
+              "1110": "mastro.starmoviesselect",
+              "1375": "mastro.disneyinter"
           }
 
           # Cipta elemen punca (root element) baharu
           new_root = ET.Element("tv", {"generator-info-name": "MastroTV EPG Tool"})
 
           # Senarai fail sumber untuk diproses
-          sources = ["source_au.xml", "source_uk.xml", "source_my.xml", "source_in.xml", "source_pluto_us.xml"]
+          sources = ["source_au.xml", "source_uk.xml", "source_my.xml", "source_tvepg.xml", "source_pluto_us.xml"]
 
           for src in sources:
               try:
@@ -86,7 +89,7 @@ jobs:
           '
 
           # Bersihkan fail sementara
-          rm -f au.xml.gz uk.xml.gz my.xml.gz in.xml.gz pluto_us.xml.gz source_au.xml source_uk.xml source_my.xml source_in.xml source_pluto_us.xml
+          rm -f au.xml.gz uk.xml.gz my.xml.gz tvepg.xml.gz pluto_us.xml.gz source_au.xml source_uk.xml source_my.xml source_tvepg.xml source_pluto_us.xml
 
       - name: Commit and Push Changes
         run: |
