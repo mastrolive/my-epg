@@ -15,192 +15,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/1850/image" />
     <url>http://www.fetchtv.com.au</url>
   </channel>
-  <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour - This Week</title>
-    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
-    <episode-num system="onscreen">E37</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925003000 +0000" stop="20260925050000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">ATP 250</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
-    <episode-num system="onscreen">E233</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925050000 +0000" stop="20260925120000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">ATP 250</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
-    <episode-num system="onscreen">E234</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925130000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Indian Wells</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925130000 +0000" stop="20260925140000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Hamburg</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
-    <episode-num system="onscreen">E14</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925150000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Classic</title>
-    <sub-title lang="en">Nadal v Agassi 2005</sub-title>
-    <desc lang="en">We delve into the ATP archives for another classic encounter when Rafael Nadal met Andre Agassi in the final at Montreal in 2005.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925150000 +0000" stop="20260925151500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2012-2014</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925151500 +0000" stop="20260925153000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Miami Moments 2013-2016</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925153000 +0000" stop="20260925155000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">Agassi's Miami 3-peat</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925155000 +0000" stop="20260925181500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Armenia vs Latvia</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925181500 +0000" stop="20260925183500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Dovbyk</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2023/24 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925183500 +0000" stop="20260925210000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Sweden vs Romania</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E15</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925210000 +0000" stop="20260925211500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2012-2014</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925211500 +0000" stop="20260925213000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Miami Moments 2013-2016</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925213000 +0000" stop="20260925223000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Nadal v Djokovic at Monte Carlo</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925223000 +0000" stop="20260925233000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2010-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Rio de Janeiro</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20260926003000 +0000" stop="20260926050000 +0000" channel="mastro.beinsports1au">
     <title lang="en">ATP 250</title>
     <sub-title lang="en">ATP 250</sub-title>
@@ -923,24 +737,77 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260930193000 +0000" stop="20261001000000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP 500</title>
-    <sub-title lang="en">Beijing Day 1</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+  <programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">BJKC Highlights Show</title>
+    <sub-title lang="en">Extended Review Show</sub-title>
+    <desc lang="en">The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
-    <episode-num system="onscreen">E143</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/23631482/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261001000000 +0000" stop="20261001030000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP 500</title>
-    <sub-title lang="en">Beijing Evening 1</sub-title>
+  <programme start="20260930203000 +0000" stop="20260930210000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260930210000 +0000" stop="20260930223000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 1000 Miami Open</title>
+    <sub-title lang="en">Miami SF 1 Zverev v Sinner</sub-title>
     <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
-    <episode-num system="onscreen">E144</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1830139/image/334x188" />
+    <episode-num system="onscreen">E42</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20260930223000 +0000" stop="20261001000000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 1000 Miami Open</title>
+    <sub-title lang="en">Miami SF 2 Lehecka v Fils</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1830139/image/334x188" />
+    <episode-num system="onscreen">E43</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001000000 +0000" stop="20261001003000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001003000 +0000" stop="20261001020000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 1000 Miami Open</title>
+    <sub-title lang="en">Miami Final Lehecka v Sinner</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1830139/image/334x188" />
+    <episode-num system="onscreen">E45</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001020000 +0000" stop="20261001030000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">BJKC Highlights Show</title>
+    <sub-title lang="en">Extended Review Show</sub-title>
+    <desc lang="en">The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/23631482/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -967,7 +834,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261001110000 +0000" stop="20261001140000 +0000" channel="mastro.beinsports1au">
+  <programme start="20261001110000 +0000" stop="20261001160000 +0000" channel="mastro.beinsports1au">
     <title lang="en">Tennis: ATP 500</title>
     <sub-title lang="en">Beijing Evening 2</sub-title>
     <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
@@ -978,155 +845,273 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925011000 +0000" stop="20260925030000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Cameroon vs Comoros</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
+  <programme start="20261001160000 +0000" stop="20261001170000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Agassi v Sampras 1995</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Andre Agassi met Pete Sampras in the final at Miami in1995.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Bundesliga Weekly</title>
-    <desc lang="en">Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga.</desc>
+  <programme start="20261001170000 +0000" stop="20261001180000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Nadal v Agassi 2005</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Rafael Nadal met Andre Agassi in the final at Montreal in 2005.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925033000 +0000" stop="20260925052000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">DR Congo vs Equatorial Guinea</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
+  <programme start="20261001180000 +0000" stop="20261001182000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Federer v Nadal 2017</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Roger Federer met Rafael Nadal in the Final at Miami in 2017.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E11</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925052000 +0000" stop="20260925071000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Ivory Coast vs Ghana</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
+  <programme start="20261001182000 +0000" stop="20261001183500 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Djokovic v Murray 2012</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Novak Djokovic met Andy Murray in the Final at Shanghai in 2012.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E13</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925071000 +0000" stop="20260925090000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Cameroon vs Comoros</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925090000 +0000" stop="20260925160000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">BJK Cup</title>
-    <sub-title lang="en">Semi-Final 1</sub-title>
-    <desc lang="en">The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/12735563/image/334x188" />
-    <episode-num system="onscreen">E19</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Aussie Summer</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2712963/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Sunshine Swing</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2712963/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925170000 +0000" stop="20260925173000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Clay Season</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2712963/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA All Access</title>
-    <sub-title lang="en">Grass Season</sub-title>
-    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2712963/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925180000 +0000" stop="20260925183500 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Cincinnati</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925183500 +0000" stop="20260925210000 +0000" channel="mastro.beinsports2au">
+  <programme start="20261001183500 +0000" stop="20261001210000 +0000" channel="mastro.beinsports1au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Turkiye vs France</sub-title>
+    <sub-title lang="en">Denmark vs Portugal</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E56</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001210000 +0000" stop="20261001211500 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Djokovic's Miami 3-peat</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001211500 +0000" stop="20261001213000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Miami Moments 2000-2003</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001213000 +0000" stop="20261001230000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 1000 Miami Open</title>
+    <sub-title lang="en">Miami Final Lehecka v Sinner</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1830139/image/334x188" />
+    <episode-num system="onscreen">E45</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261001230000 +0000" stop="20261002003000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour Masters 1000 BNP Paribas Open</title>
+    <sub-title lang="en">Indian Wells Final Medvedev v Sinner</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3218994/image/334x188" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002003000 +0000" stop="20261002020000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 1000 Monte Carlo Doubles</title>
+    <sub-title lang="en">Monte Carlo Doubles SF 2</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/18790804/image/334x188" />
+    <episode-num system="onscreen">E60</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002033000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 1000 Monte Carlo Doubles</title>
+    <sub-title lang="en">Monte Carlo Doubles SF 1</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/18790804/image/334x188" />
+    <episode-num system="onscreen">E58</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002033000 +0000" stop="20261002050000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Masters 1000 Monte-Carlo Masters</title>
+    <sub-title lang="en">Monte Carlo Final Alcaraz v Sinner</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2809615/image/334x188" />
+    <episode-num system="onscreen">E62</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002100000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 500</title>
+    <sub-title lang="en">Beijing Day 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
+    <episode-num system="onscreen">E147</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Champions of Monte Carlo 2010-2019</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002160000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 500</title>
+    <sub-title lang="en">Beijing Evening 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
+    <episode-num system="onscreen">E148</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002160000 +0000" stop="20261002163000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002163000 +0000" stop="20261002173000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">Madrid</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
     <episode-num system="onscreen">E12</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925210000 +0000" stop="20260925225000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Nigeria vs Madagascar</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
+  <programme start="20261002173000 +0000" stop="20261002180000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002180000 +0000" stop="20261002182000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Nadal v Djokovic 2013</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Rafael Nadal met Novak Djokovic in the Final at Monte Carlo in 2013.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002182000 +0000" stop="20261002183500 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Nadal v Djokovic 2009</sub-title>
+    <desc lang="en">Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002183500 +0000" stop="20261002210000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Bosnia &amp; Herzegovina vs Sweden</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002210000 +0000" stop="20261002213000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002213000 +0000" stop="20261002223000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">Hamburg</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002223000 +0000" stop="20261002233000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">Halle</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
     <episode-num system="onscreen">E15</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925225000 +0000" stop="20260926004000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Egypt vs Angola</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
+  <programme start="20261002233000 +0000" stop="20261003000000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E17</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -2152,200 +2137,178 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925000000 +0000" stop="20260925020000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261002000000 +0000" stop="20261002020000 +0000" channel="mastro.beinsports2au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Norway vs Denmark</sub-title>
+    <sub-title lang="en">Ireland vs Austria</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
+    <episode-num system="onscreen">E59</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925020000 +0000" stop="20260925040000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261002020000 +0000" stop="20261002040000 +0000" channel="mastro.beinsports2au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Portugal vs Wales</sub-title>
+    <sub-title lang="en">Denmark vs Portugal</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E56</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002040000 +0000" stop="20261002060000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Greece vs Netherlands</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E55</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002060000 +0000" stop="20261002080000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Germany vs Serbia</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E54</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002080000 +0000" stop="20261002100000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Wales vs Norway</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E57</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002120000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Ireland vs Austria</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E59</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002120000 +0000" stop="20261002140000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Greece vs Netherlands</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E55</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002140000 +0000" stop="20261002155000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Israel vs Kosovo</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E58</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002155000 +0000" stop="20261002174000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Azerbaijan vs Liechtenstein</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E53</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002174000 +0000" stop="20261002180500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Goals Galore</title>
+    <sub-title lang="en">Kylian Mbappe</sub-title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002180500 +0000" stop="20261002183500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League Mini</title>
+    <sub-title lang="en">Germany vs Serbia</sub-title>
+    <desc lang="en">NULL.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/25992028/image/334x188" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002183500 +0000" stop="20261002210000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Belgium vs Turkiye</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E62</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002210000 +0000" stop="20261002213000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Best 11</title>
+    <sub-title lang="en">Diego Forlan</sub-title>
+    <desc lang="en">A show presenting different LaLiga legend who is invited to design a line-up of their ideal eleven players.</desc>
+    <category lang="en">Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
     <episode-num system="onscreen">E4</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925040000 +0000" stop="20260925060000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Netherlands vs Germany</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Norway vs Denmark</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925090000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Champions League Matchnight Highlights</title>
-    <sub-title lang="en">MD1 - Matchnight 1</sub-title>
-    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925090000 +0000" stop="20260925110000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Netherlands vs Germany</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925110000 +0000" stop="20260925120000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Champions League Matchnight Highlights</title>
-    <sub-title lang="en">MD1 - Matchnight 1</sub-title>
-    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League Mini</title>
-    <sub-title lang="en">Portugal vs Wales</sub-title>
-    <desc lang="en">NULL.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25992028/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925124500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Bellingham</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2023/24 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925124500 +0000" stop="20260925150000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Mozambique vs Senegal</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E20</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925150000 +0000" stop="20260925152000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Dovbyk</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2023/24 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925152000 +0000" stop="20260925155000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261002213000 +0000" stop="20261002220000 +0000" channel="mastro.beinsports2au">
     <title lang="en">LaLiga Best 11</title>
-    <sub-title lang="en">Gaizka Mendieta</sub-title>
-    <desc lang="en">Gaizka Mendieta selected his personal LaLiga Best 11 featuring iconic Spanish football stars, sharing his ultimate lineup across official LaLiga channels.</desc>
+    <sub-title lang="en">Joaquin Sanchez</sub-title>
+    <desc lang="en">A show presenting different LaLiga legend who is invited to design a line-up of their ideal eleven players.</desc>
     <category lang="en">Special Interest</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+    <episode-num system="onscreen">E8</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925155000 +0000" stop="20260925181500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League B</title>
-    <sub-title lang="en">Georgia vs Northern Ireland</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4233134/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925181500 +0000" stop="20260925182500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Classics</title>
-    <sub-title lang="en">Milan vs Juventus - 2019/20</sub-title>
-    <desc lang="en">2019/20: Rewind the clock and enjoy some of the classics from Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925182500 +0000" stop="20260925183500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Classics</title>
-    <sub-title lang="en">Milan vs Juventus - 2020/21</sub-title>
-    <desc lang="en">2020/21: Rewind the clock and enjoy some of the classics from Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925183500 +0000" stop="20260925210000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261002220000 +0000" stop="20261002235000 +0000" channel="mastro.beinsports2au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Italy vs Belgium</sub-title>
+    <sub-title lang="en">France vs Italy</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E11</episode-num>
+    <episode-num system="onscreen">E63</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Champions League Matchnight Highlights</title>
-    <sub-title lang="en">MD1 - Matchnight 1</sub-title>
-    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261002235000 +0000" stop="20261003014000 +0000" channel="mastro.beinsports2au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Turkiye vs France</sub-title>
+    <sub-title lang="en">Bosnia &amp; Herzegovina vs Sweden</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E12</episode-num>
+    <episode-num system="onscreen">E66</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -3462,6 +3425,94 @@
     </rating>
   </programme>
   <programme start="20261001220000 +0000" stop="20261002000000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Denmark vs Portugal</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E56</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002000000 +0000" stop="20261002020000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Greece vs Netherlands</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E55</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002040000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Germany vs Serbia</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E54</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002040000 +0000" stop="20261002060000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Wales vs Norway</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E57</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002060000 +0000" stop="20261002080000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Ireland vs Austria</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E59</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002080000 +0000" stop="20261002090000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Champions League Matchnight Highlights</title>
+    <sub-title lang="en">MD3 - Matchnight 1</sub-title>
+    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002090000 +0000" stop="20261002110000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Germany vs Serbia</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E54</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Champions League Matchnight Highlights</title>
+    <sub-title lang="en">MD3 - Matchnight 1</sub-title>
+    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261002120000 +0000" stop="20261002142500 +0000" channel="mastro.beinsports3au">
     <title lang="en">UEFA Nations League</title>
     <sub-title lang="en">Denmark vs Portugal</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
