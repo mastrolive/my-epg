@@ -15,193 +15,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/1850/image" />
     <url>http://www.fetchtv.com.au</url>
   </channel>
-  <programme start="20260926003000 +0000" stop="20260926050000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">ATP 250</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
-    <episode-num system="onscreen">E234</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926120000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP 250</title>
-    <sub-title lang="en">ATP 250</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
-    <episode-num system="onscreen">E235</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Miami</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Halle</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
-    <episode-num system="onscreen">E15</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Classic</title>
-    <sub-title lang="en">Sampras v Kuerten 2000</sub-title>
-    <desc lang="en">We delve into the ATP archives for another classic encounter when Pete Sampras met Gustavo Kuerten in the final at Miami in 2000.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926150000 +0000" stop="20260926151500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Monte Carlo Moments 1991-2006</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926151500 +0000" stop="20260926153000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2018-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926153000 +0000" stop="20260926155000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Miami 2012-2014</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926155000 +0000" stop="20260926181500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Bulgaria vs Luxembourg</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E20</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926181500 +0000" stop="20260926182500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Bundesliga Goals</title>
-    <sub-title lang="en">Team Goal</sub-title>
-    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926182500 +0000" stop="20260926183500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Bundesliga Goals</title>
-    <sub-title lang="en">Luis Diaz - All Goals &amp; Assist 2025/26</sub-title>
-    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926183500 +0000" stop="20260926210000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">North Macedonia vs Switzerland</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E24</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926210000 +0000" stop="20260926211500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Monte Carlo Moments 1991-2006</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926211500 +0000" stop="20260926213000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2018-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926213000 +0000" stop="20260926223000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Nadal v Djokovic at Rome</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926223000 +0000" stop="20260926233000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Federer's Miami Masterclass</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926233000 +0000" stop="20260927003000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Review</title>
-    <sub-title lang="en">Dubai</sub-title>
-    <desc lang="en">A look back at the best of the action from the tournament.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20260927003000 +0000" stop="20260927050000 +0000" channel="mastro.beinsports1au">
     <title lang="en">ATP 250</title>
     <sub-title lang="en">ATP 250</sub-title>
@@ -1116,210 +929,143 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926004000 +0000" stop="20260926023000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Mozambique vs Senegal</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
+  <programme start="20261003000000 +0000" stop="20261003030000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 500</title>
+    <sub-title lang="en">Beijing Evening 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E20</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
+    <episode-num system="onscreen">E148</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Fastzone</title>
-    <desc lang="en">Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
+  <programme start="20261003030000 +0000" stop="20261003080000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 500</title>
+    <sub-title lang="en">Beijing Day 4</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/14556476/image/334x188" />
-    <episode-num system="onscreen">E24</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
+    <episode-num system="onscreen">E149</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Ferrari Challenge Highlights</title>
-    <sub-title lang="en">Hungaroring</sub-title>
-    <desc lang="en">Catch the highlights of all the rounds of the Ferrari Challenge Europe.</desc>
+  <programme start="20261003080000 +0000" stop="20261003083000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2865503/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">FIA Formula Regional European Championship Highlights</title>
-    <sub-title lang="en">Hockenheimring</sub-title>
-    <desc lang="en">Catch the highlights of all the races of Formula Regional European Championship this season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/4255744/image/334x188" />
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926043000 +0000" stop="20260926062000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Nigeria vs Madagascar</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E15</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926062000 +0000" stop="20260926081000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">AFCON Qualifiers</title>
-    <sub-title lang="en">Egypt vs Angola</sub-title>
-    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25762007/image/334x188" />
-    <episode-num system="onscreen">E17</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926081000 +0000" stop="20260926084000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Best 11</title>
-    <sub-title lang="en">Fernando Llorente</sub-title>
-    <desc lang="en">Fernando Llorente is featured as one of the players selected in a LaLiga legend's ideal eleven in this episode.</desc>
-    <category lang="en">Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926084000 +0000" stop="20260926090000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Robert Lewandowski</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926160000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">BJK Cup</title>
-    <sub-title lang="en">Semi-Final 2</sub-title>
+  <programme start="20261003083000 +0000" stop="20261003093000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">BJKC Highlights Show</title>
+    <sub-title lang="en">Extended Review Show</sub-title>
     <desc lang="en">The very best women's tennis players from across the globe come together to represent their nations in the Billie Jean King Cup.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/12735563/image/334x188" />
-    <episode-num system="onscreen">E20</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/23631482/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Miami</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+  <programme start="20261003093000 +0000" stop="20261003103000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Miami Moments</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Madrid</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+  <programme start="20261003103000 +0000" stop="20261003110000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E38</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Rome</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+  <programme start="20261003110000 +0000" stop="20261003160000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 500</title>
+    <sub-title lang="en">Beijing Evening 4</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
+    <episode-num system="onscreen">E150</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Toronto</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+  <programme start="20261003160000 +0000" stop="20261003170000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Champions of Monte Carlo 2010-2019</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
+    <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926180000 +0000" stop="20260926184000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">UEFA Nations League Pre Show</title>
-    <sub-title lang="en">England vs Spain</sub-title>
-    <desc lang="en">Join us as we look ahead to UEFA Nations League, only on beIN Sports.</desc>
+  <programme start="20261003170000 +0000" stop="20261003172000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Djokovic v Del Potro 2013</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Novak Djokovic met Juan Martin Del Potro in the Final at Shanghai in 2013.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/26101962/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E18</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926184000 +0000" stop="20260926204500 +0000" channel="mastro.beinsports2au">
+  <programme start="20261003172000 +0000" stop="20261003173500 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Nadal v Del Potro 2013</sub-title>
+    <desc lang="en">Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003173500 +0000" stop="20261003183500 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">London</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003183500 +0000" stop="20261003210000 +0000" channel="mastro.beinsports1au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">England vs Spain</sub-title>
+    <sub-title lang="en">Switzerland vs Slovenia</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E23</episode-num>
+    <episode-num system="onscreen">E78</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926204500 +0000" stop="20260926211500 +0000" channel="mastro.beinsports2au">
-    <title lang="en">UEFA Nations League Post Show</title>
-    <sub-title lang="en">England vs Spain</sub-title>
-    <desc lang="en">In-depth analysis, highlights, statistics, first class match previews and debates led by beIN's team of specialists.</desc>
+  <programme start="20261003210000 +0000" stop="20261004010000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">Tennis: ATP 500</title>
+    <sub-title lang="en">Beijing Day 4</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/26101963/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926211500 +0000" stop="20260926213000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Raphinha</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926213000 +0000" stop="20260926233000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Slovenia vs Scotland</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E17</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926233000 +0000" stop="20260927013000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">North Macedonia vs Switzerland</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E24</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1717725/image/334x188" />
+    <episode-num system="onscreen">E149</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -2313,128 +2059,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Italy vs Belgium</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Sweden vs Romania</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E15</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Turkiye vs France</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926080000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Italy vs Belgium</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Champions League Matchnight Highlights</title>
-    <sub-title lang="en">MD1 - Matchnight 2</sub-title>
-    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926105000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Turkiye vs France</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926105000 +0000" stop="20260926115000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Champions League Matchnight Highlights</title>
-    <sub-title lang="en">MD1 - Matchnight 2</sub-title>
-    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926115000 +0000" stop="20260926122000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League Mini</title>
-    <sub-title lang="en">Turkiye vs France</sub-title>
-    <desc lang="en">NULL.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25992028/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926122000 +0000" stop="20260926125000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League Mini</title>
-    <sub-title lang="en">Italy vs Belgium</sub-title>
-    <desc lang="en">NULL.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25992028/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926125000 +0000" stop="20260926151500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">Slovenia vs Scotland</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E17</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926151500 +0000" stop="20260926153000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">SPFL Premiership Highlights</title>
-    <sub-title lang="en">Matchday 7</sub-title>
-    <desc lang="en">Get ready for a thrilling recap of the latest round of games in the Scottish Professional Football League 2026/27 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092567/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926153000 +0000" stop="20260926155000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261003014000 +0000" stop="20261003020000 +0000" channel="mastro.beinsports2au">
     <title lang="en">LaLiga Goals Galore</title>
     <sub-title lang="en">Robert Lewandowski</sub-title>
     <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
@@ -2445,57 +2070,188 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926155000 +0000" stop="20260926181500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">San Marino vs Finland</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+  <programme start="20261003020000 +0000" stop="20261003023000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">FastZone</title>
+    <desc lang="en">Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E18</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2825845/image/334x188" />
+    <episode-num system="onscreen">E25</episode-num>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20261003023000 +0000" stop="20261003030000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">FIA Truck Racing Highlights</title>
+    <sub-title lang="en">Le Mans</sub-title>
+    <desc lang="en">Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5563588/image/334x188" />
+    <episode-num system="onscreen">E6</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926181500 +0000" stop="20260926183500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Ante Budimir</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+  <programme start="20261003030000 +0000" stop="20261003041500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LFCTV Classic</title>
+    <sub-title lang="en">Liverpool vs Man City PL 2024/25</sub-title>
+    <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/23814131/image/334x188" />
+    <episode-num system="onscreen">E1</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926183500 +0000" stop="20260926210000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">England vs Spain</sub-title>
-    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+  <programme start="20261003041500 +0000" stop="20261003050000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LFCTV</title>
+    <sub-title lang="en">Captains</sub-title>
+    <desc lang="en">Enjoy documentaries and other special programming from LFCTV on beIN SPORTS.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E23</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">UEFA Champions League Matchnight Highlights</title>
-    <sub-title lang="en">MD1 - Matchnight 2</sub-title>
-    <desc lang="en">Don’t miss any of the action with the official UEFA Nations League matchnight highlights show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3172954/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093030/image/334x188" />
     <episode-num system="onscreen">E2</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260926220000 +0000" stop="20260927000000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261003050000 +0000" stop="20261003053000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Weekly</title>
+    <sub-title lang="en">Bundesliga</sub-title>
+    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003053000 +0000" stop="20261003055000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Goals Galore</title>
+    <sub-title lang="en">Robert Lewandowski</sub-title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003055000 +0000" stop="20261003074000 +0000" channel="mastro.beinsports2au">
     <title lang="en">UEFA Nations League</title>
-    <sub-title lang="en">England vs Spain</sub-title>
+    <sub-title lang="en">Ukraine vs Northern Ireland</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
-    <episode-num system="onscreen">E23</episode-num>
+    <episode-num system="onscreen">E65</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003074000 +0000" stop="20261003093000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Bosnia &amp; Herzegovina vs Sweden</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003093000 +0000" stop="20261003112500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Belgium vs Turkiye</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E62</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003112500 +0000" stop="20261003133000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">EFL League Two</title>
+    <sub-title lang="en">Chesterfield vs Tranmere</sub-title>
+    <desc lang="en">Catch the best of the action from EFL League Two 2026/27, the thrilling third tier of English Football League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1731003/image/334x188" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003133000 +0000" stop="20261003140000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">EFL Cup Highlights</title>
+    <sub-title lang="en">Round 3</sub-title>
+    <desc lang="en">The official highlight show of the Carabao Cup, the English Football League knockout cup competition.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1320404/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003140000 +0000" stop="20261003155000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Classics</title>
+    <sub-title lang="en">Osasuna vs Barcelona - 2011/12</sub-title>
+    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4822111/image/334x188" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003155000 +0000" stop="20261003181500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Iceland vs Bulgaria</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E75</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003181500 +0000" stop="20261003183500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Goals Galore</title>
+    <sub-title lang="en">Dovbyk</sub-title>
+    <desc lang="en">Relive every goal from the best players in 2023/24 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003183500 +0000" stop="20261003210000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">North Macedonia vs Scotland</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E77</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003225000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Iceland vs Bulgaria</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E75</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261003225000 +0000" stop="20261004004000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">UEFA Nations League</title>
+    <sub-title lang="en">Switzerland vs Slovenia</sub-title>
+    <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1850128/image/334x188" />
+    <episode-num system="onscreen">E78</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -3512,7 +3268,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261002120000 +0000" stop="20261002142500 +0000" channel="mastro.beinsports3au">
+  <programme start="20261002120000 +0000" stop="20261004063000 +0000" channel="mastro.beinsports3au">
     <title lang="en">UEFA Nations League</title>
     <sub-title lang="en">Denmark vs Portugal</sub-title>
     <desc lang="en">The UEFA Nations League 2026/27 is the fifth edition of the European international football competition. It features 54 national teams divided into four leagues. The league phase takes place in the fall of 2026, with the title decided at the Nations League Finals in June.</desc>
@@ -12028,180 +11784,6 @@
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" />
   </channel>
-  <programme channel="mastro.babyshark" start="20260928015400 +0000" stop="20260928023000 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <episode-num system="pluto">64ad9f0e4ea48000082cadfb</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Sssh! I think Santa's about to come down the chimney!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Santa Comes Down Chimneys</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928023000 +0000" stop="20260928025700 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <episode-num system="pluto">655413c8a78f0d001a19f81d</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Let's explore together from the deep, deep oceans to the infinite galaxy!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20170101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Pinkfong Outer Space Adventure Songs</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928025700 +0000" stop="20260928033600 +0000">
-    <title>Learn ABC with Baby Shark</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">6170488095ce3f001a330f50</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Let's learn ABC with Baby Shark and animals!</desc>
-    <icon src="https://images.pluto.tv/series/6170487e95ce3f001a330f04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">6170487e95ce3f001a330f04</series-id>
-    <sub-title>Learn ABC with Baby Shark - Animal Ep.1</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928033600 +0000" stop="20260928035700 +0000">
-    <title>Bebefinn 2 Ep4</title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="pluto">66b6a5149322c00013903cfc</episode-num>
-    <episode-num system="original-air-date">20230106000000 +0000</episode-num>
-    <desc>Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family filled with joyful songs.</desc>
-    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230106</date>
-    <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928035700 +0000" stop="20260928041900 +0000">
-    <title>Bebefinn</title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <episode-num system="pluto">66bd3e0d9322c00013cc4006</episode-num>
-    <episode-num system="original-air-date">20240125000000 +0000</episode-num>
-    <desc>Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family filled with joyful songs.</desc>
-    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20240125</date>
-    <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <sub-title>Bebefinn 3 Ep3</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928041900 +0000" stop="20260928045500 +0000">
-    <title>Pinkfong's Farm Animals</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66bba8fab20e7900130d1306</episode-num>
-    <episode-num system="original-air-date">20210729000000 +0000</episode-num>
-    <desc>Welcome to Pinkfong's farm! You're watching "Pinkfong's Farm", fun and educational Animal Songs presented by Pinkfong!Learn all about different farm animals with all-new Pinkfong's Animal Songs!</desc>
-    <icon src="https://images.pluto.tv/series/66bba8f8b20e7900130d12e8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210729</date>
-    <series-id system="pluto">66bba8f8b20e7900130d12e8</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928045500 +0000" stop="20260928051800 +0000">
-    <title>Pinkfong Storytime Theater</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">6176c620178213001ad961bb</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Come along, and let's sing and drive with the Garbage Truck!</desc>
-    <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">6176c61e178213001ad96179</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928051800 +0000" stop="20260928053700 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">6553fcd8727df0001a76bc1a</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Hello, my body! Let's sing along with Pinkfong and learn about different body parts.</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20170101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Pinkfong Body Songs</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928053700 +0000" stop="20260928060200 +0000">
-    <title>Baby Shark Doo Doo Song</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">63cf3331e8fb16001a95ff06</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Every alphabet makes different sounds. Kids will easily be friends with ABCs with a fun alphabet dance along series. Doo doo doo doo doo doo! For all fans who love our Baby Shark songs.</desc>
-    <icon src="https://images.pluto.tv/series/63cf2c28e2a3e1001a5f9561/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63cf2c28e2a3e1001a5f9561</series-id>
-    <sub-title>Baby Shark Doo Doo Song Ep.2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928060200 +0000" stop="20260928063400 +0000">
-    <title>My Pet Dinosaur</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66bba63a2fca060013ef352c</episode-num>
-    <episode-num system="original-air-date">20230331000000 +0000</episode-num>
-    <desc>Look what the kids found in the backyard! They found Dinosaur Eggs! Today's dinosaur is......?</desc>
-    <icon src="https://images.pluto.tv/series/66bba6382fca060013ef350e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230331</date>
-    <series-id system="pluto">66bba6382fca060013ef350e</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928063400 +0000" stop="20260928065200 +0000">
-    <title>Bebefinn</title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="pluto">63c73ef1e21bf90013c9b086</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Baby Finn Learns Something New Every day with the Fun Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family, filled with joyful songs.</desc>
-    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <sub-title>Bebefinn Ep.6</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928065200 +0000" stop="20260928072000 +0000">
-    <title>Pinkfong Wonderstar</title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="pluto">63ced9311fdb9b00131d816b</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Jenni likes things that sparkle. Where did all my tools go!</desc>
-    <icon src="https://images.pluto.tv/series/63c844804da5ab00131083b0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">63c844804da5ab00131083b0</series-id>
-    <sub-title>Pinkfong Wonderstar - Season 1 - Episode 007</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20260928072000 +0000" stop="20260928074100 +0000">
-    <title>Bebefinn</title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="pluto">63c7405e6d79340013555ac0</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Baby Finn Learns Something New Every day with the Fun Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family, filled with joyful songs.</desc>
-    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <sub-title>Bebefinn Ep.7</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
   <programme channel="mastro.babyshark" start="20260928074100 +0000" stop="20260928081500 +0000">
     <title>Pinkfong Playfong</title>
     <episode-num system="onscreen">S01E05</episode-num>
@@ -12213,8 +11795,8 @@
     <series-id system="pluto">61730bf6829284001a93fd5b</series-id>
     <sub-title>Pinkfong Playfong Ep.5</sub-title>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928081500 +0000" stop="20260928090700 +0000">
     <title>Stay Safe and Healthy with Pinkfong</title>
@@ -12225,9 +11807,9 @@
     <icon src="https://images.pluto.tv/series/66b3be9294a1840013bf773f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20200610</date>
     <series-id system="pluto">66b3be9294a1840013bf773f</series-id>
+    <category>Animated</category>
     <category>Series</category>
     <category>Children</category>
-    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928090700 +0000" stop="20260928094100 +0000">
     <title>Learn ABC with Pinkfong</title>
@@ -12240,8 +11822,8 @@
     <series-id system="pluto">616a1fb56e3813001a8b0517</series-id>
     <sub-title>Animal Ep.2</sub-title>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928094100 +0000" stop="20260928100500 +0000">
     <title>Pinkfong Dinosaur Songs</title>
@@ -12254,8 +11836,8 @@
     <series-id system="pluto">61730c06829284001a9401f0</series-id>
     <sub-title>Pinkfong Dinosaur Songs Ep.2</sub-title>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928100500 +0000" stop="20260928105300 +0000">
     <title>Baby Shark Color Songs</title>
@@ -12266,9 +11848,9 @@
     <icon src="https://images.pluto.tv/series/66b29ce0dc6f2f00139ac789/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20200610</date>
     <series-id system="pluto">66b29ce0dc6f2f00139ac789</series-id>
+    <category>Animated</category>
     <category>Series</category>
     <category>Children</category>
-    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928105300 +0000" stop="20260928112600 +0000">
     <title>Here We Dance</title>
@@ -12305,9 +11887,9 @@
     <date>20220901</date>
     <series-id system="pluto">66b3a6a897009300138cdb83</series-id>
     <sub-title>Pinkfong dance workout 2</sub-title>
+    <category>Animated</category>
     <category>Series</category>
     <category>Children</category>
-    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928125100 +0000" stop="20260928131800 +0000">
     <title>Pinkfong Chart Show</title>
@@ -12320,8 +11902,8 @@
     <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
     <sub-title>Who is the Strongest</sub-title>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928131800 +0000" stop="20260928141200 +0000">
     <title>Hide 'n Seek With Pinkfong</title>
@@ -12333,8 +11915,8 @@
     <date>20200101</date>
     <series-id system="pluto">61687ee4b8333a001ad6a3e7</series-id>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928141200 +0000" stop="20260928150700 +0000">
     <title>Hogi, The Detective</title>
@@ -12347,8 +11929,8 @@
     <series-id system="pluto">61687edeb8333a001ad694cb</series-id>
     <sub-title>Hogi, the Detective Ep.3</sub-title>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928150700 +0000" stop="20260928162200 +0000">
     <title>Happy 1st Birthday Bebefinn</title>
@@ -12359,9 +11941,9 @@
     <icon src="https://images.pluto.tv/series/66b3c4358dfe2a00133e567c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20220708</date>
     <series-id system="pluto">66b3c4358dfe2a00133e567c</series-id>
+    <category>Animated</category>
     <category>Series</category>
     <category>Children</category>
-    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928162200 +0000" stop="20260928164500 +0000">
     <title>Hide 'n Seek with Shark Family</title>
@@ -12386,8 +11968,8 @@
     <date>20200101</date>
     <series-id system="pluto">6164afded4b818001a69ab18</series-id>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20260928171200 +0000" stop="20260928181600 +0000">
     <title>Reading Stories With Pinkfong</title>
@@ -12400,7 +11982,159 @@
     <series-id system="pluto">6176c612178213001ad95d15</series-id>
     <sub-title>Pinkfong Car Stories</sub-title>
     <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928181600 +0000" stop="20260928185200 +0000">
+    <title>Baby Shark Surprise Box</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">61687eebb8333a001ad6b2a2</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Learn colors to Baby Shark and Color Surprise Box - Stationery</desc>
+    <icon src="https://images.pluto.tv/series/61687eeab8333a001ad6b294/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">61687eeab8333a001ad6b294</series-id>
+    <sub-title>Baby Shark Surprise Box Ep.2</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928185200 +0000" stop="20260928191900 +0000">
+    <title>Pinkfong Chart Show</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6167011af3593c001aa3f13b</episode-num>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Dear friend, tell Pinkfong and Baby Shark about your worries. We are all ears. Are you always hungry?</desc>
+    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20180101</date>
+    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
+    <sub-title>Pinkfong Chart Show Ep2. Who's hungry?</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928191900 +0000" stop="20260928194400 +0000">
+    <title>Baby Shark Doo Doo Song</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">63cf2c29e2a3e1001a5f957f</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Every alphabet makes different sounds. Kids will easily be friends with ABCs with a fun alphabet dance along series. Doo doo doo doo doo doo! For all fans who love our Baby Shark songs.</desc>
+    <icon src="https://images.pluto.tv/series/63cf2c28e2a3e1001a5f9561/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">63cf2c28e2a3e1001a5f9561</series-id>
+    <sub-title>Baby Shark Doo Doo Song Ep.1</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928194400 +0000" stop="20260928201700 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <episode-num system="pluto">64ad9f624ea48000082caf55</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Help the sea animals from the terrifying plastic animal! Save the environment with Baby Shark!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Climate Change Songs</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928201700 +0000" stop="20260928210500 +0000">
+    <title>Hide 'n Seek with Shark Family</title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <episode-num system="pluto">66b4eb8edc6f2f0013b74535</episode-num>
+    <episode-num system="original-air-date">20231220000000 +0000</episode-num>
+    <desc>Oh? Where did Baby Shark and Shark Family go? Help Pinkfong to find all the Shark Family!</desc>
+    <icon src="https://images.pluto.tv/series/63d023acff32c10013ada140/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20231220</date>
+    <series-id system="pluto">63d023acff32c10013ada140</series-id>
+    <sub-title>Amusement Park Mistery: Find the Shark Family!</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928210500 +0000" stop="20260928214900 +0000">
+    <title>Reading Stories With Pinkfong</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6176c617178213001ad95e38</episode-num>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Listen to bedtime stories that soothe your little ones. Have a good night.</desc>
+    <icon src="https://images.pluto.tv/series/6176c612178213001ad95d15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20160101</date>
+    <series-id system="pluto">6176c612178213001ad95d15</series-id>
+    <sub-title>Pinkfong Bedtime Stories</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928214900 +0000" stop="20260928223200 +0000">
+    <title>Baby Shark the Dentist</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">66b3b0d18dfe2a0013338eed</episode-num>
+    <episode-num system="original-air-date">20230811000000 +0000</episode-num>
+    <desc>Oh no, it looks like you have a tooth injury, so you've come to the dentist! Dr. Baby Shark will take care of everything for you! Alright, let's start the treatment. Please open wide and say "Ahh"!</desc>
+    <icon src="https://images.pluto.tv/series/66b3b09c8dfe2a00133380c9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230811</date>
+    <series-id system="pluto">66b3b09c8dfe2a00133380c9</series-id>
+    <sub-title>Baby Shark the Dentist ep2</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928223200 +0000" stop="20260928231100 +0000">
+    <title>Learn ABC with Pinkfong</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">616a1fb76e3813001a8b0543</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's learn ABC with Pinkfong and dinosaurs!</desc>
+    <icon src="https://images.pluto.tv/series/616a1fb56e3813001a8b0517/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">616a1fb56e3813001a8b0517</series-id>
+    <sub-title>Dinosaur Episode 1</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928231100 +0000" stop="20260928232800 +0000">
+    <title>Pinkfong Playfong</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">61730bf7829284001a93fd83</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's go to the toy shop and play with Pinkfong. It's Playfong time!.</desc>
+    <icon src="https://images.pluto.tv/series/61730bf6829284001a93fd5b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">61730bf6829284001a93fd5b</series-id>
+    <sub-title>Pinkfong Playfong Ep.3</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928232800 +0000" stop="20260928235200 +0000">
+    <title>Pinkfong little dino school</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">66b3d3ad8dfe2a00133e7c84</episode-num>
+    <episode-num system="original-air-date">20230531000000 +0000</episode-num>
+    <desc>Meet Rex, who loves tag game, Brie who is always hungry, the smart dinosaur Vella, and Pete the hat collector!</desc>
+    <icon src="https://images.pluto.tv/series/66b3d24597009300138d71d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230531</date>
+    <series-id system="pluto">66b3d24597009300138d71d3</series-id>
+    <sub-title>Pinkfong  little dino school ep 2</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20260928235200 +0000" stop="20260929003600 +0000">
+    <title>Pinkfong’s Snack Time</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">66b650b894a1840013e51ff5</episode-num>
+    <episode-num system="original-air-date">20220602000000 +0000</episode-num>
+    <desc>Friends sent a secret recipe to Little Chef Pinkfong! You can make any snack delicious, Shall we learn how to make snacks with exciting songs and rhythms?</desc>
+    <icon src="https://images.pluto.tv/series/66b650b494a1840013e51eda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220602</date>
+    <series-id system="pluto">66b650b494a1840013e51eda</series-id>
+    <sub-title>Pinkfong's Snack Time: Episode 02</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
   </programme>
 </tv>
