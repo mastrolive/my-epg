@@ -16,9 +16,9 @@
   <a href="#-epg-data-feed-urls"><img src="https://img.shields.io/badge/Status-Live%20Sync-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
 </p>
 
-<!-- VISITOR COUNTER BADGE -->
+<!-- VISITOR COUNTER BADGE (BEBAS RALAT 429) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mastrolive-my-epg&label=EPG%20HUB%20VIEWS&color=00f5d4&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/mastrolive/my-epg-daily.json&show_count=true&style=for-the-badge&color=00f5d4&label=EPG%20DAILY%20VIEWS" alt="Daily Visitor Count" />
 </p>
 
 </div>
@@ -56,5 +56,5 @@ This repository utilizes **GitHub Actions** workflows to automatically parse, sy
 ```text
  ⚙️ AUTOMATION PIPELINE
  ├── 🛰️ Fetch Source Guides   ──► Ingest EPG Data Sources
- ├── 🧹 Filter & Format       ──► Time-Offset & XMLTV Standardization
- └── 🚀 Auto Commit & Push    ──► epg.xml / epg2.xml / my.xml / id.xml / utv.xml
+ ├── 🧹 Filter & Format        ──► Time-Offset & XMLTV Standardization
+ └── 🚀 Auto Commit & Push     ──► epg.xml / epg2.xml / my.xml / id.xml / utv.xml
