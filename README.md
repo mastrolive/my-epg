@@ -16,9 +16,11 @@
   <a href="#-epg-data-feed-urls"><img src="https://img.shields.io/badge/Status-Live%20Sync-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
 </p>
 
-<!-- VISITOR COUNTER BADGE (BEBAS RALAT 429) -->
+<!-- DYNAMIC STATUS & METRICS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/mastrolive/my-epg-daily.json&show_count=true&style=for-the-badge&color=00f5d4&label=EPG%20DAILY%20VIEWS" alt="Daily Visitor Count" />
+  <a href="https://github.com/mastrolive/my-epg/actions"><img src="https://img.shields.io/github/actions/workflow/status/mastrolive/my-epg/epg.yml?branch=main&style=for-the-badge&label=AUTO%20SYNC%20STATUS&logo=githubactions&logoColor=white&color=00f5d4" alt="Auto Sync Status" /></a>
+  <img src="https://img.shields.io/badge/FORMAT-XMLTV%20COMPLIANT-FF6F00?style=for-the-badge&logo=rss&logoColor=white" alt="XMLTV Compliant" />
+  <img src="https://img.shields.io/github/last-commit/mastrolive/my-epg?style=for-the-badge&label=LAST%20UPDATE&color=2563eb&logo=git&logoColor=white" alt="Last Commit" />
 </p>
 
 </div>
