@@ -10675,18 +10675,15 @@
   <channel id="mastro.premierleague3">
     <display-name lang="en">Astro Premier League 3</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" />
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="mastro.premierleague4">
     <display-name lang="en">Astro Premier League 4</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" />
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="mastro.premierleague5">
     <display-name lang="en">Astro Premier League 5</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" />
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
@@ -10920,237 +10917,6 @@
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" />
   </channel>
-  <programme channel="mastro.babyshark" start="20261002201300 +0000" stop="20261002210300 +0000">
-    <title>Pinkfong Dinosaur Musical Stories</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">61730c03829284001a9400c8</episode-num>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Roar! Sing and stomp with Pinkfong Dinosaur Musical.</desc>
-    <icon src="https://images.pluto.tv/series/61730c02829284001a9400ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20160101</date>
-    <series-id system="pluto">61730c02829284001a9400ac</series-id>
-    <sub-title>Pinkfong Dinosaur Musical Stories Ep.1</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261002210300 +0000" stop="20261002220300 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="pluto">65540977727df0001a76d614</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Stay healthy and happy, everyone! Kick-Start your day with Pinkfong healthy habit song.</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20170101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Pinkfong Healthy Habits Songs</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261002220300 +0000" stop="20261002223000 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">6553feb4e2a2d8001a9d95eb</episode-num>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Get on the Pinkfong ride and let's go meet the buses.</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20160101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Pinkfong Bus Songs</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261002223000 +0000" stop="20261002231800 +0000">
-    <title>Zoom Zoom Zoom With Baby Shark</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">62586c7bbacbfb0013c1e62f</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Hmm... What will it be? How fun it is to learn the words of bugs by doing the zoom to everything!</desc>
-    <icon src="https://images.pluto.tv/series/62586af8228ab000133d8690/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">62586af8228ab000133d8690</series-id>
-    <sub-title>Zoom Zoom Zoom with Baby Shark Ep.2 Bug with Baby Shark</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261002231800 +0000" stop="20261003001100 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <episode-num system="pluto">64ad9ed724ade5000892b8c0</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Have fun with Baby Shark and the Shark Family!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Baby Shark's Day at Home &amp; School</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003001100 +0000" stop="20261003004400 +0000">
-    <title>Veo, Veo</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b3eb94dc6f2f0013b089a2</episode-num>
-    <episode-num system="original-air-date">20221026000000 +0000</episode-num>
-    <desc>Friends, let's play Spy Spy and sing the fun songs with Pinkfong and Baby Shark!</desc>
-    <icon src="https://images.pluto.tv/series/66b3eb92dc6f2f0013b08984/tile_1765105572340.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20221026</date>
-    <series-id system="pluto">66b3eb92dc6f2f0013b08984</series-id>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003004400 +0000" stop="20261003013700 +0000">
-    <title>Baby Shark Hospital Play</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b29fb297009300137fdfb2</episode-num>
-    <episode-num system="original-air-date">20220831000000 +0000</episode-num>
-    <desc>Let's go to Dr. Baby Shark's hospital! You're watching "Pinkfong and Shark Family", a super fun story for kids!</desc>
-    <icon src="https://images.pluto.tv/series/66b29fb097009300137fdf93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220831</date>
-    <series-id system="pluto">66b29fb097009300137fdf93</series-id>
-    <sub-title>Baby Shark Hospital Play 1</sub-title>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003013700 +0000" stop="20261003021200 +0000">
-    <title>Pinkfong and Hogi's Magic Adventure</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b38bf261ac500014f493b8</episode-num>
-    <episode-num system="original-air-date">20221118000000 +0000</episode-num>
-    <desc>Once upon a time…There was a huge palace without a king. Only the true king of animals could be the ruler of this palace. Meanwhile, both the bear and the lion had their eyes on the throne. Who will become the true king of animals?</desc>
-    <icon src="https://images.pluto.tv/series/66b38bf061ac500014f49399/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20221118</date>
-    <series-id system="pluto">66b38bf061ac500014f49399</series-id>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003021200 +0000" stop="20261003040000 +0000">
-    <title>Hang Out With Pinkfong And Baby Shark</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6164afcfd4b818001a699d5a</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Guess where Pinkfong, Baby Shark, and Sam are now? Follow them to the library, Kid's Cafe, Singapore, and Malaysia.</desc>
-    <icon src="https://images.pluto.tv/series/6164afced4b818001a699d4b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6164afced4b818001a699d4b</series-id>
-    <sub-title>Pinkfong Around the World</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003040000 +0000" stop="20261003045000 +0000">
-    <title>Dance Adventure</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66b3bbd094a1840013bf70cc</episode-num>
-    <episode-num system="original-air-date">20221021000000 +0000</episode-num>
-    <desc>Arrr-! Are you ready for a fun adventure? Come and let's sing and dance together! Arrr-!</desc>
-    <icon src="https://images.pluto.tv/series/63cf50b88c7f8e001a7edbc7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20221021</date>
-    <series-id system="pluto">63cf50b88c7f8e001a7edbc7</series-id>
-    <sub-title>Dance Adventure Episode 02</sub-title>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003045000 +0000" stop="20261003051700 +0000">
-    <title>Baby Shark Brooklyn</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">6164afe1d4b818001a69ab97</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Shipwreck Scare! &amp; The Marvelous Milo!</desc>
-    <icon src="https://images.pluto.tv/series/6164afded4b818001a69ab18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6164afded4b818001a69ab18</series-id>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003051700 +0000" stop="20261003055100 +0000">
-    <title>Baby Shark's Transformation</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">63cf4b205957f20013f19436</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Let's learn colors and shapes with Baby Shark! You're watching “Baby Shark's Transformation”, a super fun story for kids to learn colors.</desc>
-    <icon src="https://images.pluto.tv/series/63cf49b890b2250013636220/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">63cf49b890b2250013636220</series-id>
-    <sub-title>Baby Shark's Transformation - Season 1 - Episode 002</sub-title>
-    <category>Children</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003055100 +0000" stop="20261003061900 +0000">
-    <title>Pinkfong Wonderstar</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">63cecdf1380e20001347e667</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Poki invented Pokibot, a robot that would do everything you need!Wonderville's adorable Beaver, Jojo couldn't sleep for a week already!</desc>
-    <icon src="https://images.pluto.tv/series/63c844804da5ab00131083b0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">63c844804da5ab00131083b0</series-id>
-    <sub-title>Pinkfong Wonderstar - Season 1 - Episode 002</sub-title>
-    <category>Children</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003061900 +0000" stop="20261003064900 +0000">
-    <title>Let's Color With Pinkfong</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6170487c95ce3f001a330e8b</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Join Pinkfong's journey to find the perfect color that matches Pinkfong!</desc>
-    <icon src="https://images.pluto.tv/series/6170487a95ce3f001a330e85/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6170487a95ce3f001a330e85</series-id>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003064900 +0000" stop="20261003071600 +0000">
-    <title>Pinkfong Chart Show</title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="pluto">6167011af3593c001aa3f12e</episode-num>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Dear friend, tell us about you. We are all ears. Are you want to change into a robot?</desc>
-    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20180101</date>
-    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
-    <sub-title>Pinkfong Chart Show Ep10. Wizard's Gift</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003071600 +0000" stop="20261003074500 +0000">
-    <title>Here We Dance</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">63d01599ff32c10013ad86d6</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Sing and Dance with Sammy, Pinkfong, and Baby Shark. Sammy is an expert in fun kids dance workout! He will guide you how to dance along to the most popular Pinkfong songs!</desc>
-    <icon src="https://images.pluto.tv/series/63cf56585957f20013f1ba52/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63cf56585957f20013f1ba52</series-id>
-    <sub-title>Here We Dance Episode 003</sub-title>
-    <category>Children</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261003074500 +0000" stop="20261003085200 +0000">
-    <title>Storytime with Pinkfong and Animal Friends</title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="pluto">66b3c1612fca0600139786b8</episode-num>
-    <episode-num system="original-air-date">20230425000000 +0000</episode-num>
-    <desc>Shall we go out to meet our fun animal friends in the woods? Fun animal friends are waiting for us, including a pig with a cute twisty tail, a detective squirrel looking for acorns, and a rhinoceros jumping around! Let's all start together!</desc>
-    <icon src="https://images.pluto.tv/series/66b3bff861ac500014f50018/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230425</date>
-    <series-id system="pluto">66b3bff861ac500014f50018</series-id>
-    <sub-title>Storytime with Pinkfong and Animal Friends  - Season 2 - Episode 001</sub-title>
-    <category>Children</category>
-    <category>Animated</category>
-    <category>Series</category>
-  </programme>
   <programme channel="mastro.babyshark" start="20261003085200 +0000" stop="20261003093700 +0000">
     <title>Baby Shark's Christmas Stories</title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -11160,9 +10926,9 @@
     <icon src="https://images.pluto.tv/series/66b6a0e394a1840013f72eb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20221024</date>
     <series-id system="pluto">66b6a0e394a1840013f72eb4</series-id>
-    <category>Children</category>
-    <category>Animated</category>
     <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003093700 +0000" stop="20261003095800 +0000">
     <title>Bebefinn 2 ep7</title>
@@ -11173,9 +10939,9 @@
     <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20230323</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <category>Children</category>
-    <category>Animated</category>
     <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003095800 +0000" stop="20261003102400 +0000">
     <title>Bebefinn 2 ep10</title>
@@ -11186,9 +10952,9 @@
     <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20230707</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <category>Children</category>
-    <category>Animated</category>
     <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003102400 +0000" stop="20261003105600 +0000">
     <title>Baby Shark Hospital Play</title>
@@ -11200,9 +10966,9 @@
     <date>20221028</date>
     <series-id system="pluto">66b29fb097009300137fdf93</series-id>
     <sub-title>Baby Shark Hospital Play 2</sub-title>
-    <category>Children</category>
-    <category>Animated</category>
     <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003105600 +0000" stop="20261003112000 +0000">
     <title>Back to School Pinkfong Songs</title>
@@ -11213,9 +10979,9 @@
     <icon src="https://images.pluto.tv/series/66b24e20dc6f2f0013950a75/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20200610</date>
     <series-id system="pluto">66b24e20dc6f2f0013950a75</series-id>
-    <category>Children</category>
-    <category>Animated</category>
     <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003112000 +0000" stop="20261003114700 +0000">
     <title>Patrol pals</title>
@@ -11226,9 +10992,9 @@
     <icon src="https://images.pluto.tv/series/66b2b4c88dfe2a001328c0fb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210930</date>
     <series-id system="pluto">66b2b4c88dfe2a001328c0fb</series-id>
-    <category>Children</category>
-    <category>Animated</category>
     <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003114700 +0000" stop="20261003121800 +0000">
     <title>Pinkfong Storytime Theater</title>
@@ -11239,9 +11005,9 @@
     <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210101</date>
     <series-id system="pluto">6176c61e178213001ad96179</series-id>
-    <category>Children</category>
-    <category>Kids' Music</category>
     <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003121800 +0000" stop="20261003124300 +0000">
     <title>Baby Shark's Best Lullabies</title>
@@ -11253,8 +11019,8 @@
     <date>20220101</date>
     <series-id system="pluto">63cf41408c7f8e001a7eb2a4</series-id>
     <sub-title>Baby Shark's Best Lullabies Ep.1</sub-title>
-    <category>Children</category>
     <category>Series</category>
+    <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261003124300 +0000" stop="20261003130600 +0000">
     <title>Pinkfong Songs For Children</title>
@@ -11266,8 +11032,280 @@
     <date>20190101</date>
     <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
     <sub-title>Pinkfong Drawing Songs</sub-title>
-    <category>Children</category>
-    <category>Kids' Music</category>
     <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003130600 +0000" stop="20261003135300 +0000">
+    <title>Hide 'n Seek with Shark Family</title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <episode-num system="pluto">66b4fdcc9322c000136af693</episode-num>
+    <episode-num system="original-air-date">20230711000000 +0000</episode-num>
+    <desc>Oh? Where did Baby Shark and Shark Family go? Help Pinkfong to find all the Shark Family!</desc>
+    <icon src="https://images.pluto.tv/series/63d023acff32c10013ada140/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230711</date>
+    <series-id system="pluto">63d023acff32c10013ada140</series-id>
+    <sub-title>Shark Family, Dinosaur World.</sub-title>
+    <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003135300 +0000" stop="20261003141500 +0000">
+    <title>Bebefinn</title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="pluto">63c737fb88bc20001353e482</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Baby Finn Learns Something New Every day with the Fun Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family, filled with joyful songs.</desc>
+    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">63c73248eb85c50013390757</series-id>
+    <sub-title>Bebefinn Ep.10</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003141500 +0000" stop="20261003144400 +0000">
+    <title>Let's Color With Baby Shark</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">625783103f03ed0013c4e623</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's have a coloring time with Baby Shark!</desc>
+    <icon src="https://images.pluto.tv/series/6257830f3f03ed0013c4e61c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6257830f3f03ed0013c4e61c</series-id>
+    <sub-title>Episode 1</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003144400 +0000" stop="20261003151900 +0000">
+    <title>Colors Song</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b3af355b669a001301bb98</episode-num>
+    <episode-num system="original-air-date">20221226000000 +0000</episode-num>
+    <desc>Learn colors with Pinkfong! Join Pinkfong's journey to find the perfect color that matches Pinkfong!</desc>
+    <icon src="https://images.pluto.tv/series/66b3af345b669a001301bb78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20221226</date>
+    <series-id system="pluto">66b3af345b669a001301bb78</series-id>
+    <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003151900 +0000" stop="20261003161600 +0000">
+    <title>Pinkfong's DIY Guide</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6176c609178213001ad95ada</episode-num>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>An easy origami guide to making Baby Shark, animal friends, princess items, and many others</desc>
+    <icon src="https://images.pluto.tv/series/6176c607178213001ad95aa9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20160101</date>
+    <series-id system="pluto">6176c607178213001ad95aa9</series-id>
+    <sub-title>Pinkfong's DIY Guide Ep.2</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003161600 +0000" stop="20261003165000 +0000">
+    <title>Bebefinn Nursery Rhymes</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b253c197009300137f39b0</episode-num>
+    <episode-num system="original-air-date">20220523000000 +0000</episode-num>
+    <desc>Baby Shark Doo Doo Doo!Sing with Bebefinn and family!</desc>
+    <icon src="https://images.pluto.tv/series/66b253c097009300137f3992/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220523</date>
+    <series-id system="pluto">66b253c097009300137f3992</series-id>
+    <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003165000 +0000" stop="20261003175800 +0000">
+    <title>Pinkfong Mother Goose</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">61730c13829284001a9404c7</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>A compilation of children's favorite Mother Goose songs and all-time favorite Mother Goose games.</desc>
+    <icon src="https://images.pluto.tv/series/61730c12829284001a9404a9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">61730c12829284001a9404a9</series-id>
+    <sub-title>Pinkfong Mother Goose Ep.1</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003175800 +0000" stop="20261003182200 +0000">
+    <title>Pinkfong little dino school</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b3d24697009300138d71f2</episode-num>
+    <episode-num system="original-air-date">20230414000000 +0000</episode-num>
+    <desc>Meet Rex, who loves tag game, Brie who is always hungry, the smart dinosaur Vella, and Pete the hat collector!</desc>
+    <icon src="https://images.pluto.tv/series/66b3d24597009300138d71d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230414</date>
+    <series-id system="pluto">66b3d24597009300138d71d3</series-id>
+    <sub-title>Pinkfong little dino school ep 1</sub-title>
+    <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003182200 +0000" stop="20261003183900 +0000">
+    <title>Pinkfong and Hogi Dance Dance</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">616a1fb06e3813001a8b02c1</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Pinkfong and Hogi are looking for great dancers. Dancing is always fun!</desc>
+    <icon src="https://images.pluto.tv/series/616a1fae6e3813001a8b0275/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">616a1fae6e3813001a8b0275</series-id>
+    <sub-title>Pinkfong and Hogi Dance Dance Ep.3</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003183900 +0000" stop="20261003191400 +0000">
+    <title>Hang Out With Pinkfong And Baby Shark</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6164afcfd4b818001a699d55</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>An entertainment variety show hosted by Baby Shark and Pinkfong</desc>
+    <icon src="https://images.pluto.tv/series/6164afced4b818001a699d4b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6164afced4b818001a699d4b</series-id>
+    <sub-title>Pinkfong Show Show Show</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003191400 +0000" stop="20261003193400 +0000">
+    <title>Hide 'n Seek with Shark Family</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">63d02514380e2000134cdfeb</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's play Hide' n Seek with Pinkfong! Try matching the animals' pictures and the names!</desc>
+    <icon src="https://images.pluto.tv/series/63d023acff32c10013ada140/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">63d023acff32c10013ada140</series-id>
+    <sub-title>Hide 'n Seek with Pinkfong Ep.2</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003193400 +0000" stop="20261003195200 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="pluto">65540a3d25fde2001a3e9ce3</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Baby Shark and Pinkfong meet beautiful traditional rhymes. Come listen to traditional Korean songs.</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20170101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Korean Traditional Songs</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003195200 +0000" stop="20261003201100 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="pluto">655416a22a6001001a10a74d</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Let's sing and dance together with Pinkfong, Hogi, and Friends!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Play Songs</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003201100 +0000" stop="20261003205800 +0000">
+    <title>Pinkfong ABC Phonics</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">61730bef829284001a93fbc3</episode-num>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Learn Phonics with Pinkfong A to Z Phonics!</desc>
+    <icon src="https://images.pluto.tv/series/61730bee829284001a93fbb7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20160101</date>
+    <series-id system="pluto">61730bee829284001a93fbb7</series-id>
+    <sub-title>Pinkfong ABC Phonics Ep.1</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003205800 +0000" stop="20261003212400 +0000">
+    <title>Fun with Phonics</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b3c2d057d82b00138f12ce</episode-num>
+    <episode-num system="original-air-date">20200610000000 +0000</episode-num>
+    <desc>Mommy! Daddy! How do you say this? It's time to let your children to read the words by themselves. Phonics song by Pinkfong will make your children to say new words by themselves! Pinkfong brings "Fun with Phonics" to you!</desc>
+    <icon src="https://images.pluto.tv/series/66b3c2cf57d82b00138f12af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200610</date>
+    <series-id system="pluto">66b3c2cf57d82b00138f12af</series-id>
+    <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003212400 +0000" stop="20261003221300 +0000">
+    <title>Ambulance Rescue Special</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b2444e9322c000134389a9</episode-num>
+    <episode-num system="original-air-date">20210430000000 +0000</episode-num>
+    <desc>We Are The Pinkfong's Super Rescue Team! We solve all the problems in the town!</desc>
+    <icon src="https://images.pluto.tv/series/66b2444c9322c00013438936/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210430</date>
+    <series-id system="pluto">66b2444c9322c00013438936</series-id>
+    <category>Series</category>
+    <category>Animated</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003221300 +0000" stop="20261003225200 +0000">
+    <title>Learn ABC with Baby Shark</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">62697673aa5b9a000716076e</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's learn ABC with Baby Shark and dinosaurs!</desc>
+    <icon src="https://images.pluto.tv/series/6170487e95ce3f001a330f04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6170487e95ce3f001a330f04</series-id>
+    <sub-title>Learn ABC with Baby Shark - Dinosaur Ep.1</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003225200 +0000" stop="20261003231900 +0000">
+    <title>Baby Shark Brooklyn</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">6164afe0d4b818001a69ab32</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>A race to the finish! &amp; The case of the ghost at 94th and ocean!</desc>
+    <icon src="https://images.pluto.tv/series/6164afded4b818001a69ab18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6164afded4b818001a69ab18</series-id>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003231900 +0000" stop="20261003235400 +0000">
+    <title>Pinkfong Storytime Theater</title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="pluto">6176c620178213001ad961c0</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Ready to go on a fun adventure with Pinkfong and friends? Come along, and let's go for fun!</desc>
+    <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">6176c61e178213001ad96179</series-id>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261003235400 +0000" stop="20261004010200 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <episode-num system="pluto">655416b0d193e8001badeb9e</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Everybody! Let's sing and dance!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Let's Sing with Pinkfong</sub-title>
+    <category>Series</category>
+    <category>Kids' Music</category>
+    <category>Children</category>
   </programme>
 </tv>
