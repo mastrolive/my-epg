@@ -13,9 +13,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Ambil sejarah commit penuh elak isu detachment
+          fetch-depth: 0 #
 
-      - name: Download and Process EPG (Parallel)
+      - name: Download and Process EPG
         run: |
           mkdir -p temp_epg
 
