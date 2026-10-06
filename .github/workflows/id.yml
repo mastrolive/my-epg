@@ -26,6 +26,7 @@ jobs:
 
           CHANNEL_MAP = {
               "ANTV.id@SD": "mastro.antv",
+              "BioskopIndonesia.id@SD": "mastro.bioskopindonesia",
               "DAAITV.id@SD": "mastro.daaitv",
               "GTV.id@SD": "mastro.gtv",
               "IMC.id@SD": "mastro.imc",
