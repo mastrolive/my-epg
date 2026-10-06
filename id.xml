@@ -172,6 +172,10 @@
     <display-name>TVRI</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" />
   </channel>
+  <channel id="mastro.visionprime">
+    <display-name>Vision Prime</display-name>
+    <icon src="https://i.imgur.com/dKnWI2O.png" />
+  </channel>
   <programme start="20261005230000 +0000" stop="20261006010000 +0000" channel="mastro.antv">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
@@ -9324,5 +9328,234 @@
     <title lang="id">TVRI</title>
     <desc lang="id">Televisi Republik Indonesia (TVRI) adalah jaringan televisi publik berskala nasional di Indonesia. TVRI berstatus sebagai Lembaga Penyiaran Publik bersama Radio Republik Indonesia (RRI), yang ditetapkan melalui Undang-Undang.</desc>
     <category lang="id">News</category>
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006020000 +0000" channel="mastro.visionprime">
+    <title lang="id">The Blade Of Wind</title>
+    <desc lang="id">Murid Pisau Ajaib YaQing terlibat dalam konspirasi "manusia ular" dan terpaksa melarikan diri untuk bertemu dua temannya.</desc>
+    <category lang="id">Movies</category>
+    <category lang="id">Action</category>
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006040000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terikat Janji</title>
+    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006050000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ikatan Cinta</title>
+    <desc lang="id">Mengisahkan tentang dua bersaudara, Andin (kakak) dan Elsa (adik). Tanpa mereka sadari mencintai pria yang sama, Nino. Hubungan mereka yang buruk menjadi lebih buruk ketika Elsa tahu bahwa Nino akan menikahi Andin. Pernikahan Nino dan Andin mendapat dukungan sang ayah, namun ditentang oleh sang ibu.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Children</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006060000 +0000" channel="mastro.visionprime">
+    <title lang="id">Healing Jalur King Nassar</title>
+    <desc lang="id">“Healing Jalur King Nassar” is not just about sharing stories; it also invites participants to rediscover their zest for life through music, interaction, games, and even a “healing recipe” before heading home.</desc>
+    <category lang="id">Entertainment</category>
+    <category lang="id">Talk show</category>
+    <category lang="id">Variety</category>
+  </programme>
+  <programme start="20261006060000 +0000" stop="20261006070000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terlanjur Mencintaimu</title>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006070000 +0000" stop="20261006080000 +0000" channel="mastro.visionprime">
+    <title lang="id">Liontin</title>
+    <desc lang="id">Manda dan Indy adalah kakak beradik yang saling menyayangi. Ibu mereka, Rianty, meninggal saat melahirkan Indy. Sejak saat itu, Manda dan Indy hanya hidup bertiga bersama ayahnya, Indra. Manda berperan sebagai ibu bagi Indy. Suatu ketika ayah mereka mulai sakit sakitan dan masuk rumah sakit. Ternyata Indra mengidap leukemia.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006080000 +0000" stop="20261006090000 +0000" channel="mastro.visionprime">
+    <title lang="id">Cinta Yasmin</title>
+    <desc lang="id">Kisah seorang perempuan bernama Yasmin yang dikenal rupawan, penyayang, dan pekerja keras. Yasmin memiliki cita-cita ingin menjadi perempuan karier yang sukses. Namun, keadaan tampaknya tak berpihak kepadanya.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006110000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terikat Janji</title>
+    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006130000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terlanjur Mencintaimu</title>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006130000 +0000" stop="20261006140000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ternyata Ini Cinta</title>
+    <desc lang="id">Ketika kehilangan mengubah segalanya, Luna harus bangkit, menemukan kembali harapannya dan menghadapi pertemuan yang tak pernah ia duga. Akankah pertemuan itu menjadi awal dari kebahagiaan atau justru membawa luka yang lebih besar?</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="mastro.visionprime">
+    <title lang="id">Bad Parenting</title>
+    <desc lang="id">Kisah sebuah keluarga yang tampak baik-baik saja dari luar, tetapi sebenarnya penuh konflik. Meskipun hubungan Ibu dan Ayah masih dalam ikatan pernikahan, keluarga ini seperti keluarga Broken Home.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="mastro.visionprime">
+    <title lang="id">The Waves</title>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
+  </programme>
+  <programme start="20261006150000 +0000" stop="20261006170000 +0000" channel="mastro.visionprime">
+    <title lang="id">Mars Met Venus (Part Cewe)</title>
+    <desc lang="id">Mars Met Venus (Part Cewe) menceritakan Kelvin dan Mila yang bersiap menikah sambil merekam perjalanan cinta mereka dalam vlog. Namun, proses itu justru menyingkap perbedaan dan kesalahpahaman di antara keduanya.</desc>
+    <category lang="id">Movies</category>
+    <category lang="id">Comedy</category>
+  </programme>
+  <programme start="20261006170000 +0000" stop="20261006180000 +0000" channel="mastro.visionprime">
+    <title lang="id">Healing Jalur King Nassar</title>
+    <desc lang="id">“Healing Jalur King Nassar” is not just about sharing stories; it also invites participants to rediscover their zest for life through music, interaction, games, and even a “healing recipe” before heading home.</desc>
+    <category lang="id">Entertainment</category>
+    <category lang="id">Talk show</category>
+    <category lang="id">Variety</category>
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006190000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ikatan Cinta</title>
+    <desc lang="id">Mengisahkan tentang dua bersaudara, Andin (kakak) dan Elsa (adik). Tanpa mereka sadari mencintai pria yang sama, Nino. Hubungan mereka yang buruk menjadi lebih buruk ketika Elsa tahu bahwa Nino akan menikahi Andin. Pernikahan Nino dan Andin mendapat dukungan sang ayah, namun ditentang oleh sang ibu.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Children</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006200000 +0000" channel="mastro.visionprime">
+    <title lang="id">Cinta Yasmin</title>
+    <desc lang="id">Kisah seorang perempuan bernama Yasmin yang dikenal rupawan, penyayang, dan pekerja keras. Yasmin memiliki cita-cita ingin menjadi perempuan karier yang sukses. Namun, keadaan tampaknya tak berpihak kepadanya.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ternyata Ini Cinta</title>
+    <desc lang="id">Ketika kehilangan mengubah segalanya, Luna harus bangkit, menemukan kembali harapannya dan menghadapi pertemuan yang tak pernah ia duga. Akankah pertemuan itu menjadi awal dari kebahagiaan atau justru membawa luka yang lebih besar?</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006230000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terikat Janji</title>
+    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261007000000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terlanjur Mencintaimu</title>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007000000 +0000" stop="20261007020000 +0000" channel="mastro.visionprime">
+    <title lang="id">Mars Met Venus (Part Cowo)</title>
+    <desc lang="id">Hubungan Kelvin dan Mila dimulai dari cinta monyet, pedekate, jadian, hingga ke jenjang yang lebih serius yaitu pernikahan. Dalam rangka melamar Mila, Kelvin puny ide cemerlang untuk merekam perjalanan cinta mereka dengan membuat vlog. Tapi apa yang akan terjadi ?.</desc>
+    <category lang="id">Movies</category>
+    <category lang="id">Drama</category>
+    <category lang="id">Comedy</category>
+  </programme>
+  <programme start="20261007020000 +0000" stop="20261007040000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terikat Janji</title>
+    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007040000 +0000" stop="20261007050000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ikatan Cinta</title>
+    <desc lang="id">Mengisahkan tentang dua bersaudara, Andin (kakak) dan Elsa (adik). Tanpa mereka sadari mencintai pria yang sama, Nino. Hubungan mereka yang buruk menjadi lebih buruk ketika Elsa tahu bahwa Nino akan menikahi Andin. Pernikahan Nino dan Andin mendapat dukungan sang ayah, namun ditentang oleh sang ibu.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Children</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007050000 +0000" stop="20261007060000 +0000" channel="mastro.visionprime">
+    <title lang="id">Manda Curhat</title>
+    <desc lang="id">Curhat Bareng Amanda adalah acara unggulan di RCTI yang membawa kamu untuk curhat dan bersenang-senang bersama Amanda Manopo.</desc>
+    <category lang="id">Entertainment</category>
+    <category lang="id">Talk show</category>
+  </programme>
+  <programme start="20261007060000 +0000" stop="20261007070000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terlanjur Mencintaimu</title>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007070000 +0000" stop="20261007080000 +0000" channel="mastro.visionprime">
+    <title lang="id">Liontin</title>
+    <desc lang="id">Manda dan Indy adalah kakak beradik yang saling menyayangi. Ibu mereka, Rianty, meninggal saat melahirkan Indy. Sejak saat itu, Manda dan Indy hanya hidup bertiga bersama ayahnya, Indra. Manda berperan sebagai ibu bagi Indy. Suatu ketika ayah mereka mulai sakit sakitan dan masuk rumah sakit. Ternyata Indra mengidap leukemia.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007080000 +0000" stop="20261007090000 +0000" channel="mastro.visionprime">
+    <title lang="id">Cinta Yasmin</title>
+    <desc lang="id">Kisah seorang perempuan bernama Yasmin yang dikenal rupawan, penyayang, dan pekerja keras. Yasmin memiliki cita-cita ingin menjadi perempuan karier yang sukses. Namun, keadaan tampaknya tak berpihak kepadanya.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007090000 +0000" stop="20261007120000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terikat Janji</title>
+    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007120000 +0000" stop="20261007130000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terlanjur Mencintaimu</title>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007130000 +0000" stop="20261007140000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ternyata Ini Cinta</title>
+    <desc lang="id">Ketika kehilangan mengubah segalanya, Luna harus bangkit, menemukan kembali harapannya dan menghadapi pertemuan yang tak pernah ia duga. Akankah pertemuan itu menjadi awal dari kebahagiaan atau justru membawa luka yang lebih besar?</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007140000 +0000" stop="20261007143000 +0000" channel="mastro.visionprime">
+    <title lang="id">Bad Parenting</title>
+    <desc lang="id">Kisah sebuah keluarga yang tampak baik-baik saja dari luar, tetapi sebenarnya penuh konflik. Meskipun hubungan Ibu dan Ayah masih dalam ikatan pernikahan, keluarga ini seperti keluarga Broken Home.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007143000 +0000" stop="20261007150000 +0000" channel="mastro.visionprime">
+    <title lang="id">The Waves</title>
+    <category lang="id">Series</category>
+    <category lang="id">History</category>
+  </programme>
+  <programme start="20261007150000 +0000" stop="20261007170000 +0000" channel="mastro.visionprime">
+    <title lang="id">Happy Bhag Jaayegi</title>
+    <desc lang="id">Happy, seorang gadis India yang ceria, kabur pada hari pernikahannya agar bisa menikahi pria impiannya, Guddu. Kekacauan terjadi kala ia tak sengaja mendatangi rumah seorang politisi Pakistan.</desc>
+    <category lang="id">Movies</category>
+    <category lang="id">Drama</category>
+    <category lang="id">Comedy</category>
+  </programme>
+  <programme start="20261007170000 +0000" stop="20261007180000 +0000" channel="mastro.visionprime">
+    <title lang="id">Healing Jalur King Nassar</title>
+    <desc lang="id">“Healing Jalur King Nassar” is not just about sharing stories; it also invites participants to rediscover their zest for life through music, interaction, games, and even a “healing recipe” before heading home.</desc>
+    <category lang="id">Entertainment</category>
+    <category lang="id">Talk show</category>
+    <category lang="id">Variety</category>
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ikatan Cinta</title>
+    <desc lang="id">Mengisahkan tentang dua bersaudara, Andin (kakak) dan Elsa (adik). Tanpa mereka sadari mencintai pria yang sama, Nino. Hubungan mereka yang buruk menjadi lebih buruk ketika Elsa tahu bahwa Nino akan menikahi Andin. Pernikahan Nino dan Andin mendapat dukungan sang ayah, namun ditentang oleh sang ibu.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Children</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007190000 +0000" stop="20261007200000 +0000" channel="mastro.visionprime">
+    <title lang="id">Cinta Yasmin</title>
+    <desc lang="id">Kisah seorang perempuan bernama Yasmin yang dikenal rupawan, penyayang, dan pekerja keras. Yasmin memiliki cita-cita ingin menjadi perempuan karier yang sukses. Namun, keadaan tampaknya tak berpihak kepadanya.</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007200000 +0000" stop="20261007210000 +0000" channel="mastro.visionprime">
+    <title lang="id">Ternyata Ini Cinta</title>
+    <desc lang="id">Ketika kehilangan mengubah segalanya, Luna harus bangkit, menemukan kembali harapannya dan menghadapi pertemuan yang tak pernah ia duga. Akankah pertemuan itu menjadi awal dari kebahagiaan atau justru membawa luka yang lebih besar?</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007210000 +0000" stop="20261007230000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terikat Janji</title>
+    <desc lang="id">kisah cinta yang rumit, penuh intrik, dan pengkhianatan yang mengguncang, Terikat Janji</desc>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
+  </programme>
+  <programme start="20261007230000 +0000" stop="20261008000000 +0000" channel="mastro.visionprime">
+    <title lang="id">Terlanjur Mencintaimu</title>
+    <category lang="id">Series</category>
+    <category lang="id">Drama</category>
   </programme>
 </tv>
