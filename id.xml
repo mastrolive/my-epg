@@ -156,6 +156,10 @@
     <display-name>Soccer Channel</display-name>
     <icon src="https://i.imgur.com/wuduAXD.png" />
   </channel>
+  <channel id="mastro.sportstars">
+    <display-name>Sportstars</display-name>
+    <icon src="https://i.postimg.cc/ydthvytz/Sportstars.png" />
+  </channel>
   <channel id="mastro.sportstars2">
     <display-name>Sportstars 2</display-name>
     <icon src="https://i.postimg.cc/MHB74jJf/Sportstars-2.png" />
@@ -6783,6 +6787,206 @@
     <desc lang="id">UEFA Nations League adalah kompetisi sepak bola dua tahunan yang diselenggarakan oleh Asosiasi Sepak Bola Eropa (UEFA).</desc>
     <category lang="id">Sports</category>
     <category lang="id">Football</category>
+  </programme>
+  <programme start="20261006053000 +0000" stop="20261006073000 +0000" channel="mastro.sportstars">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261006073000 +0000" stop="20261006093000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Womens</title>
+    <desc lang="id">V-League 2025–2026: Women's. Kompetisi bola voli putri tertinggi di Vietnam menghadirkan klub-klub terbaik dengan perpaduan pemain lokal berbakat dan atlet internasional. Setiap pertandingan menjadi penentu dalam perebutan posisi papan atas dan peluang meraih gelar juara melalui permainan cepat, solid, dan penuh semangat.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20261006093000 +0000" stop="20261006100000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006103000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20261006103000 +0000" stop="20261006110000 +0000" channel="mastro.sportstars">
+    <title lang="id">30 Minutes Extreme</title>
+    <desc lang="id">Cuplikan Olahraga Ekstreme</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006130000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Mens</title>
+    <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261006133000 +0000" stop="20261006153000 +0000" channel="mastro.sportstars">
+    <title lang="id">The Championship Wimbledon</title>
+    <desc lang="id">Diselenggarakan setiap tahun di London, turnamen ini dikenal dengan sejarah yang kaya, tradisi yang prestisius, dan lapangan rumput ikonik. Pemain dari seluruh dunia bersaing untuk merebut gelar yang didambakan, dengan pertandingan yang penuh keterampilan tingkat tinggi, persaingan sengit, dan momen yang tak terlupakan. Wimbledon juga terkenal dengan patronase kerajaan, kode pakaian yang ketat, dan atmosfer yang unik.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="mastro.sportstars">
+    <title lang="id">30 Minutes Extreme</title>
+    <desc lang="id">Cuplikan Olahraga Ekstreme</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261006180000 +0000" stop="20261006183000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006210000 +0000" channel="mastro.sportstars">
+    <title lang="id">UEFA Nations League: England vs Czechia</title>
+    <desc lang="id">England vs Czechia mempertemukan dua tim di Grup A3. Inggris memiliki kekuatan serangan melalui Harry Kane, Anthony Gordon, dan Bukayo Saka, sementara Czechia mengandalkan pertahanan disiplin serta pemain seperti Adam Hložek dan Ladislav Krejčí.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20261006210000 +0000" stop="20261006230000 +0000" channel="mastro.sportstars">
+    <title lang="id">The Championship Wimbledon</title>
+    <desc lang="id">Diselenggarakan setiap tahun di London, turnamen ini dikenal dengan sejarah yang kaya, tradisi yang prestisius, dan lapangan rumput ikonik. Pemain dari seluruh dunia bersaing untuk merebut gelar yang didambakan, dengan pertandingan yang penuh keterampilan tingkat tinggi, persaingan sengit, dan momen yang tak terlupakan. Wimbledon juga terkenal dengan patronase kerajaan, kode pakaian yang ketat, dan atmosfer yang unik.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261006233000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261006233000 +0000" stop="20261007000000 +0000" channel="mastro.sportstars">
+    <title lang="id">30 Minutes Extreme</title>
+    <desc lang="id">Cuplikan Olahraga Ekstreme</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007000000 +0000" stop="20261007003000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sportrivia</title>
+    <desc lang="id">Sportrivia adalah permainan kuis yang berfokus pada pengetahuan olahraga, di mana pemain menjawab pertanyaan terkait berbagai olahraga, atlet, dan peristiwa sejarah.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20261007003000 +0000" stop="20261007023000 +0000" channel="mastro.sportstars">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20261007023000 +0000" stop="20261007043000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Mens</title>
+    <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20261007043000 +0000" stop="20261007050000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007050000 +0000" stop="20261007053000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20261007053000 +0000" stop="20261007073000 +0000" channel="mastro.sportstars">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261007073000 +0000" stop="20261007093000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Womens</title>
+    <desc lang="id">V-League 2025–2026: Women's. Kompetisi bola voli putri tertinggi di Vietnam menghadirkan klub-klub terbaik dengan perpaduan pemain lokal berbakat dan atlet internasional. Setiap pertandingan menjadi penentu dalam perebutan posisi papan atas dan peluang meraih gelar juara melalui permainan cepat, solid, dan penuh semangat.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20261007093000 +0000" stop="20261007100000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007100000 +0000" stop="20261007103000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20261007103000 +0000" stop="20261007110000 +0000" channel="mastro.sportstars">
+    <title lang="id">30 Minutes Extreme</title>
+    <desc lang="id">Cuplikan Olahraga Ekstreme</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007110000 +0000" stop="20261007130000 +0000" channel="mastro.sportstars">
+    <title lang="id">V-League 2025-2026: Mens</title>
+    <desc lang="id">V-League 2025–2026: Men's. Kompetisi bola voli putra tertinggi di Vietnam menghadirkan persaingan sengit antar klub terbaik. Serangan tajam, pertahanan kokoh, dan strategi matang menjadi kunci setiap tim dalam upaya mengamankan tiket ke babak akhir dan meraih gelar juara nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Other</category>
+  </programme>
+  <programme start="20261007130000 +0000" stop="20261007133000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007133000 +0000" stop="20261007153000 +0000" channel="mastro.sportstars">
+    <title lang="id">The Championship Wimbledon</title>
+    <desc lang="id">Diselenggarakan setiap tahun di London, turnamen ini dikenal dengan sejarah yang kaya, tradisi yang prestisius, dan lapangan rumput ikonik. Pemain dari seluruh dunia bersaing untuk merebut gelar yang didambakan, dengan pertandingan yang penuh keterampilan tingkat tinggi, persaingan sengit, dan momen yang tak terlupakan. Wimbledon juga terkenal dengan patronase kerajaan, kode pakaian yang ketat, dan atmosfer yang unik.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261007153000 +0000" stop="20261007173000 +0000" channel="mastro.sportstars">
+    <title lang="id">Pro Futsal League</title>
+    <desc lang="id">Liga futsal profesional yang menjadi ajang bergengsi di berbagai negara, termasuk Indonesia, untuk mempromosikan olahraga futsal di tingkat nasional.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Football</category>
+  </programme>
+  <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="mastro.sportstars">
+    <title lang="id">30 Minutes Extreme</title>
+    <desc lang="id">Cuplikan Olahraga Ekstreme</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007183000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007183000 +0000" stop="20261007190000 +0000" channel="mastro.sportstars">
+    <title lang="id">iNews Sport</title>
+    <desc lang="id">Program berita yang berfokus pada informasi seputar dunia olahraga.</desc>
+    <category lang="id">News</category>
+    <category lang="id">Sports</category>
+    <category lang="id">Programmes</category>
+    <category lang="id">Reports</category>
+  </programme>
+  <programme start="20261007190000 +0000" stop="20261007210000 +0000" channel="mastro.sportstars">
+    <title lang="id">Best Of Badminton</title>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261007210000 +0000" stop="20261007230000 +0000" channel="mastro.sportstars">
+    <title lang="id">The Championship Wimbledon</title>
+    <desc lang="id">Diselenggarakan setiap tahun di London, turnamen ini dikenal dengan sejarah yang kaya, tradisi yang prestisius, dan lapangan rumput ikonik. Pemain dari seluruh dunia bersaing untuk merebut gelar yang didambakan, dengan pertandingan yang penuh keterampilan tingkat tinggi, persaingan sengit, dan momen yang tak terlupakan. Wimbledon juga terkenal dengan patronase kerajaan, kode pakaian yang ketat, dan atmosfer yang unik.</desc>
+    <category lang="id">Sports</category>
+    <category lang="id">Tennis</category>
+  </programme>
+  <programme start="20261007230000 +0000" stop="20261007233000 +0000" channel="mastro.sportstars">
+    <title lang="id">Sports Today</title>
+    <desc lang="id">Program atau acara televisi yang menayangkan berita dan informasi terkini seputar olahraga.</desc>
+    <category lang="id">Sports</category>
+  </programme>
+  <programme start="20261007233000 +0000" stop="20261008000000 +0000" channel="mastro.sportstars">
+    <title lang="id">30 Minutes Extreme</title>
+    <desc lang="id">Cuplikan Olahraga Ekstreme</desc>
+    <category lang="id">Sports</category>
   </programme>
   <programme start="20261006063000 +0000" stop="20261006071500 +0000" channel="mastro.trans7">
     <title lang="id">Indonesiaku</title>
