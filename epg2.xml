@@ -12965,13 +12965,45 @@
       <value>U</value>
     </rating>
   </programme>
+  <channel id="mastro.ten1">
+    <display-name>Sony Ten 1 HD</display-name>
+    <icon src="Ten_HD.png" />
+  </channel>
   <channel id="mastro.disneyinter">
     <display-name>Disney International HD</display-name>
     <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11162-j99oso8o-v2/imageContent-11162-j99oso8o-m1.png" />
   </channel>
+  <channel id="mastro.starmovies">
+    <display-name>STAR Movies HD</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png" />
+  </channel>
+  <channel id="mastro.sonypix">
+    <display-name>SONY PIX HD</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" />
+  </channel>
+  <channel id="mastro.starmoviesselect">
+    <display-name>STAR Movies Select HD</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12193-j9q33dpc-v2/imageContent-12193-j9q33dpc-m3.png" />
+  </channel>
+  <channel id="mastro.moviesnow">
+    <display-name>Movies Now HD</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" />
+  </channel>
+  <channel id="mastro.mnplus">
+    <display-name>MN+ HD</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" />
+  </channel>
+  <channel id="mastro.mnx">
+    <display-name>MNX HD</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" />
+  </channel>
   <channel id="mastro.unite8sports2">
     <display-name>Unite8 Sports 2 HD</display-name>
     <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports2HD_Thumbnail_08f72428-ae8e-429f-92a6-8393b90ab116.png" />
+  </channel>
+  <channel id="mastro.zeethirai">
+    <display-name>Zee Thirai</display-name>
+    <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" />
   </channel>
   <programme start="20261007010000 +0530" stop="20261007030000 +0530" channel="mastro.disneyinter" catchup-id="99930072">
     <title>Stuck in the Middle</title>
@@ -13060,6 +13092,386 @@
   <programme start="20261007230000 +0530" stop="20261008010000 +0530" channel="mastro.disneyinter" catchup-id="99930076">
     <title>Liv and Maddie</title>
     <desc>When Maddie's twin sister Liv returns to high school, her life turns chaotic.</desc>
+  </programme>
+  <programme start="20261007004300 +0530" stop="20261007021700 +0530" channel="mastro.starmovies" catchup-id="100064280">
+    <title>Monsters University</title>
+    <desc>Two rival monsters, Mike and Sulley, overcome their differences while in a university.</desc>
+  </programme>
+  <programme start="20261007021700 +0530" stop="20261007024300 +0530" channel="mastro.starmovies" catchup-id="100064270">
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20261007024300 +0530" stop="20261007050000 +0530" channel="mastro.starmovies" catchup-id="100064271">
+    <title>George and the Dragon</title>
+    <desc>Knight George is forced to go back to his old ways to rescue King Edgar's daughter.</desc>
+  </programme>
+  <programme start="20261007050000 +0530" stop="20261007064500 +0530" channel="mastro.starmovies" catchup-id="100064274">
+    <title>Journey to the West: Conquering the Demons</title>
+    <desc>A Buddhist teams up with a demon hunter to protect a small fishing village from demons.</desc>
+  </programme>
+  <programme start="20261007064500 +0530" stop="20261007083000 +0530" channel="mastro.starmovies" catchup-id="100064281">
+    <title>Cars 2</title>
+    <desc>Lightning McQueen and Mater go abroad to take part in the World Grand Prix race.</desc>
+  </programme>
+  <programme start="20261007083000 +0530" stop="20261007101500 +0530" channel="mastro.starmovies" catchup-id="100064273">
+    <title>The Maze Runner</title>
+    <desc>A boy finds himself trapped in a gigantic maze with no memories of his past.</desc>
+  </programme>
+  <programme start="20261007101500 +0530" stop="20261007114500 +0530" channel="mastro.starmovies" catchup-id="100064272">
+    <title>Tangled</title>
+    <desc>Long-haired Rapunzel strikes a deal with a charming bandit to help her escape from a prison tower.</desc>
+  </programme>
+  <programme start="20261007114500 +0530" stop="20261007140000 +0530" channel="mastro.starmovies" catchup-id="100064278">
+    <title>The Avengers</title>
+    <desc>Nick Fury assembles a squad of superheroes to save Earth from an imminent threat.</desc>
+  </programme>
+  <programme start="20261007140000 +0530" stop="20261007153000 +0530" channel="mastro.starmovies" catchup-id="100064275">
+    <title>Ready or Not</title>
+    <desc>A young bride and her husband's family play an innocuous game which turns deadly.</desc>
+  </programme>
+  <programme start="20261007153000 +0530" stop="20261007171500 +0530" channel="mastro.starmovies" catchup-id="100064276">
+    <title>Jumanji</title>
+    <desc>Two siblings find an eerie board game and end up releasing a man and the dangers in it.</desc>
+  </programme>
+  <programme start="20261007171500 +0530" stop="20261007190000 +0530" channel="mastro.starmovies" catchup-id="100064279">
+    <title>Home Alone 2: Lost in New York</title>
+    <desc>A young boy accidentally reaches New York City and bumps into two of his old enemies.</desc>
+  </programme>
+  <programme start="20261007190000 +0530" stop="20261007210000 +0530" channel="mastro.starmovies" catchup-id="100064277">
+    <title>Independence Day: Resurgence</title>
+    <desc>A brave group rise to defend the planet, when Earth faces another alien attack.</desc>
+  </programme>
+  <programme start="20261007210000 +0530" stop="20261008014500 +0530" channel="mastro.starmovies" catchup-id="99941776">
+    <title>Avatar: The Way of Water</title>
+    <desc>When an old enemy resurfaces, Jake and his family take refuge with the Metkayina clan.</desc>
+  </programme>
+  <programme start="20261007002400 +0530" stop="20261007020000 +0530" channel="mastro.sonypix" catchup-id="100098123">
+    <title>The Unholy</title>
+    <desc>A journalist unravels the truth behind the girl who envisions the Virgin Mary.</desc>
+  </programme>
+  <programme start="20261007020000 +0530" stop="20261007033500 +0530" channel="mastro.sonypix" catchup-id="100098125">
+    <title>The Retirement Plan</title>
+    <desc>Ashley seeks her retired estranged father's help when her family is in danger.</desc>
+  </programme>
+  <programme start="20261007033500 +0530" stop="20261007052800 +0530" channel="mastro.sonypix" catchup-id="100098124">
+    <title>Sound of Metal</title>
+    <desc>Ruben, a drummer, is distraught when he begins losing his hearing.</desc>
+  </programme>
+  <programme start="20261007052800 +0530" stop="20261007065800 +0530" channel="mastro.sonypix" catchup-id="100099636">
+    <title>Afraid</title>
+    <desc>A family experiences disturbing events after installing an AI program in their home.</desc>
+  </programme>
+  <programme start="20261007065800 +0530" stop="20261007081900 +0530" channel="mastro.sonypix" catchup-id="100099641">
+    <title>Kill 'Em All 2</title>
+    <desc>Phillip and Vanessa return to Europe, facing a vengeful Russian-French terrorist Vlad.</desc>
+  </programme>
+  <programme start="20261007081900 +0530" stop="20261007095300 +0530" channel="mastro.sonypix" catchup-id="100099642">
+    <title>Never Back Down 2: The Beatdown</title>
+    <desc>Four fighters from different backgrounds team up and train under a former MMA star.</desc>
+  </programme>
+  <programme start="20261007095300 +0530" stop="20261007114300 +0530" channel="mastro.sonypix" catchup-id="100099635">
+    <title>Materialists</title>
+    <desc>A matchmaker finds herself torn between a perfect match and her imperfect ex-boyfriend.</desc>
+  </programme>
+  <programme start="20261007114300 +0530" stop="20261007132300 +0530" channel="mastro.sonypix" catchup-id="100099639">
+    <title>Terminator 3: Rise of the Machines</title>
+    <desc>A cybernetic warrior travels back in time to accomplish his mission of protecting a man.</desc>
+  </programme>
+  <programme start="20261007132300 +0530" stop="20261007150300 +0530" channel="mastro.sonypix" catchup-id="100099637">
+    <title>I Know What You Did Last Summer</title>
+    <desc>Panic engulfs a group when a mysterious killer haunts them over their dark secret.</desc>
+  </programme>
+  <programme start="20261007150300 +0530" stop="20261007163600 +0530" channel="mastro.sonypix" catchup-id="100099645">
+    <title>After Earth</title>
+    <desc>A father-son duo must put their survival skills to the test after crash-landing on Earth.</desc>
+  </programme>
+  <programme start="20261007163600 +0530" stop="20261007175900 +0530" channel="mastro.sonypix" catchup-id="100099638">
+    <title>Hotel Transylvania 2</title>
+    <desc>Count Dracula tries to help his grandson unlock his vampire powers.</desc>
+  </programme>
+  <programme start="20261007175900 +0530" stop="20261007192900 +0530" channel="mastro.sonypix" catchup-id="100099644">
+    <title>Don't Breathe 2</title>
+    <desc>A visually challenged navy veteran taps into his darker instincts to save his daughter.</desc>
+  </programme>
+  <programme start="20261007192900 +0530" stop="20261007210000 +0530" channel="mastro.sonypix" catchup-id="100099643">
+    <title>Until Dawn</title>
+    <desc>Trapped in a horrible time loop, a group of friends must survive until dawn to break it.</desc>
+  </programme>
+  <programme start="20261007210000 +0530" stop="20261007225900 +0530" channel="mastro.sonypix" catchup-id="99940762">
+    <title>Jumanji: The Next Level</title>
+    <desc>Spencer's confidantes come back to Jumanji to support him in escaping a lethal game.</desc>
+  </programme>
+  <programme start="20261007225900 +0530" stop="20261008004300 +0530" channel="mastro.sonypix" catchup-id="100099640">
+    <title>The Water Horse</title>
+    <desc>A young boy discovers a mysterious egg and befriends the creature that hatches from it.</desc>
+  </programme>
+  <programme start="20261007001600 +0530" stop="20261007013900 +0530" channel="mastro.starmoviesselect" catchup-id="100064587">
+    <title>Ghost Shark</title>
+    <desc>A great white shark returns from the dead to seek vengeance on the town of Smallport.</desc>
+  </programme>
+  <programme start="20261007013900 +0530" stop="20261007043300 +0530" channel="mastro.starmoviesselect" catchup-id="100064586">
+    <title>Unbending Mr. Fang</title>
+    <desc>A martial artist exacts revenge on the corrupt officials who frame him for corruption.</desc>
+  </programme>
+  <programme start="20261007043300 +0530" stop="20261007051500 +0530" channel="mastro.starmoviesselect" catchup-id="100099673">
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20261007051500 +0530" stop="20261007064300 +0530" channel="mastro.starmoviesselect" catchup-id="100099671">
+    <title>Guardians The Superheroes</title>
+    <desc>A group of superheroes must assemble to defeat an evil scientist and his robot army.</desc>
+  </programme>
+  <programme start="20261007064300 +0530" stop="20261007080300 +0530" channel="mastro.starmoviesselect" catchup-id="100099682">
+    <title>Free Fall</title>
+    <desc>A police officer's life spins out of control after he falls in love with a male colleague.</desc>
+  </programme>
+  <programme start="20261007080300 +0530" stop="20261007093200 +0530" channel="mastro.starmoviesselect" catchup-id="100099675">
+    <title>Gremlins</title>
+    <desc>When Billy forgets to follow three rules concerning his exotic pet, trouble ensues.</desc>
+  </programme>
+  <programme start="20261007093200 +0530" stop="20261007105800 +0530" channel="mastro.starmoviesselect" catchup-id="100099674">
+    <title>Hansel and Gretel</title>
+    <desc>A deranged recluse enslaves teenage siblings in her horrifying home.</desc>
+  </programme>
+  <programme start="20261007105800 +0530" stop="20261007131200 +0530" channel="mastro.starmoviesselect" catchup-id="100099681">
+    <title>Cruella</title>
+    <desc>Grifter Estella becomes vengeful Cruella after meeting a famous fashion designer.</desc>
+  </programme>
+  <programme start="20261007131200 +0530" stop="20261007143900 +0530" channel="mastro.starmoviesselect" catchup-id="100099680">
+    <title>Shark Island</title>
+    <desc>Four friends' tranquil island getaway turns into nightmare as zombie-like sharks attack.</desc>
+  </programme>
+  <programme start="20261007143900 +0530" stop="20261007161100 +0530" channel="mastro.starmoviesselect" catchup-id="100099677">
+    <title>Ice Age: The Meltdown</title>
+    <desc>A valley threatened by flooding forces Manny, Sid and Diego on a perilous journey.</desc>
+  </programme>
+  <programme start="20261007161100 +0530" stop="20261007173400 +0530" channel="mastro.starmoviesselect" catchup-id="100099676">
+    <title>Gatlopp</title>
+    <desc>All hell breaks loose as old friends reunite and play a game with terrifying risks.</desc>
+  </programme>
+  <programme start="20261007173400 +0530" stop="20261007192600 +0530" channel="mastro.starmoviesselect" catchup-id="100099672">
+    <title>Alice in Wonderland</title>
+    <desc>Alice teams up with the Mad Hatter and friends to overthrow the evil queen and her dragon.</desc>
+  </programme>
+  <programme start="20261007192600 +0530" stop="20261007210000 +0530" channel="mastro.starmoviesselect" catchup-id="100099678">
+    <title>Penguins of Madagascar</title>
+    <desc>Skipper, Kowalski, Rico and Private join forces with the elite North Wind team to save the world.</desc>
+  </programme>
+  <programme start="20261007210000 +0530" stop="20261007225300 +0530" channel="mastro.starmoviesselect" catchup-id="99941633">
+    <title>The Captain</title>
+    <desc>A German soldier attempts to escape a horrific regime by impersonating a Nazi officer.</desc>
+  </programme>
+  <programme start="20261007225300 +0530" stop="20261008002300 +0530" channel="mastro.starmoviesselect" catchup-id="100099679">
+    <title>Breaking Infinity</title>
+    <desc>Scientist Liam time-jumps to a future he may have destroyed, guided by an old man.</desc>
+  </programme>
+  <programme start="20261007002700 +0530" stop="20261007015200 +0530" channel="mastro.moviesnow" catchup-id="99934975">
+    <title>StreetDance 2</title>
+    <desc>Ash assembles the best dancers for another around against the Invincible crew.</desc>
+  </programme>
+  <programme start="20261007015200 +0530" stop="20261007021000 +0530" channel="mastro.moviesnow" catchup-id="99934977">
+    <title>Imprefect</title>
+    <desc>Isha Sanghvi lacks enthusiasm for her birthday and treats it as an ordinary day. S01 E05.</desc>
+  </programme>
+  <programme start="20261007021000 +0530" stop="20261007023300 +0530" channel="mastro.moviesnow" catchup-id="99934962">
+    <title>Imprefect</title>
+    <desc>Isha receives a romantic proposal at a party, but a surprise awaits her. S01 E06.</desc>
+  </programme>
+  <programme start="20261007023300 +0530" stop="20261007025300 +0530" channel="mastro.moviesnow" catchup-id="99934965">
+    <title>Imprefect</title>
+    <desc>Isha embraces a fresh start with a new job as things fall into place. S01 E07.</desc>
+  </programme>
+  <programme start="20261007025300 +0530" stop="20261007031600 +0530" channel="mastro.moviesnow" catchup-id="99934978">
+    <title>Imprefect</title>
+    <desc>Isha decides to stop holding back as she begins a journey towards perfection. S01 E08.</desc>
+  </programme>
+  <programme start="20261007031600 +0530" stop="20261007033600 +0530" channel="mastro.moviesnow" catchup-id="99934966">
+    <title>Mom &amp; Co.</title>
+    <desc>Aditya and Suhasini face difficulties while trying to successfully run Mom's Kitchen. S01 E05.</desc>
+  </programme>
+  <programme start="20261007033600 +0530" stop="20261007035600 +0530" channel="mastro.moviesnow" catchup-id="99934979">
+    <title>Mom &amp; Co.</title>
+    <desc>Aditya learns about a surprising secret his Aai has hidden for years. S01.</desc>
+  </programme>
+  <programme start="20261007035600 +0530" stop="20261007041600 +0530" channel="mastro.moviesnow" catchup-id="99934968">
+    <title>Mom &amp; Co.</title>
+    <desc>Aditya throws a surprise birthday party for his mother but an unexpected guest arrives. S01 E07.</desc>
+  </programme>
+  <programme start="20261007041600 +0530" stop="20261007043600 +0530" channel="mastro.moviesnow" catchup-id="99934970">
+    <title>Mom &amp; Co.</title>
+    <desc>Aditya learns about a secret and soon decides to be the ideal son a mother deserves. S01 E08.</desc>
+  </programme>
+  <programme start="20261007043600 +0530" stop="20261007050100 +0530" channel="mastro.moviesnow" catchup-id="99934982">
+    <title>The Reunion</title>
+    <desc>Tensions rise over Arya's envy, whilst Deva rallies an uncertain Veer behind his project. S01 E05.</desc>
+  </programme>
+  <programme start="20261007050100 +0530" stop="20261007052100 +0530" channel="mastro.moviesnow" catchup-id="99934974">
+    <title>The Reunion</title>
+    <desc>Arjun grows close to Arya, whilst Deva seeks clients before a bicycle mishap occurs. S01 E06.</desc>
+  </programme>
+  <programme start="20261007052100 +0530" stop="20261007054600 +0530" channel="mastro.moviesnow" catchup-id="99934969">
+    <title>The Reunion</title>
+    <desc>Aarya and Deva confront sudden revelations, whereas Bhavna and Trisha execute a rescue. S01 E07.</desc>
+  </programme>
+  <programme start="20261007054600 +0530" stop="20261007060600 +0530" channel="mastro.moviesnow" catchup-id="99934967">
+    <title>The Reunion</title>
+    <desc>Deva and Dev confront a critical and transformative life choice. S01 E08.</desc>
+  </programme>
+  <programme start="20261007060600 +0530" stop="20261007061600 +0530" channel="mastro.moviesnow" catchup-id="99934976">
+    <title>Shaan-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E11.</desc>
+  </programme>
+  <programme start="20261007061600 +0530" stop="20261007062500 +0530" channel="mastro.moviesnow" catchup-id="99934963">
+    <title>Sonakshi Sinha-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E13.</desc>
+  </programme>
+  <programme start="20261007062500 +0530" stop="20261007083000 +0530" channel="mastro.moviesnow" catchup-id="99934981">
+    <title>White House Down</title>
+    <desc>A policeman defends his daughter and the President of the United States from terrorists.</desc>
+  </programme>
+  <programme start="20261007083000 +0530" stop="20261007103500 +0530" channel="mastro.moviesnow" catchup-id="99934971">
+    <title>Now You See Me 2</title>
+    <desc>Dylan secretly guides the Horsemen as they face a tech mogul's twisted plan.</desc>
+  </programme>
+  <programme start="20261007103500 +0530" stop="20261007121000 +0530" channel="mastro.moviesnow" catchup-id="99934984">
+    <title>Despicable Me 2</title>
+    <desc>When a new criminal comes to town, the Anti-Villain League seeks Gru to fight him off.</desc>
+  </programme>
+  <programme start="20261007121000 +0530" stop="20261007141500 +0530" channel="mastro.moviesnow" catchup-id="99934983">
+    <title>Mission: Impossible Rogue Nation</title>
+    <desc>Ethan Hunt and his team face an international rogue group determined to destroy IMF.</desc>
+  </programme>
+  <programme start="20261007141500 +0530" stop="20261007160500 +0530" channel="mastro.moviesnow" catchup-id="99934972">
+    <title>Apocalypto</title>
+    <desc>Adversities beset a tribesman and his family during the Mayan civilisation's waning years.</desc>
+  </programme>
+  <programme start="20261007160500 +0530" stop="20261007190500 +0530" channel="mastro.moviesnow" catchup-id="99934985">
+    <title>King Kong</title>
+    <desc>A giant ape is set free in New York after being brought over by an eccentric filmmaker.</desc>
+  </programme>
+  <programme start="20261007190500 +0530" stop="20261007204500 +0530" channel="mastro.moviesnow" catchup-id="99934973">
+    <title>Rambo III</title>
+    <desc>Rambo tries to rescue Colonel Samuel, who is held hostage in Afghanistan.</desc>
+  </programme>
+  <programme start="20261007204500 +0530" stop="20261007223000 +0530" channel="mastro.moviesnow" catchup-id="99934964">
+    <title>Godzilla vs. Kong</title>
+    <desc>When Godzilla travels on a path of destruction and mayhem, humans turn to King Kong.</desc>
+  </programme>
+  <programme start="20261007223000 +0530" stop="20261008000500 +0530" channel="mastro.moviesnow" catchup-id="99934980">
+    <title>Doom</title>
+    <desc>Space Marines travel to Mars to inspect a remote research base.</desc>
+  </programme>
+  <programme start="20261007010300 +0530" stop="20261007022900 +0530" channel="mastro.mnplus" catchup-id="100064134">
+    <title>Jennifer Lopez: Dance Again</title>
+    <desc>Documentary follows Jennifer Lopez's personal and professional journey.</desc>
+  </programme>
+  <programme start="20261007022900 +0530" stop="20261007041500 +0530" channel="mastro.mnplus" catchup-id="100064132">
+    <title>Safe Haven</title>
+    <desc>A woman falls in love with a widower but her dark past intrudes in her new life.</desc>
+  </programme>
+  <programme start="20261007041500 +0530" stop="20261007060000 +0530" channel="mastro.mnplus" catchup-id="99935271">
+    <title>Side Effects</title>
+    <desc>Emily suffers from unexpected side effects because of a wrongly prescribed medicine.</desc>
+  </programme>
+  <programme start="20261007060000 +0530" stop="20261007074700 +0530" channel="mastro.mnplus" catchup-id="100099561">
+    <title>Woman in Gold</title>
+    <desc>Maria Altman struggles to reclaim her aunt's painting, which was seized by the Nazis.</desc>
+  </programme>
+  <programme start="20261007074700 +0530" stop="20261007095300 +0530" channel="mastro.mnplus" catchup-id="100064138">
+    <title>Philadelphia</title>
+    <desc>A man with AIDS hires a homophobic lawyer for a wrongful dismissal suit.</desc>
+  </programme>
+  <programme start="20261007095300 +0530" stop="20261007114000 +0530" channel="mastro.mnplus" catchup-id="100064133">
+    <title>The Family Fang</title>
+    <desc>Two siblings embark on a search to find their parents, who have mysteriously disappeared.</desc>
+  </programme>
+  <programme start="20261007114000 +0530" stop="20261007134000 +0530" channel="mastro.mnplus" catchup-id="100064129">
+    <title>Southpaw</title>
+    <desc>A once-celebrated boxer decides to fight for his daughter and revive his fading career.</desc>
+  </programme>
+  <programme start="20261007134000 +0530" stop="20261007155100 +0530" channel="mastro.mnplus" catchup-id="100064131">
+    <title>Knives Out</title>
+    <desc>When a renowned novelist passes unexpectedly, a detective uncovers family secrets.</desc>
+  </programme>
+  <programme start="20261007155100 +0530" stop="20261007173400 +0530" channel="mastro.mnplus" catchup-id="100064137">
+    <title>Charlie Countryman</title>
+    <desc>Charlie's mum's spirit sends him to Bucharest, where he fulfils a promise to a passenger.</desc>
+  </programme>
+  <programme start="20261007173400 +0530" stop="20261007190600 +0530" channel="mastro.mnplus" catchup-id="100099558">
+    <title>The Runner</title>
+    <desc>A scandal throws a politician's life into turmoil, his team scrambles to save him.</desc>
+  </programme>
+  <programme start="20261007190600 +0530" stop="20261007210000 +0530" channel="mastro.mnplus" catchup-id="100099559">
+    <title>Spotlight</title>
+    <desc>Four journalists pursue a story about child molestation charges against a local church.</desc>
+  </programme>
+  <programme start="20261007210000 +0530" stop="20261007224300 +0530" channel="mastro.mnplus" catchup-id="99935270">
+    <title>Speed Kills</title>
+    <desc>A wealthy speedboat racer's secret life lands him in trouble with law enforcement and drug lords.</desc>
+  </programme>
+  <programme start="20261007224300 +0530" stop="20261008002900 +0530" channel="mastro.mnplus" catchup-id="100099560">
+    <title>Big Eyes</title>
+    <desc>The husband of a phenomenal painter begins to wrongfully claim credit for her works.</desc>
+  </programme>
+  <programme start="20261007002300 +0530" stop="20261007022100 +0530" channel="mastro.mnx" catchup-id="99934952">
+    <title>Southpaw</title>
+    <desc>A once-celebrated boxer decides to fight for his daughter and revive his fading career.</desc>
+  </programme>
+  <programme start="20261007022100 +0530" stop="20261007034000 +0530" channel="mastro.mnx" catchup-id="99934951">
+    <title>Vehicle 19</title>
+    <desc>Trouble follows Michael, a parolee, when he picks the wrong rental car to meet his wife.</desc>
+  </programme>
+  <programme start="20261007034000 +0530" stop="20261007034700 +0530" channel="mastro.mnx" catchup-id="100099556">
+    <title>Benny Dayal-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E09.</desc>
+  </programme>
+  <programme start="20261007034700 +0530" stop="20261007053900 +0530" channel="mastro.mnx" catchup-id="100099555">
+    <title>Snowpiercer</title>
+    <desc>Chaos erupt when the second ice age's survivors board a train travelling across the globe.</desc>
+  </programme>
+  <programme start="20261007053900 +0530" stop="20261007070300 +0530" channel="mastro.mnx" catchup-id="100099550">
+    <title>Mune</title>
+    <desc>Mune, Glim and Sohone, three friends, work together to retrieve the sun from Necross.</desc>
+  </programme>
+  <programme start="20261007070300 +0530" stop="20261007084800 +0530" channel="mastro.mnx" catchup-id="100099549">
+    <title>Kung Fu Yoga</title>
+    <desc>An archeology expert joins an Indian professor to look for a lost treasure of India.</desc>
+  </programme>
+  <programme start="20261007084800 +0530" stop="20261007101400 +0530" channel="mastro.mnx" catchup-id="100099554">
+    <title>Johnny English</title>
+    <desc>A bumbling British agent tries to find a billionaire who has stolen the crown jewels.</desc>
+  </programme>
+  <programme start="20261007101400 +0530" stop="20261007115100 +0530" channel="mastro.mnx" catchup-id="100099551">
+    <title>Superfast!</title>
+    <desc>Undercover agent Lucas White endeavours to join Vin Serento's gang of street racers.</desc>
+  </programme>
+  <programme start="20261007115100 +0530" stop="20261007132400 +0530" channel="mastro.mnx" catchup-id="100099557">
+    <title>The Trust</title>
+    <desc>Two police officers' plot to steal money from a petty drug dealer goes awry.</desc>
+  </programme>
+  <programme start="20261007132400 +0530" stop="20261007145900 +0530" channel="mastro.mnx" catchup-id="100099552">
+    <title>The Angry Birds Movie</title>
+    <desc>A trio of birds decides to inspect the mysterious presence of green pigs on their island.</desc>
+  </programme>
+  <programme start="20261007145900 +0530" stop="20261007172000 +0530" channel="mastro.mnx" catchup-id="100099553">
+    <title>Mission: Impossible -- Fallout</title>
+    <desc>Ethan Hunt and his team join forces with a few allies to stop a nuclear attack.</desc>
+  </programme>
+  <programme start="20261007172000 +0530" stop="20261007192600 +0530" channel="mastro.mnx" catchup-id="99934958">
+    <title>Top Gun: Maverick</title>
+    <desc>Maverick strives to mentor a group of Top Gun graduates while battling his demons.</desc>
+  </programme>
+  <programme start="20261007192600 +0530" stop="20261007210000 +0530" channel="mastro.mnx" catchup-id="100099548">
+    <title>Despicable Me</title>
+    <desc>A supervillain's plan to steal the moon is upended by three young orphans.</desc>
+  </programme>
+  <programme start="20261007210000 +0530" stop="20261007224000 +0530" channel="mastro.mnx" catchup-id="99934950">
+    <title>Teenage Mutant Ninja Turtles</title>
+    <desc>Mutant ninja turtles defend New York City against threatening crime lord.</desc>
+  </programme>
+  <programme start="20261007224000 +0530" stop="20261008002600 +0530" channel="mastro.mnx" catchup-id="99934960">
+    <title>The Nun II</title>
+    <desc>In 1956 France, Sister Irene faces Valak as evil threatens the convent and town.</desc>
   </programme>
   <programme start="20261007000000 +0530" stop="20261007020000 +0530" channel="mastro.unite8sports2" catchup-id="99945676">
     <title>Messi One Last Time</title>
@@ -13205,90 +13617,292 @@
     <title>Semi Final 1: Mississauga Masters vs Toronto Sixers-Canada Super 60</title>
     <desc>Semi Final 1: Mississauga Masters vs Toronto Sixers;Highlights of the matches played between cricket teams at the 2025 Canada Super 60.</desc>
   </programme>
+  <programme start="20261007012400 +0530" stop="20261007013000 +0530" channel="mastro.zeethirai" catchup-id="100064861">
+    <title>Fillers</title>
+    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies.</desc>
+  </programme>
+  <programme start="20261007013000 +0530" stop="20261007033000 +0530" channel="mastro.zeethirai" catchup-id="99947530">
+    <title>Free Ticket</title>
+    <desc>A compilation of songs and snippets from popular and trending Tamil movies is played.</desc>
+  </programme>
+  <programme start="20261007033000 +0530" stop="20261007054200 +0530" channel="mastro.zeethirai" catchup-id="99947526">
+    <title>Thirumanam</title>
+    <desc>A couple convinces their families for marriage, but they later object.</desc>
+  </programme>
+  <programme start="20261007054200 +0530" stop="20261007060000 +0530" channel="mastro.zeethirai" catchup-id="100064862">
+    <title>Fillers</title>
+    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies.</desc>
+  </programme>
+  <programme start="20261007060000 +0530" stop="20261007080000 +0530" channel="mastro.zeethirai" catchup-id="99947521">
+    <title>House Owner</title>
+    <desc>Vasu and Radha face problems after Vasu is diagnosed with Alzheimer's disease.</desc>
+  </programme>
+  <programme start="20261007080000 +0530" stop="20261007103000 +0530" channel="mastro.zeethirai" catchup-id="99947531">
+    <title>Kedikelam Kedi</title>
+    <desc>Sreenu is in love with Shruthi, but a gangster is also smitten by her beauty.</desc>
+  </programme>
+  <programme start="20261007103000 +0530" stop="20261007130000 +0530" channel="mastro.zeethirai" catchup-id="99947529">
+    <title>Sattam En Kaiyil</title>
+    <desc>When twin brothers raised separately meet each other, their similar appearance creates confusion.</desc>
+  </programme>
+  <programme start="20261007130000 +0530" stop="20261007160000 +0530" channel="mastro.zeethirai" catchup-id="99947527">
+    <title>Idhu Ennoda Jilla</title>
+    <desc>After a young man loses his father to village feuds, he sets out to find a path of peace.</desc>
+  </programme>
+  <programme start="20261007160000 +0530" stop="20261007180000 +0530" channel="mastro.zeethirai" catchup-id="99947525">
+    <title>Lineman</title>
+    <desc>Nata the lineman withholds electricity for Shardamma's centenary celebration.</desc>
+  </programme>
+  <programme start="20261007180000 +0530" stop="20261007203000 +0530" channel="mastro.zeethirai" catchup-id="99947523">
+    <title>A1 Express</title>
+    <desc>A young man opposes a corrupt politician's efforts to demolish a hockey field.</desc>
+  </programme>
+  <programme start="20261007203000 +0530" stop="20261008000000 +0530" channel="mastro.zeethirai" catchup-id="99947528">
+    <title>Ravanasura</title>
+    <desc>An inept junior lawyer shows his true colours when bodies start piling up during a case.</desc>
+  </programme>
+  <programme start="20261006000000 +0530" stop="20261006003000 +0530" channel="mastro.ten1" catchup-id="261006162000">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006003000 +0530" stop="20261006013000 +0530" channel="mastro.ten1" catchup-id="261006162001">
+    <title>UFC 332 - Silva vs Wang</title>
+    <desc>UFC 332 - Silva vs Wang</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg" />
+    <sub-title>UFC 332 - Silva vs Wang</sub-title>
+  </programme>
+  <programme start="20261006013000 +0530" stop="20261006023000 +0530" channel="mastro.ten1" catchup-id="261006162002">
+    <title>Test Cricket</title>
+    <desc>Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.</desc>
+    <category>Sports event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/61ea879209b2ee682eeee346c89d7fc2.jpg" />
+    <sub-title>Professional cricket teams from around the world compete against each other to emerge victorious in various Test matches.</sub-title>
+  </programme>
+  <programme start="20261006023000 +0530" stop="20261006030000 +0530" channel="mastro.ten1" catchup-id="261006162003">
+    <title>Lords Of England</title>
+    <desc>A compilation of some of the most iconic innings played by players from all around the world at the Lord's Cricket Ground, England.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2e5b3c85b4390ca89cc20b6f17194e3f.jpg" />
+    <sub-title>Gargi Raut, the host, highlights the rise of renowned cricketer Hardik Pandya and his match-winning performances that help India thrive under pressure.</sub-title>
+  </programme>
+  <programme start="20261006030000 +0530" stop="20261006033000 +0530" channel="mastro.ten1" catchup-id="261006162004">
+    <title>Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <category>Sports event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/46cbd619a527be70c379d71cb628a059.jpg" />
+    <sub-title>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</sub-title>
+  </programme>
+  <programme start="20261006033000 +0530" stop="20261006040000 +0530" channel="mastro.ten1" catchup-id="261006162005">
+    <title>Women's Asia Cup Highlights</title>
+    <desc>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</desc>
+    <category>Sports event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/46cbd619a527be70c379d71cb628a059.jpg" />
+    <sub-title>Highlights of the matches played during the 2024 edition of the Women's Asia Cup, an international cricket tournament wherein teams compete to win the trophy.</sub-title>
+  </programme>
+  <programme start="20261006040000 +0530" stop="20261006050000 +0530" channel="mastro.ten1" catchup-id="261006162006">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006050000 +0530" stop="20261006060000 +0530" channel="mastro.ten1" catchup-id="261006162007">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006060000 +0530" stop="20261006070000 +0530" channel="mastro.ten1" catchup-id="261006162008">
+    <title>Asia Cup Highlights</title>
+    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg" />
+    <sub-title>Highlights from the 2023 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006070000 +0530" stop="20261006073000 +0530" channel="mastro.ten1" catchup-id="261006162009">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006073000 +0530" stop="20261006080000 +0530" channel="mastro.ten1" catchup-id="261006162010">
+    <title>ACC Women's Rising Stars 2026</title>
+    <desc>ACC Women's Rising Stars 2026</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/116aa46942ca6d2c06ab213d515e1ee0.jpg" />
+    <sub-title>ACC Women's Rising Stars 2026</sub-title>
+  </programme>
+  <programme start="20261006080000 +0530" stop="20261006083000 +0530" channel="mastro.ten1" catchup-id="261006162011">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006083000 +0530" stop="20261006090000 +0530" channel="mastro.ten1" catchup-id="261006162012">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006090000 +0530" stop="20261006093000 +0530" channel="mastro.ten1" catchup-id="261006162013">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006093000 +0530" stop="20261006103000 +0530" channel="mastro.ten1" catchup-id="261006162014">
+    <title>One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <category>Sports event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg" />
+    <sub-title>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</sub-title>
+  </programme>
+  <programme start="20261006103000 +0530" stop="20261006110000 +0530" channel="mastro.ten1" catchup-id="261006162015">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006110000 +0530" stop="20261006113000 +0530" channel="mastro.ten1" catchup-id="261006162016">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006113000 +0530" stop="20261006120000 +0530" channel="mastro.ten1" catchup-id="261006162017">
+    <title>Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d5ae536fd590ce6114a67a48703f3a9.jpg" />
+    <sub-title>Highlights from the second T20 International match between England and India, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006120000 +0530" stop="20261006130000 +0530" channel="mastro.ten1" catchup-id="261006162018">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006130000 +0530" stop="20261006140000 +0530" channel="mastro.ten1" catchup-id="261006162019">
+    <title>T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3bd907a139e61a689bbde89266428f6c.jpg" />
+    <sub-title>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</sub-title>
+  </programme>
+  <programme start="20261006140000 +0530" stop="20261006143000 +0530" channel="mastro.ten1" catchup-id="261006162020">
+    <title>ACC Men's U19 Asia Cup</title>
+    <desc>Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/117d8ae19721dca9c383f8f1924c1ac8.jpg" />
+    <sub-title>Professional teams of India and Pakistan compete against each other in the ACC Under-19 Asia Cup in a bid to emerge victorious.</sub-title>
+  </programme>
+  <programme start="20261006143000 +0530" stop="20261006150000 +0530" channel="mastro.ten1" catchup-id="261006162021">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006150000 +0530" stop="20261006160000 +0530" channel="mastro.ten1" catchup-id="261006162022">
+    <title>Asia Cup Highlights</title>
+    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg" />
+    <sub-title>Highlights from the 2023 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006160000 +0530" stop="20261006170000 +0530" channel="mastro.ten1" catchup-id="261006162023">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006170000 +0530" stop="20261006173000 +0530" channel="mastro.ten1" catchup-id="261006162024">
+    <title>Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d5ae536fd590ce6114a67a48703f3a9.jpg" />
+    <sub-title>Highlights from the second T20 International match between England and India, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006173000 +0530" stop="20261006180000 +0530" channel="mastro.ten1" catchup-id="261006162025">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006180000 +0530" stop="20261006190000 +0530" channel="mastro.ten1" catchup-id="261006162026">
+    <title>Asia Cup Highlights</title>
+    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg" />
+    <sub-title>Highlights from the 2023 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006190000 +0530" stop="20261006193000 +0530" channel="mastro.ten1" catchup-id="261006162027">
+    <title>Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d5ae536fd590ce6114a67a48703f3a9.jpg" />
+    <sub-title>Highlights from the second T20 International match between England and India, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006193000 +0530" stop="20261006203000 +0530" channel="mastro.ten1" catchup-id="261006162028">
+    <title>One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <category>Sports event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg" />
+    <sub-title>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</sub-title>
+  </programme>
+  <programme start="20261006203000 +0530" stop="20261006210000 +0530" channel="mastro.ten1" catchup-id="261006162029">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006210000 +0530" stop="20261006213000 +0530" channel="mastro.ten1" catchup-id="261006162030">
+    <title>2026 Asian Games Highlights</title>
+    <desc>2026 Asian Games Highlights</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e02025d7e203fa65309a48db3bbd2592.jpg" />
+    <sub-title>2026 Asian Games Highlights</sub-title>
+  </programme>
+  <programme start="20261006213000 +0530" stop="20261006223000 +0530" channel="mastro.ten1" catchup-id="261006162031">
+    <title>T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3bd907a139e61a689bbde89266428f6c.jpg" />
+    <sub-title>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</sub-title>
+  </programme>
+  <programme start="20261006223000 +0530" stop="20261006230000 +0530" channel="mastro.ten1" catchup-id="261006162032">
+    <title>Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <category>Series</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5d5ae536fd590ce6114a67a48703f3a9.jpg" />
+    <sub-title>Highlights from the second T20 International match between England and India, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
+  <programme start="20261006230000 +0530" stop="20261006235959 +0530" channel="mastro.ten1" catchup-id="261006162033">
+    <title>Asia Cup Highlights</title>
+    <desc>Highlights of matches from the Asia Cup tournament, where professional cricket teams compete against each other to emerge victorious.</desc>
+    <category>Sports non-event</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8c51b7ea5b521bacdbec09a3e10270f2.jpg" />
+    <sub-title>Highlights from the 2023 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</sub-title>
+  </programme>
   <channel id="mastro.babyshark">
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" />
   </channel>
-  <programme channel="mastro.babyshark" start="20261007113500 +0000" stop="20261007120300 +0000">
-    <title>Pinkfong Wonderstar</title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <episode-num system="pluto">63cee471f97d010013108105</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Codi is surprised to see the drooling over food made by Pokibot! 
-Pinkfong and Hogi have a little argument for the first time!</desc>
-    <icon src="https://images.pluto.tv/series/63c844804da5ab00131083b0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">63c844804da5ab00131083b0</series-id>
-    <sub-title>Pinkfong Wonderstar - Season 1 - Episode 013</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261007120300 +0000" stop="20261007123700 +0000">
-    <title>Bebefinn Nursery Rhymes</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b253c197009300137f39b0</episode-num>
-    <episode-num system="original-air-date">20220523000000 +0000</episode-num>
-    <desc>Baby Shark Doo Doo Doo!Sing with Bebefinn and family!</desc>
-    <icon src="https://images.pluto.tv/series/66b253c097009300137f3992/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220523</date>
-    <series-id system="pluto">66b253c097009300137f3992</series-id>
-    <category>Animated</category>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261007123700 +0000" stop="20261007125700 +0000">
-    <title>Here We Dance</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">63d0159dff32c10013ad8809</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Sing and Dance with Sammy, Pinkfong, and Baby Shark. Sammy is an expert in fun kids dance workout! He will guide you how to dance along to the most popular Pinkfong songs!</desc>
-    <icon src="https://images.pluto.tv/series/63cf56585957f20013f1ba52/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63cf56585957f20013f1ba52</series-id>
-    <sub-title>Here We Dance - Season 1 - Episode 004</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261007125700 +0000" stop="20261007133700 +0000">
-    <title>Dance with Pinkfong</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">6164afd4d4b818001a69aa17</episode-num>
-    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
-    <desc>Watch to enjoy "Dance with Pinkfong!" a super fun nursery rhyme created by Pinkfong. Everybody! Let's sing with Pinkfong.</desc>
-    <icon src="https://images.pluto.tv/series/6164afd3d4b818001a69aa07/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20190101</date>
-    <series-id system="pluto">6164afd3d4b818001a69aa07</series-id>
-    <category>Kids' Music</category>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261007133700 +0000" stop="20261007142400 +0000">
-    <title>Pinkfong ABC Phonics</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">61730bef829284001a93fbc3</episode-num>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Learn Phonics with Pinkfong A to Z Phonics!</desc>
-    <icon src="https://images.pluto.tv/series/61730bee829284001a93fbb7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20160101</date>
-    <series-id system="pluto">61730bee829284001a93fbb7</series-id>
-    <sub-title>Pinkfong ABC Phonics Ep.1</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261007142400 +0000" stop="20261007144900 +0000">
-    <title>Baby Shark Doo Doo Song</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">63cf2c29e2a3e1001a5f957f</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Every alphabet makes different sounds. Kids will easily be friends with ABCs with a fun alphabet dance along series. Doo doo doo doo doo doo! For all fans who love our Baby Shark songs.</desc>
-    <icon src="https://images.pluto.tv/series/63cf2c28e2a3e1001a5f9561/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63cf2c28e2a3e1001a5f9561</series-id>
-    <sub-title>Baby Shark Doo Doo Song Ep.1</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
   <programme channel="mastro.babyshark" start="20261007144900 +0000" stop="20261007152400 +0000">
     <title>Pinkfong Playfong</title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -13299,9 +13913,9 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20160101</date>
     <series-id system="pluto">61730bf6829284001a93fd5b</series-id>
     <sub-title>Pinkfong Playfong Ep.1</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007152400 +0000" stop="20261007161400 +0000">
     <title>Pinkfong Dinosaur Musical Stories</title>
@@ -13313,9 +13927,9 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20160101</date>
     <series-id system="pluto">61730c02829284001a9400ac</series-id>
     <sub-title>Pinkfong Dinosaur Musical Stories Ep.1</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007161400 +0000" stop="20261007164200 +0000">
     <title>Pinkfong Wonderstar</title>
@@ -13327,8 +13941,8 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20200101</date>
     <series-id system="pluto">63c844804da5ab00131083b0</series-id>
     <sub-title>Pinkfong Wonderstar - Season 1 - Episode 001</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007164200 +0000" stop="20261007170000 +0000">
     <title>Bebefinn</title>
@@ -13340,8 +13954,8 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20220101</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
     <sub-title>Bebefinn Ep.8</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007170000 +0000" stop="20261007172500 +0000">
     <title>Baby Pinkfong Best Lullabies</title>
@@ -13353,8 +13967,8 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20220101</date>
     <series-id system="pluto">63cf2958ff32c10013a8a13f</series-id>
     <sub-title>Baby Pinkfong Best Lullabies Ep.2</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007172500 +0000" stop="20261007175200 +0000">
     <title>Pinkfong Word Play</title>
@@ -13366,9 +13980,9 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20170101</date>
     <series-id system="pluto">6176c60d178213001ad95bee</series-id>
     <sub-title>Pinkfong Word Play Ep.1</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007175200 +0000" stop="20261007184600 +0000">
     <title>Hide 'n Seek With Pinkfong</title>
@@ -13379,9 +13993,9 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <icon src="https://images.pluto.tv/series/61687ee4b8333a001ad6a3e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20200101</date>
     <series-id system="pluto">61687ee4b8333a001ad6a3e7</series-id>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007184600 +0000" stop="20261007192500 +0000">
     <title>Hogi's Story Theater</title>
@@ -13393,9 +14007,9 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20220608</date>
     <series-id system="pluto">66b684cc94a1840013f6eb7a</series-id>
     <sub-title>Hogi's Story Theater 2</sub-title>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007192500 +0000" stop="20261007195300 +0000">
     <title>Pinkfong Wonderstar</title>
@@ -13407,8 +14021,8 @@ Pinkfong and Hogi have a little argument for the first time!</desc>
     <date>20200101</date>
     <series-id system="pluto">63c844804da5ab00131083b0</series-id>
     <sub-title>Pinkfong Wonderstar - Season 1 - Episode 009</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007195300 +0000" stop="20261007202100 +0000">
     <title>Pinkfong Wonderstar</title>
@@ -13421,8 +14035,8 @@ Would you be able to help me dance again?</desc>
     <date>20200101</date>
     <series-id system="pluto">63c844804da5ab00131083b0</series-id>
     <sub-title>Pinkfong Wonderstar - Season 1 - Episode 003</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007202100 +0000" stop="20261007205100 +0000">
     <title>Bebefinn</title>
@@ -13434,9 +14048,9 @@ Would you be able to help me dance again?</desc>
     <date>20231110</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
     <sub-title>Bebefinn 3 Ep2</sub-title>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007205100 +0000" stop="20261007213000 +0000">
     <title>Learn ABC with Pinkfong</title>
@@ -13448,9 +14062,9 @@ Would you be able to help me dance again?</desc>
     <date>20200101</date>
     <series-id system="pluto">616a1fb56e3813001a8b0517</series-id>
     <sub-title>Animal Ep.1</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007213000 +0000" stop="20261007214900 +0000">
     <title>Bebefinn</title>
@@ -13462,8 +14076,8 @@ Would you be able to help me dance again?</desc>
     <date>20220101</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
     <sub-title>Bebefinn Ep.2</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007214900 +0000" stop="20261007230100 +0000">
     <title>Pinkfong Songs For Children</title>
@@ -13475,8 +14089,8 @@ Would you be able to help me dance again?</desc>
     <date>20200101</date>
     <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
     <sub-title>Happy Baby Shark Month</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007230100 +0000" stop="20261007232200 +0000">
     <title>Pinkfong car mechanic</title>
@@ -13488,9 +14102,9 @@ Would you be able to help me dance again?</desc>
     <date>20231215</date>
     <series-id system="pluto">66b39730dc6f2f0013a9302c</series-id>
     <sub-title>Pinkfong car mechanic Ep 1</sub-title>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007232200 +0000" stop="20261007235000 +0000">
     <title>Pinkfong Wonderstar</title>
@@ -13502,8 +14116,8 @@ Would you be able to help me dance again?</desc>
     <date>20200101</date>
     <series-id system="pluto">63c844804da5ab00131083b0</series-id>
     <sub-title>Pinkfong Wonderstar - Season 1 - Episode 005</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261007235000 +0000" stop="20261008005900 +0000">
     <title>Pinkfong Songs For Children</title>
@@ -13515,9 +14129,9 @@ Would you be able to help me dance again?</desc>
     <date>20150101</date>
     <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
     <sub-title>Pinkfong Number Songs</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008005900 +0000" stop="20261008011700 +0000">
     <title>Bebefinn</title>
@@ -13529,8 +14143,8 @@ Would you be able to help me dance again?</desc>
     <date>20220101</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
     <sub-title>Bebefinn Ep.1</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008011700 +0000" stop="20261008014000 +0000">
     <title>Let's Booksplore with Hogi-Space</title>
@@ -13542,9 +14156,9 @@ Would you be able to help me dance again?</desc>
     <date>20200101</date>
     <series-id system="pluto">61730bf1829284001a93fc14</series-id>
     <sub-title>Let's Booksplore with Hogi-Space Ep.2</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008014000 +0000" stop="20261008020700 +0000">
     <title>Everything ABC Songs</title>
@@ -13555,9 +14169,9 @@ Would you be able to help me dance again?</desc>
     <icon src="https://images.pluto.tv/series/66b3bffb61ac500014f50128/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210222</date>
     <series-id system="pluto">66b3bffb61ac500014f50128</series-id>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008020700 +0000" stop="20261008023100 +0000">
     <title>Back to School Pinkfong Songs</title>
@@ -13568,9 +14182,9 @@ Would you be able to help me dance again?</desc>
     <icon src="https://images.pluto.tv/series/66b24e20dc6f2f0013950a75/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20200610</date>
     <series-id system="pluto">66b24e20dc6f2f0013950a75</series-id>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008023100 +0000" stop="20261008030500 +0000">
     <title>Pinkfong Playfong</title>
@@ -13582,9 +14196,9 @@ Would you be able to help me dance again?</desc>
     <date>20200101</date>
     <series-id system="pluto">61730bf6829284001a93fd5b</series-id>
     <sub-title>Pinkfong Playfong Ep.5</sub-title>
-    <category>Kids' Music</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008030500 +0000" stop="20261008034000 +0000">
     <title>Animal Fun Facts Songs</title>
@@ -13595,9 +14209,9 @@ Would you be able to help me dance again?</desc>
     <icon src="https://images.pluto.tv/series/66bcdcf057d82b0013d0c672/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20230705</date>
     <series-id system="pluto">66bcdcf057d82b0013d0c672</series-id>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261008034000 +0000" stop="20261008040600 +0000">
     <title>Bebefinn 2 ep10</title>
@@ -13608,8 +14222,92 @@ Would you be able to help me dance again?</desc>
     <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20230707</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <category>Animated</category>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261008040600 +0000" stop="20261008043800 +0000">
+    <title>Baby Shark Hospital Play</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">66b2a11a94a1840013a76580</episode-num>
+    <episode-num system="original-air-date">20221028000000 +0000</episode-num>
+    <desc>Let's go to Dr. Baby Shark's hospital! You're watching "Pinkfong and Shark Family", a super fun story for kids!</desc>
+    <icon src="https://images.pluto.tv/series/66b29fb097009300137fdf93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20221028</date>
+    <series-id system="pluto">66b29fb097009300137fdf93</series-id>
+    <sub-title>Baby Shark Hospital Play 2</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261008043800 +0000" stop="20261008051300 +0000">
+    <title>Baby Shark Kindergarten</title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="pluto">66b2a3e950ed6e001342cc5d</episode-num>
+    <episode-num system="original-air-date">20230530000000 +0000</episode-num>
+    <desc>Introducing the Shark Kindergarten where Baby shark Ollie, hammerhead shark Chi-Chi, and thresher shark Dodo attend.Have fun with the friendly whale shark teacher!</desc>
+    <icon src="https://images.pluto.tv/series/66b2a282dc6f2f00139ad6f3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230530</date>
+    <series-id system="pluto">66b2a282dc6f2f00139ad6f3</series-id>
+    <sub-title>Baby Shark Kindergarten 2 ep1</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+    <category>Animated</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261008051300 +0000" stop="20261008054000 +0000">
+    <title>Pinkfong Chart Show</title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="pluto">6167011af3593c001aa3f194</episode-num>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Dear friend, tell us about what you love. We are all ears. Are you love cars and vehicles?</desc>
+    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20180101</date>
+    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
+    <sub-title>Pinkfong Chart Show Ep9. I Love Vehicles</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261008054000 +0000" stop="20261008061600 +0000">
+    <title>Sing Along With Pinkfong &amp; Hogi And Baby Shark</title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="pluto">6259b2b03f03ed0013c58d64</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Come join Baby Shark and Shark Family for a fun sing along!</desc>
+    <icon src="https://images.pluto.tv/series/6176c602178213001ad958f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">6176c602178213001ad958f8</series-id>
+    <sub-title>Episode 6</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261008061600 +0000" stop="20261008065500 +0000">
+    <title>Sing Along With Pinkfong &amp; Hogi And Baby Shark</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">6176c604178213001ad95932</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Join Baby Shark and Shark Family for a fun sing-along!</desc>
+    <icon src="https://images.pluto.tv/series/6176c602178213001ad958f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20170101</date>
+    <series-id system="pluto">6176c602178213001ad958f8</series-id>
+    <sub-title>Episode 1</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261008065500 +0000" stop="20261008071400 +0000">
+    <title>Let's Booksplore with Hogi-Space</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">61730bf2829284001a93fc22</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Hogi meets planets in space. What are the names of the planets? How do they look like? Let's Booksplore space.</desc>
+    <icon src="https://images.pluto.tv/series/61730bf1829284001a93fc14/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">61730bf1829284001a93fc14</series-id>
+    <sub-title>Let's Booksplore with Hogi-Space Ep.3</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+    <category>Kids' Music</category>
   </programme>
 </tv>
