@@ -8,6 +8,10 @@
     <display-name lang="Malaysia">Astro Oasis HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084441173108_72.png" />
   </channel>
+  <channel id="mastro.cartoonnetwork">
+    <display-name lang="Malaysia">Cartoon Network HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
+  </channel>
   <channel id="mastro.disneychannel">
     <display-name lang="US">Disney Channel HD</display-name>
     <icon src="" />
@@ -44,13 +48,13 @@
     <display-name lang="US">Nicktoons</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.teennick">
-    <display-name lang="US">Teen Nick</display-name>
-    <icon src="" />
-  </channel>
   <channel id="mastro.citra">
     <display-name lang="Malaysia">Astro Citra HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png" />
+  </channel>
+  <channel id="mastro.teennick">
+    <display-name lang="US">Teen Nick</display-name>
+    <icon src="" />
   </channel>
   <channel id="mastro.arena">
     <display-name lang="Malaysia">Astro Arena HD</display-name>
@@ -88,13 +92,13 @@
     <display-name lang="Malaysia">Astro Football</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018014020330238_34.png" />
   </channel>
-  <channel id="mastro.badminton">
-    <display-name lang="Malaysia">Astro Badminton</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018014354440490_31.png" />
-  </channel>
   <channel id="mastro.rania">
     <display-name lang="Malaysia">Astro Rania HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609101347186990_60.png" />
+  </channel>
+  <channel id="mastro.badminton">
+    <display-name lang="Malaysia">Astro Badminton</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/10/18/20241018014354440490_31.png" />
   </channel>
   <channel id="mastro.sportsplus">
     <display-name lang="Malaysia">Astro Sports Plus</display-name>
@@ -124,13 +128,13 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">LFCTV HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.beinsports3">
-    <display-name lang="Malaysia">beIN Sports 3</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084036958516_28.png" />
-  </channel>
   <channel id="mastro.aura">
     <display-name lang="Malaysia">Astro Aura HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609101109273113_34.png" />
+  </channel>
+  <channel id="mastro.beinsports3">
+    <display-name lang="Malaysia">beIN Sports 3</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084036958516_28.png" />
   </channel>
   <channel id="mastro.cbssports">
     <display-name lang="US">CBS Sports Golazo Network</display-name>
@@ -151,6 +155,10 @@
   <channel id="mastro.premiersports">
     <display-name lang="Malaysia">Premier Sports</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609095802192440_82.png" />
+  </channel>
+  <channel id="mastro.ten1">
+    <display-name lang="India">SONY SPORTS TEN 1</display-name>
+    <icon src="" />
   </channel>
   <channel id="mastro.usanetwork">
     <display-name lang="US">USA Network HD</display-name>
@@ -452,6 +460,10 @@
     <display-name lang="Malaysia">Astro Ria HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081051791435_30.png" />
   </channel>
+  <channel id="mastro.romedynow">
+    <display-name lang="India">ROMEDY NOW</display-name>
+    <icon src="" />
+  </channel>
   <channel id="mastro.rockaction">
     <display-name lang="Malaysia">Rock Action</display-name>
     <icon src="" />
@@ -488,13 +500,13 @@
     <display-name lang="US">World Fishing Network HD (US)</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.hgtv">
-    <display-name lang="Malaysia">HGTV HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081111592383_50.png" />
-  </channel>
   <channel id="mastro.prima">
     <display-name lang="Malaysia">Astro Prima HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084741479572_69.png" />
+  </channel>
+  <channel id="mastro.hgtv">
+    <display-name lang="Malaysia">HGTV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081111592383_50.png" />
   </channel>
   <channel id="mastro.history">
     <display-name lang="Malaysia">History HD</display-name>
@@ -531,10 +543,6 @@
   <channel id="mastro.boomerang">
     <display-name lang="US">Boomerang</display-name>
     <icon src="" />
-  </channel>
-  <channel id="mastro.cartoonnetwork">
-    <display-name lang="Malaysia">Cartoon Network HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <programme channel="mastro.30" start="20261007000000 +0000" stop="20261007010000 +0000">
     <title lang="zh">Podcast Life Confession Ep05</title>
@@ -1410,6 +1418,296 @@
     <title lang="zh">Cinta Ilmu Fiqh Wanita 2016 Ep06</title>
     <desc>Cinta Ilmu kembali semula dengan musim terbaru dan kali ini memfokuskan perihal wanita di dalam al-quran.</desc>
     <date>2026-10-09</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007001800 +0000" stop="20261007011800 +0000">
+    <title lang="zh">Looney Tunes Cartoons Ep124</title>
+    <desc>Foghorn Leghorn enlists help from a neighborhood weasel to outsmart Barnyard Dawg. Wile E. Coyote tries freezing time to catch Road Runner, but his master plan melts before his eyes.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007011800 +0000" stop="20261007021800 +0000">
+    <title lang="zh">The Tom and Jerry Show Ep03</title>
+    <desc>Toodles hires Tom and Jerry to investigate and protect her against a threat to her tuna can inheritance, but a mysterious figure keeps trying to hurt them as they investigate.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007021800 +0000" stop="20261007024800 +0000">
+    <title lang="zh">Lamput Ep407</title>
+    <desc>Tuzki is back as the new intern at the lab and he has a new mission - to capture Lamput! How can he do that to his friend?</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007024800 +0000" stop="20261007031800 +0000">
+    <title lang="zh">We Bare Bears Ep41</title>
+    <desc>/The Bears are reunited with their pet crab, Captain Craboo. But after an unfortunate run-in with Nom Nom, the Bears may lose their pet forever.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007031800 +0000" stop="20261007041800 +0000">
+    <title lang="zh">The Amazing World of Gumball Ep99</title>
+    <desc>When we last saw Gumball, he was hitting rewind on Rob's Universal Remote, just in time to save himself from being trapped in The Void. The remote has now taken Gumball back to the beginning of that disastrous day. Armed with the knowledge of what this day has in store, he must try and stop Rob from destroying his life.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007041800 +0000" stop="20261007051800 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep36</title>
+    <desc>Mr Bean has painted his room bright green. But will Mrs Wicket approve?</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007051800 +0000" stop="20261007054800 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep405</title>
+    <desc>Mr Bean wants to watch his favourite TV show with Billy, but Mrs Wicket has other plans.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007054800 +0000" stop="20261007061800 +0000">
+    <title lang="zh">Mechamato Ep03</title>
+    <desc>Amato brings a damaged MechaBot back to the Prison Spaceship for repairs, but is stopped by the ship's defense system.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007061800 +0000" stop="20261007071800 +0000">
+    <title lang="zh">Teen Titans Go! Ep06</title>
+    <desc>Beast Boy and Cyborg try their best to slow the pizza delivery boy so they can get free pizza.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007071800 +0000" stop="20261007081800 +0000">
+    <title lang="zh">The Amazing World of Gumball Ep11</title>
+    <desc>Gumball and Darwin's wish comes true when they suddenly turn into men.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007081800 +0000" stop="20261007091800 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep116</title>
+    <desc>After a regrettable episode involving his landlady sleepwalking into his room, Mr. Bean suddenly finds himself out on his ear with nowhere to live. Near to tears, he yearns for the cosy familiarity of his old home.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007091800 +0000" stop="20261007101800 +0000">
+    <title lang="zh">Looney Tunes Cartoons Ep124</title>
+    <desc>Foghorn Leghorn enlists help from a neighborhood weasel to outsmart Barnyard Dawg. Wile E. Coyote tries freezing time to catch Road Runner, but his master plan melts before his eyes.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007101800 +0000" stop="20261007111800 +0000">
+    <title lang="zh">The Amazing World of Gumball Ep112</title>
+    <desc>When Darwin asks Gumball to teach him how to skate, Gumball makes sure that he covers every aspect of the skating lifestyle - from wearing the right gear, using the right terms and choosing the right board. But when Darwin finally gets his wheels rolling, he realises there might be one important aspect of skating that Gumball hasn't taught him...</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007111800 +0000" stop="20261007114800 +0000">
+    <title lang="zh">Adventure Time: Side Quests Ep03</title>
+    <desc>Finn and Jake are tasked with toughening up three sweet grannies for the fight of their lives against the fearsome Granny Taker.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007114800 +0000" stop="20261007121800 +0000">
+    <title lang="zh">Scooby-Doo! Mystery Incorporated Ep40</title>
+    <desc>Dynomutt and Blue Falcon team up with the Mystery Inc. gang to solve the mystery of a horrible Dragon-man Robot that's terrorizing the city.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007121800 +0000" stop="20261007131800 +0000">
+    <title lang="zh">Teen Titans Go! Ep1319</title>
+    <desc>The Titans release a small marshmallow ducky that the Easter Bunny had locked up, not knowing the danger they have unleashed.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007131800 +0000" stop="20261007141800 +0000">
+    <title lang="zh">We Baby Bears Ep02</title>
+    <desc>Three baby bear brothers are granted a magical box that can transport them to any place in the universe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007141800 +0000" stop="20261007144800 +0000">
+    <title lang="zh">Adventure Time: Side Quests Ep03</title>
+    <desc>Finn and Jake are tasked with toughening up three sweet grannies for the fight of their lives against the fearsome Granny Taker.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007144800 +0000" stop="20261007151800 +0000">
+    <title lang="zh">Adventure Time Ep50</title>
+    <desc>A delicate race of frog people employ Finn and Jake to help them deal with Prince Huge, an evil lizard creature who's ravaging the moss swamp.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007151800 +0000" stop="20261007160300 +0000">
+    <title lang="zh">Steven Universe Ep79</title>
+    <desc>Steven has a birthday party out at the barn, and decides he has some growing up to do.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007160300 +0000" stop="20261007170300 +0000">
+    <title lang="zh">Regular Show Ep09</title>
+    <desc>While everyone prepares for the park's annual barbecue, things go awry when Rigby accidentally burns Benson's hot dogs.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007170300 +0000" stop="20261007180300 +0000">
+    <title lang="zh">Ben 10 Ep101</title>
+    <desc>When Gwen drags Ben along on a hike in search of the legendary Forgeti - a yeti that makes people forget they ever saw it - Ben is dubious. But with Dr. Animo on the trail of the mythical beast as well, what looks like a hoax becomes a hero time adventure for the ages... if Ben can remember it ever happened.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007180300 +0000" stop="20261007190300 +0000">
+    <title lang="zh">Courage the Cowardly Dog Ep11</title>
+    <desc>Vacationing on a cruise ship that sinks, Muriel, Courage and the Farmer end up on a deserted island. The one inhabitant they find is Katz, who runs an unusual 'resort.'</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007190300 +0000" stop="20261007200300 +0000">
+    <title lang="zh">Regular Show Ep10</title>
+    <desc>Mordecai and Rigby decide to make prank phone calls. They try to prank the Master Prank Caller numerous times, although they fail to fool him (and only make him increasingly annoyed).</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007200300 +0000" stop="20261007210300 +0000">
+    <title lang="zh">Ben 10 Ep252</title>
+    <desc>Ben, Gwen and Grandpa Max find the Weatherheads using the towering turbines for their latest nefarious plan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007210300 +0000" stop="20261007220300 +0000">
+    <title lang="zh">Teen Titans Go! Ep1140</title>
+    <desc>The other Titans train Beast Boy in the ways of the ninja.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007220300 +0000" stop="20261007221800 +0000">
+    <title lang="zh">Maca &amp; Roni Ep13</title>
+    <desc>Maca and Roni accidentally ruin the dominoes that Dr. Albert set up for hours for a domino contest. Can they successfully redo the whole thing over?</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007221800 +0000" stop="20261007231800 +0000">
+    <title lang="zh">The Tom and Jerry Show Ep95</title>
+    <desc>Tom is in the basement of a manor shoveling coal into the heater when the butler beckons the cat. He asks Tom to rid the upstairs of a mouse before the owners return. If Tom succeeds, he'll live and work the rest of his life upstairs.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261007231800 +0000" stop="20261008000000 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep60</title>
+    <desc>Bean is both cajoled by Irma and spurred by his own jealousy of the fund-raising super-star Declan into raising money for the local donkey sanctuary.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008001800 +0000" stop="20261008011800 +0000">
+    <title lang="zh">Looney Tunes Cartoons Ep129</title>
+    <desc>Bugs goes car shopping for a self-driving vehicle, but his test drive is detoured by a pesky gremlin. In a hunt for water, Taz tries quenching his thirst with a coconut.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008011800 +0000" stop="20261008021800 +0000">
+    <title lang="zh">The Tom and Jerry Show Ep06</title>
+    <desc>Quacker enlists Jerry's help to fix his favorite birdbath that has cracked, but the two get sidetracked by the scent of Tom's delicious Chinese takeout.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008021800 +0000" stop="20261008024800 +0000">
+    <title lang="zh">Lamput Ep410</title>
+    <desc>A perfect day interuppted by a storm forces the Docs to go home, and they unintentionally bring Lamput back with them.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008024800 +0000" stop="20261008031800 +0000">
+    <title lang="zh">We Bare Bears Ep44</title>
+    <desc>Ice Bear rides his custom vacuum into the city. But when a gang of techies steals the vacuum, Ice Bear goes on a rescue mission that takes him through the underground world of the city.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008031800 +0000" stop="20261008041800 +0000">
+    <title lang="zh">The Amazing World of Gumball Ep105</title>
+    <desc>Gumball learns that the Wattersons have been stealing Mr Robinson's wi-fi for years. When it goes down they try and live without it, but life offline proves too hard, Gumball and Darwin decide to hack their way through cyberspace to learn Mr Robinson's passcode.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008041800 +0000" stop="20261008051800 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep41</title>
+    <desc>Bean turns superhero in an attempt to outwit a cunning cat burglar.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008051800 +0000" stop="20261008054800 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep407</title>
+    <desc>Mr Bean becomes Mr Paliwal's personal trainer for the day - by making him revamp Mrs Wicket's garden!</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008054800 +0000" stop="20261008061800 +0000">
+    <title lang="zh">Mechamato Ep04</title>
+    <desc>Mr. Jamie has been kidnapped, and it's up to Amato and friends to save him from the bad robot Amazeey's twisted maze.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008061800 +0000" stop="20261008071800 +0000">
+    <title lang="zh">Teen Titans Go! Ep08</title>
+    <desc>Cyborg plugs into the control panel of the Titans Tower and drives the others crazy.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008071800 +0000" stop="20261008081800 +0000">
+    <title lang="zh">The Amazing World of Gumball Ep13</title>
+    <desc>Gumball and Darwin give Mr Robinson a home and end up saving his marriage.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008081800 +0000" stop="20261008091800 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep121</title>
+    <desc>Mr. Bean finds himself lumbered with an unwanted pet in the form of a four-legged ball of pink fur with piggy eyes and a penchant for earthworms.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008091800 +0000" stop="20261008101800 +0000">
+    <title lang="zh">Looney Tunes Cartoons Ep129</title>
+    <desc>Bugs goes car shopping for a self-driving vehicle, but his test drive is detoured by a pesky gremlin. In a hunt for water, Taz tries quenching his thirst with a coconut.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008101800 +0000" stop="20261008111800 +0000">
+    <title lang="zh">The Amazing World of Gumball Ep119</title>
+    <desc>Gumball, Darwin and Anais discover that Mr Wilson has been picking on their dad for most of his life: ever since he humiliated Richard with a high school prank. The kids try to work Dad through it - but when their efforts fail, they realise that getting their own back on Mr Wilson is the only way to break the cycle.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008111800 +0000" stop="20261008114800 +0000">
+    <title lang="zh">Adventure Time: Side Quests Ep11</title>
+    <desc>Finn enters a crossbow tournament to prove his manliness, while Jake wrestles with telling him he's actually terrible at it.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008114800 +0000" stop="20261008121800 +0000">
+    <title lang="zh">Scooby-Doo! Mystery Incorporated Ep41</title>
+    <desc>When the gang investigates the history of Crystal Cove, the mummy of a Franciscan Friar comes to life...to finish what it started.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008121800 +0000" stop="20261008131800 +0000">
+    <title lang="zh">Teen Titans Go! Ep1264</title>
+    <desc>Santa Claus and Robin must stop the nefarious Coal Miner.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008131800 +0000" stop="20261008141800 +0000">
+    <title lang="zh">We Baby Bears Ep04</title>
+    <desc>The Bears visit a medieval vegetable-village and Grizz is convinced he's the rightful king.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008141800 +0000" stop="20261008144800 +0000">
+    <title lang="zh">Adventure Time: Side Quests Ep11</title>
+    <desc>Finn enters a crossbow tournament to prove his manliness, while Jake wrestles with telling him he's actually terrible at it.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008144800 +0000" stop="20261008151800 +0000">
+    <title lang="zh">Adventure Time Ep51</title>
+    <desc>The Gunters go on a rampage against the Ice King and the citizens of Ooo!</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008151800 +0000" stop="20261008160300 +0000">
+    <title lang="zh">Steven Universe Ep82</title>
+    <desc>Steven attempts to get two of his close friends to like each other.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008160300 +0000" stop="20261008170300 +0000">
+    <title lang="zh">Regular Show Ep10</title>
+    <desc>Mordecai and Rigby decide to make prank phone calls. They try to prank the Master Prank Caller numerous times, although they fail to fool him (and only make him increasingly annoyed).</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008170300 +0000" stop="20261008180300 +0000">
+    <title lang="zh">Ben 10 Ep103</title>
+    <desc>While tailgating at a State U. homecoming football game, Ben teams up with Grandpa Max's old college buddies to keep the crazy clown Zombozo from robbing the stadium blind at halftime.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008180300 +0000" stop="20261008190300 +0000">
+    <title lang="zh">Courage the Cowardly Dog Ep12</title>
+    <desc>The chicken from outer space returns to seek revenge on Courage. This time he wants Courage's heard to replace the one that Courage blew up.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008190300 +0000" stop="20261008200300 +0000">
+    <title lang="zh">Regular Show Ep11</title>
+    <desc>Mordecai and Rigby are assigned to get a grilled cheese sandwich for Benson while playing a game to see who is the better liar.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008200300 +0000" stop="20261008210300 +0000">
+    <title lang="zh">Ben 10 Ep254</title>
+    <desc>When Hex mistakes an exclusive magic club for a top-secret Wizard society that snubbed him, Ben has to figure out how to work around the club's strict code of conduct to stop him without getting booted by security.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008210300 +0000" stop="20261008220300 +0000">
+    <title lang="zh">Teen Titans Go! Ep1145</title>
+    <desc>Beast Boy decides to find his spirit animal and joins a group of bears.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008220300 +0000" stop="20261008221800 +0000">
+    <title lang="zh">Maca &amp; Roni Ep16</title>
+    <desc>Dr. Albert purchases a very expensive painting from an auction. However, Roni accidentally splashes his beverage on it! But wait! He feels like he can easily redo this art work.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008221800 +0000" stop="20261008231800 +0000">
+    <title lang="zh">The Tom and Jerry Show Ep97</title>
+    <desc>Tom and Jerry can't sleep because of incessant barking.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.cartoonnetwork" start="20261008231800 +0000" stop="20261009000000 +0000">
+    <title lang="zh">Mr Bean: the Animated Series Ep65</title>
+    <desc>Mr Bean is on his way to the seaside when the mini runs out of petrol.</desc>
+    <date>2026-10-08</date>
   </programme>
   <programme channel="mastro.disneychannel" start="20261007000000 +0000" stop="20261007003000 +0000">
     <title lang="zh">Vampirina: Teenage Vampire</title>
@@ -5671,6 +5969,146 @@
     <desc>Perch Perkins fights for his job after he's fired and replaced by a robot anchorman; SpongeBob, Patrick and Squidward feel the heat when they become volunteer firefighters.</desc>
     <date>2026-10-08</date>
   </programme>
+  <programme channel="mastro.citra" start="20261007013000 +0000" stop="20261007031500 +0000">
+    <title lang="zh">La La Boy</title>
+    <desc>Filem yang mengisahkan tentang persahabatan, percintaan dan kehidupan dua remaja di Sekolah Buriram Witthayaprasit.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007031500 +0000" stop="20261007050000 +0000">
+    <title lang="zh">Haq</title>
+    <desc>Haq dan Bad yang dianugerahkan kuasa luar biasa mula bersengketa kerana Bad percaya bahawa Haq yang menyebabkan kematian ayahnya. Lakonan Zul Huzainmy dan Adi Putra.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007050000 +0000" stop="20261007064500 +0000">
+    <title lang="zh">Karya 12-Wau Kasih</title>
+    <desc>Mengisahkan tentang kisah pengorbanan seorang ayah untuk membantu keluarga namun ianya disalah erti oleh anak-anaknya.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007064500 +0000" stop="20261007083000 +0000">
+    <title lang="zh">Lukisan</title>
+    <desc>Kisah Amir, seorang budak kampung yang cuba merungkai misteri di sebalik jeritan Piah, gadis yang tinggal berhampiran rumahnya yang dikatakan gila dan selalu berhalusinasi. Dapatkah rahsia itu dibongkar?</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007083000 +0000" stop="20261007101500 +0000">
+    <title lang="zh">Surga Di Bawah Langit</title>
+    <desc>Ayu, Agus dan Laras bergelut setiap hari demi kelangsungan hidup tanpa pernah mengimpikan apa-apa. Apabila dewasa, mereka bertemu semula di tempat yang mereka janjikan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007101500 +0000" stop="20261007120000 +0000">
+    <title lang="zh">Gadis KOL</title>
+    <desc>Piah mula dikenali apabila video memasak bersama neneknya menjadi viral di media sosial. Piah kemudian ditawarkan menjadi K.O.L di sebuah syarikat di Kuala Lumpur dan kehidupannya mula berubah.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007120000 +0000" stop="20261007134500 +0000">
+    <title lang="zh">Lesen Besar</title>
+    <desc>Tiga sekawan yang rindu zaman bujang mereka telah merancang untuk pergi 'road trip' setelah mendapat pelepasan daripada isteri dan teman wanita masing-masing. Tapi nasib tidak menyebelahi mereka di sepanjang jalan.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007134500 +0000" stop="20261007153000 +0000">
+    <title lang="zh">Citra Exclusive: Cinta Elevator</title>
+    <desc>Apabila 2 insan berlainan darjat dan profesion bertemu di dalam sebuah lif, pelbagai persepsi timbul di fikiran mereka, sehinggalah mereka berdua ditakdirkan terperangkap di dalam lif...</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007153000 +0000" stop="20261007171500 +0000">
+    <title lang="zh">The Perfect Couple</title>
+    <desc>Seorang lelaki dan seorang wanita cuba dijodohkan oleh ibu bapa masing-masing dengan cara menghantar mereka untuk menjual rumah di Chiang Mai bersama-sama.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007171500 +0000" stop="20261007184500 +0000">
+    <title lang="zh">My Spy</title>
+    <desc>Ikuti gandingan lucu AJ dan Salleh dalam aksi mereka dalam menyelesaikan kes penyeledupan lukisan yang amat berharga. Lakonan AC Mizal &amp; Harun Salim Bachik.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007184500 +0000" stop="20261007203000 +0000">
+    <title lang="zh">Hikayat Merong Mahawangsa</title>
+    <desc>Angkatan Rom meminta pertolongan Merong Mahawangsa mengiringi Putera Rom ke Langkasuka (dikatakan terletak di utara Malaysia) untuk berkahwin dengan seorang Puteri China yang cantik dari Dinasti Han.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007203000 +0000" stop="20261007222500 +0000">
+    <title lang="zh">Yatim Mustapha</title>
+    <desc>Ratu Ketiga cemburu terhadap Ratu Bongsu yang paling disayangi. Dia memfitnah pasangan diraja itu sehingga mereka dituduh meracuni dan membunuh seseorang, lalu dipenjara seumur hidup.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261007222500 +0000" stop="20261008000000 +0000">
+    <title lang="zh">Badang</title>
+    <desc>Badang seorang pemuda yang gagah perkasa dan mempunyai kekuatan sekawan gajah. Sebagai syarat, Badang tidak boleh berkahwin, jika tidak dia akan menemui ajal.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008001500 +0000" stop="20261008020000 +0000">
+    <title lang="zh">Jin Notti</title>
+    <desc>Kisah Notti seorang jin perempuan yang comel lagi baik hati dicampakkan ke muka bumi supaya dia dapat belajar dari sikap ramai manusia yang jahat. Dibintangi oleh Fara Fauzana, Mawi dan Cat Farish.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008020000 +0000" stop="20261008034500 +0000">
+    <title lang="zh">Chempaka Biru</title>
+    <desc>Raja bermimpi yang anak perempuannya telah diculik olah lanun, sebelum mangkat baginda memerintah paglima maencari dan membawa anaknya pulang keistana.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008034500 +0000" stop="20261008041500 +0000">
+    <title lang="zh">TERBANG The Making Of</title>
+    <desc>Haunted by tragedy, Ajeet returns to rally races with Kitt and Imran. Can Malaysia's underdog PERT team top the world's best? Inspired by the extraordinary journey of Malaysian rally legend Karamjit Singh.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008041500 +0000" stop="20261008061000 +0000">
+    <title lang="zh">Marabahaya</title>
+    <desc>Chon dipersalahkan bila Shah Dani menggunakannya untuk menghantar barang pada pelanggan Dotty. Bila berlaku kesilapan, Chon diugut Dotty agar memulangkan wang yang hilang sementara idolanya diculik.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008061000 +0000" stop="20261008063000 +0000">
+    <title lang="zh">5 Minit</title>
+    <desc>A young father, who had his daughter out of wedlock, relives his misspent youth while waiting the infinite 5 minutes to find out whether his own teenage, unmarried daughter is now pregnant.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008063000 +0000" stop="20261008081500 +0000">
+    <title lang="zh">Citra Exclusive: Cinta Elevator</title>
+    <desc>Apabila 2 insan berlainan darjat dan profesion bertemu di dalam sebuah lif, pelbagai persepsi timbul di fikiran mereka, sehinggalah mereka berdua ditakdirkan terperangkap di dalam lif...</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008081500 +0000" stop="20261008101500 +0000">
+    <title lang="zh">Janda Meletup</title>
+    <desc>Dengan bantuan bomoh, Kamil telah berjaya memikat Rosnah seorang janda muda namun keputusan Rosnah untuk berhijrah ke Kuala Lumpur telah membuat Kamil kecewa. Lakonan Salih Yaacob dan Rozie Rashid.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008101500 +0000" stop="20261008120000 +0000">
+    <title lang="zh">Durian Thunder</title>
+    <desc>Seorang remaja lelaki yang hidup dengan gejala tidak normal dengan tangannya yang ditumbuhi duri dan sukar untuk mengawalnya. Adakah duri di tangannya akan sentiasa menimbulkan masalah?</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008120000 +0000" stop="20261008140000 +0000">
+    <title lang="zh">Kereta Sorong nenek</title>
+    <desc>Kisah tentang seorang nenek yang menjaja makanan di tepi laut sambil menyorong kereta kayu.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008140000 +0000" stop="20261008160000 +0000">
+    <title lang="zh">Dear Nathan Thank You Salma</title>
+    <desc>Nathan dan Salma memasuki dunia aktivis sosial. Salma memilih untuk mengekspresi dirinya di laman digital manakala Nathan memilih untuk turun ke jalanan.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008160000 +0000" stop="20261008174000 +0000">
+    <title lang="zh">Dear Nathan Hello Salma</title>
+    <desc>Kisah ini berkisarkan hubungan Nathan dan Salma yang tidak habis-habis pasang surutnya. Walaupun terpaksa berpisah, mereka masih ada jalan untuk kembali bersama. Adakah mereka akan bahagia selama-lamanya?</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008174000 +0000" stop="20261008194000 +0000">
+    <title lang="zh">Yatim Mustapha</title>
+    <desc>Ratu Ketiga cemburu terhadap Ratu Bongsu yang paling disayangi. Dia memfitnah pasangan diraja itu sehingga mereka dituduh meracuni dan membunuh seseorang, lalu dipenjara seumur hidup.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008194000 +0000" stop="20261008210500 +0000">
+    <title lang="zh">Ribbit</title>
+    <desc>Seekor katak yang mengalami krisis identiti sedang mencari siapa dirinya yang sebenar dan dia percaya dirinya telah disumpah oleh satu kuasa jahat. Adakah dia akan menerima siapa dirinya yang sebenar?</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008210500 +0000" stop="20261008224000 +0000">
+    <title lang="zh">Kami Histeria</title>
+    <desc>Kisah komedi seram mengenai sekumpulan pemuzik indie wanita yang menggunakan 'khidmat' langsuir sebagai suara latar untuk lagu-lagu mereka. Lakonan Diana Danielle, Nad Zainal, Mila Jirin, Nur Fazura dan Afdlin Shauki.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.citra" start="20261008224000 +0000" stop="20261009000000 +0000">
+    <title lang="zh">Cinta Kura-Kura</title>
+    <desc>Seekor kura-kura yang boleh bercakap cuba membantu seorang gadis untuk mendapatkan calon kekasih yang sesuai buatnya. Lakonan Tizz Zaqyah &amp; Zizan Razak.</desc>
+    <date>2026-10-08</date>
+  </programme>
   <programme channel="mastro.teennick" start="20261007000900 +0000" stop="20261007003600 +0000">
     <title lang="zh">The Thundermans: Undercover</title>
     <desc>A training accident makes Chloe's powers faulty; Max tries to cure her and gets a misleading positive result, so she goes to a party; but his treatment actually creates brand-new powers Chloe can't control.</desc>
@@ -6219,146 +6657,6 @@
   <programme channel="mastro.teennick" start="20261008234200 +0000" stop="20261009000000 +0000">
     <title lang="zh">The Thundermans</title>
     <desc>Phoebe's first assignment as a superhero is to protect Hiddenville; Phoebe challenges Max to inject some mischief into their sleepy hometown.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007013000 +0000" stop="20261007031500 +0000">
-    <title lang="zh">La La Boy</title>
-    <desc>Filem yang mengisahkan tentang persahabatan, percintaan dan kehidupan dua remaja di Sekolah Buriram Witthayaprasit.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007031500 +0000" stop="20261007050000 +0000">
-    <title lang="zh">Haq</title>
-    <desc>Haq dan Bad yang dianugerahkan kuasa luar biasa mula bersengketa kerana Bad percaya bahawa Haq yang menyebabkan kematian ayahnya. Lakonan Zul Huzainmy dan Adi Putra.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007050000 +0000" stop="20261007064500 +0000">
-    <title lang="zh">Karya 12-Wau Kasih</title>
-    <desc>Mengisahkan tentang kisah pengorbanan seorang ayah untuk membantu keluarga namun ianya disalah erti oleh anak-anaknya.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007064500 +0000" stop="20261007083000 +0000">
-    <title lang="zh">Lukisan</title>
-    <desc>Kisah Amir, seorang budak kampung yang cuba merungkai misteri di sebalik jeritan Piah, gadis yang tinggal berhampiran rumahnya yang dikatakan gila dan selalu berhalusinasi. Dapatkah rahsia itu dibongkar?</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007083000 +0000" stop="20261007101500 +0000">
-    <title lang="zh">Surga Di Bawah Langit</title>
-    <desc>Ayu, Agus dan Laras bergelut setiap hari demi kelangsungan hidup tanpa pernah mengimpikan apa-apa. Apabila dewasa, mereka bertemu semula di tempat yang mereka janjikan.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007101500 +0000" stop="20261007120000 +0000">
-    <title lang="zh">Gadis KOL</title>
-    <desc>Piah mula dikenali apabila video memasak bersama neneknya menjadi viral di media sosial. Piah kemudian ditawarkan menjadi K.O.L di sebuah syarikat di Kuala Lumpur dan kehidupannya mula berubah.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007120000 +0000" stop="20261007134500 +0000">
-    <title lang="zh">Lesen Besar</title>
-    <desc>Tiga sekawan yang rindu zaman bujang mereka telah merancang untuk pergi 'road trip' setelah mendapat pelepasan daripada isteri dan teman wanita masing-masing. Tapi nasib tidak menyebelahi mereka di sepanjang jalan.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007134500 +0000" stop="20261007153000 +0000">
-    <title lang="zh">Citra Exclusive: Cinta Elevator</title>
-    <desc>Apabila 2 insan berlainan darjat dan profesion bertemu di dalam sebuah lif, pelbagai persepsi timbul di fikiran mereka, sehinggalah mereka berdua ditakdirkan terperangkap di dalam lif...</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007153000 +0000" stop="20261007171500 +0000">
-    <title lang="zh">The Perfect Couple</title>
-    <desc>Seorang lelaki dan seorang wanita cuba dijodohkan oleh ibu bapa masing-masing dengan cara menghantar mereka untuk menjual rumah di Chiang Mai bersama-sama.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007171500 +0000" stop="20261007184500 +0000">
-    <title lang="zh">My Spy</title>
-    <desc>Ikuti gandingan lucu AJ dan Salleh dalam aksi mereka dalam menyelesaikan kes penyeledupan lukisan yang amat berharga. Lakonan AC Mizal &amp; Harun Salim Bachik.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007184500 +0000" stop="20261007203000 +0000">
-    <title lang="zh">Hikayat Merong Mahawangsa</title>
-    <desc>Angkatan Rom meminta pertolongan Merong Mahawangsa mengiringi Putera Rom ke Langkasuka (dikatakan terletak di utara Malaysia) untuk berkahwin dengan seorang Puteri China yang cantik dari Dinasti Han.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007203000 +0000" stop="20261007222500 +0000">
-    <title lang="zh">Yatim Mustapha</title>
-    <desc>Ratu Ketiga cemburu terhadap Ratu Bongsu yang paling disayangi. Dia memfitnah pasangan diraja itu sehingga mereka dituduh meracuni dan membunuh seseorang, lalu dipenjara seumur hidup.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261007222500 +0000" stop="20261008000000 +0000">
-    <title lang="zh">Badang</title>
-    <desc>Badang seorang pemuda yang gagah perkasa dan mempunyai kekuatan sekawan gajah. Sebagai syarat, Badang tidak boleh berkahwin, jika tidak dia akan menemui ajal.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008001500 +0000" stop="20261008020000 +0000">
-    <title lang="zh">Jin Notti</title>
-    <desc>Kisah Notti seorang jin perempuan yang comel lagi baik hati dicampakkan ke muka bumi supaya dia dapat belajar dari sikap ramai manusia yang jahat. Dibintangi oleh Fara Fauzana, Mawi dan Cat Farish.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008020000 +0000" stop="20261008034500 +0000">
-    <title lang="zh">Chempaka Biru</title>
-    <desc>Raja bermimpi yang anak perempuannya telah diculik olah lanun, sebelum mangkat baginda memerintah paglima maencari dan membawa anaknya pulang keistana.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008034500 +0000" stop="20261008041500 +0000">
-    <title lang="zh">TERBANG The Making Of</title>
-    <desc>Haunted by tragedy, Ajeet returns to rally races with Kitt and Imran. Can Malaysia's underdog PERT team top the world's best? Inspired by the extraordinary journey of Malaysian rally legend Karamjit Singh.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008041500 +0000" stop="20261008061000 +0000">
-    <title lang="zh">Marabahaya</title>
-    <desc>Chon dipersalahkan bila Shah Dani menggunakannya untuk menghantar barang pada pelanggan Dotty. Bila berlaku kesilapan, Chon diugut Dotty agar memulangkan wang yang hilang sementara idolanya diculik.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008061000 +0000" stop="20261008063000 +0000">
-    <title lang="zh">5 Minit</title>
-    <desc>A young father, who had his daughter out of wedlock, relives his misspent youth while waiting the infinite 5 minutes to find out whether his own teenage, unmarried daughter is now pregnant.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008063000 +0000" stop="20261008081500 +0000">
-    <title lang="zh">Citra Exclusive: Cinta Elevator</title>
-    <desc>Apabila 2 insan berlainan darjat dan profesion bertemu di dalam sebuah lif, pelbagai persepsi timbul di fikiran mereka, sehinggalah mereka berdua ditakdirkan terperangkap di dalam lif...</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008081500 +0000" stop="20261008101500 +0000">
-    <title lang="zh">Janda Meletup</title>
-    <desc>Dengan bantuan bomoh, Kamil telah berjaya memikat Rosnah seorang janda muda namun keputusan Rosnah untuk berhijrah ke Kuala Lumpur telah membuat Kamil kecewa. Lakonan Salih Yaacob dan Rozie Rashid.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008101500 +0000" stop="20261008120000 +0000">
-    <title lang="zh">Durian Thunder</title>
-    <desc>Seorang remaja lelaki yang hidup dengan gejala tidak normal dengan tangannya yang ditumbuhi duri dan sukar untuk mengawalnya. Adakah duri di tangannya akan sentiasa menimbulkan masalah?</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008120000 +0000" stop="20261008140000 +0000">
-    <title lang="zh">Kereta Sorong nenek</title>
-    <desc>Kisah tentang seorang nenek yang menjaja makanan di tepi laut sambil menyorong kereta kayu.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008140000 +0000" stop="20261008160000 +0000">
-    <title lang="zh">Dear Nathan Thank You Salma</title>
-    <desc>Nathan dan Salma memasuki dunia aktivis sosial. Salma memilih untuk mengekspresi dirinya di laman digital manakala Nathan memilih untuk turun ke jalanan.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008160000 +0000" stop="20261008174000 +0000">
-    <title lang="zh">Dear Nathan Hello Salma</title>
-    <desc>Kisah ini berkisarkan hubungan Nathan dan Salma yang tidak habis-habis pasang surutnya. Walaupun terpaksa berpisah, mereka masih ada jalan untuk kembali bersama. Adakah mereka akan bahagia selama-lamanya?</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008174000 +0000" stop="20261008194000 +0000">
-    <title lang="zh">Yatim Mustapha</title>
-    <desc>Ratu Ketiga cemburu terhadap Ratu Bongsu yang paling disayangi. Dia memfitnah pasangan diraja itu sehingga mereka dituduh meracuni dan membunuh seseorang, lalu dipenjara seumur hidup.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008194000 +0000" stop="20261008210500 +0000">
-    <title lang="zh">Ribbit</title>
-    <desc>Seekor katak yang mengalami krisis identiti sedang mencari siapa dirinya yang sebenar dan dia percaya dirinya telah disumpah oleh satu kuasa jahat. Adakah dia akan menerima siapa dirinya yang sebenar?</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008210500 +0000" stop="20261008224000 +0000">
-    <title lang="zh">Kami Histeria</title>
-    <desc>Kisah komedi seram mengenai sekumpulan pemuzik indie wanita yang menggunakan 'khidmat' langsuir sebagai suara latar untuk lagu-lagu mereka. Lakonan Diana Danielle, Nad Zainal, Mila Jirin, Nur Fazura dan Afdlin Shauki.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.citra" start="20261008224000 +0000" stop="20261009000000 +0000">
-    <title lang="zh">Cinta Kura-Kura</title>
-    <desc>Seekor kura-kura yang boleh bercakap cuba membantu seorang gadis untuk mendapatkan calon kekasih yang sesuai buatnya. Lakonan Tizz Zaqyah &amp; Zizan Razak.</desc>
     <date>2026-10-08</date>
   </programme>
   <programme channel="mastro.arena" start="20261007000000 +0000" stop="20261007030000 +0000">
@@ -7846,81 +8144,6 @@
     <desc>Dutch League 2026/27: Matches</desc>
     <date>2026-10-09</date>
   </programme>
-  <programme channel="mastro.badminton" start="20261007000000 +0000" stop="20261007050000 +0000">
-    <title lang="zh">Uber Cup: Indonesia vs Canada</title>
-    <desc>BWF Uber Cup Finals 2026: Day 2: Session 1: Court 1: Tie 5 Group C: Indonesia vs Canada, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261007050000 +0000" stop="20261007093000 +0000">
-    <title lang="zh">Thomas Cup: Malaysia vs England</title>
-    <desc>BWF Thomas Cup Finals 2026: Day 2: Session 1: Court 2: Tie 5 Goup B: Malaysia vs England, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261007093000 +0000" stop="20261007100000 +0000">
-    <title lang="zh">Badminton Weekly 2026 -</title>
-    <desc>A weekly show featuring all the latest news on badminton, tournament updates and exclusive interviews with the players and team coaches.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261007100000 +0000" stop="20261007141500 +0000">
-    <title lang="zh">Uber Cup: China vs Denmark</title>
-    <desc>BWF Uber Cup Finals 2026: Day 2: Session 2: Court 1: Tie 6 Group A: China vs Denmark, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261007141500 +0000" stop="20261007184500 +0000">
-    <title lang="zh">Uber Cup: India vs Ukraine</title>
-    <desc>BWF Uber Cup Finals 2026: Day 2: Session 2: Court 2: Tie 6 Group A: India vs Ukraine, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261007184500 +0000" stop="20261008000000 +0000">
-    <title lang="zh">Thomas Cup: Indonesia vs Thailand</title>
-    <desc>BWF Thomas Cup Finals 2026: Day 3: Session 1: Court 1: Tie 7 Group D: Indonesia vs Thailand, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008011500 +0000" stop="20261008054500 +0000">
-    <title lang="zh">Uber Cup: Thailand vs Spain</title>
-    <desc>BWF Uber Cup Finals 2026: Day 3: Session 1: Court 2: Tie 7 Group D: Thailand vs Spain, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008054500 +0000" stop="20261008070000 +0000">
-    <title lang="zh">Thomas Cup: Semi Finals HLS</title>
-    <desc>Catch the latest news and highlights of BWF Thomas Cup Semi Finals 2026, from Forum, Horsen, Denmark.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008070000 +0000" stop="20261008150000 +0000">
-    <title lang="zh">(L) BWF Arctic Open: Rd16</title>
-    <desc>LIVE: BWF World Tour Super 500: CLASH OF CLANS Arctic Open 2026 powered by YONEX: Round of 16, from Vantaan Energia Areena, Vantaa, Finland.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008150000 +0000" stop="20261008160000 +0000">
-    <title lang="zh">BWF Taipei Open: HLS</title>
-    <desc>Catch the latest news and highlights of BWF World Tour Super 300: YONEX Taipei Open 2026: Finals.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008160000 +0000" stop="20261008170000 +0000">
-    <title lang="zh">BWF China Open: HLS</title>
-    <desc>Catch the latest news and highlights of BWF World Tour Super 1000: VICTOR China Open 2026: Finals.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008170000 +0000" stop="20261008180000 +0000">
-    <title lang="zh">BWF Japan Open: HLS</title>
-    <desc>Catch the latest news and highlights of BWF World Tour Super 750: DAIHATSU Japan Open 2026: Finals.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008180000 +0000" stop="20261008230000 +0000">
-    <title lang="zh">Uber Cup: Taipei vs Canada</title>
-    <desc>BWF Uber Cup Finals 2026: Day 3: Session 2: Court 2: Tie 9 Group C: Chinese Taipei vs Canada, from Forum Horsens, Denmark.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261008230000 +0000" stop="20261009000000 +0000">
-    <title lang="zh">BWF Macau Open: Finals</title>
-    <desc>Catch the latest news and highlights of BWF World Tour Super 300: SANDS CHINA LTD. Macau Open 2026: Finals.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.badminton" start="20261009000000 +0000" stop="20261010000000 +0000">
-    <title lang="zh">BWF Arctic Open: Rd16</title>
-    <desc>BWF World Tour Super 500: CLASH OF CLANS Arctic Open 2026 powered by YONEX: Round of 16, from Vantaan Energia Areena, Vantaa, Finland.</desc>
-    <date>2026-10-09</date>
-  </programme>
   <programme channel="mastro.rania" start="20261007000000 +0000" stop="20261007010000 +0000">
     <title lang="zh">Tajwid Cinta Ep173</title>
     <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
@@ -8164,6 +8387,81 @@
   <programme channel="mastro.rania" start="20261009000000 +0000" stop="20261010000000 +0000">
     <title lang="zh">Tajwid Cinta Ep175</title>
     <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-10-09</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261007000000 +0000" stop="20261007050000 +0000">
+    <title lang="zh">Uber Cup: Indonesia vs Canada</title>
+    <desc>BWF Uber Cup Finals 2026: Day 2: Session 1: Court 1: Tie 5 Group C: Indonesia vs Canada, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261007050000 +0000" stop="20261007093000 +0000">
+    <title lang="zh">Thomas Cup: Malaysia vs England</title>
+    <desc>BWF Thomas Cup Finals 2026: Day 2: Session 1: Court 2: Tie 5 Goup B: Malaysia vs England, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261007093000 +0000" stop="20261007100000 +0000">
+    <title lang="zh">Badminton Weekly 2026 -</title>
+    <desc>A weekly show featuring all the latest news on badminton, tournament updates and exclusive interviews with the players and team coaches.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261007100000 +0000" stop="20261007141500 +0000">
+    <title lang="zh">Uber Cup: China vs Denmark</title>
+    <desc>BWF Uber Cup Finals 2026: Day 2: Session 2: Court 1: Tie 6 Group A: China vs Denmark, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261007141500 +0000" stop="20261007184500 +0000">
+    <title lang="zh">Uber Cup: India vs Ukraine</title>
+    <desc>BWF Uber Cup Finals 2026: Day 2: Session 2: Court 2: Tie 6 Group A: India vs Ukraine, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261007184500 +0000" stop="20261008000000 +0000">
+    <title lang="zh">Thomas Cup: Indonesia vs Thailand</title>
+    <desc>BWF Thomas Cup Finals 2026: Day 3: Session 1: Court 1: Tie 7 Group D: Indonesia vs Thailand, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008011500 +0000" stop="20261008054500 +0000">
+    <title lang="zh">Uber Cup: Thailand vs Spain</title>
+    <desc>BWF Uber Cup Finals 2026: Day 3: Session 1: Court 2: Tie 7 Group D: Thailand vs Spain, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008054500 +0000" stop="20261008070000 +0000">
+    <title lang="zh">Thomas Cup: Semi Finals HLS</title>
+    <desc>Catch the latest news and highlights of BWF Thomas Cup Semi Finals 2026, from Forum, Horsen, Denmark.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008070000 +0000" stop="20261008150000 +0000">
+    <title lang="zh">(L) BWF Arctic Open: Rd16</title>
+    <desc>LIVE: BWF World Tour Super 500: CLASH OF CLANS Arctic Open 2026 powered by YONEX: Round of 16, from Vantaan Energia Areena, Vantaa, Finland.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008150000 +0000" stop="20261008160000 +0000">
+    <title lang="zh">BWF Taipei Open: HLS</title>
+    <desc>Catch the latest news and highlights of BWF World Tour Super 300: YONEX Taipei Open 2026: Finals.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008160000 +0000" stop="20261008170000 +0000">
+    <title lang="zh">BWF China Open: HLS</title>
+    <desc>Catch the latest news and highlights of BWF World Tour Super 1000: VICTOR China Open 2026: Finals.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008170000 +0000" stop="20261008180000 +0000">
+    <title lang="zh">BWF Japan Open: HLS</title>
+    <desc>Catch the latest news and highlights of BWF World Tour Super 750: DAIHATSU Japan Open 2026: Finals.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008180000 +0000" stop="20261008230000 +0000">
+    <title lang="zh">Uber Cup: Taipei vs Canada</title>
+    <desc>BWF Uber Cup Finals 2026: Day 3: Session 2: Court 2: Tie 9 Group C: Chinese Taipei vs Canada, from Forum Horsens, Denmark.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261008230000 +0000" stop="20261009000000 +0000">
+    <title lang="zh">BWF Macau Open: Finals</title>
+    <desc>Catch the latest news and highlights of BWF World Tour Super 300: SANDS CHINA LTD. Macau Open 2026: Finals.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.badminton" start="20261009000000 +0000" stop="20261010000000 +0000">
+    <title lang="zh">BWF Arctic Open: Rd16</title>
+    <desc>BWF World Tour Super 500: CLASH OF CLANS Arctic Open 2026 powered by YONEX: Round of 16, from Vantaan Energia Areena, Vantaa, Finland.</desc>
     <date>2026-10-09</date>
   </programme>
   <programme channel="mastro.sportsplus" start="20261007010000 +0000" stop="20261007013500 +0000">
@@ -9666,176 +9964,6 @@
     <desc>In October 2015 Jurgen Klopp was appointed Liverpool manager. In this exclusive documentary, which includes an in-depth interview with the man himself, we chart Klopp's rise to prominence.</desc>
     <date>2026-10-08</date>
   </programme>
-  <programme channel="mastro.beinsports3" start="20261007000000 +0000" stop="20261007010000 +0000">
-    <title lang="zh">UCI World Tour Highlights 2026</title>
-    <desc>UCI World Tour Highlights 2026: Tour of Hainan</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007010000 +0000" stop="20261007025000 +0000">
-    <title lang="zh">UEFA Women's Champions League : Paris Vs Arsenal - MD2</title>
-    <desc>UEFA Women's Champions League 2026/27: Paris vs Arsenal - MD2</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007025000 +0000" stop="20261007044000 +0000">
-    <title lang="zh">UEL : Real Sociedad Vs Bournemouth - MD1</title>
-    <desc>UEFA Europa League 2026/27: Real Sociedad vs Bournemouth - MD1</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007044000 +0000" stop="20261007063000 +0000">
-    <title lang="zh">TotalEnergies CAF Confederation Cup : as Otoho Vs CR Belouizdad</title>
-    <desc>TotalEnergies CAF Confederation Cup 2025/26: AS Otoho vs CR Belouizdad</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007063000 +0000" stop="20261007093000 +0000">
-    <title lang="zh">La Vuelta 2026</title>
-    <desc>La Vuelta 2026: Stage 12: Vera - Calar Alto</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007093000 +0000" stop="20261007100000 +0000">
-    <title lang="zh">UEFA Women's Champions League Highlights 2026/27</title>
-    <desc>UEFA Women's Champions League Highlights 2026/27: MD2</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007100000 +0000" stop="20261007113000 +0000">
-    <title lang="zh">MUTV: the United Archives: Man Utd Vs Milan UCL 09/10</title>
-    <desc>MUTV: The United Archives: Man Utd vs Milan UCL 09/10</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007113000 +0000" stop="20261007130000 +0000">
-    <title lang="zh">MUTV: the United Archives: Liverpool Vs Man Utd FAC Final 95/96</title>
-    <desc>MUTV: The United Archives: Liverpool vs Man Utd FAC Final 95/96</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007130000 +0000" stop="20261007133000 +0000">
-    <title lang="zh">UEFA Women's Champions League Highlights 2026/27</title>
-    <desc>UEFA Women's Champions League Highlights 2026/27: MD2</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007133000 +0000" stop="20261007153000 +0000">
-    <title lang="zh">SailGP 2026</title>
-    <desc>SailGP 2026: Geneva, Switzerland Day 2</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007153000 +0000" stop="20261007160000 +0000">
-    <title lang="zh">Inside Sailing 2026</title>
-    <desc>Inside Sailing 2026: October</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007160000 +0000" stop="20261007180000 +0000">
-    <title lang="zh">TotalEnergies CAF Champions League : MC Alger Vs Sundowns</title>
-    <desc>TotalEnergies CAF Champions League 2025/26: MC Alger vs Sundowns</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007180000 +0000" stop="20261007200000 +0000">
-    <title lang="zh">TotalEnergies CAF Confederation Cup : Azam FC Vs as Maniema</title>
-    <desc>TotalEnergies CAF Confederation Cup 2025/26: Azam FC vs AS Maniema</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007200000 +0000" stop="20261007220000 +0000">
-    <title lang="zh">TotalEnergies Women's Africa Cup of Nations, Morocco : Malawi Vs Zambia</title>
-    <desc>TotalEnergies Women's Africa Cup of Nations, Morocco 2026: Malawi vs Zambia</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007220000 +0000" stop="20261007223000 +0000">
-    <title lang="zh">Mass Participation 2026</title>
-    <desc>Mass Participation 2026: Transvulcania</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261007223000 +0000" stop="20261008000000 +0000">
-    <title lang="zh">UCI World Tour 2026</title>
-    <desc>UCI World Tour 2026: Czech Tour - Stage 3</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008000000 +0000" stop="20261008010000 +0000">
-    <title lang="zh">UCI World Tour Highlights 2026</title>
-    <desc>UCI World Tour Highlights 2026: Tour of Hungary</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008010000 +0000" stop="20261008025000 +0000">
-    <title lang="zh">UEFA Women's Champions League : OL Lyonnes Vs Chelsea - MD2</title>
-    <desc>UEFA Women's Champions League 2026/27: OL Lyonnes vs Chelsea - MD2</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008025000 +0000" stop="20261008044000 +0000">
-    <title lang="zh">UEL : Leverkusen Vs Celje - MD1</title>
-    <desc>UEFA Europa League 2026/27: Leverkusen vs Celje - MD1</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008044000 +0000" stop="20261008063000 +0000">
-    <title lang="zh">TotalEnergies CAF Confederation Cup : Kaizer Chiefs Vs Zamalek</title>
-    <desc>TotalEnergies CAF Confederation Cup 2025/26: Kaizer Chiefs vs Zamalek</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008063000 +0000" stop="20261008093000 +0000">
-    <title lang="zh">La Vuelta 2026</title>
-    <desc>La Vuelta 2026: Stage 13: Almunecar - Loja</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008093000 +0000" stop="20261008100000 +0000">
-    <title lang="zh">Bundesliga Weekly 2026/27</title>
-    <desc>Bundesliga Weekly 2026/27: Episode Number 7</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008100000 +0000" stop="20261008114500 +0000">
-    <title lang="zh">UCL : Dortmund Vs Villarreal - MD1</title>
-    <desc>UEFA Champions League 2026/27: Dortmund vs Villarreal - MD1</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008114500 +0000" stop="20261008133000 +0000">
-    <title lang="zh">UCL : Lille Vs Real Betis - MD1</title>
-    <desc>UEFA Champions League 2026/27: Lille vs Real Betis - MD1</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008133000 +0000" stop="20261008140000 +0000">
-    <title lang="zh">Bundesliga Weekly 2026/27</title>
-    <desc>Bundesliga Weekly 2026/27: Episode Number 7</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008140000 +0000" stop="20261008143000 +0000">
-    <title lang="zh">UEFA Women's Champions League Highlights 2026/27</title>
-    <desc>UEFA Women's Champions League Highlights 2026/27: MD2</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008143000 +0000" stop="20261008150000 +0000">
-    <title lang="zh">MUTV: Specials</title>
-    <desc>MUTV: Specials: Born and Bred</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008150000 +0000" stop="20261008160000 +0000">
-    <title lang="zh">SailGP Highlights 2026</title>
-    <desc>SailGP Highlights 2026: Geneva, Switzerland</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008160000 +0000" stop="20261008180000 +0000">
-    <title lang="zh">TotalEnergies CAF Champions League : Power Dynamos Vs Pyramids FC</title>
-    <desc>TotalEnergies CAF Champions League 2025/26: Power Dynamos vs Pyramids FC</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008180000 +0000" stop="20261008200000 +0000">
-    <title lang="zh">TotalEnergies CAF Confederation Cup : as Otoho Vs Stellenbosch FC</title>
-    <desc>TotalEnergies CAF Confederation Cup 2025/26: AS Otoho vs Stellenbosch FC</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008200000 +0000" stop="20261008220000 +0000">
-    <title lang="zh">TotalEnergies Women's Africa Cup of Nations, Morocco : Mali Vs Ghana</title>
-    <desc>TotalEnergies Women's Africa Cup of Nations, Morocco 2026: Mali vs Ghana</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008220000 +0000" stop="20261008223000 +0000">
-    <title lang="zh">ONE Weekly 2026</title>
-    <desc>ONE Weekly 2026: Episode Number 41</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261008223000 +0000" stop="20261009000000 +0000">
-    <title lang="zh">UCI World Tour 2026</title>
-    <desc>UCI World Tour 2026: Czech Tour - Stage 4</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.beinsports3" start="20261009000000 +0000" stop="20261010000000 +0000">
-    <title lang="zh">UCI World Tour Highlights 2026</title>
-    <desc>UCI World Tour Highlights 2026: Tour Auvergne-Rhone-Alpes</desc>
-    <date>2026-10-09</date>
-  </programme>
   <programme channel="mastro.aura" start="20261007003000 +0000" stop="20261007013000 +0000">
     <title lang="zh">Magic 5 Ep123</title>
     <desc>5 children accidentally found by a wealthy man who lost his wife and child in a car accident. They have different powers and only realize when they are teenagers. Their powers help them to solve cases.</desc>
@@ -10100,6 +10228,176 @@
     <title lang="zh">Karnaval SCTV 2025 Ep17</title>
     <desc>Every year, Karnaval SCTV 2025 features a different theme! This event showcases the most exciting music performances by many of the country's top musicians and celebrities.</desc>
     <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007000000 +0000" stop="20261007010000 +0000">
+    <title lang="zh">UCI World Tour Highlights 2026</title>
+    <desc>UCI World Tour Highlights 2026: Tour of Hainan</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007010000 +0000" stop="20261007025000 +0000">
+    <title lang="zh">UEFA Women's Champions League : Paris Vs Arsenal - MD2</title>
+    <desc>UEFA Women's Champions League 2026/27: Paris vs Arsenal - MD2</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007025000 +0000" stop="20261007044000 +0000">
+    <title lang="zh">UEL : Real Sociedad Vs Bournemouth - MD1</title>
+    <desc>UEFA Europa League 2026/27: Real Sociedad vs Bournemouth - MD1</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007044000 +0000" stop="20261007063000 +0000">
+    <title lang="zh">TotalEnergies CAF Confederation Cup : as Otoho Vs CR Belouizdad</title>
+    <desc>TotalEnergies CAF Confederation Cup 2025/26: AS Otoho vs CR Belouizdad</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007063000 +0000" stop="20261007093000 +0000">
+    <title lang="zh">La Vuelta 2026</title>
+    <desc>La Vuelta 2026: Stage 12: Vera - Calar Alto</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007093000 +0000" stop="20261007100000 +0000">
+    <title lang="zh">UEFA Women's Champions League Highlights 2026/27</title>
+    <desc>UEFA Women's Champions League Highlights 2026/27: MD2</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007100000 +0000" stop="20261007113000 +0000">
+    <title lang="zh">MUTV: the United Archives: Man Utd Vs Milan UCL 09/10</title>
+    <desc>MUTV: The United Archives: Man Utd vs Milan UCL 09/10</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007113000 +0000" stop="20261007130000 +0000">
+    <title lang="zh">MUTV: the United Archives: Liverpool Vs Man Utd FAC Final 95/96</title>
+    <desc>MUTV: The United Archives: Liverpool vs Man Utd FAC Final 95/96</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007130000 +0000" stop="20261007133000 +0000">
+    <title lang="zh">UEFA Women's Champions League Highlights 2026/27</title>
+    <desc>UEFA Women's Champions League Highlights 2026/27: MD2</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007133000 +0000" stop="20261007153000 +0000">
+    <title lang="zh">SailGP 2026</title>
+    <desc>SailGP 2026: Geneva, Switzerland Day 2</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007153000 +0000" stop="20261007160000 +0000">
+    <title lang="zh">Inside Sailing 2026</title>
+    <desc>Inside Sailing 2026: October</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007160000 +0000" stop="20261007180000 +0000">
+    <title lang="zh">TotalEnergies CAF Champions League : MC Alger Vs Sundowns</title>
+    <desc>TotalEnergies CAF Champions League 2025/26: MC Alger vs Sundowns</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007180000 +0000" stop="20261007200000 +0000">
+    <title lang="zh">TotalEnergies CAF Confederation Cup : Azam FC Vs as Maniema</title>
+    <desc>TotalEnergies CAF Confederation Cup 2025/26: Azam FC vs AS Maniema</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007200000 +0000" stop="20261007220000 +0000">
+    <title lang="zh">TotalEnergies Women's Africa Cup of Nations, Morocco : Malawi Vs Zambia</title>
+    <desc>TotalEnergies Women's Africa Cup of Nations, Morocco 2026: Malawi vs Zambia</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007220000 +0000" stop="20261007223000 +0000">
+    <title lang="zh">Mass Participation 2026</title>
+    <desc>Mass Participation 2026: Transvulcania</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261007223000 +0000" stop="20261008000000 +0000">
+    <title lang="zh">UCI World Tour 2026</title>
+    <desc>UCI World Tour 2026: Czech Tour - Stage 3</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008000000 +0000" stop="20261008010000 +0000">
+    <title lang="zh">UCI World Tour Highlights 2026</title>
+    <desc>UCI World Tour Highlights 2026: Tour of Hungary</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008010000 +0000" stop="20261008025000 +0000">
+    <title lang="zh">UEFA Women's Champions League : OL Lyonnes Vs Chelsea - MD2</title>
+    <desc>UEFA Women's Champions League 2026/27: OL Lyonnes vs Chelsea - MD2</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008025000 +0000" stop="20261008044000 +0000">
+    <title lang="zh">UEL : Leverkusen Vs Celje - MD1</title>
+    <desc>UEFA Europa League 2026/27: Leverkusen vs Celje - MD1</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008044000 +0000" stop="20261008063000 +0000">
+    <title lang="zh">TotalEnergies CAF Confederation Cup : Kaizer Chiefs Vs Zamalek</title>
+    <desc>TotalEnergies CAF Confederation Cup 2025/26: Kaizer Chiefs vs Zamalek</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008063000 +0000" stop="20261008093000 +0000">
+    <title lang="zh">La Vuelta 2026</title>
+    <desc>La Vuelta 2026: Stage 13: Almunecar - Loja</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008093000 +0000" stop="20261008100000 +0000">
+    <title lang="zh">Bundesliga Weekly 2026/27</title>
+    <desc>Bundesliga Weekly 2026/27: Episode Number 7</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008100000 +0000" stop="20261008114500 +0000">
+    <title lang="zh">UCL : Dortmund Vs Villarreal - MD1</title>
+    <desc>UEFA Champions League 2026/27: Dortmund vs Villarreal - MD1</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008114500 +0000" stop="20261008133000 +0000">
+    <title lang="zh">UCL : Lille Vs Real Betis - MD1</title>
+    <desc>UEFA Champions League 2026/27: Lille vs Real Betis - MD1</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008133000 +0000" stop="20261008140000 +0000">
+    <title lang="zh">Bundesliga Weekly 2026/27</title>
+    <desc>Bundesliga Weekly 2026/27: Episode Number 7</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008140000 +0000" stop="20261008143000 +0000">
+    <title lang="zh">UEFA Women's Champions League Highlights 2026/27</title>
+    <desc>UEFA Women's Champions League Highlights 2026/27: MD2</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008143000 +0000" stop="20261008150000 +0000">
+    <title lang="zh">MUTV: Specials</title>
+    <desc>MUTV: Specials: Born and Bred</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008150000 +0000" stop="20261008160000 +0000">
+    <title lang="zh">SailGP Highlights 2026</title>
+    <desc>SailGP Highlights 2026: Geneva, Switzerland</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008160000 +0000" stop="20261008180000 +0000">
+    <title lang="zh">TotalEnergies CAF Champions League : Power Dynamos Vs Pyramids FC</title>
+    <desc>TotalEnergies CAF Champions League 2025/26: Power Dynamos vs Pyramids FC</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008180000 +0000" stop="20261008200000 +0000">
+    <title lang="zh">TotalEnergies CAF Confederation Cup : as Otoho Vs Stellenbosch FC</title>
+    <desc>TotalEnergies CAF Confederation Cup 2025/26: AS Otoho vs Stellenbosch FC</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008200000 +0000" stop="20261008220000 +0000">
+    <title lang="zh">TotalEnergies Women's Africa Cup of Nations, Morocco : Mali Vs Ghana</title>
+    <desc>TotalEnergies Women's Africa Cup of Nations, Morocco 2026: Mali vs Ghana</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008220000 +0000" stop="20261008223000 +0000">
+    <title lang="zh">ONE Weekly 2026</title>
+    <desc>ONE Weekly 2026: Episode Number 41</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261008223000 +0000" stop="20261009000000 +0000">
+    <title lang="zh">UCI World Tour 2026</title>
+    <desc>UCI World Tour 2026: Czech Tour - Stage 4</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.beinsports3" start="20261009000000 +0000" stop="20261010000000 +0000">
+    <title lang="zh">UCI World Tour Highlights 2026</title>
+    <desc>UCI World Tour Highlights 2026: Tour Auvergne-Rhone-Alpes</desc>
+    <date>2026-10-09</date>
   </programme>
   <programme channel="mastro.cbssports" start="20261007030000 +0000" stop="20261007040000 +0000">
     <title lang="zh">Call It What You Want</title>
@@ -10965,6 +11263,121 @@
     <title lang="zh">Gallagher Premiership: Gloucester V Harlequins</title>
     <desc>All the action from the 2026/27 Gallagher Premiership England's top level of rugby union.</desc>
     <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007003000 +0000" stop="20261007013000 +0000">
+    <title lang="zh">2022: Pakistan vs. India; Asia Cup Highlights</title>
+    <desc>Highlights from the 2022 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007013000 +0000" stop="20261007020000 +0000">
+    <title lang="zh">Women's Field Hockey: India vs. Thailand; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007020000 +0000" stop="20261007023000 +0000">
+    <title lang="zh">India A vs. Sri Lanka A; ACC Women's Rising Stars 2026</title>
+    <desc>This is Sport - Sport Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007023000 +0000" stop="20261007030000 +0000">
+    <title lang="zh">Men's Field Hockey: South Korea vs. India; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007030000 +0000" stop="20261007033000 +0000">
+    <title lang="zh">Women's Cricket, Gold Medal Match - India vs. Sri Lanka; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007033000 +0000" stop="20261007040000 +0000">
+    <title lang="zh">Men's Cricket, Gold Medal Match: India vs Pakistan; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007040000 +0000" stop="20261007050000 +0000">
+    <title lang="zh">New Zealand v India: 3rd ODI; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007050000 +0000" stop="20261007053000 +0000">
+    <title lang="zh">Women's Cricket, Gold Medal Match - India vs. Sri Lanka; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007053000 +0000" stop="20261007060000 +0000">
+    <title lang="zh">Men's Cricket, Gold Medal Match: India vs Pakistan; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007060000 +0000" stop="20261007063000 +0000">
+    <title lang="zh">4th T20: England v India; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007063000 +0000" stop="20261007073000 +0000">
+    <title lang="zh">2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007073000 +0000" stop="20261007083000 +0000">
+    <title lang="zh">3rd T20: New Zealand vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007083000 +0000" stop="20261007090000 +0000">
+    <title lang="zh">India vs. Malaysia; ACC Men's U19 Asia Cup</title>
+    <desc>Amateur cricket teams compete against each other to emerge victorious and win the coveted title of the ACC Under-19 Asia Cup.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007090000 +0000" stop="20261007093000 +0000">
+    <title lang="zh">Women's Field Hockey: India vs. Japan; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007093000 +0000" stop="20261007103000 +0000">
+    <title lang="zh">2022: Pakistan vs. India; Asia Cup Highlights</title>
+    <desc>Highlights from the 2022 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007103000 +0000" stop="20261007113000 +0000">
+    <title lang="zh">2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007113000 +0000" stop="20261007120000 +0000">
+    <title lang="zh">4th T20: England v India; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007120000 +0000" stop="20261007123000 +0000">
+    <title lang="zh">Men's Field Hockey: South Korea vs. India; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007123000 +0000" stop="20261007133000 +0000">
+    <title lang="zh">2022: Pakistan vs. India; Asia Cup Highlights</title>
+    <desc>Highlights from the 2022 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007133000 +0000" stop="20261007140000 +0000">
+    <title lang="zh">4th T20: England v India; Women's T20 Cricket</title>
+    <desc>Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007140000 +0000" stop="20261007150000 +0000">
+    <title lang="zh">New Zealand v India: 3rd ODI; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007150000 +0000" stop="20261007153000 +0000">
+    <title lang="zh">Women's Cricket, Gold Medal Match - India vs. Sri Lanka; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261007153000 +0000" stop="20261008000000 +0000">
+    <title lang="zh">Men's Cricket, Gold Medal Match: India vs Pakistan; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-07</date>
   </programme>
   <programme channel="mastro.usanetwork" start="20261007000000 +0000" stop="20261007010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
@@ -34206,6 +34619,51 @@
     <desc>Program realiti kekeluargaan yang menggabungkan 5 buah keluarga selebriti. Setiap anak di dalam sebuah keluarga selebriti akan diberi tugasan. Saksikan bagaimana kerjasama yang ditujukkan mereka sekeluarga</desc>
     <date>2026-10-09</date>
   </programme>
+  <programme channel="mastro.romedynow" start="20261007011600 +0000" stop="20261007032600 +0000">
+    <title lang="zh">Sex and the City</title>
+    <desc>After Carrie and Big decide to get married, Big becomes nervous on their wedding day when Miranda, his lover's friend, tells him about the reality of marriage out of frustration.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007032600 +0000" stop="20261007045800 +0000">
+    <title lang="zh">Carpool</title>
+    <desc>Daniel Miller has to take care of the carpool for his sons and the neighbourhood school children when his wife falls sick. However, in the course of the day, he finds himself a victim of a robbery.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007045800 +0000" stop="20261007065300 +0000">
+    <title lang="zh">Miss Congeniality 2: Armed and Fabulous</title>
+    <desc>Gracie Hart gives up being an FBI field agent to become the public face of the bureau. However, when two of her friends get kidnapped in Las Vegas, she sets out to rescue them, defying direct orders.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007065300 +0000" stop="20261007083900 +0000">
+    <title lang="zh">Letters to Juliet</title>
+    <desc>Sophie, an aspiring writer assisted by the secretaries of Juliet, sets out to unite Claire with her long-lost love. While on her journey, she finds herself drawn to Claire's grandson.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007083900 +0000" stop="20261007101600 +0000">
+    <title lang="zh">America's Sweethearts</title>
+    <desc>When Kiki helps facilitate a final public appearance between her famous boss and her estranged husband, she experiences an unexpected spark of attraction and falls for him.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007101600 +0000" stop="20261007120200 +0000">
+    <title lang="zh">The Bounty Hunter</title>
+    <desc>Milo is hired to track down his ex-wife, Nicole, for skipping bail. Subsequently, a routine retrieval turns into a deadly game of cat and mouse, forcing them both to go on the run together.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007120200 +0000" stop="20261007140000 +0000">
+    <title lang="zh">Long Shot</title>
+    <desc>Fred Flarsky crosses paths with his childhood crush, who is now an influential person. Later, when she hires him as her speechwriter, they fall in love.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007140000 +0000" stop="20261007153000 +0000">
+    <title lang="zh">Laws of Attraction</title>
+    <desc>New-York based lawyers Audrey and Daniel, who often compete against each other, get married. However, they find it difficult to learn to draw lines between their personal and professional lives.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261007153000 +0000" stop="20261008000000 +0000">
+    <title lang="zh">Mune</title>
+    <desc>Necross, the former guardian of the sun, turns evil and steals it. Now, Mune, Glim and Sohone, three friends, must work together to retrieve it from him.</desc>
+    <date>2026-10-07</date>
+  </programme>
   <programme channel="mastro.rockaction" start="20261007001500 +0000" stop="20261007015500 +0000">
     <title lang="zh">Tai Chi Master</title>
     <desc>Two ex-Shaolin friends split amid rebellion: one becomes a ruthless commander, while the betrayed other finds strength and peace through Tai Chi.</desc>
@@ -36786,441 +37244,6 @@
     <desc>A look back at some moments from Season 6.</desc>
     <date>2026-10-09</date>
   </programme>
-  <programme channel="mastro.hgtv" start="20261007002000 +0000" stop="20261007004500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep07</title>
-    <desc>Tarek and Christina take over a project in Highland Park, California, that the previous owner abandoned mid-flip.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007004500 +0000" stop="20261007011000 +0000">
-    <title lang="zh">House Hunters International S131 Ep03</title>
-    <desc>A Seattle couple has saved and sold everything in order to leave their jobs and head south of the border to Riviera Maya, Mexico</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007011000 +0000" stop="20261007013500 +0000">
-    <title lang="zh">House Hunters S138 Ep03</title>
-    <desc>A military couple debates between a brick ranch and a charming craftsman while searching for the perfect home in Little Rock, AR.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007013500 +0000" stop="20261007020000 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep09</title>
-    <desc>A relocation expert helps a retired military officer search for affordable paradise properties in Guanacaste, Costa Rica.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007020000 +0000" stop="20261007022500 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep10</title>
-    <desc>After a lifestyle that led to illness in the US, a woman's ready to reset in nature in the beautiful Panama Oeste province in Panama.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007022500 +0000" stop="20261007031500 +0000">
-    <title lang="zh">Building Roots S1 Ep01</title>
-    <desc>Ben and Cristi Dozier incorporate nature into their design as they renovate a family home that borders the national forest along the Rio Blanco River.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007031500 +0000" stop="20261007034000 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep17</title>
-    <desc>Second chances and mulligans, everyone needs one now and again, these neighbours included. Unfortunately, cameras were rolling the first time.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007034000 +0000" stop="20261007040500 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep04</title>
-    <desc>The doorbell camera becomes an interactive tool for comedic communication when friends, neighbours, and strangers talk to the camera.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007040500 +0000" stop="20261007045500 +0000">
-    <title lang="zh">Bargain Block S4 Ep02</title>
-    <desc>Keith and Evan play fairy godmother and rewrite a Cinderella fairy story. They turn a crumbling house into a Detroit fairytale dream home.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007045500 +0000" stop="20261007054500 +0000">
-    <title lang="zh">Izzy Does it S1 Ep05</title>
-    <desc>Overwhelmed with their kids' toys and clutter, a family calls on Izzy to create a modern zen space. Plus, he consults Tarek El Moussa for advice.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007054500 +0000" stop="20261007061000 +0000">
-    <title lang="zh">House Hunters International S203 Ep10</title>
-    <desc>A North Carolina couple heads to Amsterdam for her dream job, but with a baby on the way, house hunting abroad may be more than they bargained for!</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007061000 +0000" stop="20261007063500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep07</title>
-    <desc>Tarek and Christina take over a project in Highland Park, California, that the previous owner abandoned mid-flip.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007063500 +0000" stop="20261007070000 +0000">
-    <title lang="zh">House Hunters International S131 Ep05</title>
-    <desc>A Utah couple with a young baby decides to move to Timaru, New Zealand, for a more practical, family-focused lifestyle.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007070000 +0000" stop="20261007072500 +0000">
-    <title lang="zh">House Hunters S138 Ep06</title>
-    <desc>A New Jersey man and a California woman look for their new home in Kansas City but can't decide whose home coast should influence the house's style.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007072500 +0000" stop="20261007075000 +0000">
-    <title lang="zh">House Hunters S188 Ep02</title>
-    <desc>A law school grad desires a fixer-upper in Orlando, FL, but her mum thinks a project is a bad idea.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007075000 +0000" stop="20261007081500 +0000">
-    <title lang="zh">My Lottery Dream Home S14 Ep09</title>
-    <desc>David helps a Cincinnati couple who won $5 million on a scratcher find the lake house of their dreams on Lake Cumberland, Kentucky.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007081500 +0000" stop="20261007084000 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep17</title>
-    <desc>Second chances and mulligans, everyone needs one now and again, these neighbours included. Unfortunately, cameras were rolling the first time.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007084000 +0000" stop="20261007090500 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep04</title>
-    <desc>The doorbell camera becomes an interactive tool for comedic communication when friends, neighbours, and strangers talk to the camera.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007090500 +0000" stop="20261007095500 +0000">
-    <title lang="zh">Bargain Block S4 Ep02</title>
-    <desc>Keith and Evan play fairy godmother and rewrite a Cinderella fairy story. They turn a crumbling house into a Detroit fairytale dream home.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007095500 +0000" stop="20261007102000 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep09</title>
-    <desc>A relocation expert helps a retired military officer search for affordable paradise properties in Guanacaste, Costa Rica.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007102000 +0000" stop="20261007104500 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep10</title>
-    <desc>After a lifestyle that led to illness in the US, a woman's ready to reset in nature in the beautiful Panama Oeste province in Panama.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007104500 +0000" stop="20261007113500 +0000">
-    <title lang="zh">Izzy Does it S1 Ep08</title>
-    <desc>Displaced by a house flood, Izzy looks to get a family back in their home in 11 weeks. The Battres team takes on a flip with a tight completion goal.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007113500 +0000" stop="20261007120000 +0000">
-    <title lang="zh">House Hunters International S204 Ep03</title>
-    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007120000 +0000" stop="20261007122500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep08</title>
-    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007122500 +0000" stop="20261007125000 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep18</title>
-    <desc>Crazy chickens, uncontrollable golfcarts, embarrassing parents, wacky kids, practical jokes, runaway cows. It's just another day in the neighbourhood.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007125000 +0000" stop="20261007131500 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep05</title>
-    <desc>A split second here. Some poor judgment there. With near misses and averted disasters, sometimes the line between comedy and tragedy is thin.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007131500 +0000" stop="20261007134000 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep11</title>
-    <desc>A Michigan couple's out to find a bargain dream home in the laid-back tropical Limon Province of Costa Rica.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007134000 +0000" stop="20261007140500 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep12</title>
-    <desc>Two friends are ready to explore beach life and hunt for a bargain dream home in the surfer's paradise of Puntarenas, Costa Rica.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007140500 +0000" stop="20261007145500 +0000">
-    <title lang="zh">Bargain Block S4 Ep03</title>
-    <desc>Keith, Evan and Shea bring the Las Vegas strip to Detroit! They infuse elements of the casinos' flash and fun into a dilapidated home.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007145500 +0000" stop="20261007152000 +0000">
-    <title lang="zh">House Hunters International S204 Ep03</title>
-    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007152000 +0000" stop="20261007154500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep08</title>
-    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007154500 +0000" stop="20261007161000 +0000">
-    <title lang="zh">House Hunters S1 Ep10</title>
-    <desc>Now that remote working is an option, an Iowa couple searches for a home along the warm waters of Marathon, Florida.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007161000 +0000" stop="20261007163500 +0000">
-    <title lang="zh">My Lottery Dream Home S13 Ep11</title>
-    <desc>After a California native wins a million dollars in Florida, David is enlisted to find a home for her daughter's family so they can finally relocate.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007163500 +0000" stop="20261007170000 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep11</title>
-    <desc>A Michigan couple's out to find a bargain dream home in the laid-back tropical Limon Province of Costa Rica.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007170000 +0000" stop="20261007172500 +0000">
-    <title lang="zh">World's Bargain Dream Homes S1 Ep12</title>
-    <desc>Two friends are ready to explore beach life and hunt for a bargain dream home in the surfer's paradise of Puntarenas, Costa Rica.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007172500 +0000" stop="20261007181500 +0000">
-    <title lang="zh">Bargain Block S4 Ep03</title>
-    <desc>Keith, Evan and Shea bring the Las Vegas strip to Detroit! They infuse elements of the casinos' flash and fun into a dilapidated home.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007181500 +0000" stop="20261007184000 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep18</title>
-    <desc>Crazy chickens, uncontrollable golfcarts, embarrassing parents, wacky kids, practical jokes, runaway cows. It's just another day in the neighbourhood.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007184000 +0000" stop="20261007190500 +0000">
-    <title lang="zh">Neighbourhood Watch S1 Ep05</title>
-    <desc>A split second here. Some poor judgment there. With near misses and averted disasters, sometimes the line between comedy and tragedy is thin.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007190500 +0000" stop="20261007195500 +0000">
-    <title lang="zh">Farmhouse Fixer S1 Ep06</title>
-    <desc>Jon and Kristina take on their biggest renovation when they revamp a horse farm. With so many styles to blend, can they please their picky clients?</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007195500 +0000" stop="20261007204500 +0000">
-    <title lang="zh">Building Roots S1 Ep01</title>
-    <desc>Ben and Cristi Dozier incorporate nature into their design as they renovate a family home that borders the national forest along the Rio Blanco River.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007204500 +0000" stop="20261007213500 +0000">
-    <title lang="zh">Izzy Does it S1 Ep08</title>
-    <desc>Displaced by a house flood, Izzy looks to get a family back in their home in 11 weeks. The Battres team takes on a flip with a tight completion goal.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007213500 +0000" stop="20261007220500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep08</title>
-    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007220500 +0000" stop="20261007230500 +0000">
-    <title lang="zh">Renovation Aloha S1 Ep08</title>
-    <desc>Kamohai and Tristyn put it all on the line as they attempt their priciest flip to date, and things get off to a rocky start.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007230500 +0000" stop="20261007233000 +0000">
-    <title lang="zh">House Hunters S1 Ep10</title>
-    <desc>Now that remote working is an option, an Iowa couple searches for a home along the warm waters of Marathon, Florida.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007233000 +0000" stop="20261007235500 +0000">
-    <title lang="zh">My Lottery Dream Home S13 Ep11</title>
-    <desc>After a California native wins a million dollars in Florida, David is enlisted to find a home for her daughter's family so they can finally relocate.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261007235500 +0000" stop="20261008000000 +0000">
-    <title lang="zh">House Hunters International S204 Ep03</title>
-    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008002000 +0000" stop="20261008004500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep08</title>
-    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008004500 +0000" stop="20261008011000 +0000">
-    <title lang="zh">House Hunters International S132 Ep01</title>
-    <desc>A creative professional is moving her family to Ho Chi Minh City for a new job.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008011000 +0000" stop="20261008013500 +0000">
-    <title lang="zh">House Hunters S132 Ep03</title>
-    <desc>An engaged couple in Buffalo is ready to move into a place of their own.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008013500 +0000" stop="20261008022500 +0000">
-    <title lang="zh">Renovation Aloha S2 Ep05</title>
-    <desc>The Kalama's purchase a fixer-upper in their Kailua hometown, aiming to help a family under a time-crunch.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008022500 +0000" stop="20261008031500 +0000">
-    <title lang="zh">Farmhouse Fixer S2 Ep01</title>
-    <desc>Jon Knight picks up a 110-year-old house that's been in his family for 20 years and moves it! Also, the farm ducks get a floating duck house.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008031500 +0000" stop="20261008040500 +0000">
-    <title lang="zh">Home Town Takeover S2 Ep05</title>
-    <desc>Dave and Jenny focus on a young couple with a trendy clothing business while Ben and Erin work on a special project to lure people off the highway.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008040500 +0000" stop="20261008045500 +0000">
-    <title lang="zh">Beachfront Bargain Hunt Renovation S9 Ep12</title>
-    <desc>A couple partners with their daughter to look for a home along New Jersey's Barnegat Bay to transform into a getaway to enjoy with their family.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008045500 +0000" stop="20261008052000 +0000">
-    <title lang="zh">Homes Gone Wild S1 Ep04</title>
-    <desc>Jack goes to St. Louis where a Catholic church has undergone a conversion, and to the California desert where a colour burst has recently been sold.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008052000 +0000" stop="20261008054500 +0000">
-    <title lang="zh">Homes Gone Wild S1 Ep03</title>
-    <desc>Jack visits an unassuming home which hides pirate's treasure, the unique architecture of a house built on a bridge, and a historic home in New Orleans</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008054500 +0000" stop="20261008061000 +0000">
-    <title lang="zh">House Hunters International S204 Ep03</title>
-    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008061000 +0000" stop="20261008063500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep08</title>
-    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008063500 +0000" stop="20261008070000 +0000">
-    <title lang="zh">House Hunters International S132 Ep03</title>
-    <desc>An unexpected job offer in Melbourne, Australia, has the potential to open doors for an Arkansas couple</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008070000 +0000" stop="20261008072500 +0000">
-    <title lang="zh">House Hunters S132 Ep05</title>
-    <desc>A couple looks for a vacation home in Destin, FL, but has different ideas on what kind of house to buy.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008072500 +0000" stop="20261008075000 +0000">
-    <title lang="zh">House Hunters S1 Ep10</title>
-    <desc>Now that remote working is an option, an Iowa couple searches for a home along the warm waters of Marathon, Florida.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008075000 +0000" stop="20261008081500 +0000">
-    <title lang="zh">My Lottery Dream Home S13 Ep11</title>
-    <desc>After a California native wins a million dollars in Florida, David is enlisted to find a home for her daughter's family so they can finally relocate.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008081500 +0000" stop="20261008090500 +0000">
-    <title lang="zh">Home Town Takeover S2 Ep05</title>
-    <desc>Dave and Jenny focus on a young couple with a trendy clothing business while Ben and Erin work on a special project to lure people off the highway.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008090500 +0000" stop="20261008095500 +0000">
-    <title lang="zh">Beachfront Bargain Hunt Renovation S9 Ep12</title>
-    <desc>A couple partners with their daughter to look for a home along New Jersey's Barnegat Bay to transform into a getaway to enjoy with their family.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008095500 +0000" stop="20261008104500 +0000">
-    <title lang="zh">Renovation Aloha S2 Ep05</title>
-    <desc>The Kalama's purchase a fixer-upper in their Kailua hometown, aiming to help a family under a time-crunch.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008104500 +0000" stop="20261008111000 +0000">
-    <title lang="zh">Homes Gone Wild S1 Ep02</title>
-    <desc>Jack tours a mountaintop gem in California that literally brings the outside in.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008111000 +0000" stop="20261008113500 +0000">
-    <title lang="zh">Homes Gone Wild S1 Ep07</title>
-    <desc>Jack's first stop on his wild home journey is a listing in Santa Barbara, California, that's inspired by marine biology.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008113500 +0000" stop="20261008120000 +0000">
-    <title lang="zh">House Hunters International S203 Ep11</title>
-    <desc>A detail-oriented attorney looks to decompress and find the perfect place to relax and entertain by the water in pricey Auckland, New Zealand.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008120000 +0000" stop="20261008122500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep09</title>
-    <desc>In order to take advantage of a hot market, Tarek and Christina plan a quick flip for a small house on a big lot.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008122500 +0000" stop="20261008131500 +0000">
-    <title lang="zh">Home Town Takeover S2 Ep06</title>
-    <desc>In the final sprint to the finish line, Dave and Jenny renovate the home of a generous family while Ben and Erin revitalize a downtown park.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008131500 +0000" stop="20261008140500 +0000">
-    <title lang="zh">Renovation Aloha S2 Ep06</title>
-    <desc>Kamohai and Tristyn expand their business to the Big Island with a reno in Kailua-Kona, but tensions rise as a new contractor doesn't show up to work.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008140500 +0000" stop="20261008145500 +0000">
-    <title lang="zh">Lakefront Bargain Hunt Renovation S4 Ep01</title>
-    <desc>Minnesota is known as the Land of 10,000 Lakes, but a couple needs just the right one where they can renovate the perfect lakeside retreat.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008145500 +0000" stop="20261008152000 +0000">
-    <title lang="zh">House Hunters International S203 Ep11</title>
-    <desc>A detail-oriented attorney looks to decompress and find the perfect place to relax and entertain by the water in pricey Auckland, New Zealand.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008152000 +0000" stop="20261008154500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep09</title>
-    <desc>In order to take advantage of a hot market, Tarek and Christina plan a quick flip for a small house on a big lot.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008154500 +0000" stop="20261008161000 +0000">
-    <title lang="zh">House Hunters S1 Ep12</title>
-    <desc>A couple tasks estate agent and psychic Larry with helping them find their first home in Toronto. They're looking for a place that fits spiritually.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008161000 +0000" stop="20261008163500 +0000">
-    <title lang="zh">My Lottery Dream Home S13 Ep12</title>
-    <desc>David helps a couple who received an inheritance begin a new chapter by searching for homes in the picturesque town of Bath, Maine.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008163500 +0000" stop="20261008172500 +0000">
-    <title lang="zh">Renovation Aloha S2 Ep06</title>
-    <desc>Kamohai and Tristyn expand their business to the Big Island with a reno in Kailua-Kona, but tensions rise as a new contractor doesn't show up to work.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008172500 +0000" stop="20261008181500 +0000">
-    <title lang="zh">Lakefront Bargain Hunt Renovation S4 Ep01</title>
-    <desc>Minnesota is known as the Land of 10,000 Lakes, but a couple needs just the right one where they can renovate the perfect lakeside retreat.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008181500 +0000" stop="20261008190500 +0000">
-    <title lang="zh">Home Town Takeover S2 Ep06</title>
-    <desc>In the final sprint to the finish line, Dave and Jenny renovate the home of a generous family while Ben and Erin revitalize a downtown park.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008190500 +0000" stop="20261008195500 +0000">
-    <title lang="zh">Renovation Aloha S1 Ep08</title>
-    <desc>Kamohai and Tristyn put it all on the line as they attempt their priciest flip to date, and things get off to a rocky start.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008195500 +0000" stop="20261008204500 +0000">
-    <title lang="zh">Farmhouse Fixer S2 Ep01</title>
-    <desc>Jon Knight picks up a 110-year-old house that's been in his family for 20 years and moves it! Also, the farm ducks get a floating duck house.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008204500 +0000" stop="20261008211000 +0000">
-    <title lang="zh">Homes Gone Wild S1 Ep02</title>
-    <desc>Jack tours a mountaintop gem in California that literally brings the outside in.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008211000 +0000" stop="20261008213500 +0000">
-    <title lang="zh">Homes Gone Wild S1 Ep07</title>
-    <desc>Jack's first stop on his wild home journey is a listing in Santa Barbara, California, that's inspired by marine biology.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008213500 +0000" stop="20261008220500 +0000">
-    <title lang="zh">Flip or Flop S10 Ep09</title>
-    <desc>In order to take advantage of a hot market, Tarek and Christina plan a quick flip for a small house on a big lot.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008220500 +0000" stop="20261008230500 +0000">
-    <title lang="zh">Barbie Dreamhouse Challenge S1 Ep02</title>
-    <desc>The four finalist spaces compete at a 'Pink Carpet' event. One space is voted the winner, and a fan wins a stay in the fabulous DreamHouse!</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008230500 +0000" stop="20261008233000 +0000">
-    <title lang="zh">House Hunters S1 Ep12</title>
-    <desc>A couple tasks estate agent and psychic Larry with helping them find their first home in Toronto. They're looking for a place that fits spiritually.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008233000 +0000" stop="20261008235500 +0000">
-    <title lang="zh">My Lottery Dream Home S13 Ep12</title>
-    <desc>David helps a couple who received an inheritance begin a new chapter by searching for homes in the picturesque town of Bath, Maine.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.hgtv" start="20261008235500 +0000" stop="20261009000000 +0000">
-    <title lang="zh">House Hunters International S203 Ep11</title>
-    <desc>A detail-oriented attorney looks to decompress and find the perfect place to relax and entertain by the water in pricey Auckland, New Zealand.</desc>
-    <date>2026-10-08</date>
-  </programme>
   <programme channel="mastro.prima" start="20261007000000 +0000" stop="20261007003000 +0000">
     <title lang="zh">Perang Periuk Ep03</title>
     <desc>Satu-satunya menantu lelaki bertemu dan beradu nasib bersama ibu mertua, iaitu Encik Ross dan Puan Maimunah.</desc>
@@ -37700,6 +37723,441 @@
     <title lang="zh">AstroBiz Mencari Kedai Lejen: Restoran Mahmudah Maju</title>
     <desc>AstroBiz membawa kita mengenali Restoran Mahmudah Maju dan perjalanan di sebalik kejayaannya.</desc>
     <date>2026-10-09</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007002000 +0000" stop="20261007004500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep07</title>
+    <desc>Tarek and Christina take over a project in Highland Park, California, that the previous owner abandoned mid-flip.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007004500 +0000" stop="20261007011000 +0000">
+    <title lang="zh">House Hunters International S131 Ep03</title>
+    <desc>A Seattle couple has saved and sold everything in order to leave their jobs and head south of the border to Riviera Maya, Mexico</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007011000 +0000" stop="20261007013500 +0000">
+    <title lang="zh">House Hunters S138 Ep03</title>
+    <desc>A military couple debates between a brick ranch and a charming craftsman while searching for the perfect home in Little Rock, AR.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007013500 +0000" stop="20261007020000 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep09</title>
+    <desc>A relocation expert helps a retired military officer search for affordable paradise properties in Guanacaste, Costa Rica.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007020000 +0000" stop="20261007022500 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep10</title>
+    <desc>After a lifestyle that led to illness in the US, a woman's ready to reset in nature in the beautiful Panama Oeste province in Panama.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007022500 +0000" stop="20261007031500 +0000">
+    <title lang="zh">Building Roots S1 Ep01</title>
+    <desc>Ben and Cristi Dozier incorporate nature into their design as they renovate a family home that borders the national forest along the Rio Blanco River.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007031500 +0000" stop="20261007034000 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep17</title>
+    <desc>Second chances and mulligans, everyone needs one now and again, these neighbours included. Unfortunately, cameras were rolling the first time.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007034000 +0000" stop="20261007040500 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep04</title>
+    <desc>The doorbell camera becomes an interactive tool for comedic communication when friends, neighbours, and strangers talk to the camera.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007040500 +0000" stop="20261007045500 +0000">
+    <title lang="zh">Bargain Block S4 Ep02</title>
+    <desc>Keith and Evan play fairy godmother and rewrite a Cinderella fairy story. They turn a crumbling house into a Detroit fairytale dream home.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007045500 +0000" stop="20261007054500 +0000">
+    <title lang="zh">Izzy Does it S1 Ep05</title>
+    <desc>Overwhelmed with their kids' toys and clutter, a family calls on Izzy to create a modern zen space. Plus, he consults Tarek El Moussa for advice.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007054500 +0000" stop="20261007061000 +0000">
+    <title lang="zh">House Hunters International S203 Ep10</title>
+    <desc>A North Carolina couple heads to Amsterdam for her dream job, but with a baby on the way, house hunting abroad may be more than they bargained for!</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007061000 +0000" stop="20261007063500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep07</title>
+    <desc>Tarek and Christina take over a project in Highland Park, California, that the previous owner abandoned mid-flip.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007063500 +0000" stop="20261007070000 +0000">
+    <title lang="zh">House Hunters International S131 Ep05</title>
+    <desc>A Utah couple with a young baby decides to move to Timaru, New Zealand, for a more practical, family-focused lifestyle.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007070000 +0000" stop="20261007072500 +0000">
+    <title lang="zh">House Hunters S138 Ep06</title>
+    <desc>A New Jersey man and a California woman look for their new home in Kansas City but can't decide whose home coast should influence the house's style.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007072500 +0000" stop="20261007075000 +0000">
+    <title lang="zh">House Hunters S188 Ep02</title>
+    <desc>A law school grad desires a fixer-upper in Orlando, FL, but her mum thinks a project is a bad idea.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007075000 +0000" stop="20261007081500 +0000">
+    <title lang="zh">My Lottery Dream Home S14 Ep09</title>
+    <desc>David helps a Cincinnati couple who won $5 million on a scratcher find the lake house of their dreams on Lake Cumberland, Kentucky.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007081500 +0000" stop="20261007084000 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep17</title>
+    <desc>Second chances and mulligans, everyone needs one now and again, these neighbours included. Unfortunately, cameras were rolling the first time.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007084000 +0000" stop="20261007090500 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep04</title>
+    <desc>The doorbell camera becomes an interactive tool for comedic communication when friends, neighbours, and strangers talk to the camera.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007090500 +0000" stop="20261007095500 +0000">
+    <title lang="zh">Bargain Block S4 Ep02</title>
+    <desc>Keith and Evan play fairy godmother and rewrite a Cinderella fairy story. They turn a crumbling house into a Detroit fairytale dream home.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007095500 +0000" stop="20261007102000 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep09</title>
+    <desc>A relocation expert helps a retired military officer search for affordable paradise properties in Guanacaste, Costa Rica.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007102000 +0000" stop="20261007104500 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep10</title>
+    <desc>After a lifestyle that led to illness in the US, a woman's ready to reset in nature in the beautiful Panama Oeste province in Panama.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007104500 +0000" stop="20261007113500 +0000">
+    <title lang="zh">Izzy Does it S1 Ep08</title>
+    <desc>Displaced by a house flood, Izzy looks to get a family back in their home in 11 weeks. The Battres team takes on a flip with a tight completion goal.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007113500 +0000" stop="20261007120000 +0000">
+    <title lang="zh">House Hunters International S204 Ep03</title>
+    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007120000 +0000" stop="20261007122500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep08</title>
+    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007122500 +0000" stop="20261007125000 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep18</title>
+    <desc>Crazy chickens, uncontrollable golfcarts, embarrassing parents, wacky kids, practical jokes, runaway cows. It's just another day in the neighbourhood.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007125000 +0000" stop="20261007131500 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep05</title>
+    <desc>A split second here. Some poor judgment there. With near misses and averted disasters, sometimes the line between comedy and tragedy is thin.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007131500 +0000" stop="20261007134000 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep11</title>
+    <desc>A Michigan couple's out to find a bargain dream home in the laid-back tropical Limon Province of Costa Rica.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007134000 +0000" stop="20261007140500 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep12</title>
+    <desc>Two friends are ready to explore beach life and hunt for a bargain dream home in the surfer's paradise of Puntarenas, Costa Rica.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007140500 +0000" stop="20261007145500 +0000">
+    <title lang="zh">Bargain Block S4 Ep03</title>
+    <desc>Keith, Evan and Shea bring the Las Vegas strip to Detroit! They infuse elements of the casinos' flash and fun into a dilapidated home.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007145500 +0000" stop="20261007152000 +0000">
+    <title lang="zh">House Hunters International S204 Ep03</title>
+    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007152000 +0000" stop="20261007154500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep08</title>
+    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007154500 +0000" stop="20261007161000 +0000">
+    <title lang="zh">House Hunters S1 Ep10</title>
+    <desc>Now that remote working is an option, an Iowa couple searches for a home along the warm waters of Marathon, Florida.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007161000 +0000" stop="20261007163500 +0000">
+    <title lang="zh">My Lottery Dream Home S13 Ep11</title>
+    <desc>After a California native wins a million dollars in Florida, David is enlisted to find a home for her daughter's family so they can finally relocate.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007163500 +0000" stop="20261007170000 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep11</title>
+    <desc>A Michigan couple's out to find a bargain dream home in the laid-back tropical Limon Province of Costa Rica.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007170000 +0000" stop="20261007172500 +0000">
+    <title lang="zh">World's Bargain Dream Homes S1 Ep12</title>
+    <desc>Two friends are ready to explore beach life and hunt for a bargain dream home in the surfer's paradise of Puntarenas, Costa Rica.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007172500 +0000" stop="20261007181500 +0000">
+    <title lang="zh">Bargain Block S4 Ep03</title>
+    <desc>Keith, Evan and Shea bring the Las Vegas strip to Detroit! They infuse elements of the casinos' flash and fun into a dilapidated home.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007181500 +0000" stop="20261007184000 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep18</title>
+    <desc>Crazy chickens, uncontrollable golfcarts, embarrassing parents, wacky kids, practical jokes, runaway cows. It's just another day in the neighbourhood.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007184000 +0000" stop="20261007190500 +0000">
+    <title lang="zh">Neighbourhood Watch S1 Ep05</title>
+    <desc>A split second here. Some poor judgment there. With near misses and averted disasters, sometimes the line between comedy and tragedy is thin.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007190500 +0000" stop="20261007195500 +0000">
+    <title lang="zh">Farmhouse Fixer S1 Ep06</title>
+    <desc>Jon and Kristina take on their biggest renovation when they revamp a horse farm. With so many styles to blend, can they please their picky clients?</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007195500 +0000" stop="20261007204500 +0000">
+    <title lang="zh">Building Roots S1 Ep01</title>
+    <desc>Ben and Cristi Dozier incorporate nature into their design as they renovate a family home that borders the national forest along the Rio Blanco River.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007204500 +0000" stop="20261007213500 +0000">
+    <title lang="zh">Izzy Does it S1 Ep08</title>
+    <desc>Displaced by a house flood, Izzy looks to get a family back in their home in 11 weeks. The Battres team takes on a flip with a tight completion goal.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007213500 +0000" stop="20261007220500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep08</title>
+    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007220500 +0000" stop="20261007230500 +0000">
+    <title lang="zh">Renovation Aloha S1 Ep08</title>
+    <desc>Kamohai and Tristyn put it all on the line as they attempt their priciest flip to date, and things get off to a rocky start.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007230500 +0000" stop="20261007233000 +0000">
+    <title lang="zh">House Hunters S1 Ep10</title>
+    <desc>Now that remote working is an option, an Iowa couple searches for a home along the warm waters of Marathon, Florida.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007233000 +0000" stop="20261007235500 +0000">
+    <title lang="zh">My Lottery Dream Home S13 Ep11</title>
+    <desc>After a California native wins a million dollars in Florida, David is enlisted to find a home for her daughter's family so they can finally relocate.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261007235500 +0000" stop="20261008000000 +0000">
+    <title lang="zh">House Hunters International S204 Ep03</title>
+    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
+    <date>2026-10-07</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008002000 +0000" stop="20261008004500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep08</title>
+    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008004500 +0000" stop="20261008011000 +0000">
+    <title lang="zh">House Hunters International S132 Ep01</title>
+    <desc>A creative professional is moving her family to Ho Chi Minh City for a new job.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008011000 +0000" stop="20261008013500 +0000">
+    <title lang="zh">House Hunters S132 Ep03</title>
+    <desc>An engaged couple in Buffalo is ready to move into a place of their own.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008013500 +0000" stop="20261008022500 +0000">
+    <title lang="zh">Renovation Aloha S2 Ep05</title>
+    <desc>The Kalama's purchase a fixer-upper in their Kailua hometown, aiming to help a family under a time-crunch.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008022500 +0000" stop="20261008031500 +0000">
+    <title lang="zh">Farmhouse Fixer S2 Ep01</title>
+    <desc>Jon Knight picks up a 110-year-old house that's been in his family for 20 years and moves it! Also, the farm ducks get a floating duck house.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008031500 +0000" stop="20261008040500 +0000">
+    <title lang="zh">Home Town Takeover S2 Ep05</title>
+    <desc>Dave and Jenny focus on a young couple with a trendy clothing business while Ben and Erin work on a special project to lure people off the highway.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008040500 +0000" stop="20261008045500 +0000">
+    <title lang="zh">Beachfront Bargain Hunt Renovation S9 Ep12</title>
+    <desc>A couple partners with their daughter to look for a home along New Jersey's Barnegat Bay to transform into a getaway to enjoy with their family.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008045500 +0000" stop="20261008052000 +0000">
+    <title lang="zh">Homes Gone Wild S1 Ep04</title>
+    <desc>Jack goes to St. Louis where a Catholic church has undergone a conversion, and to the California desert where a colour burst has recently been sold.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008052000 +0000" stop="20261008054500 +0000">
+    <title lang="zh">Homes Gone Wild S1 Ep03</title>
+    <desc>Jack visits an unassuming home which hides pirate's treasure, the unique architecture of a house built on a bridge, and a historic home in New Orleans</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008054500 +0000" stop="20261008061000 +0000">
+    <title lang="zh">House Hunters International S204 Ep03</title>
+    <desc>A Canadian teacher relocates to Bangkok for a year-long teaching stint, and her husband's along for his first big-city, Asian experience.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008061000 +0000" stop="20261008063500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep08</title>
+    <desc>Tarek and Christina head to Huntington Beach, California, to check out a large home in a nice neighbourhood.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008063500 +0000" stop="20261008070000 +0000">
+    <title lang="zh">House Hunters International S132 Ep03</title>
+    <desc>An unexpected job offer in Melbourne, Australia, has the potential to open doors for an Arkansas couple</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008070000 +0000" stop="20261008072500 +0000">
+    <title lang="zh">House Hunters S132 Ep05</title>
+    <desc>A couple looks for a vacation home in Destin, FL, but has different ideas on what kind of house to buy.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008072500 +0000" stop="20261008075000 +0000">
+    <title lang="zh">House Hunters S1 Ep10</title>
+    <desc>Now that remote working is an option, an Iowa couple searches for a home along the warm waters of Marathon, Florida.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008075000 +0000" stop="20261008081500 +0000">
+    <title lang="zh">My Lottery Dream Home S13 Ep11</title>
+    <desc>After a California native wins a million dollars in Florida, David is enlisted to find a home for her daughter's family so they can finally relocate.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008081500 +0000" stop="20261008090500 +0000">
+    <title lang="zh">Home Town Takeover S2 Ep05</title>
+    <desc>Dave and Jenny focus on a young couple with a trendy clothing business while Ben and Erin work on a special project to lure people off the highway.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008090500 +0000" stop="20261008095500 +0000">
+    <title lang="zh">Beachfront Bargain Hunt Renovation S9 Ep12</title>
+    <desc>A couple partners with their daughter to look for a home along New Jersey's Barnegat Bay to transform into a getaway to enjoy with their family.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008095500 +0000" stop="20261008104500 +0000">
+    <title lang="zh">Renovation Aloha S2 Ep05</title>
+    <desc>The Kalama's purchase a fixer-upper in their Kailua hometown, aiming to help a family under a time-crunch.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008104500 +0000" stop="20261008111000 +0000">
+    <title lang="zh">Homes Gone Wild S1 Ep02</title>
+    <desc>Jack tours a mountaintop gem in California that literally brings the outside in.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008111000 +0000" stop="20261008113500 +0000">
+    <title lang="zh">Homes Gone Wild S1 Ep07</title>
+    <desc>Jack's first stop on his wild home journey is a listing in Santa Barbara, California, that's inspired by marine biology.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008113500 +0000" stop="20261008120000 +0000">
+    <title lang="zh">House Hunters International S203 Ep11</title>
+    <desc>A detail-oriented attorney looks to decompress and find the perfect place to relax and entertain by the water in pricey Auckland, New Zealand.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008120000 +0000" stop="20261008122500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep09</title>
+    <desc>In order to take advantage of a hot market, Tarek and Christina plan a quick flip for a small house on a big lot.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008122500 +0000" stop="20261008131500 +0000">
+    <title lang="zh">Home Town Takeover S2 Ep06</title>
+    <desc>In the final sprint to the finish line, Dave and Jenny renovate the home of a generous family while Ben and Erin revitalize a downtown park.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008131500 +0000" stop="20261008140500 +0000">
+    <title lang="zh">Renovation Aloha S2 Ep06</title>
+    <desc>Kamohai and Tristyn expand their business to the Big Island with a reno in Kailua-Kona, but tensions rise as a new contractor doesn't show up to work.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008140500 +0000" stop="20261008145500 +0000">
+    <title lang="zh">Lakefront Bargain Hunt Renovation S4 Ep01</title>
+    <desc>Minnesota is known as the Land of 10,000 Lakes, but a couple needs just the right one where they can renovate the perfect lakeside retreat.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008145500 +0000" stop="20261008152000 +0000">
+    <title lang="zh">House Hunters International S203 Ep11</title>
+    <desc>A detail-oriented attorney looks to decompress and find the perfect place to relax and entertain by the water in pricey Auckland, New Zealand.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008152000 +0000" stop="20261008154500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep09</title>
+    <desc>In order to take advantage of a hot market, Tarek and Christina plan a quick flip for a small house on a big lot.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008154500 +0000" stop="20261008161000 +0000">
+    <title lang="zh">House Hunters S1 Ep12</title>
+    <desc>A couple tasks estate agent and psychic Larry with helping them find their first home in Toronto. They're looking for a place that fits spiritually.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008161000 +0000" stop="20261008163500 +0000">
+    <title lang="zh">My Lottery Dream Home S13 Ep12</title>
+    <desc>David helps a couple who received an inheritance begin a new chapter by searching for homes in the picturesque town of Bath, Maine.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008163500 +0000" stop="20261008172500 +0000">
+    <title lang="zh">Renovation Aloha S2 Ep06</title>
+    <desc>Kamohai and Tristyn expand their business to the Big Island with a reno in Kailua-Kona, but tensions rise as a new contractor doesn't show up to work.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008172500 +0000" stop="20261008181500 +0000">
+    <title lang="zh">Lakefront Bargain Hunt Renovation S4 Ep01</title>
+    <desc>Minnesota is known as the Land of 10,000 Lakes, but a couple needs just the right one where they can renovate the perfect lakeside retreat.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008181500 +0000" stop="20261008190500 +0000">
+    <title lang="zh">Home Town Takeover S2 Ep06</title>
+    <desc>In the final sprint to the finish line, Dave and Jenny renovate the home of a generous family while Ben and Erin revitalize a downtown park.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008190500 +0000" stop="20261008195500 +0000">
+    <title lang="zh">Renovation Aloha S1 Ep08</title>
+    <desc>Kamohai and Tristyn put it all on the line as they attempt their priciest flip to date, and things get off to a rocky start.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008195500 +0000" stop="20261008204500 +0000">
+    <title lang="zh">Farmhouse Fixer S2 Ep01</title>
+    <desc>Jon Knight picks up a 110-year-old house that's been in his family for 20 years and moves it! Also, the farm ducks get a floating duck house.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008204500 +0000" stop="20261008211000 +0000">
+    <title lang="zh">Homes Gone Wild S1 Ep02</title>
+    <desc>Jack tours a mountaintop gem in California that literally brings the outside in.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008211000 +0000" stop="20261008213500 +0000">
+    <title lang="zh">Homes Gone Wild S1 Ep07</title>
+    <desc>Jack's first stop on his wild home journey is a listing in Santa Barbara, California, that's inspired by marine biology.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008213500 +0000" stop="20261008220500 +0000">
+    <title lang="zh">Flip or Flop S10 Ep09</title>
+    <desc>In order to take advantage of a hot market, Tarek and Christina plan a quick flip for a small house on a big lot.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008220500 +0000" stop="20261008230500 +0000">
+    <title lang="zh">Barbie Dreamhouse Challenge S1 Ep02</title>
+    <desc>The four finalist spaces compete at a 'Pink Carpet' event. One space is voted the winner, and a fan wins a stay in the fabulous DreamHouse!</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008230500 +0000" stop="20261008233000 +0000">
+    <title lang="zh">House Hunters S1 Ep12</title>
+    <desc>A couple tasks estate agent and psychic Larry with helping them find their first home in Toronto. They're looking for a place that fits spiritually.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008233000 +0000" stop="20261008235500 +0000">
+    <title lang="zh">My Lottery Dream Home S13 Ep12</title>
+    <desc>David helps a couple who received an inheritance begin a new chapter by searching for homes in the picturesque town of Bath, Maine.</desc>
+    <date>2026-10-08</date>
+  </programme>
+  <programme channel="mastro.hgtv" start="20261008235500 +0000" stop="20261009000000 +0000">
+    <title lang="zh">House Hunters International S203 Ep11</title>
+    <desc>A detail-oriented attorney looks to decompress and find the perfect place to relax and entertain by the water in pricey Auckland, New Zealand.</desc>
+    <date>2026-10-08</date>
   </programme>
   <programme channel="mastro.history" start="20261007000500 +0000" stop="20261007010000 +0000">
     <title lang="zh">History's Greatest Mysteries S5 Ep14</title>
@@ -43405,295 +43863,5 @@
     <title lang="zh">Codename: Kids Next Door</title>
     <desc>A mysterious pilot damages Numbah Two's aircraft; Numbah Three is tracked while visiting her grandmother.</desc>
     <date>2026-10-09</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007001800 +0000" stop="20261007011800 +0000">
-    <title lang="zh">Looney Tunes Cartoons Ep124</title>
-    <desc>Foghorn Leghorn enlists help from a neighborhood weasel to outsmart Barnyard Dawg. Wile E. Coyote tries freezing time to catch Road Runner, but his master plan melts before his eyes.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007011800 +0000" stop="20261007021800 +0000">
-    <title lang="zh">The Tom and Jerry Show Ep03</title>
-    <desc>Toodles hires Tom and Jerry to investigate and protect her against a threat to her tuna can inheritance, but a mysterious figure keeps trying to hurt them as they investigate.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007021800 +0000" stop="20261007024800 +0000">
-    <title lang="zh">Lamput Ep407</title>
-    <desc>Tuzki is back as the new intern at the lab and he has a new mission - to capture Lamput! How can he do that to his friend?</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007024800 +0000" stop="20261007031800 +0000">
-    <title lang="zh">We Bare Bears Ep41</title>
-    <desc>/The Bears are reunited with their pet crab, Captain Craboo. But after an unfortunate run-in with Nom Nom, the Bears may lose their pet forever.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007031800 +0000" stop="20261007041800 +0000">
-    <title lang="zh">The Amazing World of Gumball Ep99</title>
-    <desc>When we last saw Gumball, he was hitting rewind on Rob's Universal Remote, just in time to save himself from being trapped in The Void. The remote has now taken Gumball back to the beginning of that disastrous day. Armed with the knowledge of what this day has in store, he must try and stop Rob from destroying his life.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007041800 +0000" stop="20261007051800 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep36</title>
-    <desc>Mr Bean has painted his room bright green. But will Mrs Wicket approve?</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007051800 +0000" stop="20261007054800 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep405</title>
-    <desc>Mr Bean wants to watch his favourite TV show with Billy, but Mrs Wicket has other plans.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007054800 +0000" stop="20261007061800 +0000">
-    <title lang="zh">Mechamato Ep03</title>
-    <desc>Amato brings a damaged MechaBot back to the Prison Spaceship for repairs, but is stopped by the ship's defense system.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007061800 +0000" stop="20261007071800 +0000">
-    <title lang="zh">Teen Titans Go! Ep06</title>
-    <desc>Beast Boy and Cyborg try their best to slow the pizza delivery boy so they can get free pizza.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007071800 +0000" stop="20261007081800 +0000">
-    <title lang="zh">The Amazing World of Gumball Ep11</title>
-    <desc>Gumball and Darwin's wish comes true when they suddenly turn into men.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007081800 +0000" stop="20261007091800 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep116</title>
-    <desc>After a regrettable episode involving his landlady sleepwalking into his room, Mr. Bean suddenly finds himself out on his ear with nowhere to live. Near to tears, he yearns for the cosy familiarity of his old home.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007091800 +0000" stop="20261007101800 +0000">
-    <title lang="zh">Looney Tunes Cartoons Ep124</title>
-    <desc>Foghorn Leghorn enlists help from a neighborhood weasel to outsmart Barnyard Dawg. Wile E. Coyote tries freezing time to catch Road Runner, but his master plan melts before his eyes.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007101800 +0000" stop="20261007111800 +0000">
-    <title lang="zh">The Amazing World of Gumball Ep112</title>
-    <desc>When Darwin asks Gumball to teach him how to skate, Gumball makes sure that he covers every aspect of the skating lifestyle - from wearing the right gear, using the right terms and choosing the right board. But when Darwin finally gets his wheels rolling, he realises there might be one important aspect of skating that Gumball hasn't taught him...</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007111800 +0000" stop="20261007114800 +0000">
-    <title lang="zh">Adventure Time: Side Quests Ep03</title>
-    <desc>Finn and Jake are tasked with toughening up three sweet grannies for the fight of their lives against the fearsome Granny Taker.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007114800 +0000" stop="20261007121800 +0000">
-    <title lang="zh">Scooby-Doo! Mystery Incorporated Ep40</title>
-    <desc>Dynomutt and Blue Falcon team up with the Mystery Inc. gang to solve the mystery of a horrible Dragon-man Robot that's terrorizing the city.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007121800 +0000" stop="20261007131800 +0000">
-    <title lang="zh">Teen Titans Go! Ep1319</title>
-    <desc>The Titans release a small marshmallow ducky that the Easter Bunny had locked up, not knowing the danger they have unleashed.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007131800 +0000" stop="20261007141800 +0000">
-    <title lang="zh">We Baby Bears Ep02</title>
-    <desc>Three baby bear brothers are granted a magical box that can transport them to any place in the universe.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007141800 +0000" stop="20261007144800 +0000">
-    <title lang="zh">Adventure Time: Side Quests Ep03</title>
-    <desc>Finn and Jake are tasked with toughening up three sweet grannies for the fight of their lives against the fearsome Granny Taker.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007144800 +0000" stop="20261007151800 +0000">
-    <title lang="zh">Adventure Time Ep50</title>
-    <desc>A delicate race of frog people employ Finn and Jake to help them deal with Prince Huge, an evil lizard creature who's ravaging the moss swamp.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007151800 +0000" stop="20261007160300 +0000">
-    <title lang="zh">Steven Universe Ep79</title>
-    <desc>Steven has a birthday party out at the barn, and decides he has some growing up to do.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007160300 +0000" stop="20261007170300 +0000">
-    <title lang="zh">Regular Show Ep09</title>
-    <desc>While everyone prepares for the park's annual barbecue, things go awry when Rigby accidentally burns Benson's hot dogs.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007170300 +0000" stop="20261007180300 +0000">
-    <title lang="zh">Ben 10 Ep101</title>
-    <desc>When Gwen drags Ben along on a hike in search of the legendary Forgeti - a yeti that makes people forget they ever saw it - Ben is dubious. But with Dr. Animo on the trail of the mythical beast as well, what looks like a hoax becomes a hero time adventure for the ages... if Ben can remember it ever happened.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007180300 +0000" stop="20261007190300 +0000">
-    <title lang="zh">Courage the Cowardly Dog Ep11</title>
-    <desc>Vacationing on a cruise ship that sinks, Muriel, Courage and the Farmer end up on a deserted island. The one inhabitant they find is Katz, who runs an unusual 'resort.'</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007190300 +0000" stop="20261007200300 +0000">
-    <title lang="zh">Regular Show Ep10</title>
-    <desc>Mordecai and Rigby decide to make prank phone calls. They try to prank the Master Prank Caller numerous times, although they fail to fool him (and only make him increasingly annoyed).</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007200300 +0000" stop="20261007210300 +0000">
-    <title lang="zh">Ben 10 Ep252</title>
-    <desc>Ben, Gwen and Grandpa Max find the Weatherheads using the towering turbines for their latest nefarious plan.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007210300 +0000" stop="20261007220300 +0000">
-    <title lang="zh">Teen Titans Go! Ep1140</title>
-    <desc>The other Titans train Beast Boy in the ways of the ninja.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007220300 +0000" stop="20261007221800 +0000">
-    <title lang="zh">Maca &amp; Roni Ep13</title>
-    <desc>Maca and Roni accidentally ruin the dominoes that Dr. Albert set up for hours for a domino contest. Can they successfully redo the whole thing over?</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007221800 +0000" stop="20261007231800 +0000">
-    <title lang="zh">The Tom and Jerry Show Ep95</title>
-    <desc>Tom is in the basement of a manor shoveling coal into the heater when the butler beckons the cat. He asks Tom to rid the upstairs of a mouse before the owners return. If Tom succeeds, he'll live and work the rest of his life upstairs.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261007231800 +0000" stop="20261008000000 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep60</title>
-    <desc>Bean is both cajoled by Irma and spurred by his own jealousy of the fund-raising super-star Declan into raising money for the local donkey sanctuary.</desc>
-    <date>2026-10-07</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008001800 +0000" stop="20261008011800 +0000">
-    <title lang="zh">Looney Tunes Cartoons Ep129</title>
-    <desc>Bugs goes car shopping for a self-driving vehicle, but his test drive is detoured by a pesky gremlin. In a hunt for water, Taz tries quenching his thirst with a coconut.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008011800 +0000" stop="20261008021800 +0000">
-    <title lang="zh">The Tom and Jerry Show Ep06</title>
-    <desc>Quacker enlists Jerry's help to fix his favorite birdbath that has cracked, but the two get sidetracked by the scent of Tom's delicious Chinese takeout.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008021800 +0000" stop="20261008024800 +0000">
-    <title lang="zh">Lamput Ep410</title>
-    <desc>A perfect day interuppted by a storm forces the Docs to go home, and they unintentionally bring Lamput back with them.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008024800 +0000" stop="20261008031800 +0000">
-    <title lang="zh">We Bare Bears Ep44</title>
-    <desc>Ice Bear rides his custom vacuum into the city. But when a gang of techies steals the vacuum, Ice Bear goes on a rescue mission that takes him through the underground world of the city.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008031800 +0000" stop="20261008041800 +0000">
-    <title lang="zh">The Amazing World of Gumball Ep105</title>
-    <desc>Gumball learns that the Wattersons have been stealing Mr Robinson's wi-fi for years. When it goes down they try and live without it, but life offline proves too hard, Gumball and Darwin decide to hack their way through cyberspace to learn Mr Robinson's passcode.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008041800 +0000" stop="20261008051800 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep41</title>
-    <desc>Bean turns superhero in an attempt to outwit a cunning cat burglar.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008051800 +0000" stop="20261008054800 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep407</title>
-    <desc>Mr Bean becomes Mr Paliwal's personal trainer for the day - by making him revamp Mrs Wicket's garden!</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008054800 +0000" stop="20261008061800 +0000">
-    <title lang="zh">Mechamato Ep04</title>
-    <desc>Mr. Jamie has been kidnapped, and it's up to Amato and friends to save him from the bad robot Amazeey's twisted maze.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008061800 +0000" stop="20261008071800 +0000">
-    <title lang="zh">Teen Titans Go! Ep08</title>
-    <desc>Cyborg plugs into the control panel of the Titans Tower and drives the others crazy.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008071800 +0000" stop="20261008081800 +0000">
-    <title lang="zh">The Amazing World of Gumball Ep13</title>
-    <desc>Gumball and Darwin give Mr Robinson a home and end up saving his marriage.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008081800 +0000" stop="20261008091800 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep121</title>
-    <desc>Mr. Bean finds himself lumbered with an unwanted pet in the form of a four-legged ball of pink fur with piggy eyes and a penchant for earthworms.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008091800 +0000" stop="20261008101800 +0000">
-    <title lang="zh">Looney Tunes Cartoons Ep129</title>
-    <desc>Bugs goes car shopping for a self-driving vehicle, but his test drive is detoured by a pesky gremlin. In a hunt for water, Taz tries quenching his thirst with a coconut.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008101800 +0000" stop="20261008111800 +0000">
-    <title lang="zh">The Amazing World of Gumball Ep119</title>
-    <desc>Gumball, Darwin and Anais discover that Mr Wilson has been picking on their dad for most of his life: ever since he humiliated Richard with a high school prank. The kids try to work Dad through it - but when their efforts fail, they realise that getting their own back on Mr Wilson is the only way to break the cycle.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008111800 +0000" stop="20261008114800 +0000">
-    <title lang="zh">Adventure Time: Side Quests Ep11</title>
-    <desc>Finn enters a crossbow tournament to prove his manliness, while Jake wrestles with telling him he's actually terrible at it.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008114800 +0000" stop="20261008121800 +0000">
-    <title lang="zh">Scooby-Doo! Mystery Incorporated Ep41</title>
-    <desc>When the gang investigates the history of Crystal Cove, the mummy of a Franciscan Friar comes to life...to finish what it started.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008121800 +0000" stop="20261008131800 +0000">
-    <title lang="zh">Teen Titans Go! Ep1264</title>
-    <desc>Santa Claus and Robin must stop the nefarious Coal Miner.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008131800 +0000" stop="20261008141800 +0000">
-    <title lang="zh">We Baby Bears Ep04</title>
-    <desc>The Bears visit a medieval vegetable-village and Grizz is convinced he's the rightful king.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008141800 +0000" stop="20261008144800 +0000">
-    <title lang="zh">Adventure Time: Side Quests Ep11</title>
-    <desc>Finn enters a crossbow tournament to prove his manliness, while Jake wrestles with telling him he's actually terrible at it.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008144800 +0000" stop="20261008151800 +0000">
-    <title lang="zh">Adventure Time Ep51</title>
-    <desc>The Gunters go on a rampage against the Ice King and the citizens of Ooo!</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008151800 +0000" stop="20261008160300 +0000">
-    <title lang="zh">Steven Universe Ep82</title>
-    <desc>Steven attempts to get two of his close friends to like each other.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008160300 +0000" stop="20261008170300 +0000">
-    <title lang="zh">Regular Show Ep10</title>
-    <desc>Mordecai and Rigby decide to make prank phone calls. They try to prank the Master Prank Caller numerous times, although they fail to fool him (and only make him increasingly annoyed).</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008170300 +0000" stop="20261008180300 +0000">
-    <title lang="zh">Ben 10 Ep103</title>
-    <desc>While tailgating at a State U. homecoming football game, Ben teams up with Grandpa Max's old college buddies to keep the crazy clown Zombozo from robbing the stadium blind at halftime.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008180300 +0000" stop="20261008190300 +0000">
-    <title lang="zh">Courage the Cowardly Dog Ep12</title>
-    <desc>The chicken from outer space returns to seek revenge on Courage. This time he wants Courage's heard to replace the one that Courage blew up.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008190300 +0000" stop="20261008200300 +0000">
-    <title lang="zh">Regular Show Ep11</title>
-    <desc>Mordecai and Rigby are assigned to get a grilled cheese sandwich for Benson while playing a game to see who is the better liar.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008200300 +0000" stop="20261008210300 +0000">
-    <title lang="zh">Ben 10 Ep254</title>
-    <desc>When Hex mistakes an exclusive magic club for a top-secret Wizard society that snubbed him, Ben has to figure out how to work around the club's strict code of conduct to stop him without getting booted by security.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008210300 +0000" stop="20261008220300 +0000">
-    <title lang="zh">Teen Titans Go! Ep1145</title>
-    <desc>Beast Boy decides to find his spirit animal and joins a group of bears.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008220300 +0000" stop="20261008221800 +0000">
-    <title lang="zh">Maca &amp; Roni Ep16</title>
-    <desc>Dr. Albert purchases a very expensive painting from an auction. However, Roni accidentally splashes his beverage on it! But wait! He feels like he can easily redo this art work.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008221800 +0000" stop="20261008231800 +0000">
-    <title lang="zh">The Tom and Jerry Show Ep97</title>
-    <desc>Tom and Jerry can't sleep because of incessant barking.</desc>
-    <date>2026-10-08</date>
-  </programme>
-  <programme channel="mastro.cartoonnetwork" start="20261008231800 +0000" stop="20261009000000 +0000">
-    <title lang="zh">Mr Bean: the Animated Series Ep65</title>
-    <desc>Mr Bean is on his way to the seaside when the mini runs out of petrol.</desc>
-    <date>2026-10-08</date>
   </programme>
 </tv>
