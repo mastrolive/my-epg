@@ -30,12 +30,13 @@ jobs:
               "DramaHotpot": "mastro.dramahotpot",
               "TravelandTaste": "mastro.traveltaste",
               "OhMyCeria": "mastro.ohmyceria",
-              "Sukan+": "mastro.sukanplus",
-              "ASG1": "mastro.asg1",
-              "ASG2": "mastro.asg2",
-              "ASG3": "mastro.asg3",
-              "ASG4": "mastro.asg4",
-              "ASG5": "mastro.asg5"
+              "AstroArenaBola": "mastro.arenabola",
+              "AstroArenaBola2": "mastro.arenabola2",
+              "AstroSportsUHD": "mastro.sportsuhd",
+              "AstroGrandstand": "mastro.grandstand",
+              "AstroPremierLeague": "mastro.premierleague",
+              "AstroPremierLeague2": "mastro.premierleague2",
+              "Sukan+": "mastro.sukanplus"
           }
 
           tree = ET.parse("source_my.xml")
