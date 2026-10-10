@@ -17,11 +17,31 @@ jobs:
 
       - name: Download, Filter & Update MY EPG
         run: |
-          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o source_my.xml.gz
-          gunzip -f source_my.xml.gz
+          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o archive.tar.gz
           
           python3 -c '
+          import tarfile
+          import gzip
+          import os
           import xml.etree.ElementTree as ET
+
+          # Cuba buka sebagai tar archive terlebih dahulu (jika fail .tar.gz)
+          extracted_xml = "source_my.xml"
+          try:
+              with tarfile.open("archive.tar.gz", "r:*") as tar:
+                  # Cari fail xml di dalam arkib tar
+                  member = next((m for m in tar.getmembers() if m.name.endswith(".xml")), None)
+                  if member:
+                      f = tar.extractfile(member)
+                      with open(extracted_xml, "wb") as out:
+                          out.write(f.read())
+                  else:
+                      raise Exception("Tiada fail XML dijumpai dalam arkib tar")
+          except Exception as e:
+              print("Bukan fail tar, mencuba sebagai gzip biasa...", e)
+              # Jika bukan tar, cuba sebagai fail .gz biasa
+              with gzip.open("archive.tar.gz", "rb") as f_in, open(extracted_xml, "wb") as f_out:
+                  f_out.write(f_in.read())
 
           CHANNEL_MAP = {
               "DramaHebat": "mastro.dramahebat",
@@ -40,7 +60,7 @@ jobs:
               "Sukan+": "mastro.sukanplus"
           }
 
-          tree = ET.parse("source_my.xml")
+          tree = ET.parse(extracted_xml)
           root = tree.getroot()
           new_root = ET.Element("tv", root.attrib)
 
@@ -61,7 +81,7 @@ jobs:
           new_tree.write("my.xml", encoding="utf-8", xml_declaration=True)
           '
 
-          rm -f source_my.xml
+          rm -f archive.tar.gz source_my.xml
 
       - name: Commit and Push Changes
         run: |
