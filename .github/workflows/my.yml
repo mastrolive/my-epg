@@ -17,9 +17,10 @@ jobs:
 
       - name: Download, Filter & Update MY EPG
         run: |
-          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o source_my.xml
+          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o source_my.xml.gz
           
           python3 -c '
+          import gzip
           import xml.etree.ElementTree as ET
 
           CHANNEL_MAP = {
@@ -39,7 +40,10 @@ jobs:
               "Sukan+": "mastro.sukanplus"
           }
 
-          tree = ET.parse("source_my.xml")
+          # Buka fail .gz secara terus menggunakan pustaka gzip Python
+          with gzip.open("source_my.xml.gz", "rt", encoding="utf-8") as f:
+              tree = ET.parse(f)
+
           root = tree.getroot()
           new_root = ET.Element("tv", root.attrib)
 
@@ -60,7 +64,7 @@ jobs:
           new_tree.write("my.xml", encoding="utf-8", xml_declaration=True)
           '
 
-          rm source_my.xml
+          rm source_my.xml.gz
 
       - name: Commit and Push Changes
         run: |
