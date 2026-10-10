@@ -17,7 +17,8 @@ jobs:
 
       - name: Download, Filter & Update MY EPG
         run: |
-          curl -L "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" -o source_my.xml
+          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o source_my.xml.gz
+          gunzip source_my.xml.gz
           
           python3 -c '
           import xml.etree.ElementTree as ET
