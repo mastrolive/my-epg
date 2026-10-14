@@ -441,7 +441,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
   <channel id="mastro.celestial">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
+    <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
   <channel id="mastro.ria">
@@ -10867,9 +10867,14 @@
     <desc>Full coverage of the U19s UEFA Youth League match against Atletico Madrid.</desc>
     <date>2026-10-15</date>
   </programme>
-  <programme channel="mastro.mutv" start="20261015224500 +0000" stop="20261016000000 +0000">
+  <programme channel="mastro.mutv" start="20261015224500 +0000" stop="20261015230000 +0000">
     <title lang="zh">Player Spotlight</title>
     <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.mutv" start="20261015230000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">PL Match: Tottenham (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against Tottenham Hotspur.</desc>
     <date>2026-10-15</date>
   </programme>
   <programme channel="mastro.lfctv" start="20261014010000 +0000" stop="20261014030000 +0000">
@@ -11127,9 +11132,14 @@
     <desc>The best of the action as Liverpool U19 take on LASK.</desc>
     <date>2026-10-15</date>
   </programme>
-  <programme channel="mastro.lfctv" start="20261015220000 +0000" stop="20261016000000 +0000">
+  <programme channel="mastro.lfctv" start="20261015220000 +0000" stop="20261015230000 +0000">
     <title lang="zh">We Are Liverpool: Jan Molby</title>
     <desc>One of LFC's most gifted players joins Peter McDowall &amp; Robbie Fowler to discuss his life and career before, during and after representing the Reds.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20261015230000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">LASK v Liverpool: The Match</title>
+    <desc>All the action as Liverpool take on LASK.</desc>
     <date>2026-10-15</date>
   </programme>
   <programme channel="mastro.beinsports3" start="20261014014000 +0000" stop="20261014033000 +0000">
@@ -12477,10 +12487,155 @@
     <desc>This is Sport - Multi-Sport Event Category.</desc>
     <date>2026-10-14</date>
   </programme>
-  <programme channel="mastro.ten1" start="20261014153000 +0000" stop="20261015000000 +0000">
+  <programme channel="mastro.ten1" start="20261014153000 +0000" stop="20261014163000 +0000">
     <title lang="zh">3rd T20: New Zealand vs India; T20 Cricket</title>
     <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014163000 +0000" stop="20261014164500 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014164500 +0000" stop="20261014184500 +0000">
+    <title lang="zh">Live - Feyenoord vs. Como; UEFA Champions League Soccer</title>
+    <desc>From Feijenoord Stadium in Rotterdam, South Holland, Netherlands.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014184500 +0000" stop="20261014190000 +0000">
+    <title lang="zh">Snippet</title>
+    <desc>Bringing the best in television.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014190000 +0000" stop="20261014210000 +0000">
+    <title lang="zh">Live - Manchester City vs. Paris Saint-Germain; UEFA Champions League Soccer</title>
+    <desc>Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014210000 +0000" stop="20261014213000 +0000">
+    <title lang="zh">Men's Volleyball, India vs Qatar; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014213000 +0000" stop="20261014223000 +0000">
+    <title lang="zh">2025: Super Four: Pakistan vs. Sri Lanka; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between Pakistan and Sri Lanka in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014223000 +0000" stop="20261014233000 +0000">
+    <title lang="zh">2016: Pakistan vs India; Asia Cup Highlights</title>
+    <desc>Highlights from the 2016 match between Pakistan and India in the Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261014233000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015003000 +0000" stop="20261015013000 +0000">
+    <title lang="zh">2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015013000 +0000" stop="20261015023000 +0000">
+    <title lang="zh">3rd T20: New Zealand vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015023000 +0000" stop="20261015030000 +0000">
+    <title lang="zh">Manchester City vs Paris Saint-Germain; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015030000 +0000" stop="20261015033000 +0000">
+    <title lang="zh">Men's Kabaddi, Gold Medal Match: India vs Iran; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015033000 +0000" stop="20261015043000 +0000">
+    <title lang="zh">New Zealand v India: 2nd ODI; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015043000 +0000" stop="20261015050000 +0000">
+    <title lang="zh">AS Roma - Real Madrid; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015050000 +0000" stop="20261015060000 +0000">
+    <title lang="zh">3rd T20: New Zealand vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015060000 +0000" stop="20261015063000 +0000">
+    <title lang="zh">Men's Kabaddi, Semi-final 1: India vs. Thailand; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015063000 +0000" stop="20261015070000 +0000">
+    <title lang="zh">Men's Kabaddi, Gold Medal Match: India vs Iran; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015070000 +0000" stop="20261015073000 +0000">
+    <title lang="zh">2025: India A vs. Oman; Asia Cup Rising Stars Cricket Highlights</title>
+    <desc>Highlights from the match between India A and Oman in the 2025 Asia Cup Rising Stars, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015073000 +0000" stop="20261015083000 +0000">
+    <title lang="zh">New Zealand v India: 5th ODI; One-Day International Cricket</title>
+    <desc>An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015083000 +0000" stop="20261015093000 +0000">
+    <title lang="zh">Asian Games 2026: Medal of Glory</title>
+    <desc>This is Sport - Sport Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015093000 +0000" stop="20261015103000 +0000">
+    <title lang="zh">2025: Super Four: India vs. Bangladesh; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between India and Bangladesh in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015103000 +0000" stop="20261015113000 +0000">
+    <title lang="zh">3rd T20: New Zealand vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015113000 +0000" stop="20261015120000 +0000">
+    <title lang="zh">AS Roma - Real Madrid; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015120000 +0000" stop="20261015123000 +0000">
+    <title lang="zh">Galatasaray SK vs FC Barcelona; UEFA Champions League Highlights</title>
+    <desc>Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015123000 +0000" stop="20261015133000 +0000">
+    <title lang="zh">2025: Super Four: India vs. Bangladesh; Asia Cup Highlights</title>
+    <desc>Highlights from the Super Four match between India and Bangladesh in the 2025 Asia Cup, where the two professional cricket teams compete against each other for victory.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015133000 +0000" stop="20261015143000 +0000">
+    <title lang="zh">3rd T20: New Zealand vs India; T20 Cricket</title>
+    <desc>Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015143000 +0000" stop="20261015150000 +0000">
+    <title lang="zh">Men's Kabaddi, Semi-final 1: India vs. Thailand; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015150000 +0000" stop="20261015153000 +0000">
+    <title lang="zh">Men's Kabaddi, Gold Medal Match: India vs Iran; 2026 Asian Games Highlights</title>
+    <desc>This is Sport - Multi-Sport Event Category.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.ten1" start="20261015153000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">4th T20: New Zealand vs India; T20 Cricket</title>
+    <desc>New Zealand competes against India in their fourth T20 International match, where the two professional cricket teams vie for victory.</desc>
+    <date>2026-10-15</date>
   </programme>
   <programme channel="mastro.usanetwork" start="20261014000000 +0000" stop="20261014010000 +0000">
     <title lang="zh">Law &amp; Order: Special Victims Unit</title>
@@ -36287,10 +36442,90 @@
     <desc>Carl, a lonely man with low self-esteem, participates in a self-help programme that challenges him to say yes to everything in life for an entire year.</desc>
     <date>2026-10-14</date>
   </programme>
-  <programme channel="mastro.romedynow" start="20261014153000 +0000" stop="20261015000000 +0000">
+  <programme channel="mastro.romedynow" start="20261014153000 +0000" stop="20261014171300 +0000">
     <title lang="zh">The Smurfs</title>
     <desc>While trying to escape the evil wizard Gargamel, the blue-skinned Smurfs get sucked into a vortex that teleports them to New York. Thereafter, they try their best to find a way back home.</desc>
     <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014171300 +0000" stop="20261014185500 +0000">
+    <title lang="zh">The Bounty Hunter</title>
+    <desc>Milo is hired to track down his ex-wife, Nicole, for skipping bail. Subsequently, a routine retrieval turns into a deadly game of cat and mouse, forcing them both to go on the run together.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014185500 +0000" stop="20261014200800 +0000">
+    <title lang="zh">The Starving Games</title>
+    <desc>In a deadly game orchestrated by President Snowballs, skilled archer Kantmiss Evershot, her lover Dale and tech-savvy ally Peter Malarkey must rely on their wits and skills to survive.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014200800 +0000" stop="20261014215600 +0000">
+    <title lang="zh">Safe Haven</title>
+    <desc>A mysterious young woman arrives in Southport, North Carolina, and falls in love with a widowed store owner. However, her dark past intrudes in her new life.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014215600 +0000" stop="20261014220500 +0000">
+    <title lang="zh">Bhuvan Bam; The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014220500 +0000" stop="20261014224500 +0000">
+    <title lang="zh">Live - The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014224500 +0000" stop="20261014233000 +0000">
+    <title lang="zh">Live - The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261014233000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">A Merry Christmas Miracle</title>
+    <desc>Boyd, who doesn't share a good bond with his father, is forced to travel with him.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015010000 +0000" stop="20261015025000 +0000">
+    <title lang="zh">Almost Christmas</title>
+    <desc>A widower tries to have a traditional Christmas with his four dysfunctional children.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015025000 +0000" stop="20261015042500 +0000">
+    <title lang="zh">Pitch Perfect 3</title>
+    <desc>After winning the world championship, the Bellas find themselves split apart and looking for jobs. Seeing the chance to reunite for an overseas USO tour, they come together to make some awesome music.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015042500 +0000" stop="20261015061500 +0000">
+    <title lang="zh">It's Complicated</title>
+    <desc>Jane, a divorcee, runs into her ex-husband at their son's graduation ceremony. Since they are divorced and he has remarried, problems evolve when they start falling in love all over again.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015061500 +0000" stop="20261015074500 +0000">
+    <title lang="zh">Liar Liar</title>
+    <desc>Fletcher Reede is a successful defence lawyer who has greatly benefitted from the habit of lying. His life takes an ugly turn when his son wishes for him to become incapable of lying for a day.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015074500 +0000" stop="20261015095000 +0000">
+    <title lang="zh">Crazy Rich Asians</title>
+    <desc>A professor's world turns upside down when she discovers that her longtime boyfriend belongs to an eccentric, super rich family of business moguls.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015095000 +0000" stop="20261015113500 +0000">
+    <title lang="zh">You, Me and Dupree</title>
+    <desc>Dupree stays on as a houseguest with the newlyweds, much to the couple's annoyance.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015113500 +0000" stop="20261015131500 +0000">
+    <title lang="zh">Letters to Juliet</title>
+    <desc>Sophie, an aspiring writer assisted by the secretaries of Juliet, sets out to unite Claire with her long-lost love. While on her journey, she finds herself drawn to Claire's grandson.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015131500 +0000" stop="20261015153000 +0000">
+    <title lang="zh">The Holiday</title>
+    <desc>Amanda and Iris, two women from different countries, decide to swap houses for the Christmas holidays. However, things take a turn when the swap brings them an unexpected dose of romance.</desc>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="mastro.romedynow" start="20261015153000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">Cloudy With a Chance of Meatballs 2</title>
+    <desc>When Flint learns that his machine is creating dangerous food-animal hybrids on Swallow Falls, he sets out with his friends to save his home. However, they soon realise that they have been deceived.</desc>
+    <date>2026-10-15</date>
   </programme>
   <programme channel="mastro.rockaction" start="20261014010000 +0000" stop="20261014023500 +0000">
     <title lang="zh">Death Ring</title>
