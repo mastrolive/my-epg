@@ -15,137 +15,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/1850/image" />
     <url>http://www.fetchtv.com.au</url>
   </channel>
-  <programme start="20261014000000 +0000" stop="20261014001500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2018-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014001500 +0000" stop="20261014003000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2010-2011</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014003000 +0000" stop="20261014033000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Shanghai Evening 7</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E168</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014033000 +0000" stop="20261014040000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour - This Week</title>
-    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
-    <episode-num system="onscreen">E40</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014040000 +0000" stop="20261014100000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Shanghai Day 8</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E169</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014100000 +0000" stop="20261014150000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Shanghai Evening 8</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E170</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014150000 +0000" stop="20261014163000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP 500 Rio Open presented by Claro</title>
-    <sub-title lang="en">Rio de Janeiro Final Tabilo v Etcheverry</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1767399/image/334x188" />
-    <episode-num system="onscreen">E50</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014163000 +0000" stop="20261014180000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: IEB + Argentina Open Main</title>
-    <sub-title lang="en">Buenos Aires Final</sub-title>
-    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1791680/image/334x188" />
-    <episode-num system="onscreen">E45</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014180000 +0000" stop="20261014181500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Monte Carlo 2010-2011</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014181500 +0000" stop="20261014183000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Miami 2018-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014213000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Shanghai Day 8</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E169</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014213000 +0000" stop="20261015003000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Shanghai Evening 8</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E170</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20261015003000 +0000" stop="20261015033000 +0000" channel="mastro.beinsports1au">
     <title lang="en">Tennis: ATP Masters 1000</title>
     <sub-title lang="en">Shanghai Day 8</sub-title>
@@ -1054,200 +923,142 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014005000 +0000" stop="20261014010000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Carabao Cup Classic</title>
-    <sub-title lang="en">Liverpool vs Leicester - 2021/22</sub-title>
-    <desc lang="en">We look back into the Carabao Cup archives.</desc>
+  <programme start="20261021000000 +0000" stop="20261021043000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Almaty Day 2</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093177/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E254</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021060000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Almaty Evening 2</sub-title>
+    <desc lang="en">Coverage of the ATP 250.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021063000 +0000" stop="20261021133000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Almaty Day 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E256</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021143000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Sampras v Kuerten 2000</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Pete Sampras met Gustavo Kuerten in the final at Miami in 2000.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021173000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">Almaty Evening 3</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E257</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Nadal v Agassi 2005</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Rafael Nadal met Andre Agassi in the final at Montreal in 2005.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021200000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">Shanghai</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261021210000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Classic</title>
+    <sub-title lang="en">Federer v Nadal 2005</sub-title>
+    <desc lang="en">We delve into the ATP archives for another classic encounter when Roger Federer met Rafael Nadal in the final at Miami in 2005.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5271464/image/334x188" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021211500 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Champions of Monte Carlo 2012-2014</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014010000 +0000" stop="20261014030000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV</title>
-    <sub-title lang="en">Man United vs Tottenham</sub-title>
-    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS.</desc>
+  <programme start="20261021211500 +0000" stop="20261021213000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour</title>
+    <sub-title lang="en">Miami Moments 2018-2019</sub-title>
+    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
+    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014030000 +0000" stop="20261014100000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Tennis: WTA 1000 Wuhan Open</title>
-    <sub-title lang="en">Wuhan Day 3</sub-title>
-    <desc lang="en">Watch every tournament from the WTA 1000 tour as the top female players in the world travel the globe vying to be #1.</desc>
+  <programme start="20261021213000 +0000" stop="20261022003000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">ATP 250</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/10066842/image/334x188" />
-    <episode-num system="onscreen">E158</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014100000 +0000" stop="20261014103000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Indian Wells</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014103000 +0000" stop="20261014110000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Miami</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014110000 +0000" stop="20261014160000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Tennis: WTA 1000 Wuhan Open</title>
-    <sub-title lang="en">Wuhan Evening 3</sub-title>
-    <desc lang="en">Watch every tournament from the WTA 1000 tour as the top female players in the world travel the globe vying to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/10066842/image/334x188" />
-    <episode-num system="onscreen">E159</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014160000 +0000" stop="20261014163000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Indian Wells</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014163000 +0000" stop="20261014170000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">WTA Big Ten Highlights</title>
-    <sub-title lang="en">Miami</sub-title>
-    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Real Madrid vs Villarreal</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E39</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014173000 +0000" stop="20261014180000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Real Betis vs Osasuna</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E40</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014180000 +0000" stop="20261014183000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Sassuolo vs Milan</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E29</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Cagliari vs Juventus</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 6</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Highlights</title>
-    <sub-title lang="en">Matchday 8</sub-title>
-    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014220000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV</title>
-    <sub-title lang="en">Man United vs Tottenham</sub-title>
-    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014220000 +0000" stop="20261014223000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV: Match Day Review</title>
-    <sub-title lang="en">Man United vs Tottenham</sub-title>
-    <desc lang="en">Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092556/image/334x188" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014223000 +0000" stop="20261014230000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV</title>
-    <sub-title lang="en">The American Dream: How Football Made It Stateside</sub-title>
-    <desc lang="en">Special documentary examining the growth of the beautiful game and United support in the United States of America.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014230000 +0000" stop="20261015005000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Lincoln City vs West Ham</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
-    <episode-num system="onscreen">E34</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E244</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -2118,255 +1929,573 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014002000 +0000" stop="20261014023000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Copa Sudamericana</title>
-    <sub-title lang="en">Boca Juniors vs Vasco De Gama - SF 1st Leg</sub-title>
-    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+  <programme start="20261019064000 +0000" stop="20261019083000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Serie A Highlights</title>
+    <sub-title lang="en">Juventus vs Lazio</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3256883/image/334x188" />
-    <episode-num system="onscreen">E153</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2296287/image/334x188" />
+    <episode-num system="onscreen">E68</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014023000 +0000" stop="20261014042000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Stoke vs Middlesbrough</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
+  <programme start="20261019083000 +0000" stop="20261019090000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Roma vs Genoa</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
     <episode-num system="onscreen">E33</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014042000 +0000" stop="20261014045000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Championship Highlights</title>
-    <sub-title lang="en">Matchday 9</sub-title>
-    <desc lang="en">Don't miss out on the thrilling action and highlights from the latest games in the 2026/27 season of the EFL Championship, League One, and League Two.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5323246/image/334x188" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014045000 +0000" stop="20261014064000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Copa Sudamericana</title>
-    <sub-title lang="en">Vasco De Gama vs Boca Juniors - SF 2nd Leg (PSO)</sub-title>
-    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3256883/image/334x188" />
-    <episode-num system="onscreen">E155</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014064000 +0000" stop="20261014070000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Rookies</title>
-    <sub-title lang="en">Orel Mangala</sub-title>
-    <desc lang="en">Track the rise of Spanish football's next generation as the brightest young talents and breakout stars make their mark on the LaLiga 2026/27 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/25963592/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014070000 +0000" stop="20261014073000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261019090000 +0000" stop="20261019093000 +0000" channel="mastro.beinsports2au">
     <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Sassuolo vs Milan</sub-title>
+    <sub-title lang="en">Milan vs Atalanta</sub-title>
     <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E29</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014073000 +0000" stop="20261014080000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Cagliari vs Juventus</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014080000 +0000" stop="20261014083000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 6</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014083000 +0000" stop="20261014090000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Real Madrid vs Villarreal</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E39</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014090000 +0000" stop="20261014093000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Real Betis vs Osasuna</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E40</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014093000 +0000" stop="20261014100000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Highlights</title>
-    <sub-title lang="en">Matchday 8</sub-title>
-    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014100000 +0000" stop="20261014103000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Como 1907 vs Roma</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E28</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014103000 +0000" stop="20261014110000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 6</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014110000 +0000" stop="20261014125000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Stoke vs Middlesbrough</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
-    <episode-num system="onscreen">E33</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014125000 +0000" stop="20261014130000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Carabao Cup Classic</title>
-    <sub-title lang="en">Liverpool vs Leicester - 2021/22</sub-title>
-    <desc lang="en">We look back into the Carabao Cup archives.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093177/image/334x188" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014130000 +0000" stop="20261014145000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Weekly</title>
-    <sub-title lang="en">Bundesliga</sub-title>
-    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
-    <episode-num system="onscreen">E42</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014145000 +0000" stop="20261014164000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Weekly</title>
-    <sub-title lang="en">Bundesliga</sub-title>
-    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
-    <episode-num system="onscreen">E44</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014164000 +0000" stop="20261014183000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Weekly</title>
-    <sub-title lang="en">Bundesliga</sub-title>
-    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
-    <episode-num system="onscreen">E45</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014183000 +0000" stop="20261014185500 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Kylian Mbappe</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261014185500 +0000" stop="20261014210000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Lincoln City vs West Ham</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
     <episode-num system="onscreen">E34</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014210000 +0000" stop="20261014213000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 6</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+  <programme start="20261019093000 +0000" stop="20261019112000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Real Madrid vs Sevilla</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E89</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019112000 +0000" stop="20261019113000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Classics</title>
+    <sub-title lang="en">Real Madrid vs Barcelona - 2023/24</sub-title>
+    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4822111/image/334x188" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019113000 +0000" stop="20261019133000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA 500</title>
+    <sub-title lang="en">Ningbo Day 1</sub-title>
+    <desc lang="en">Watch every tournament from the WTA 500 tour as the top female players in the world travel the globe vying to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3955992/image/334x188" />
+    <episode-num system="onscreen">E141</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Toronto</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Cincinnati</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Beijing</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019150000 +0000" stop="20261019151000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Classics</title>
+    <sub-title lang="en">Real Madrid vs Barcelona - 2023/24</sub-title>
+    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4822111/image/334x188" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019151000 +0000" stop="20261019170000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Celta Vigo vs Alaves</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E87</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019185500 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Villarreal vs Elche</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E83</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019185500 +0000" stop="20261019210000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Getafe vs Rayo Vallecano</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E90</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019210000 +0000" stop="20261019213000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Espanyol vs Atletico Madrid</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019213000 +0000" stop="20261019220000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Real Betis vs Barcelona</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E42</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019220000 +0000" stop="20261019223000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Valencia vs Athletic Bilbao</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E43</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019223000 +0000" stop="20261019230000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Real Madrid vs Sevilla</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E44</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019230000 +0000" stop="20261019233000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Getafe vs Rayo Vallecano</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E45</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019233000 +0000" stop="20261020012000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Espanyol vs Atletico Madrid</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E82</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020012000 +0000" stop="20261020031000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Real Betis vs Barcelona</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E84</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020031000 +0000" stop="20261020050000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Real Madrid vs Sevilla</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E89</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020050000 +0000" stop="20261020090000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA 500</title>
+    <sub-title lang="en">Ningbo Day 2</sub-title>
+    <desc lang="en">Watch every tournament from the WTA 500 tour as the top female players in the world travel the globe vying to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3955992/image/334x188" />
+    <episode-num system="onscreen">E142</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020090000 +0000" stop="20261020130000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA 500</title>
+    <sub-title lang="en">Ningbo Evening 2</sub-title>
+    <desc lang="en">Watch every tournament from the WTA 500 tour as the top female players in the world travel the globe vying to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3955992/image/334x188" />
+    <episode-num system="onscreen">E143</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020130000 +0000" stop="20261020131000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Goals</title>
+    <sub-title lang="en">Counter-Attack Goal</sub-title>
+    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020131000 +0000" stop="20261020132000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Goals</title>
+    <sub-title lang="en">Team Goal</sub-title>
+    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020132000 +0000" stop="20261020135000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">German Super Cup</title>
+    <sub-title lang="en">Olise – When the Game Speaks</sub-title>
+    <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2330029/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020135000 +0000" stop="20261020142000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Mini</title>
+    <sub-title lang="en">FC Union vs Dortmund</sub-title>
+    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
+    <episode-num system="onscreen">E26</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020142000 +0000" stop="20261020145000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Mini</title>
+    <sub-title lang="en">Hamburg vs Stuttgart</sub-title>
+    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
+    <episode-num system="onscreen">E27</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020145000 +0000" stop="20261020164000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Schalke vs Mainz</sub-title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
+    <episode-num system="onscreen">E50</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020164000 +0000" stop="20261020183000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Weekly</title>
+    <sub-title lang="en">Bundesliga</sub-title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
+    <episode-num system="onscreen">E53</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Mini</title>
+    <sub-title lang="en">Monchengladbach vs Hoffenheim</sub-title>
+    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
+    <episode-num system="onscreen">E30</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020190000 +0000" stop="20261020200000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Highlights</title>
+    <sub-title lang="en">Matchday 6</sub-title>
+    <desc lang="en">All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1321761/image/334x188" />
     <episode-num system="onscreen">E6</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014213000 +0000" stop="20261014215000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Goals Galore</title>
-    <sub-title lang="en">Robert Lewandowski</sub-title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+  <programme start="20261020200000 +0000" stop="20261020220000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">MUTV</title>
+    <sub-title lang="en">Leeds vs Man United</sub-title>
+    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
-    <episode-num system="onscreen">E2</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
+    <episode-num system="onscreen">E8</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261014215000 +0000" stop="20261015000000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Copa Sudamericana</title>
-    <sub-title lang="en">Atletico Mineiro vs Torque - SF 1st Leg</sub-title>
-    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+  <programme start="20261020220000 +0000" stop="20261020230000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">MUTV</title>
+    <sub-title lang="en">Cantona: Reflections Of An Artist</sub-title>
+    <desc lang="en">20 years since King Eric left Old Trafford, this special documentary looks back at Cantona's impact at the club. Featuring exclusive interviews with the man himself.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3256883/image/334x188" />
-    <episode-num system="onscreen">E154</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021005000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">EFL League Two</title>
+    <sub-title lang="en">Gillingham vs Port Vale</sub-title>
+    <desc lang="en">Catch the best of the action from EFL League Two 2026/27, the thrilling third tier of English Football League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1731003/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021005000 +0000" stop="20261021024000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">EFL Championship</title>
+    <sub-title lang="en">Burnley vs Wolves</sub-title>
+    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
+    <episode-num system="onscreen">E35</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021024000 +0000" stop="20261021043000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">EFL Championship</title>
+    <sub-title lang="en">Watford vs Charlton</sub-title>
+    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
+    <episode-num system="onscreen">E36</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">EFL Championship Highlights</title>
+    <sub-title lang="en">Matchday 11</sub-title>
+    <desc lang="en">Don't miss out on the thrilling action and highlights from the latest games in the 2026/27 season of the EFL Championship, League One, and League Two.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5323246/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021090000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA 500</title>
+    <sub-title lang="en">Ningbo Day 3</sub-title>
+    <desc lang="en">Watch every tournament from the WTA 500 tour as the top female players in the world travel the globe vying to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3955992/image/334x188" />
+    <episode-num system="onscreen">E144</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021130000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA 500</title>
+    <sub-title lang="en">Ningbo Evening 3</sub-title>
+    <desc lang="en">Watch every tournament from the WTA 500 tour as the top female players in the world travel the globe vying to be #1.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3955992/image/334x188" />
+    <episode-num system="onscreen">E145</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Miami</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Madrid</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021143000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Rome</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021145000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Goals Galore</title>
+    <sub-title lang="en">Ante Budimir</sub-title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021145000 +0000" stop="20261021164000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Malaga vs Real Sociedad</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E88</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021164000 +0000" stop="20261021183000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Getafe vs Rayo Vallecano</sub-title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
+    <episode-num system="onscreen">E90</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Matchday 9</sub-title>
+    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021193000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021213000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LFCTV</title>
+    <sub-title lang="en">Brentford vs Liverpool</sub-title>
+    <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093030/image/334x188" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021220000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1212258/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021220000 +0000" stop="20261021223000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">LFCTV Highlights</title>
+    <sub-title lang="en">LASK vs Liverpool - UCL</sub-title>
+    <desc lang="en">Enjoy match highlights from Liverpool's Premier League, FA Cup, Carabao Cup and UEFA Champions League games from LFCTV on beIN SPORTS.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16683919/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021223000 +0000" stop="20261022002000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga Weekly</title>
+    <sub-title lang="en">Bundesliga</sub-title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1329717/image/334x188" />
+    <episode-num system="onscreen">E53</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -3476,13 +3605,35 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261019130000 +0000" stop="20261019162300 +0000" channel="mastro.beinsports3au">
+  <programme start="20261019130000 +0000" stop="20261019140000 +0000" channel="mastro.beinsports3au">
     <title lang="en">MUTV</title>
     <sub-title lang="en">Cantona: Reflections Of An Artist</sub-title>
     <desc lang="en">20 years since King Eric left Old Trafford, this special documentary looks back at Cantona's impact at the club. Featuring exclusive interviews with the man himself.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
     <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019140000 +0000" stop="20261019155000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Udinese vs Lecce</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E65</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019155000 +0000" stop="20261019162300 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Bologna vs Inter</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E32</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -3498,13 +3649,123 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261019183800 +0000" stop="20261020052500 +0000" channel="mastro.beinsports3au">
+  <programme start="20261019183800 +0000" stop="20261019204500 +0000" channel="mastro.beinsports3au">
     <title lang="en">Serie A Highlights</title>
     <sub-title lang="en">Parma vs Torino</sub-title>
     <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/2296287/image/334x188" />
     <episode-num system="onscreen">E70</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019204500 +0000" stop="20261019210000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Champions of Made In Italy</title>
+    <sub-title lang="en">Parma</sub-title>
+    <desc lang="en">Made in Italy series returns, producing dedicated videos for each of the 20 Serie A clubs that showcase their home cities and local industries, linking football with Italian culture and highlighting each club's community and economic identity.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16094637/image/334x188" />
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019210000 +0000" stop="20261019213000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Copa Sudamericana Highlights</title>
+    <sub-title lang="en">Semi Final - 1st Leg</sub-title>
+    <desc lang="en">All the thrilling highlights from the 2026 edition of the Copa Sudamericana.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4101020/image/334x188" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019213000 +0000" stop="20261019220000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Copa Libertadores Highlights</title>
+    <sub-title lang="en">Semi Final - 1st Leg</sub-title>
+    <desc lang="en">All the highlights from every round of the 2026 Copa Libertadores. South America's premier club football tournament.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3949602/image/334x188" />
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019220000 +0000" stop="20261019223000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL Championship Highlights</title>
+    <sub-title lang="en">Matchday 11</sub-title>
+    <desc lang="en">Don't miss out on the thrilling action and highlights from the latest games in the 2026/27 season of the EFL Championship, League One, and League Two.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5323246/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019223000 +0000" stop="20261019233000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Bundesliga Highlights</title>
+    <sub-title lang="en">Matchday 6</sub-title>
+    <desc lang="en">All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1321761/image/334x188" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261019233000 +0000" stop="20261020012000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Venezia vs Napoli</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E62</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020012000 +0000" stop="20261020031000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Bologna vs Inter</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E63</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020031000 +0000" stop="20261020050000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Roma vs Genoa</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E64</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020050000 +0000" stop="20261020051500 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Champions of Made In Italy</title>
+    <sub-title lang="en">Genoa</sub-title>
+    <desc lang="en">Made in Italy series returns, producing dedicated videos for each of the 20 Serie A clubs that showcase their home cities and local industries, linking football with Italian culture and highlighting each club's community and economic identity.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16094637/image/334x188" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020051500 +0000" stop="20261020052500 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Inter vs Milan - 2019/20</sub-title>
+    <desc lang="en">2019/20: Rewind the clock and enjoy some of the classics from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -3520,7 +3781,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261020071500 +0000" stop="20261020185500 +0000" channel="mastro.beinsports3au">
+  <programme start="20261020071500 +0000" stop="20261020073000 +0000" channel="mastro.beinsports3au">
     <title lang="en">SPFL Premiership Highlights</title>
     <sub-title lang="en">Matchday 9</sub-title>
     <desc lang="en">Get ready for a thrilling recap of the latest round of games in the Scottish Professional Football League 2026/27 season.</desc>
@@ -3531,13 +3792,474 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261020185500 +0000" stop="20261021002000 +0000" channel="mastro.beinsports3au">
+  <programme start="20261020073000 +0000" stop="20261020080000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Espanyol vs Atletico Madrid</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020080000 +0000" stop="20261020083000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Real Betis vs Barcelona</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E42</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Valencia vs Athletic Bilbao</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E43</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020090000 +0000" stop="20261020093000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Real Madrid vs Sevilla</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E44</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020093000 +0000" stop="20261020100000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Getafe vs Rayo Vallecano</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E45</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020100000 +0000" stop="20261020103000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Legends</title>
+    <sub-title lang="en">Michael Laudrup</sub-title>
+    <desc lang="en">A detailed look at the enormous contribution Michael Laudrup has made to Spanish football.</desc>
+    <category lang="en">Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4608402/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020103000 +0000" stop="20261020110000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Legends</title>
+    <sub-title lang="en">Jesus Navas</sub-title>
+    <desc lang="en">Narrates in detail the huge contribution of six outstanding players have made to Spanish football.</desc>
+    <category lang="en">Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4608402/image/334x188" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020110000 +0000" stop="20261020130000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LFCTV</title>
+    <sub-title lang="en">Brentford vs Liverpool</sub-title>
+    <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093030/image/334x188" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020130000 +0000" stop="20261020133000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1212258/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020133000 +0000" stop="20261020140000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LFCTV Highlights</title>
+    <sub-title lang="en">LASK vs Liverpool - UCL</sub-title>
+    <desc lang="en">Enjoy match highlights from Liverpool's Premier League, FA Cup, Carabao Cup and UEFA Champions League games from LFCTV on beIN SPORTS.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16683919/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020140000 +0000" stop="20261020143000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Milan vs Atalanta</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E34</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020143000 +0000" stop="20261020162000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Bologna vs Inter</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E63</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020162000 +0000" stop="20261020181000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Fiorentina vs Como 1907</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E66</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020181000 +0000" stop="20261020184000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Juventus vs Lazio</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E35</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020184000 +0000" stop="20261020185500 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Inter vs Milan - 2019/20</sub-title>
+    <desc lang="en">2019/20: Rewind the clock and enjoy some of the classics from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020185500 +0000" stop="20261020210000 +0000" channel="mastro.beinsports3au">
     <title lang="en">EFL League Two</title>
     <sub-title lang="en">Gillingham vs Port Vale</sub-title>
     <desc lang="en">Catch the best of the action from EFL League Two 2026/27, the thrilling third tier of English Football League.</desc>
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1731003/image/334x188" />
     <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020210000 +0000" stop="20261020213000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL Championship Highlights</title>
+    <sub-title lang="en">Matchday 11</sub-title>
+    <desc lang="en">Don't miss out on the thrilling action and highlights from the latest games in the 2026/27 season of the EFL Championship, League One, and League Two.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5323246/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020213000 +0000" stop="20261020214500 +0000" channel="mastro.beinsports3au">
+    <title lang="en">SPFL Premiership Highlights</title>
+    <sub-title lang="en">Matchday 9</sub-title>
+    <desc lang="en">Get ready for a thrilling recap of the latest round of games in the Scottish Professional Football League 2026/27 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092567/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020214500 +0000" stop="20261020233500 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Football: Scottish Premiership</title>
+    <sub-title lang="en">Celtic vs Hearts</sub-title>
+    <desc lang="en">Join us for exclusive coverage of the Scottish Premiership 2026/27 season as Scotland's elite teams battle for the title.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1349454/image/334x188" />
+    <episode-num system="onscreen">E21</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020233500 +0000" stop="20261020235000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">SPFL Premiership Highlights</title>
+    <sub-title lang="en">Matchday 9</sub-title>
+    <desc lang="en">Get ready for a thrilling recap of the latest round of games in the Scottish Professional Football League 2026/27 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092567/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261020235000 +0000" stop="20261021002000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Best 11</title>
+    <sub-title lang="en">Luis Garcia</sub-title>
+    <desc lang="en">Luis Garcia is featured as one of the players selected in a LaLiga legend's ideal eleven in this episode.</desc>
+    <category lang="en">Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021002000 +0000" stop="20261021025000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Vasco De Gama vs Boca Juniors - SF 2nd Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3256883/image/334x188" />
+    <episode-num system="onscreen">E155</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021025000 +0000" stop="20261021032000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL Championship Highlights</title>
+    <sub-title lang="en">Matchday 11</sub-title>
+    <desc lang="en">Don't miss out on the thrilling action and highlights from the latest games in the 2026/27 season of the EFL Championship, League One, and League Two.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5323246/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021032000 +0000" stop="20261021051000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL League Two</title>
+    <sub-title lang="en">Gillingham vs Port Vale</sub-title>
+    <desc lang="en">Catch the best of the action from EFL League Two 2026/27, the thrilling third tier of English Football League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1731003/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021051000 +0000" stop="20261021070000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Vasco De Gama vs Boca Juniors - SF 2nd Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3256883/image/334x188" />
+    <episode-num system="onscreen">E155</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Milan vs Atalanta</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E34</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Juventus vs Lazio</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E35</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021083000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Real Betis vs Barcelona</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E42</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Real Madrid vs Sevilla</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E44</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Matchday 9</sub-title>
+    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Venezia vs Napoli</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E31</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021103000 +0000" stop="20261021110000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021125000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL League Two</title>
+    <sub-title lang="en">Gillingham vs Port Vale</sub-title>
+    <desc lang="en">Catch the best of the action from EFL League Two 2026/27, the thrilling third tier of English Football League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1731003/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021125000 +0000" stop="20261021130000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL Classic</title>
+    <sub-title lang="en">Coventry vs Luton - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the EFL Championship.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093036/image/334x188" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021145000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Football: Süper Lig</title>
+    <sub-title lang="en">Genclerbirligi vs Galatasaray</sub-title>
+    <desc lang="en">Genclerbirligi meets Galatasaray in Super Lig.\nThe match is played at Eryaman Stadyumu.\nMatch day 30.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709797/image/334x188" />
+    <episode-num system="onscreen">E29</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021145000 +0000" stop="20261021164000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Football: Süper Lig</title>
+    <sub-title lang="en">Fenerbahce vs Alanyaspor</sub-title>
+    <desc lang="en">beIN SPORTS brings you coverage of the 69th season of Turkish top-flight football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709797/image/334x188" />
+    <episode-num system="onscreen">E30</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021164000 +0000" stop="20261021183000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Football: Süper Lig</title>
+    <sub-title lang="en">Trabzonspor vs Besiktas</sub-title>
+    <desc lang="en">beIN SPORTS brings you coverage of the 69th season of Turkish top-flight football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709797/image/334x188" />
+    <episode-num system="onscreen">E32</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021185500 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Goals Galore</title>
+    <sub-title lang="en">Kylian Mbappe</sub-title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021185500 +0000" stop="20261021210000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">EFL League One</title>
+    <sub-title lang="en">Reading vs Leyton Orient</sub-title>
+    <desc lang="en">Catch the best of the action from EFL League One 2026/27, the thrilling third tier of English Football League.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1704398/image/334x188" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Matchday 9</sub-title>
+    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021215000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Goals Galore</title>
+    <sub-title lang="en">Dovbyk</sub-title>
+    <desc lang="en">Relive every goal from the best players in 2023/24 season.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093013/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261021215000 +0000" stop="20261022002000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Copa Sudamericana</title>
+    <sub-title lang="en">Torque vs Atletico Mineiro - SF 2nd Leg</sub-title>
+    <desc lang="en">We bring you exclusive coverage of the Copa Sudamericana 2026. Get ready to witness top teams from South America battle it out for glory.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3256883/image/334x188" />
+    <episode-num system="onscreen">E156</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -11294,6 +12016,16 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <programme start="20261015160000 +0000" stop="20261015220000 +0000" channel="mastro.premierleague3">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 7: Fulham vs Hull City at 2200hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20261015220000 +0000" stop="20261016040000 +0000" channel="mastro.premierleague3">
     <title lang="en">Astro Premier League 3</title>
     <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 7: Fulham vs Hull City at 2200hrs.</desc>
@@ -11370,6 +12102,36 @@
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261018040000 +0000" stop="20261018100000 +0000" channel="mastro.premierleague3">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 7: Bournemouth vs Sunderland at 2100hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261018100000 +0000" stop="20261018125000 +0000" channel="mastro.premierleague3">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 7: Bournemouth vs Sunderland at 2100hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261018125000 +0000" stop="20261018151500 +0000" channel="mastro.premierleague3">
+    <title lang="en">(L) PL: Bournemouth vs Sunderland</title>
+    <desc lang="en">LIVE: Premier League 2026/27: Match Week 7: Bournemouth vs Sunderland, from Vitality Stadium, Bournemouth, England.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYXCX.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -12014,317 +12776,6 @@
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" />
   </channel>
-  <programme channel="mastro.babyshark" start="20261015203500 +0000" stop="20261015212600 +0000">
-    <title>Five Little Buses Jumping on the Road</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b3c1652fca0600139787a5</episode-num>
-    <episode-num system="original-air-date">20210504000000 +0000</episode-num>
-    <desc>Sing Along with Pinkfong and Hogi! Enjoy the Five Little Buses Jumping on the Road and more!</desc>
-    <icon src="https://images.pluto.tv/series/66b3c1642fca060013978786/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210504</date>
-    <series-id system="pluto">66b3c1642fca060013978786</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261015212600 +0000" stop="20261015215600 +0000">
-    <title>Pinkfong Dance And More</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">61730bff829284001a93ffe6</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Cheerful dances to the best kid's songs will make you healthy. Work out and stay healthy!</desc>
-    <icon src="https://images.pluto.tv/series/61730bfe829284001a93ffdc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">61730bfe829284001a93ffdc</series-id>
-    <sub-title>Pinkfong Dance Workout</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261015215600 +0000" stop="20261015230600 +0000">
-    <title>Pinkfong and Hogi Dance Dance</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">616a1fb06e3813001a8b0299</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>3D Pinkfong and Hogi love to sing and dance with the best kids' songs.</desc>
-    <icon src="https://images.pluto.tv/series/616a1fae6e3813001a8b0275/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">616a1fae6e3813001a8b0275</series-id>
-    <sub-title>Pinkfong and Hogi Dance Dance Ep.1</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261015230600 +0000" stop="20261015232600 +0000">
-    <title>Sing Along With Pinkfong &amp; Hogi</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">63d0591a163e910013f28999</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Come sing along with adorable Pinkfong and Hogi!</desc>
-    <icon src="https://images.pluto.tv/series/63d057b0200a67001357520a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63d057b0200a67001357520a</series-id>
-    <sub-title>Sing along With Pinkfong and Hogi Ep.2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261015232600 +0000" stop="20261016000200 +0000">
-    <title>Pinkfong's Farm Animals</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66bba8fab20e7900130d1306</episode-num>
-    <episode-num system="original-air-date">20210729000000 +0000</episode-num>
-    <desc>Welcome to Pinkfong's farm! You're watching "Pinkfong's Farm", fun and educational Animal Songs presented by Pinkfong!Learn all about different farm animals with all-new Pinkfong's Animal Songs!</desc>
-    <icon src="https://images.pluto.tv/series/66bba8f8b20e7900130d12e8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210729</date>
-    <series-id system="pluto">66bba8f8b20e7900130d12e8</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016000200 +0000" stop="20261016002300 +0000">
-    <title>Learn Colors With Hogi</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">66be440762114000088e6f48</episode-num>
-    <episode-num system="original-air-date">20230529000000 +0000</episode-num>
-    <desc>Learn colors with Hogi and Wonderville Friends.</desc>
-    <icon src="https://images.pluto.tv/series/62577d508f17ad0013f66f0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230529</date>
-    <series-id system="pluto">62577d508f17ad0013f66f0f</series-id>
-    <sub-title>Learn colors with Hogi. Ep4</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016002300 +0000" stop="20261016005600 +0000">
-    <title>Baby Shark Word Songs</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b69f7557d82b0013a4aa7c</episode-num>
-    <episode-num system="original-air-date">20220930000000 +0000</episode-num>
-    <desc>Explore the world with our adorable friend Pinkfong as we sing, play and learn everyday words and phrases!</desc>
-    <icon src="https://images.pluto.tv/series/66b69f7457d82b0013a4aa5e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220930</date>
-    <series-id system="pluto">66b69f7457d82b0013a4aa5e</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016005600 +0000" stop="20261016012300 +0000">
-    <title>Baby Shark Brooklyn</title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="pluto">6164afe0d4b818001a69ab44</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>SOS. Crown of Thorns Starfish! &amp; Grandma Shark's Concert!</desc>
-    <icon src="https://images.pluto.tv/series/6164afded4b818001a69ab18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6164afded4b818001a69ab18</series-id>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016012300 +0000" stop="20261016015800 +0000">
-    <title>Pinkfong Mother Goose</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">61730c13829284001a9404b7</episode-num>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>A compilation of children's favorite Mother Goose songs and all-time favorite Mother Goose games.</desc>
-    <icon src="https://images.pluto.tv/series/61730c12829284001a9404a9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20160101</date>
-    <series-id system="pluto">61730c12829284001a9404a9</series-id>
-    <sub-title>Pinkfong Mother Goose Ep.2</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016015800 +0000" stop="20261016022500 +0000">
-    <title>Pinkfong Chart Show</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">6167011af3593c001aa3f13b</episode-num>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Dear friend, tell Pinkfong and Baby Shark about your worries. We are all ears. Are you always hungry?</desc>
-    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20180101</date>
-    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
-    <sub-title>Pinkfong Chart Show Ep2. Who's hungry?</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016022500 +0000" stop="20261016030000 +0000">
-    <title>Farm Animals Songs</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">63cf5221ff32c10013a988a4</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>We invite you to Pinkfong Farm, full of farm animals, from a fun color game to a number game. Everything is double the fun with farm animals!</desc>
-    <icon src="https://images.pluto.tv/series/63cf5220ff32c10013a98886/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63cf5220ff32c10013a98886</series-id>
-    <sub-title>Farm Animals Songs Ep.1</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016030000 +0000" stop="20261016033600 +0000">
-    <title>Pinkfong best car songs</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b392fa7e51670013db51b1</episode-num>
-    <episode-num system="original-air-date">20210106000000 +0000</episode-num>
-    <desc>Meet car friends and learn about the vehicles.</desc>
-    <icon src="https://images.pluto.tv/series/66b392f87e51670013db5192/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210106</date>
-    <series-id system="pluto">66b392f87e51670013db5192</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016033600 +0000" stop="20261016040700 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <episode-num system="pluto">65540ae291ee7c001a064337</episode-num>
-    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
-    <desc>It's time to go to bed with gentle and calming bedtime lullabies. Sweet dreams!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20150101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Pinkfong Lullaby</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016040700 +0000" stop="20261016043600 +0000">
-    <title>Let's Color With Baby Shark</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">625783103f03ed0013c4e623</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Let's have a coloring time with Baby Shark!</desc>
-    <icon src="https://images.pluto.tv/series/6257830f3f03ed0013c4e61c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6257830f3f03ed0013c4e61c</series-id>
-    <sub-title>Episode 1</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016043600 +0000" stop="20261016054300 +0000">
-    <title>Storytime with Pinkfong and Animal Friends</title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="pluto">66b3c1612fca0600139786b8</episode-num>
-    <episode-num system="original-air-date">20230425000000 +0000</episode-num>
-    <desc>Shall we go out to meet our fun animal friends in the woods? Fun animal friends are waiting for us, including a pig with a cute twisty tail, a detective squirrel looking for acorns, and a rhinoceros jumping around! Let's all start together!</desc>
-    <icon src="https://images.pluto.tv/series/66b3bff861ac500014f50018/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230425</date>
-    <series-id system="pluto">66b3bff861ac500014f50018</series-id>
-    <sub-title>Storytime with Pinkfong and Animal Friends  - Season 2 - Episode 001</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016054300 +0000" stop="20261016062800 +0000">
-    <title>Dance with Pinkfong</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6164afdcd4b818001a69aad9</episode-num>
-    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
-    <desc>Watch to enjoy "Dance with Pinkfong!" a super fun nursery rhyme created by Pinkfong. Everybody! Let's sing with Pinkfong.</desc>
-    <icon src="https://images.pluto.tv/series/6164afd3d4b818001a69aa07/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20190101</date>
-    <series-id system="pluto">6164afd3d4b818001a69aa07</series-id>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016062800 +0000" stop="20261016073600 +0000">
-    <title>Pinkfong Mother Goose</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">61730c13829284001a9404c7</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>A compilation of children's favorite Mother Goose songs and all-time favorite Mother Goose games.</desc>
-    <icon src="https://images.pluto.tv/series/61730c12829284001a9404a9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">61730c12829284001a9404a9</series-id>
-    <sub-title>Pinkfong Mother Goose Ep.1</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016073600 +0000" stop="20261016081400 +0000">
-    <title>Pinkfong ABC Phonics</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">654d1893a61c2a001b148e52</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Sing along with your favorite songs and enjoy learning different sounds with rhyming words. Here we go!</desc>
-    <icon src="https://images.pluto.tv/series/61730bee829284001a93fbb7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20170101</date>
-    <series-id system="pluto">61730bee829284001a93fbb7</series-id>
-    <sub-title>Pinkfong ABC Phonics Ep.2</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016081400 +0000" stop="20261016084100 +0000">
-    <title>Baby Shark Brooklyn</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">6164afe6d4b818001a69ac42</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Wooga Chaka Boom Volcanoes! &amp; The best couple contest!</desc>
-    <icon src="https://images.pluto.tv/series/6164afded4b818001a69ab18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6164afded4b818001a69ab18</series-id>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016084100 +0000" stop="20261016090500 +0000">
-    <title>Pinkfong little dino school</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66b3d3ad8dfe2a00133e7c84</episode-num>
-    <episode-num system="original-air-date">20230531000000 +0000</episode-num>
-    <desc>Meet Rex, who loves tag game, Brie who is always hungry, the smart dinosaur Vella, and Pete the hat collector!</desc>
-    <icon src="https://images.pluto.tv/series/66b3d24597009300138d71d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230531</date>
-    <series-id system="pluto">66b3d24597009300138d71d3</series-id>
-    <sub-title>Pinkfong  little dino school ep 2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016090500 +0000" stop="20261016093100 +0000">
-    <title>Pinkfong Storytime Theater</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6176c620178213001ad961c5</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Join Pinkfong and friends, and let's go back to Jurassic World to visit the dinosaurs!</desc>
-    <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">6176c61e178213001ad96179</series-id>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016093100 +0000" stop="20261016095800 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <episode-num system="pluto">65541433a61c2a001b3b230e</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Sing, dance, and learn all about your favorite sea animals. Move like sea animals!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Pinkfong Sea Animal Songs</sub-title>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261016095800 +0000" stop="20261016103000 +0000">
-    <title>Pinkfong Storytime Theater</title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="pluto">6176c620178213001ad961b1</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Happy Halloween! It's time to celebrate. Let's sing and dance with the monster friends.</desc>
-    <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">6176c61e178213001ad96179</series-id>
-    <category>Series</category>
-    <category>Kids' Music</category>
-    <category>Children</category>
-  </programme>
   <programme channel="mastro.babyshark" start="20261016103000 +0000" stop="20261016110900 +0000">
     <title>Learn ABC with Pinkfong</title>
     <episode-num system="onscreen">S01E03</episode-num>
@@ -12335,8 +12786,8 @@
     <date>20200101</date>
     <series-id system="pluto">616a1fb56e3813001a8b0517</series-id>
     <sub-title>Dinosaur Episode 1</sub-title>
-    <category>Series</category>
     <category>Kids' Music</category>
+    <category>Series</category>
     <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261016110900 +0000" stop="20261016113700 +0000">
@@ -12349,8 +12800,8 @@
     <date>20200101</date>
     <series-id system="pluto">6170487e95ce3f001a330f04</series-id>
     <sub-title>Learn ABC with Baby Shark - Food</sub-title>
-    <category>Series</category>
     <category>Kids' Music</category>
+    <category>Series</category>
     <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261016113700 +0000" stop="20261016125600 +0000">
@@ -12362,8 +12813,8 @@
     <icon src="https://images.pluto.tv/series/62584938db330c00140b067a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210101</date>
     <series-id system="pluto">62584938db330c00140b067a</series-id>
-    <category>Series</category>
     <category>Kids' Music</category>
+    <category>Series</category>
     <category>Children</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261016125600 +0000" stop="20261016131800 +0000">
@@ -12376,8 +12827,334 @@
     <date>20240125</date>
     <series-id system="pluto">63c73248eb85c50013390757</series-id>
     <sub-title>Bebefinn 3 Ep3</sub-title>
+    <category>Animated</category>
     <category>Series</category>
     <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016131800 +0000" stop="20261016134800 +0000">
+    <title>Pinkfong Dinosaur Musical Stories</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">61730c03829284001a9400b6</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Did you know that dinosaurs love to sing and dance?</desc>
+    <icon src="https://images.pluto.tv/series/61730c02829284001a9400ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20170101</date>
+    <series-id system="pluto">61730c02829284001a9400ac</series-id>
+    <sub-title>Pinkfong Dinosaur Musical Stories Ep.2</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016134800 +0000" stop="20261016142600 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E30</episode-num>
+    <episode-num system="pluto">64ad9f33f5597c0008c37b2c</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Oh no! Gingerbread Man escaped from the oven! Will you help Baby Shark and friends to catch the naughty Gingerbread Man?</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Baby Shark vs Gingerbread Man</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016142600 +0000" stop="20261016144900 +0000">
+    <title>Pinkfong Storytime Theater</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">6176c620178213001ad961bb</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Come along, and let's sing and drive with the Garbage Truck!</desc>
+    <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">6176c61e178213001ad96179</series-id>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016144900 +0000" stop="20261016151000 +0000">
+    <title>Bebefinn</title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="pluto">63c73d8ceb85c50013390aa9</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Baby Finn Learns Something New Every day with the Fun Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family, filled with joyful songs.</desc>
+    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">63c73248eb85c50013390757</series-id>
+    <sub-title>Bebefinn Ep.5</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016151000 +0000" stop="20261016162500 +0000">
+    <title>Happy 1st Birthday Bebefinn</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b3c4368dfe2a00133e569b</episode-num>
+    <episode-num system="original-air-date">20220708000000 +0000</episode-num>
+    <desc>Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family.</desc>
+    <icon src="https://images.pluto.tv/series/66b3c4358dfe2a00133e567c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220708</date>
+    <series-id system="pluto">66b3c4358dfe2a00133e567c</series-id>
     <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016162500 +0000" stop="20261016165300 +0000">
+    <title>Pinkfong Word Play</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6176c60e178213001ad95c1b</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Hello toddlers, Pinkfong Word Play is here to make your learning time easy and fun.</desc>
+    <icon src="https://images.pluto.tv/series/6176c60d178213001ad95bee/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20170101</date>
+    <series-id system="pluto">6176c60d178213001ad95bee</series-id>
+    <sub-title>Pinkfong Word Play Ep.2</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016165300 +0000" stop="20261016172900 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E44</episode-num>
+    <episode-num system="pluto">64ada014060e830008c184ee</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Learn different colors with Baby Shark Brooklyn and Pinkfong!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Children Baby Shark Colors</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016172900 +0000" stop="20261016174700 +0000">
+    <title>Baby Shark Workout</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b6a0d994a1840013f72b2e</episode-num>
+    <episode-num system="original-air-date">20210311000000 +0000</episode-num>
+    <desc>Move your body and exercise with your favorite Baby Shark Songs!</desc>
+    <icon src="https://images.pluto.tv/series/66b6a0d894a1840013f72b0e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210311</date>
+    <series-id system="pluto">66b6a0d894a1840013f72b0e</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016174700 +0000" stop="20261016182600 +0000">
+    <title>Hogi's Story Theater</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">66b68bca7e51670013f22931</episode-num>
+    <episode-num system="original-air-date">20220622000000 +0000</episode-num>
+    <desc>You're watching Hogi's Story Theater compilation, an educational and interactive series prepared to you by Pinkfong &amp; Hogi!</desc>
+    <icon src="https://images.pluto.tv/series/66b684cc94a1840013f6eb7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220622</date>
+    <series-id system="pluto">66b684cc94a1840013f6eb7a</series-id>
+    <sub-title>Hogi's Story Theater 3</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016182600 +0000" stop="20261016190900 +0000">
+    <title>Baby Shark the Dentist</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b3b09d8dfe2a00133380e8</episode-num>
+    <episode-num system="original-air-date">20231221000000 +0000</episode-num>
+    <desc>Oh no, it looks like you have a tooth injury, so you've come to the dentist! Dr. Baby Shark will take care of everything for you! Alright, let's start the treatment. Please open wide and say "Ahh"!</desc>
+    <icon src="https://images.pluto.tv/series/66b3b09c8dfe2a00133380c9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20231221</date>
+    <series-id system="pluto">66b3b09c8dfe2a00133380c9</series-id>
+    <sub-title>Baby Shark the Dentist ep1</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016190900 +0000" stop="20261016193800 +0000">
+    <title>Hogi's Story Theater</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">66b68d2e7e51670013f22bdf</episode-num>
+    <episode-num system="original-air-date">20220707000000 +0000</episode-num>
+    <desc>You're watching Hogi's Story Theater compilation, an educational and interactive series prepared to you by Pinkfong &amp; Hogi!</desc>
+    <icon src="https://images.pluto.tv/series/66b684cc94a1840013f6eb7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220707</date>
+    <series-id system="pluto">66b684cc94a1840013f6eb7a</series-id>
+    <sub-title>Hogi's Story Theater 4</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016193800 +0000" stop="20261016203000 +0000">
+    <title>Stay Safe and Healthy with Pinkfong</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b3be9394a1840013bf775d</episode-num>
+    <episode-num system="original-air-date">20200610000000 +0000</episode-num>
+    <desc>Stay safe &amp; healthy with Pinkfong Safety Rangers!</desc>
+    <icon src="https://images.pluto.tv/series/66b3be9294a1840013bf773f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200610</date>
+    <series-id system="pluto">66b3be9294a1840013bf773f</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016203000 +0000" stop="20261016210300 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <episode-num system="pluto">64ad9f624ea48000082caf55</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Help the sea animals from the terrifying plastic animal! Save the environment with Baby Shark!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Climate Change Songs</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016210300 +0000" stop="20261016212200 +0000">
+    <title>Hogi's Story Theater</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b684cd94a1840013f6eb98</episode-num>
+    <episode-num system="original-air-date">20220525000000 +0000</episode-num>
+    <desc>Hogi and friends enjoy a delightful picnic, sharing treats, playing games, and exploring nature, all while celebrating friendship and fun.</desc>
+    <icon src="https://images.pluto.tv/series/66b684cc94a1840013f6eb7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220525</date>
+    <series-id system="pluto">66b684cc94a1840013f6eb7a</series-id>
+    <sub-title>Picnic with Hogi and Friends</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016212200 +0000" stop="20261016221000 +0000">
+    <title>Hide 'n Seek with Shark Family</title>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <episode-num system="pluto">66b4eb8edc6f2f0013b74535</episode-num>
+    <episode-num system="original-air-date">20231220000000 +0000</episode-num>
+    <desc>Oh? Where did Baby Shark and Shark Family go? Help Pinkfong to find all the Shark Family!</desc>
+    <icon src="https://images.pluto.tv/series/63d023acff32c10013ada140/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20231220</date>
+    <series-id system="pluto">63d023acff32c10013ada140</series-id>
+    <sub-title>Amusement Park Mistery: Find the Shark Family!</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016221000 +0000" stop="20261016224100 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="pluto">655404903e6938001a10ac2f</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Fulfill your curiosity with Pinkfong and Hogi. Here's all about plants, bodies, and bugs!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Follow your curiosity</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016224100 +0000" stop="20261016230800 +0000">
+    <title>Baby Shark Brooklyn</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">6164afe6d4b818001a69ac4f</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Baby Shark's new home sweet home! &amp; Scrubadubdub bath time!</desc>
+    <icon src="https://images.pluto.tv/series/6164afded4b818001a69ab18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6164afded4b818001a69ab18</series-id>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016230800 +0000" stop="20261016234300 +0000">
+    <title>Here We Dance</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">63d012cd5957f20013f61e40</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Sing and Dance with Sammy, Pinkfong, and Baby Shark. Sammy is an expert in fun kids dance workout! He will guide you how to dance along to the most popular Pinkfong songs!</desc>
+    <icon src="https://images.pluto.tv/series/63cf56585957f20013f1ba52/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">63cf56585957f20013f1ba52</series-id>
+    <sub-title>Here We Dance - Season 1 - Episode 002</sub-title>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261016234300 +0000" stop="20261017001000 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">6553feb4e2a2d8001a9d95eb</episode-num>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Get on the Pinkfong ride and let's go meet the buses.</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20160101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Bus Songs</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261017001000 +0000" stop="20261017004500 +0000">
+    <title>Have You Seen My Siren</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">66b69ca75b669a0013295f51</episode-num>
+    <episode-num system="original-air-date">20210930000000 +0000</episode-num>
+    <desc>The siren is gone! Have you seen the police car's siren? where did it go?</desc>
+    <icon src="https://images.pluto.tv/series/66b69ca65b669a0013295f33/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210930</date>
+    <series-id system="pluto">66b69ca65b669a0013295f33</series-id>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261017004500 +0000" stop="20261017012700 +0000">
+    <title>Zoom Zoom Zoom With Baby Shark</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">62586def78f6d300136f239e</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Hmm... What will it be? How fun it is to learn the words of fruit and vegetables by doing the zoom to everything!</desc>
+    <icon src="https://images.pluto.tv/series/62586af8228ab000133d8690/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">62586af8228ab000133d8690</series-id>
+    <sub-title>Zoom Zoom Zoom with Baby Shark Ep.3 Fruit&amp;Veggi with Baby Shark</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261017012700 +0000" stop="20261017020300 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E29</episode-num>
+    <episode-num system="pluto">64ad9f255dc16600087b648b</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Oh no! Santa lost his beard! Will you help him find his beard?</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Have You Ever Seen Santa's Beard?</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261017020300 +0000" stop="20261017022700 +0000">
+    <title>Learn Colors With Hogi</title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="pluto">66be4407f82a580008cede94</episode-num>
+    <episode-num system="original-air-date">20230927000000 +0000</episode-num>
+    <desc>Learn colors with Hogi and Wonderville Friends.</desc>
+    <icon src="https://images.pluto.tv/series/62577d508f17ad0013f66f0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230927</date>
+    <series-id system="pluto">62577d508f17ad0013f66f0f</series-id>
+    <sub-title>Learn colors with Hogi. Ep5</sub-title>
+    <category>Animated</category>
+    <category>Series</category>
+    <category>Children</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261017022700 +0000" stop="20261017030100 +0000">
+    <title>Learn ABC with Baby Shark</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">6170487f95ce3f001a330f1e</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Let's learn ABC with Baby Shark and animals!</desc>
+    <icon src="https://images.pluto.tv/series/6170487e95ce3f001a330f04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">6170487e95ce3f001a330f04</series-id>
+    <sub-title>Learn ABC with Baby Shark - Animal Ep.2</sub-title>
+    <category>Kids' Music</category>
+    <category>Series</category>
+    <category>Children</category>
   </programme>
 </tv>
