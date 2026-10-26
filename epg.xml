@@ -21,7 +21,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.cartoonnetwork">
-    <display-name lang="馬來西亞">Cartoon Network HD</display-name>
+    <display-name lang="Malaysia">Cartoon Network HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <channel id="mastro.disneychannel">
@@ -329,7 +329,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609090714567371_37.png" />
   </channel>
   <channel id="mastro.bloomberg">
-    <display-name lang="馬來西亞">Bloomberg TV HD</display-name>
+    <display-name lang="Malaysia">Bloomberg TV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609102618373574_12.png" />
   </channel>
   <channel id="mastro.8tv">
@@ -417,7 +417,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
   <channel id="mastro.celestial">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
+    <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
   <channel id="mastro.ria">
@@ -9784,6 +9784,11 @@
     <desc>Relive these 25 incredible Old Trafford moments.</desc>
     <date>2026-10-27</date>
   </programme>
+  <programme channel="mastro.mutv" start="20261028000000 +0000" stop="20261029000000 +0000">
+    <title lang="zh">PL Match: Bournemouth (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against AFC Bournemouth.</desc>
+    <date>2026-10-28</date>
+  </programme>
   <programme channel="mastro.lfctv" start="20261026000000 +0000" stop="20261026020000 +0000">
     <title lang="zh">Liverpool v Brighton: The Match</title>
     <desc>All the action as Liverpool take on Brighton.</desc>
@@ -10093,6 +10098,11 @@
     <title lang="zh">Goal Rush: Premier League Season So Far</title>
     <desc>All the goals from Liverpool's Premier League season so far.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20261028000000 +0000" stop="20261029000000 +0000">
+    <title lang="zh">The Premier League Review Show</title>
+    <desc>Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Brighton.</desc>
+    <date>2026-10-28</date>
   </programme>
   <programme channel="mastro.rania" start="20261026000000 +0000" stop="20261026005500 +0000">
     <title lang="zh">Tajwid Cinta Ep192</title>
