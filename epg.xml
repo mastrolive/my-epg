@@ -21,7 +21,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.cartoonnetwork">
-    <display-name lang="Malaysia">Cartoon Network HD</display-name>
+    <display-name lang="馬來西亞">Cartoon Network HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <channel id="mastro.disneychannel">
@@ -417,7 +417,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
   <channel id="mastro.celestial">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
+    <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
   <channel id="mastro.ria">
@@ -9689,6 +9689,11 @@
     <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
     <date>2026-10-28</date>
   </programme>
+  <programme channel="mastro.mutv" start="20261029000000 +0000" stop="20261030000000 +0000">
+    <title lang="zh">MUW 26/27</title>
+    <desc>Highlights of our Women's League Cup match against Burnley.</desc>
+    <date>2026-10-29</date>
+  </programme>
   <programme channel="mastro.lfctv" start="20261027000000 +0000" stop="20261027020000 +0000">
     <title lang="zh">Liverpool v Brighton: The Match</title>
     <desc>All the action as Liverpool take on Brighton.</desc>
@@ -10073,6 +10078,11 @@
     <title lang="zh">Retro Review Show - Istanbul 2005</title>
     <desc>Steven Gerrard joins Neil Mellor to analyse the action and talk through the stats from the 2005 Champions league Final.</desc>
     <date>2026-10-28</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20261029000000 +0000" stop="20261030000000 +0000">
+    <title lang="zh">Liverpool v Chelsea: The Match</title>
+    <desc>All the action as Liverpool take on Chelsea in the Carabao Cup.</desc>
+    <date>2026-10-29</date>
   </programme>
   <programme channel="mastro.rania" start="20261027000000 +0000" stop="20261027010000 +0000">
     <title lang="zh">Tajwid Cinta Ep193</title>
