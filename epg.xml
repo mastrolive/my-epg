@@ -21,7 +21,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.cartoonnetwork">
-    <display-name lang="Malaysia">Cartoon Network HD</display-name>
+    <display-name lang="馬來西亞">Cartoon Network HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <channel id="mastro.disneychannel">
@@ -49,7 +49,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610054049620376_36.png" />
   </channel>
   <channel id="mastro.citra">
-    <display-name lang="Malaysia">Astro Citra HD</display-name>
+    <display-name lang="馬來西亞">Astro Citra HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png" />
   </channel>
   <channel id="mastro.nickelodeon">
@@ -137,7 +137,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610054511299402_67.png" />
   </channel>
   <channel id="mastro.alhijrah">
-    <display-name lang="Malaysia">Al-Hijrah</display-name>
+    <display-name lang="馬來西亞">Al-Hijrah</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080905350939_34.png" />
   </channel>
   <channel id="mastro.tvs">
@@ -145,7 +145,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609104553161128_90.png" />
   </channel>
   <channel id="mastro.channel5">
-    <display-name lang="Singapore">Channel 5</display-name>
+    <display-name lang="新加坡">Channel 5</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064229303987_48" />
   </channel>
   <channel id="mastro.channel8">
@@ -221,7 +221,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610055411764757_73.png" />
   </channel>
   <channel id="mastro.vasantham">
-    <display-name lang="Singapore">Vasantham</display-name>
+    <display-name lang="新加坡">Vasantham</display-name>
     <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110064233557827_34" />
   </channel>
   <channel id="mastro.zeecinema">
@@ -245,7 +245,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080949070325_14.png" />
   </channel>
   <channel id="mastro.tv3">
-    <display-name lang="Malaysia">TV3</display-name>
+    <display-name lang="馬來西亞">TV3</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080754341971_27.png" />
   </channel>
   <channel id="mastro.qj">
@@ -312,10 +312,6 @@
     <display-name lang="Malaysia">Berita RTM</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.bernama">
-    <display-name lang="Malaysia">BERNAMA</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080936076627_89.png" />
-  </channel>
   <channel id="mastro.abcaustralia">
     <display-name lang="Malaysia">ABC Australia HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610053625211141_59.png" />
@@ -329,7 +325,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609090714567371_37.png" />
   </channel>
   <channel id="mastro.bloomberg">
-    <display-name lang="馬來西亞">Bloomberg TV HD</display-name>
+    <display-name lang="Malaysia">Bloomberg TV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609102618373574_12.png" />
   </channel>
   <channel id="mastro.8tv">
@@ -377,15 +373,15 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609105510419976_63.png" />
   </channel>
   <channel id="mastro.tv9">
-    <display-name lang="Malaysia">TV9</display-name>
+    <display-name lang="馬來西亞">TV9</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080728128542_54.png" />
   </channel>
   <channel id="mastro.tlc">
-    <display-name lang="Malaysia">TLC HD</display-name>
+    <display-name lang="馬來西亞">TLC HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609085327368966_31.png" />
   </channel>
   <channel id="mastro.kbsworld">
-    <display-name lang="Malaysia">KBS World HD</display-name>
+    <display-name lang="馬來西亞">KBS World HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080942280528_38.png" />
   </channel>
   <channel id="mastro.kplus">
@@ -393,7 +389,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081148669803_10.png" />
   </channel>
   <channel id="mastro.tvn">
-    <display-name lang="Malaysia">tvN HD</display-name>
+    <display-name lang="馬來西亞">tvN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png" />
   </channel>
   <channel id="mastro.boo">
@@ -413,15 +409,11 @@
     <icon src="" />
   </channel>
   <channel id="mastro.ccm">
-    <display-name lang="Malaysia">Celestial Classic Movies</display-name>
+    <display-name lang="馬來西亞">Celestial Classic Movies</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
-  <channel id="mastro.celestial">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
-  </channel>
   <channel id="mastro.ria">
-    <display-name lang="Malaysia">Astro Ria HD</display-name>
+    <display-name lang="馬來西亞">Astro Ria HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081051791435_30.png" />
   </channel>
   <channel id="mastro.hits">
@@ -441,7 +433,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.tvnmovies">
-    <display-name lang="Malaysia">tvN Movies HD</display-name>
+    <display-name lang="馬來西亞">tvN Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081207676227_21.png" />
   </channel>
   <channel id="mastro.afn">
@@ -465,7 +457,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084741479572_69.png" />
   </channel>
   <channel id="mastro.discoveryasia">
-    <display-name lang="Malaysia">Discovery Asia HD</display-name>
+    <display-name lang="馬來西亞">Discovery Asia HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080832851319_73.png" />
   </channel>
   <channel id="mastro.worldfishingnetwork">
@@ -481,7 +473,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080851873221_29.png" />
   </channel>
   <channel id="mastro.lovenature">
-    <display-name lang="Malaysia">Love Nature</display-name>
+    <display-name lang="馬來西亞">Love Nature</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610060923765852_46.png" />
   </channel>
   <channel id="mastro.natgeowild">
@@ -26399,441 +26391,6 @@
     <desc>Memaparkan isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, seni, desa serta aktiviti jabatan, kementerian, negeri dan NGO.</desc>
     <date>2026-10-31</date>
   </programme>
-  <programme channel="mastro.bernama" start="20261029000000 +0000" stop="20261029003000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029003000 +0000" stop="20261029010000 +0000">
-    <title lang="zh">Radio@TV</title>
-    <desc>Saksikan BERNAMA Radio bersiaran Secara Langsung dari konti BERNAMA Radio dengan perkembangan berita terkini.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029010000 +0000" stop="20261029020000 +0000">
-    <title lang="zh">(L) Apa Khabar Malaysia</title>
-    <desc>Sebuah program bual bicara pagi berbahasa Melayu yang mengetengahkan isu-isu semasa dari portal Bernama.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029020000 +0000" stop="20261029030000 +0000">
-    <title lang="zh">(L) Sidang Dewan Rakyat</title>
-    <desc>Sidang Dewan Rakyat Mesyuarat Ketiga Penggal Kelima Parlimen ke-15 2026.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029030000 +0000" stop="20261029031500 +0000">
-    <title lang="zh">(L) Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029031500 +0000" stop="20261029050000 +0000">
-    <title lang="zh">(L) Sidang Dewan Rakyat</title>
-    <desc>Sidang Dewan Rakyat Mesyuarat Ketiga Penggal Kelima Parlimen ke-15 2026.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029050000 +0000" stop="20261029053000 +0000">
-    <title lang="zh">(L) Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029053000 +0000" stop="20261029060000 +0000">
-    <title lang="zh">Jom Shoppe</title>
-    <desc>Sebuah program beli belah produk barangan dari Korea. Penonton boleh membeli belah menerusi website mysmartshop.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029060000 +0000" stop="20261029063000 +0000">
-    <title lang="zh">(L) Bernama World</title>
-    <desc>A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029063000 +0000" stop="20261029070000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029070000 +0000" stop="20261029073000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029073000 +0000" stop="20261029080000 +0000">
-    <title lang="zh">ON E</title>
-    <desc>'ON e' memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029080000 +0000" stop="20261029083000 +0000">
-    <title lang="zh">(L) Bernama Global</title>
-    <desc>Laporan berita antarabangsa terpilih yang disiarakan secara langsung setiap hari.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029083000 +0000" stop="20261029090000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029090000 +0000" stop="20261029093000 +0000">
-    <title lang="zh">(L) Malaysia Petang Ini</title>
-    <desc>Platform kupasan peristiwa penting dan kemaskini perkembangan semasa dalam negara, dirangkum setiap petang dalam Malaysia Petang Ini.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029093000 +0000" stop="20261029100000 +0000">
-    <title lang="zh">Radio@TV</title>
-    <desc>Saksikan BERNAMA Radio bersiaran Secara Langsung dari konti BERNAMA Radio dengan perkembangan berita terkini.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029100000 +0000" stop="20261029103000 +0000">
-    <title lang="zh">(L) Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029103000 +0000" stop="20261029110000 +0000">
-    <title lang="zh">(L) Mandarin News</title>
-    <desc>A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029110000 +0000" stop="20261029113000 +0000">
-    <title lang="zh">(L) Tamil News</title>
-    <desc>Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029113000 +0000" stop="20261029114500 +0000">
-    <title lang="zh">Kapsul Malaysia Petang Ini</title>
-    <desc>Kapsul Malaysia Petang Ini memaparkan sorotan terbaik daripada program temubual harian Malaysia Petang Ini, menampilkan topik terkini, informatif dan relevan.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029114500 +0000" stop="20261029120000 +0000">
-    <title lang="zh">(L) Sukan+</title>
-    <desc>Laporan sukan menyeluruh melibatkan keputusan kejohanan, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029120000 +0000" stop="20261029123000 +0000">
-    <title lang="zh">(L) Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029123000 +0000" stop="20261029130000 +0000">
-    <title lang="zh">Sukan+ Close up</title>
-    <desc>Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029130000 +0000" stop="20261029140000 +0000">
-    <title lang="zh">(L) Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029140000 +0000" stop="20261029143000 +0000">
-    <title lang="zh">Mandarin News</title>
-    <desc>A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029143000 +0000" stop="20261029150000 +0000">
-    <title lang="zh">(L) Bernama News</title>
-    <desc>English news reporting on current issues and stock market.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029150000 +0000" stop="20261029153000 +0000">
-    <title lang="zh">(L) Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029153000 +0000" stop="20261029160000 +0000">
-    <title lang="zh">Tamil News</title>
-    <desc>Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029160000 +0000" stop="20261029170000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029170000 +0000" stop="20261029173000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029173000 +0000" stop="20261029180000 +0000">
-    <title lang="zh">Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029180000 +0000" stop="20261029190000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029190000 +0000" stop="20261029193000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029193000 +0000" stop="20261029200000 +0000">
-    <title lang="zh">Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029200000 +0000" stop="20261029203000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029203000 +0000" stop="20261029210000 +0000">
-    <title lang="zh">Sukan+ Close up</title>
-    <desc>Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029210000 +0000" stop="20261029213000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029213000 +0000" stop="20261029220000 +0000">
-    <title lang="zh">Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029220000 +0000" stop="20261029223000 +0000">
-    <title lang="zh">Darah Muda</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029223000 +0000" stop="20261029233000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261029233000 +0000" stop="20261030000000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030000000 +0000" stop="20261030003000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030003000 +0000" stop="20261030010000 +0000">
-    <title lang="zh">Radio@TV</title>
-    <desc>Saksikan BERNAMA Radio bersiaran Secara Langsung dari konti BERNAMA Radio dengan perkembangan berita terkini.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030010000 +0000" stop="20261030020000 +0000">
-    <title lang="zh">(L) Apa Khabar Malaysia</title>
-    <desc>Sebuah program bual bicara pagi berbahasa Melayu yang mengetengahkan isu-isu semasa dari portal Bernama.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030020000 +0000" stop="20261030030000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030030000 +0000" stop="20261030033000 +0000">
-    <title lang="zh">(L) Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030033000 +0000" stop="20261030034500 +0000">
-    <title lang="zh">Kapsul Malaysia Petang Ini</title>
-    <desc>Kapsul Malaysia Petang Ini memaparkan sorotan terbaik daripada program temubual harian Malaysia Petang Ini, menampilkan topik terkini, informatif dan relevan.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030034500 +0000" stop="20261030040000 +0000">
-    <title lang="zh">Apa Kata Tetamu</title>
-    <desc>Program mingguan terbitan BERNAMA TV ini merangkumkan temubual bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030040000 +0000" stop="20261030043000 +0000">
-    <title lang="zh">(L) Bernama World</title>
-    <desc>A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030043000 +0000" stop="20261030050000 +0000">
-    <title lang="zh">Paarvai</title>
-    <desc>Paarvai is a Tamil talk show featuring engaging discussions on current issues, topics related to the Indian community, and aspects of medical, social, and economic significance.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030050000 +0000" stop="20261030053000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030053000 +0000" stop="20261030060000 +0000">
-    <title lang="zh">ON E</title>
-    <desc>'ON e' memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030060000 +0000" stop="20261030063000 +0000">
-    <title lang="zh">Bernama World</title>
-    <desc>A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030063000 +0000" stop="20261030070000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030070000 +0000" stop="20261030073000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030073000 +0000" stop="20261030080000 +0000">
-    <title lang="zh">Darah Muda</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030080000 +0000" stop="20261030083000 +0000">
-    <title lang="zh">(L) Bernama Global</title>
-    <desc>Laporan berita antarabangsa terpilih yang disiarakan secara langsung setiap hari.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030083000 +0000" stop="20261030090000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030090000 +0000" stop="20261030093000 +0000">
-    <title lang="zh">(L) Malaysia Petang Ini</title>
-    <desc>Platform kupasan peristiwa penting dan kemaskini perkembangan semasa dalam negara, dirangkum setiap petang dalam Malaysia Petang Ini.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030093000 +0000" stop="20261030100000 +0000">
-    <title lang="zh">Radio@TV</title>
-    <desc>Saksikan BERNAMA Radio bersiaran Secara Langsung dari konti BERNAMA Radio dengan perkembangan berita terkini.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030100000 +0000" stop="20261030103000 +0000">
-    <title lang="zh">(L) BizPulse on Friday</title>
-    <desc>BizPulse On Friday tracks the Week in Business.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030103000 +0000" stop="20261030110000 +0000">
-    <title lang="zh">(L) Mandarin News</title>
-    <desc>A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030110000 +0000" stop="20261030113000 +0000">
-    <title lang="zh">(L) Tamil News</title>
-    <desc>Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030113000 +0000" stop="20261030114500 +0000">
-    <title lang="zh">Sukan+ 360</title>
-    <desc>Rangkuman seminggu berita sukan seantero dunia. Merangkumi keputusan, aksi, isu semasa dan kontroversi sukan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030114500 +0000" stop="20261030120000 +0000">
-    <title lang="zh">(L) Sukan+</title>
-    <desc>Laporan sukan menyeluruh melibatkan keputusan kejohanan, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030120000 +0000" stop="20261030123000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030123000 +0000" stop="20261030130000 +0000">
-    <title lang="zh">(L) Darah Muda</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030130000 +0000" stop="20261030140000 +0000">
-    <title lang="zh">(L) Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030140000 +0000" stop="20261030143000 +0000">
-    <title lang="zh">Mandarin News</title>
-    <desc>A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030143000 +0000" stop="20261030150000 +0000">
-    <title lang="zh">(L) Bernama News</title>
-    <desc>English news reporting on current issues and stock market.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030150000 +0000" stop="20261030153000 +0000">
-    <title lang="zh">(L) Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030153000 +0000" stop="20261030160000 +0000">
-    <title lang="zh">Tamil News</title>
-    <desc>Tamil news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics, as well as sports and entertainment.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030160000 +0000" stop="20261030170000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030170000 +0000" stop="20261030173000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030173000 +0000" stop="20261030180000 +0000">
-    <title lang="zh">Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030180000 +0000" stop="20261030190000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030190000 +0000" stop="20261030193000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030193000 +0000" stop="20261030200000 +0000">
-    <title lang="zh">Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030200000 +0000" stop="20261030203000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030203000 +0000" stop="20261030210000 +0000">
-    <title lang="zh">ON E</title>
-    <desc>'ON e' memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030210000 +0000" stop="20261030213000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030213000 +0000" stop="20261030220000 +0000">
-    <title lang="zh">Bernama News</title>
-    <desc>English news reporting on current issues, community, crime, politics, sports, human interest, foreign business and economics as well as sports and entertainment.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030220000 +0000" stop="20261030221500 +0000">
-    <title lang="zh">Apa Kata Tetamu</title>
-    <desc>Program mingguan terbitan BERNAMA TV ini merangkumkan temubual bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030221500 +0000" stop="20261030223000 +0000">
-    <title lang="zh">Sukan+ 360</title>
-    <desc>Rangkuman seminggu berita sukan seantero dunia. Merangkumi keputusan, aksi, isu semasa dan kontroversi sukan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030223000 +0000" stop="20261030233000 +0000">
-    <title lang="zh">Ruang Bicara</title>
-    <desc>Bersama tetamu di studio mengupas topik semasa tanahair.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261030233000 +0000" stop="20261031000000 +0000">
-    <title lang="zh">Buletin Bernama</title>
-    <desc>Laporan terkini berita dari dalam dan luar negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.bernama" start="20261031000000 +0000" stop="20261101000000 +0000">
-    <title lang="zh">The Nation</title>
-    <desc>A daily themed talk show providing information on current issues, medical and health, women, property, performing arts and culture.</desc>
-    <date>2026-10-31</date>
-  </programme>
   <programme channel="mastro.abcaustralia" start="20261029010200 +0000" stop="20261029022700 +0000">
     <title lang="zh">ABC News at Noon</title>
     <desc>Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
@@ -34362,131 +33919,6 @@
   <programme channel="mastro.ccm" start="20261030225500 +0000" stop="20261031000000 +0000">
     <title lang="zh">Twinkle Twinkle Little Star</title>
     <desc>Catch this rare gem, a product of Hong Kong-style science fiction, complete with out-of-this-world visual effects.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029003500 +0000" stop="20261029030000 +0000">
-    <title lang="zh">Dead To Rights</title>
-    <desc>During the 1937 Nanjing Massacre, civilians hiding in Ji Xiang Studio are forced to develop film for the Japanese army, uncovering its atrocities and risking their lives to expose the truth.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029030000 +0000" stop="20261029050000 +0000">
-    <title lang="zh">YUM Investigation</title>
-    <desc>A team of investigators was sent to an old building believed to be haunted by evil spirits, only to discover an unexpected secret concerning the future of the structure.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029050000 +0000" stop="20261029070000 +0000">
-    <title lang="zh">Midnight Fly</title>
-    <desc>Michele takes off to Europe for a vacation and meets a Japanese woman named Miki. As they become friends and travel together, Michele discovers that Miki is her husband's mistress.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029070000 +0000" stop="20261029090000 +0000">
-    <title lang="zh">Cold War 2</title>
-    <desc>Sean Lau, appointed as the Commissioner of Police after the success of the Cold War rescue operation, finds his reign rocked by the abduction of this wife and daughter.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029090000 +0000" stop="20261029110000 +0000">
-    <title lang="zh">Measure In Love</title>
-    <desc>A massive quake splits the world into two zones with different time speeds. Medical student An Qing meets a boy named Shu Zai, yet with every reunion, he ages rapidly while she remains unchanged.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029110000 +0000" stop="20261029130000 +0000">
-    <title lang="zh">Victim(s)</title>
-    <desc>After a ruthless Kuala Lumpur student murders his classmate, the victim's mother and the killer's mother uncover hidden truths about their sons and face very different paths of grief and torment.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029130000 +0000" stop="20261029150500 +0000">
-    <title lang="zh">I Did it My Way</title>
-    <desc>As the secretive dark world of online drug trafficking increasingly targets Hong Kong, the police launches a risky and secret operation to bring down one of the most notorious drug lords in Asia.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029150500 +0000" stop="20261029171500 +0000">
-    <title lang="zh">Ready o/r Rot</title>
-    <desc>Guy and Heidi face pre-marital strife. Meanwhile, Grey Bear doubts his wife's fidelity and Ken faces a life crisis following his girlfriend's pregnancy. Can they resolve their relationship issues?</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029171500 +0000" stop="20261029190500 +0000">
-    <title lang="zh">The Invisible Guest</title>
-    <desc>Joanna is a suspect of a locked-room murder where her lover is found dead. When the police investigates the case, they discover another murder case which leads them to the truth.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029190500 +0000" stop="20261029204500 +0000">
-    <title lang="zh">Echoes of the Thunder</title>
-    <desc>Nam and Fire are top racing drivers. Nam is depressed after causing a young racing driver's injury. Fire decides to compete in an illegal street car race to stand up for Nam. Can he succeed finally?</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029204500 +0000" stop="20261029222000 +0000">
-    <title lang="zh">All's Well End's Well 97</title>
-    <desc>Mr. Lo's sons prank Kung on his birthday with a fake lottery win, sparking chaos that unexpectedly heals old wounds and brings the quirky family closer together.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261029222000 +0000" stop="20261030000000 +0000">
-    <title lang="zh">The Wandering Earth 2</title>
-    <desc>Set as a prequel, when the sun was found to be dying, humans build enormous engines on the Earth's surface to find a new home. To save the world, a group of young people decide to step forth.</desc>
-    <date>2026-10-29</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030012500 +0000" stop="20261030032500 +0000">
-    <title lang="zh">The Sunny Side of the Street</title>
-    <desc>A Pakistani refugee receive help from a taxi driver after his father died in a car crash. They gradually develop a father-son relationship, until Hassan discovers the truth behind his father's death.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030032500 +0000" stop="20261030052000 +0000">
-    <title lang="zh">Someone Like Me</title>
-    <desc>Ah Mei, bound by cerebral palsy and her mother's push for a forced hysterectomy, finds love with Ken through a disability intimacy service. Together, they forge a tender bond that defies all barriers.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030052000 +0000" stop="20261030072500 +0000">
-    <title lang="zh">Shinjuku Incident</title>
-    <desc>A simple Chinese immigrant wages a perilous war against one of the most powerful criminal organizations on the planet, in this sprawling action drama.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030072500 +0000" stop="20261030090000 +0000">
-    <title lang="zh">Remember What I Forgot</title>
-    <desc>Kim is suffering from Alzheimer's disease but Ginger suspects that he is a film critic profiting from harsh reviews. Posing as a friend, Ginger gets closer to him and uncovers his secrets and sorrows.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030090000 +0000" stop="20261030112500 +0000">
-    <title lang="zh">A Writer's Odyssey II</title>
-    <desc>Fallen novelist Lu Kong Wen is drawn into his own fictional world, where a villain seeks to invade reality, sparking a cross-dimensional clash that will change both worlds.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030112500 +0000" stop="20261030130000 +0000">
-    <title lang="zh">Call Me Agent</title>
-    <desc>Miu Ling, who dreams of becoming a secret agent, accidentally rescues an injured spy. He agrees to make her his apprentice, turning her upside down as she goes on madcap adventures.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030130000 +0000" stop="20261030150000 +0000">
-    <title lang="zh">Untouchable</title>
-    <desc>Right-hand man to a Macau tycoon, Zun Fei, is torn between love and justice amid brutal underworld violence and power struggles. When a deadly gamble turns against him, his life hangs in the balance.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030150000 +0000" stop="20261030163500 +0000">
-    <title lang="zh">Hell Hole</title>
-    <desc>The movie features three horror stories in different era, revolving around a pregnant woman, a bullied boy who committed suicide, and some company staff who open a box of used clothes.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030163500 +0000" stop="20261030184000 +0000">
-    <title lang="zh">My Indian Boyfriend</title>
-    <desc>The first Bollywood movie made in Hong Kong, it is about an interracial love story between a Hong Kong girl and an Indian boy! Faced with many difficulties, can their love prevail?</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030184000 +0000" stop="20261030203500 +0000">
-    <title lang="zh">Soul Mate</title>
-    <desc>July and An Sheng's strong friendship is put to the test when they encounter a guy, Su Jia Ming, sparking a love triangle that alters both their destinies.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030203500 +0000" stop="20261030220500 +0000">
-    <title lang="zh">Endless Battle</title>
-    <desc>Two brothers, a drug lord and a police officer, are involved in a drug cartel's turf battle. After the younger brother's hidden identity as a drug lord is unveiled, an endless battle begins.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030220500 +0000" stop="20261030234500 +0000">
-    <title lang="zh">I Believe</title>
-    <desc>Chu Chu waits 10 years for her first love, who marries another. Losing faith, she meets a wedding planner and a wealthy man, both offering solace. Torn between them, who will she choose in the end?</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.celestial" start="20261030234500 +0000" stop="20261031000000 +0000">
-    <title lang="zh">Love Is The Only Answer</title>
-    <desc>When a flash of her groom's infidelity is revealed at their wedding, Bo cancels the entire affair. However, within a year, he comes knocking on her door again.</desc>
     <date>2026-10-30</date>
   </programme>
   <programme channel="mastro.ria" start="20261029000000 +0000" stop="20261029003000 +0000">
