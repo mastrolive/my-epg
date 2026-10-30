@@ -4,10 +4,6 @@
     <display-name lang="Malaysia">Astro30</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.oasis">
-    <display-name lang="Malaysia">Astro Oasis HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609084441173108_72.png" />
-  </channel>
   <channel id="mastro.aniplus">
     <display-name lang="Malaysia">Aniplus</display-name>
     <icon src="" />
@@ -21,7 +17,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.cartoonnetwork">
-    <display-name lang="Malaysia">Cartoon Network HD</display-name>
+    <display-name lang="馬來西亞">Cartoon Network HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <channel id="mastro.disneychannel">
@@ -53,11 +49,11 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png" />
   </channel>
   <channel id="mastro.nickelodeon">
-    <display-name lang="Malaysia">Nickelodeon HD</display-name>
+    <display-name lang="馬來西亞">Nickelodeon HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091449370972_97.png" />
   </channel>
   <channel id="mastro.nickjr">
-    <display-name lang="Malaysia">Nick Jr.</display-name>
+    <display-name lang="馬來西亞">Nick Jr.</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609095621560902_62.png" />
   </channel>
   <channel id="mastro.nicktoons">
@@ -305,7 +301,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.awani">
-    <display-name lang="Malaysia">Astro Awani HD</display-name>
+    <display-name lang="馬來西亞">Astro Awani HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609105315486342_76.png" />
   </channel>
   <channel id="mastro.beritartm">
@@ -313,7 +309,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.bernama">
-    <display-name lang="Malaysia">BERNAMA</display-name>
+    <display-name lang="馬來西亞">BERNAMA</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080936076627_89.png" />
   </channel>
   <channel id="mastro.abcaustralia">
@@ -329,7 +325,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609090714567371_37.png" />
   </channel>
   <channel id="mastro.bloomberg">
-    <display-name lang="馬來西亞">Bloomberg TV HD</display-name>
+    <display-name lang="Malaysia">Bloomberg TV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609102618373574_12.png" />
   </channel>
   <channel id="mastro.8tv">
@@ -357,7 +353,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.france24">
-    <display-name lang="Malaysia">France24</display-name>
+    <display-name lang="馬來西亞">France24</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.daebak">
@@ -365,7 +361,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.axn">
-    <display-name lang="馬來西亞">AXN HD</display-name>
+    <display-name lang="Malaysia">AXN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080814582790_35.png" />
   </channel>
   <channel id="mastro.hitsnow">
@@ -385,7 +381,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609085327368966_31.png" />
   </channel>
   <channel id="mastro.kbsworld">
-    <display-name lang="Malaysia">KBS World HD</display-name>
+    <display-name lang="馬來西亞">KBS World HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080942280528_38.png" />
   </channel>
   <channel id="mastro.kplus">
@@ -393,7 +389,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081148669803_10.png" />
   </channel>
   <channel id="mastro.tvn">
-    <display-name lang="Malaysia">tvN HD</display-name>
+    <display-name lang="馬來西亞">tvN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png" />
   </channel>
   <channel id="mastro.boo">
@@ -417,7 +413,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
   <channel id="mastro.celestial">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
+    <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
   <channel id="mastro.ria">
@@ -449,16 +445,12 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080741009276_56.png" />
   </channel>
   <channel id="mastro.bbcearth">
-    <display-name lang="Malaysia">BBC Earth</display-name>
+    <display-name lang="馬來西亞">BBC Earth</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610053046333239_42.png" />
   </channel>
   <channel id="mastro.crimeinvestigation">
-    <display-name lang="Malaysia">Crime &amp; Investigation HD</display-name>
+    <display-name lang="馬來西亞">Crime &amp; Investigation HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091227898837_83.png" />
-  </channel>
-  <channel id="mastro.discovery">
-    <display-name lang="Malaysia">Discovery Channel HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609092254650124_56.png" />
   </channel>
   <channel id="mastro.prima">
     <display-name lang="Malaysia">Astro Prima HD</display-name>
@@ -473,15 +465,15 @@
     <icon src="" />
   </channel>
   <channel id="mastro.hgtv">
-    <display-name lang="Malaysia">HGTV HD</display-name>
+    <display-name lang="馬來西亞">HGTV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081111592383_50.png" />
   </channel>
   <channel id="mastro.history">
-    <display-name lang="Malaysia">History HD</display-name>
+    <display-name lang="馬來西亞">History HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080851873221_29.png" />
   </channel>
   <channel id="mastro.lovenature">
-    <display-name lang="Malaysia">Love Nature</display-name>
+    <display-name lang="馬來西亞">Love Nature</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610060923765852_46.png" />
   </channel>
   <channel id="mastro.natgeowild">
@@ -882,556 +874,6 @@
   <programme channel="mastro.30" start="20261101000000 +0000" stop="20261102000000 +0000">
     <title lang="zh">Astro C.G.M Singing Competition 2016 Ep20</title>
     <desc>Astro's top-rated singing competition is back to prove yet again that age is no barrier to one's aspirations. Join us for incredible music, powered by a dream.</desc>
-    <date>2026-11-01</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030000000 +0000" stop="20261030010000 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Wanita 2016 Ep09</title>
-    <desc>Cinta Ilmu kembali semula dengan musim terbaru dan kali ini memfokuskan perihal wanita di dalam al-quran.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030010000 +0000" stop="20261030013000 +0000">
-    <title lang="zh">Haramain Backpackers S2 Ep11</title>
-    <desc>Haramain Backpakers musim ke-dua ini adalah sebuah perjalanan menuju ke Masjid Suci Al Aqsar yang terletak di Baitulmaqdis, Palestin. Dihoskan oleh Mat Dan dan PU Amin.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030013000 +0000" stop="20261030020000 +0000">
-    <title lang="zh">Imarah Masjid Ep03</title>
-    <desc>Menyaksikan kemeriahan aktiviti, aspek pengurusan, kemudahan prasarana masjid yang terpilih mewakili setiap negeri ketika Anugerah Masjid Malaysia yang dianjurkan pihak JAKIM.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030020000 +0000" stop="20261030022800 +0000">
-    <title lang="zh">Prolog Mualim Muda Musim 2</title>
-    <desc>Kesemua peserta Mualim Muda diperkenalkan dalam satu paparan khas keunikan personaliti dan kepelbagaian latar belakang mereka.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030022800 +0000" stop="20261030024400 +0000">
-    <title lang="zh">Kisahnya Sahabat Ep02</title>
-    <desc>Kisah tentang para sahabat Rasulullah SAW yang bersama sama dengan Rasullullah dalam menyebarkan islam yang disampaikan oleh Ustaz Zarifi Daud dan juga Ustaz Hariri Daud.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030024400 +0000" stop="20261030025000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep20</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030025000 +0000" stop="20261030030000 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep02</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030030000 +0000" stop="20261030040000 +0000">
-    <title lang="zh">Syamsul Debat : Dakwah Santai Ep16</title>
-    <desc>Sebuah rancangan pagi yang dihoskan oleh Syamsul Debat. Rancangan ini menggabungkan refleksi dari sudut Islam dan jenaka ringan serta cara yang menarik untuk penonton memulakan hari mereka.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030040000 +0000" stop="20261030050000 +0000">
-    <title lang="zh">MyQURANTIME 2.0 Ep1328</title>
-    <desc>Program ini membawa pendekatan untuk baca, faham, amal dan hafal ayat-ayat Quran bermula daripada halaman 1 hingga 604.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030050000 +0000" stop="20261030060000 +0000">
-    <title lang="zh">(L) Solat Jumaat</title>
-    <desc>Siaran langsung solat Jumaat.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030060000 +0000" stop="20261030070000 +0000">
-    <title lang="zh">Tazkirah Malam Jumaat Musim 8 Ep42</title>
-    <desc>Tazkirah Malam Jumaat merupakan sebuah rancangan yang akan menjadi sumber ilmu, peringatan dan inspirasi kepada penontonnya berdasarkan kehidupan dengan nilai Islam.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030070000 +0000" stop="20261030073000 +0000">
-    <title lang="zh">Azan Ep02</title>
-    <desc>Hos menemui beberapa tokoh terkenal dan penyelidik ethnomusicology untuk mendalami komposisi nota musik di sebalik melodi azan.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030073000 +0000" stop="20261030080000 +0000">
-    <title lang="zh">3 Ustazah Ep08</title>
-    <desc>Semua perkara yang akan dibincangkan hanya meliputi isu-isu semasa berkaitan kehidupan seorang muslimah.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030080000 +0000" stop="20261030083000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030083000 +0000" stop="20261030090000 +0000">
-    <title lang="zh">Alif Tanya Mufti Ep08</title>
-    <desc>Alif Satar ditemani oleh Mufti Melaka menawan Sungai Melaka sambil berbual santai tentang harta dan amanah.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030090000 +0000" stop="20261030093000 +0000">
-    <title lang="zh">Pejuang Agama Ep07</title>
-    <desc>Piagam Madinah merupakan suatu simbol permulaan kegemilangan Islam. Tertubuhnya piagam ini memberikan impak di sekitar bumi anbiya mahupun dunia.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030093000 +0000" stop="20261030100000 +0000">
-    <title lang="zh">Al-Ustaz: Al-Quran, Sains Dan Kiamat Ep16</title>
-    <desc>Dato' Dr Zanial Zainal Abidin bakal membawakan siri ceramah berkaitan fitnah dunia akhir zaman dan bagaimana untuk berinteraksi dengan mukjizat Al-Quran dan sains sebagai bukti kewujudan Allah.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030100000 +0000" stop="20261030110000 +0000">
-    <title lang="zh">Tok Adi Ep06</title>
-    <desc>Tok Adi mengambil keputusan untuk putuskan hubungan dengan Haikal. Haikal pula rasa bersalah kerana memaksa Taib dan Hasnah bercerai.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030110000 +0000" stop="20261030111500 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030111500 +0000" stop="20261030112500 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep03</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030112500 +0000" stop="20261030113000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep11</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030113000 +0000" stop="20261030120000 +0000">
-    <title lang="zh">Tafsir Al Munir Ep09</title>
-    <desc>Bersama Ustaz Ustaz Datuk Dr. Hj. Zahazan Mohamed mengupas buku berjudul Tafsir Al Munir.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030120000 +0000" stop="20261030120500 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep20</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030120500 +0000" stop="20261030123000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030123000 +0000" stop="20261030130000 +0000">
-    <title lang="zh">Haflah Al-Quran Ep04</title>
-    <desc>Haflah Al Quran merupakan bacaan Al Auran bertaranum Bayati, Soba, Nahwan dan Sikah oleh para qari.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030130000 +0000" stop="20261030140000 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Wanita 2016 Ep02</title>
-    <desc>Cinta Ilmu kembali semula dengan musim terbaru dan kali ini memfokuskan perihal wanita di dalam al-quran.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030140000 +0000" stop="20261030143000 +0000">
-    <title lang="zh">Azan Ep02</title>
-    <desc>Hos menemui beberapa tokoh terkenal dan penyelidik ethnomusicology untuk mendalami komposisi nota musik di sebalik melodi azan.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030143000 +0000" stop="20261030150000 +0000">
-    <title lang="zh">Tafsir Al Munir Ep09</title>
-    <desc>Bersama Ustaz Ustaz Datuk Dr. Hj. Zahazan Mohamed mengupas buku berjudul Tafsir Al Munir.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030150000 +0000" stop="20261030151000 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep03</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030151000 +0000" stop="20261030153500 +0000">
-    <title lang="zh">Imarah Masjid Ep03</title>
-    <desc>Menyaksikan kemeriahan aktiviti, aspek pengurusan, kemudahan prasarana masjid yang terpilih mewakili setiap negeri ketika Anugerah Masjid Malaysia yang dianjurkan pihak JAKIM.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030153500 +0000" stop="20261030160500 +0000">
-    <title lang="zh">Mawi Jawi Ep05</title>
-    <desc>Peserta akan dikhendaki menulis ayat yang diberikan di dalam tulisan jawi. Bersama pengacara : Mawi &amp; Anas Tetamu Jemputan : Wany Hasrita, Amira Othman &amp; Bienda</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030160500 +0000" stop="20261030165000 +0000">
-    <title lang="zh">MyQURANTIME 2.0 Ep1328</title>
-    <desc>Program ini membawa pendekatan untuk baca, faham, amal dan hafal ayat-ayat Quran bermula daripada halaman 1 hingga 604.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030165000 +0000" stop="20261030170000 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep01</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030170000 +0000" stop="20261030172500 +0000">
-    <title lang="zh">Cinta Ilmu 2020 Ep15</title>
-    <desc>Sebuah rancangan yang membincangkan dan menjawab persoalan serta kemuskilan agama daripada barisan penceramah terkemuka negara.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030172500 +0000" stop="20261030173000 +0000">
-    <title lang="zh">Kapsul Tazkirah Malam Jumaat S9 Ep86</title>
-    <desc>Klip kupasan ilmu oleh agamawan.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030173000 +0000" stop="20261030175500 +0000">
-    <title lang="zh">Pejuang Agama Ep02</title>
-    <desc>Kita akan kenal perisikan dan misi yang benar-benar berlaku dan menjadi tunjang kepada strategi menjadikan Islam berdiri utuh.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030175500 +0000" stop="20261030180000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep48</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030180000 +0000" stop="20261030185500 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Syariah 2016 Ep03</title>
-    <desc>Ikuti Syeikh Nurudin, seorang penceramah dari indonesia, dalam mempelajari implikasi quran dalam kehidupan seharian kita.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030185500 +0000" stop="20261030190000 +0000">
-    <title lang="zh">Kapsul Tazkirah Malam Jumaat Musim 8 Ep97</title>
-    <desc>Kapsul Tazkirah Malam Jumaat Musim 8</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030190000 +0000" stop="20261030192500 +0000">
-    <title lang="zh">Perempuan Paling Bahagia Ep17</title>
-    <desc>Rafa dan Arissa hampir kemalangan semasa menuju ke mahkamah. Datin Zarina telah meletakkan nama Arissa sebagai penama insuransnya.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030192500 +0000" stop="20261030193000 +0000">
-    <title lang="zh">Kapsul Al Ustaz (B) Ep08</title>
-    <desc>Kapsul Al Ustaz (B)</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030193000 +0000" stop="20261030195500 +0000">
-    <title lang="zh">Tanah Kubur S12 Ep03</title>
-    <desc>Tok Adi, seorang penggali kubur dan pengurus mayat berhadapan dengan pelbagai situasi dari mula dia menguruskan jenazah hingga selesai pengkebumian.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030195500 +0000" stop="20261030200000 +0000">
-    <title lang="zh">Kapsul Geng Ngaji Musim 3 Ep68</title>
-    <desc>Kapsul Geng Ngaji Musim 3</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030200000 +0000" stop="20261030205500 +0000">
-    <title lang="zh">Tazkirah Malam Jumaat S9 Ep34</title>
-    <desc>Tazkirah Malam Jumaat merupakan sebuah rancangan yang akan menjadi sumber ilmu, peringatan dan inspirasi kepada penontonnya berdasarkan kehidupan dengan nilai Islam.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030205500 +0000" stop="20261030210000 +0000">
-    <title lang="zh">Kapsul Tazkirah Malam Jumaat S9 Ep92</title>
-    <desc>Klip kupasan ilmu oleh agamawan.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030210000 +0000" stop="20261030212500 +0000">
-    <title lang="zh">Riwayat Akhir Zaman Musim 6 Ep06</title>
-    <desc>Riwayat Akhir Zaman musim kedua menjejaki dan menghayati  peristiwa-peristiwa yang akan dilalui oleh kita semua pada akhir zaman.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030212500 +0000" stop="20261030213000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep37</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030213000 +0000" stop="20261030220000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030220000 +0000" stop="20261030221500 +0000">
-    <title lang="zh">Jom Khatam Ep123</title>
-    <desc>Az-Zukhruf : 11 - Az-Zukhruf : 60</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030221500 +0000" stop="20261030223000 +0000">
-    <title lang="zh">Jom Khatam Ep124</title>
-    <desc>Az-Zukhruf : 61 - Ad-Dukhan : 39</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030223000 +0000" stop="20261030224500 +0000">
-    <title lang="zh">Jom Khatam Ep125</title>
-    <desc>Ad-Dukhan : 40 - Al-Jathiyah : 32</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030224500 +0000" stop="20261030230000 +0000">
-    <title lang="zh">Jom Khatam Ep126</title>
-    <desc>Al-Jathiyah : 33 - Al-Ahqaf : 28</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030230000 +0000" stop="20261030233000 +0000">
-    <title lang="zh">Mimar Ep04</title>
-    <desc>Merungkai dan menceritakan senibina unik dan menarik Madrasah Rustem Pasha, Istanbul, Turki</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261030233000 +0000" stop="20261031000000 +0000">
-    <title lang="zh">Kelas Tajwid Ep02</title>
-    <desc>Qalqalah ini ialah bacaan yang bunyinya melantun balik apabila huruf qalqalah dimatikan sama ada asli ataupun mendatang. Qalqalah terbahagi kepada Qalqalah Sughro dan Qalqalah Kubro</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031000000 +0000" stop="20261031003000 +0000">
-    <title lang="zh">Al Kisah Tok Bad Ep12</title>
-    <desc>Kehebatan kerajaan Saba' di bawah pemerintahan Puteri Balqis. Sebagai pemerintah kerajaan yang kuat namun ia tidak dapat mengalahkan kehebatan Nabi Sulaiman.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031003000 +0000" stop="20261031010000 +0000">
-    <title lang="zh">Langkah Nabi Ep09</title>
-    <desc>Kaum Hud AS perkasa dan bertamaddun tetapi  menyembah berhala dan menolak dakwah nabi.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031010000 +0000" stop="20261031013000 +0000">
-    <title lang="zh">Aku Bukan Malaikat Ep06</title>
-    <desc>Ustazah Isfadiah menceritakan pengalaman hidupnya sebelum bergelar pendakwah. Cabaran sebagai Pendakwah Wanita, pada masa sama seorang isteri dan ibu kepada anak-anak beliau.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031013000 +0000" stop="20261031020000 +0000">
-    <title lang="zh">Marhalah 2.0 Ep02</title>
-    <desc>Episod ini, hos akan mempelajari serta merasai roti canai  di Malaysia yang dihidangkan oleh ketiga-tiga bangsa utama iaitu Melayu, Cina dan India.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031020000 +0000" stop="20261031022800 +0000">
-    <title lang="zh">Jom Jadi Orang Baik Baik Ep04</title>
-    <desc>Jom Jadi Orang Baik Baik bersama penceramah  motivasi terkenal Raja Shamri Raja Husin bakal mengajak para penonton bermuhasabah diri.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031022800 +0000" stop="20261031024500 +0000">
-    <title lang="zh">Kisahnya Sahabat Ep03</title>
-    <desc>Kisah tentang para sahabat Rasulullah SAW yang bersama sama dengan Rasullullah dalam menyebarkan islam yang disampaikan oleh Ustaz Zarifi Daud dan juga Ustaz Hariri Daud.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031024500 +0000" stop="20261031025000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep30</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031025000 +0000" stop="20261031030000 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep03</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031030000 +0000" stop="20261031033000 +0000">
-    <title lang="zh">Minda Syariah Ep02</title>
-    <desc>Bual bicara menampilkan Dato Dr Daud Bakar Penasihat Syariah bersama Ahyat Ishak seorang jutawan dalam bidang hartanah yang akan berkongsi ilmu serta maklumat mengenai bidang yang mereka ceburi.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031033000 +0000" stop="20261031040000 +0000">
-    <title lang="zh">Riwayat Akhir Zaman Musim 6 Ep08</title>
-    <desc>Riwayat Akhir Zaman musim kedua menjejaki dan menghayati  peristiwa-peristiwa yang akan dilalui oleh kita semua pada akhir zaman.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031040000 +0000" stop="20261031040500 +0000">
-    <title lang="zh">No information available Ep01</title>
-    <desc>No information available</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031040500 +0000" stop="20261031050000 +0000">
-    <title lang="zh">MyQURANTIME 2.0 Ep1329</title>
-    <desc>Program ini membawa pendekatan untuk baca, faham, amal dan hafal ayat-ayat Quran bermula daripada halaman 1 hingga 604.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031050000 +0000" stop="20261031053000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031053000 +0000" stop="20261031060000 +0000">
-    <title lang="zh">Musafir Ep07</title>
-    <desc>Rancangan travelog istimewa ini menampilkan Imam Muda berkelana ke masjid-masjid ternama lagi bersejarah di bumi Asia Tenggara meliputi Malaysia, Indonesia, Singapura, Brunei, Thailand dan Kemboja.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031060000 +0000" stop="20261031070000 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Syariah 2016 Ep12</title>
-    <desc>Ikuti Syeikh Nurudin, seorang penceramah dari indonesia, dalam mempelajari implikasi quran dalam kehidupan seharian kita.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031070000 +0000" stop="20261031073000 +0000">
-    <title lang="zh">Ahlan Wa Sahlan Ep03</title>
-    <desc>Kelas Ahlan Wa Sahlan memulakan kelas yang pertama mereka dengan taaruf dan berkenalan antara satu sama lain.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031073000 +0000" stop="20261031080000 +0000">
-    <title lang="zh">Duo Syamsul S2 Ep03</title>
-    <desc>Pakar motivasi Syamsul Amri yang dikenali dengan Syamsul Debat dan selebriti Shamsul Azhar atau Shamsul Ghau Ghau membicarakan isu-isu terkini masyarakat Islam Malaysia secara santai dan harmoni</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031080000 +0000" stop="20261031083000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031083000 +0000" stop="20261031090000 +0000">
-    <title lang="zh">Ahlan Wa Sahlan Ep08</title>
-    <desc>Kelas Ahlan Wa Sahlan memulakan kelas yang pertama mereka dengan taaruf dan berkenalan antara satu sama lain.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031090000 +0000" stop="20261031090500 +0000">
-    <title lang="zh">No information available Ep02</title>
-    <desc>No information available</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031090500 +0000" stop="20261031093000 +0000">
-    <title lang="zh">Al Kisah Tok Bad Ep10</title>
-    <desc>Kaum A'ad adalah kaum Nabi Hud A.S. Banyak kurnian Allah kepada mereka namun mereka merasa sombong kerana kurnian itu. Kaum A'ad akhirnya dibinasakan Allah atas kesombongan mereka.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031093000 +0000" stop="20261031100000 +0000">
-    <title lang="zh">Musafir Ep11</title>
-    <desc>Rancangan travelog istimewa ini menampilkan Imam Muda berkelana ke masjid-masjid ternama lagi bersejarah di bumi Asia Tenggara meliputi Malaysia, Indonesia, Singapura, Brunei, Thailand dan Kemboja.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031100000 +0000" stop="20261031110000 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Syariah 2016 Ep17</title>
-    <desc>Ikuti Syeikh Nurudin, seorang penceramah dari indonesia, dalam mempelajari implikasi quran dalam kehidupan seharian kita.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031110000 +0000" stop="20261031113000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031113000 +0000" stop="20261031114000 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep01</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031114000 +0000" stop="20261031115500 +0000">
-    <title lang="zh">Sehari Dalam Hidup Ep01</title>
-    <desc>Kisah seorang penggali kubur yang merupakan satu pekerjaan mulia di mana ia merupakan satu tuntutan fardu kifayah bagi umat Islam.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031115500 +0000" stop="20261031120000 +0000">
-    <title lang="zh">Kapsul Ala Kazim S3 Ep01</title>
-    <desc>Kapsul Ala Kazim Musim 3.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031120000 +0000" stop="20261031120500 +0000">
-    <title lang="zh">No information available Ep03</title>
-    <desc>No information available</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031120500 +0000" stop="20261031123000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031123000 +0000" stop="20261031130000 +0000">
-    <title lang="zh">Prolog Mualim Muda Musim 2</title>
-    <desc>Kesemua peserta Mualim Muda diperkenalkan dalam satu paparan khas keunikan personaliti dan kepelbagaian latar belakang mereka.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031130000 +0000" stop="20261031150500 +0000">
-    <title lang="zh">Mualim Muda Musim 2 Ep01</title>
-    <desc>Para peserta bersaing dalam pelbagai cabaran ilmu dan dakwah yang menguji kebijaksanaan, penyampaian dan keperibadian mereka dalam Mualim Muda.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031150500 +0000" stop="20261031153500 +0000">
-    <title lang="zh">Review Mualim Muda Musim 2 Ep01</title>
-    <desc>Para peserta duduk bersama dan berdiskusi tentang pengalaman mereka sepanjang minggu. Mereka berkongsi pandangan, perasaan dan pengajaran daripada persembahan masing-masing.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031153500 +0000" stop="20261031160000 +0000">
-    <title lang="zh">Ayat Riwayat S1 Ep05</title>
-    <desc>Dokumentari mengenai sejarah para nabi dan rasul.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031160000 +0000" stop="20261031165000 +0000">
-    <title lang="zh">MyQURANTIME 2.0 Ep1329</title>
-    <desc>Program ini membawa pendekatan untuk baca, faham, amal dan hafal ayat-ayat Quran bermula daripada halaman 1 hingga 604.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031165000 +0000" stop="20261031170000 +0000">
-    <title lang="zh">Diari Mualim Muda Musim 2 Ep02</title>
-    <desc>Sesi kelas dan persediaan peserta sebelum persembahan mingguan dalam mempersiapkan diri setiap minggu.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031170000 +0000" stop="20261031172500 +0000">
-    <title lang="zh">3 Ustazah Ep03</title>
-    <desc>Semua perkara yang akan dibincangkan hanya meliputi isu-isu semasa berkaitan kehidupan seorang muslimah.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031172500 +0000" stop="20261031173000 +0000">
-    <title lang="zh">Kapsul Tazkirah Malam Jumaat S9 Ep87</title>
-    <desc>Klip kupasan ilmu oleh agamawan.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031173000 +0000" stop="20261031175500 +0000">
-    <title lang="zh">Pejuang Agama Ep03</title>
-    <desc>Kehebatan tentera Islam bukan sahaja terletak kepada percatutan strategi terbaik, pasti dilengkapkan dengan senjata dan pakaian perang dan siapa yang memegang panji-panji perang tersebut.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031175500 +0000" stop="20261031180000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep49</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031180000 +0000" stop="20261031185500 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Syariah 2016 Ep04</title>
-    <desc>Ikuti Syeikh Nurudin, seorang penceramah dari indonesia, dalam mempelajari implikasi quran dalam kehidupan seharian kita.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031185500 +0000" stop="20261031190000 +0000">
-    <title lang="zh">Kapsul Tazkirah Malam Jumaat Musim 8 Ep98</title>
-    <desc>Kapsul Tazkirah Malam Jumaat Musim 8</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031190000 +0000" stop="20261031192500 +0000">
-    <title lang="zh">Perempuan Paling Bahagia Ep18</title>
-    <desc>Rafa dan Arissa selamat dinikahkan dan Dato Rafail memulakan rancangan pembunuhan Datin Zarina.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031192500 +0000" stop="20261031193000 +0000">
-    <title lang="zh">Kapsul Al Ustaz (B) Ep09</title>
-    <desc>Kapsul Al Ustaz (B)</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031193000 +0000" stop="20261031195500 +0000">
-    <title lang="zh">Tanah Kubur S12 Ep04</title>
-    <desc>Tok Adi, seorang penggali kubur dan pengurus mayat berhadapan dengan pelbagai situasi dari mula dia menguruskan jenazah hingga selesai pengkebumian.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031195500 +0000" stop="20261031200000 +0000">
-    <title lang="zh">Kapsul Geng Ngaji Musim 3 Ep69</title>
-    <desc>Kapsul Geng Ngaji Musim 3</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031200000 +0000" stop="20261031205500 +0000">
-    <title lang="zh">Tazkirah Malam Jumaat S9 Ep35</title>
-    <desc>Tazkirah Malam Jumaat merupakan sebuah rancangan yang akan menjadi sumber ilmu, peringatan dan inspirasi kepada penontonnya berdasarkan kehidupan dengan nilai Islam.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031205500 +0000" stop="20261031210000 +0000">
-    <title lang="zh">Kapsul Tazkirah Malam Jumaat S9 Ep93</title>
-    <desc>Klip kupasan ilmu oleh agamawan.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031210000 +0000" stop="20261031212500 +0000">
-    <title lang="zh">Riwayat Akhir Zaman Musim 6 Ep07</title>
-    <desc>Riwayat Akhir Zaman musim kedua menjejaki dan menghayati  peristiwa-peristiwa yang akan dilalui oleh kita semua pada akhir zaman.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031212500 +0000" stop="20261031213000 +0000">
-    <title lang="zh">Kata-kata Mutiara Ep38</title>
-    <desc>Nasihat dan ucapan yang menginspirasikan para penonton.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031213000 +0000" stop="20261031220000 +0000">
-    <title lang="zh">Indahnya Iman</title>
-    <desc>Azan, zikir &amp; bacaan Al Quran</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031220000 +0000" stop="20261031221500 +0000">
-    <title lang="zh">Jom Khatam Ep126</title>
-    <desc>Al-Jathiyah : 33 - Al-Ahqaf : 28</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031221500 +0000" stop="20261031223000 +0000">
-    <title lang="zh">Jom Khatam Ep127</title>
-    <desc>Al-Ahqaf : 29 - Muhammad : 29</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031223000 +0000" stop="20261031224500 +0000">
-    <title lang="zh">Jom Khatam Ep128</title>
-    <desc>Muhammad : 30 - Al-Fath : 23</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031224500 +0000" stop="20261031230000 +0000">
-    <title lang="zh">Jom Khatam Ep129</title>
-    <desc>Al-Fath : 24 - Al-Hujurat : 18</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261031230000 +0000" stop="20261101000000 +0000">
-    <title lang="zh">Cinta Ilmu Fiqh Wanita 2016 Ep04</title>
-    <desc>Cinta Ilmu kembali semula dengan musim terbaru dan kali ini memfokuskan perihal wanita di dalam al-quran.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.oasis" start="20261101000000 +0000" stop="20261102000000 +0000">
-    <title lang="zh">Tafsir Mimpi Ep13</title>
-    <desc>Kisah-kisah mimpi yang dibincangkan berlandaskan sunnah dan Al Quran.</desc>
     <date>2026-11-01</date>
   </programme>
   <programme channel="mastro.aniplus" start="20261030001000 +0000" stop="20261030004000 +0000">
@@ -10153,6 +9595,11 @@
     <title lang="zh">Goal Rush: Dominik Szoboszlai</title>
     <desc>Enjoy a selection of memorable goals scored by Dominik Szoboszlai.</desc>
     <date>2026-10-31</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20261101000000 +0000" stop="20261102000000 +0000">
+    <title lang="zh">LFC Trending</title>
+    <desc>The week's most popular videos and social media highlights from across the Club, its players and supporters.</desc>
+    <date>2026-11-01</date>
   </programme>
   <programme channel="mastro.rania" start="20261030000000 +0000" stop="20261030010000 +0000">
     <title lang="zh">Tajwid Cinta Ep196</title>
@@ -36242,291 +35689,6 @@
   <programme channel="mastro.crimeinvestigation" start="20261031235000 +0000" stop="20261101000000 +0000">
     <title lang="zh">My Ghost Story Asia S1 Ep05</title>
     <desc>A man sees strange things on the deadly Karak Highway. Next, souls of dead children are kept in an amulet. Later, two men are spooked at a suicide spot.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030004300 +0000" stop="20261030013300 +0000">
-    <title lang="zh">Kindig Customs S9 Ep14</title>
-    <desc>What starts out as a simple engine repair on a 1935 Roadster V8 turns into a full rebuild. The shop gets pushed to the limit on this car.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030013300 +0000" stop="20261030022300 +0000">
-    <title lang="zh">Kevin Hart's Muscle Car Crew S1 Ep05</title>
-    <desc>Kevin arranges for the Boyz to visit Irwindale Drift Track to learn from some champions how they make extreme use of brakes and suspension.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030022300 +0000" stop="20261030031300 +0000">
-    <title lang="zh">Building Off the Grid S5 Ep05</title>
-    <desc>Some inexperienced builders have attempted ambitious off-the-grid builds. Can these novices overcome deadlines and mistakes to create the home of their dreams?</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030031300 +0000" stop="20261030040300 +0000">
-    <title lang="zh">Mud Madness S2 Ep06</title>
-    <desc>AJ and Bryce's rivalry intensifies. Josh grows increasingly desperate while stirring up drama behind the scenes.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030040300 +0000" stop="20261030045300 +0000">
-    <title lang="zh">Deadliest Catch S21 Ep14</title>
-    <desc>Keith and Jake defend their grounds from encroaching trawlers. Sig struggles to keep his vessel operational under the pressure of a looming offload.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030045300 +0000" stop="20261030054300 +0000">
-    <title lang="zh">Unmasking a Monster: Aileen Wuornos S1 Ep03</title>
-    <desc>When the world finally hears from Wuornos herself, she claims that the killings were in self-defence. If a jury doesn't believe her, she will die.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030054300 +0000" stop="20261030063800 +0000">
-    <title lang="zh">Who Hired the Hitman? S1 Ep02</title>
-    <desc>The assassination of a computer genius leads detectives down a rabbit hole of missing gold, a sheik's assistant, and a deadly international scheme.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030063800 +0000" stop="20261030073300 +0000">
-    <title lang="zh">The Curious Case Of... S2 Ep06</title>
-    <desc>After three students die, families expose the danger behind a principal's hypnosis sessions and the warnings the school ignored.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030073300 +0000" stop="20261030075800 +0000">
-    <title lang="zh">Border Control: Spain S7 Ep01</title>
-    <desc>In Algeciras, a driver becomes upset when he is caught out by authorities. In Madrid, the civil guard tests a suspicious product found in a suitcase.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030075800 +0000" stop="20261030082800 +0000">
-    <title lang="zh">Border Control: Spain S7 Ep02</title>
-    <desc>At Barajas Airport, the Civil Guard spots bugs within a passenger's suitcase. And in Barcelona, officers are in hot pursuit of a fleeing passenger.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030082800 +0000" stop="20261030085300 +0000">
-    <title lang="zh">Border Control: Spain S5 Ep05</title>
-    <desc>Follows the interventions of the Security and Customs Services at the borders of Spain who are under the constant threat from drugs, weapons, and suspected terrorists.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030085300 +0000" stop="20261030092300 +0000">
-    <title lang="zh">Border Control: Spain S5 Ep06</title>
-    <desc>Follows the interventions of the Security and Customs Services at the borders of Spain who are under the constant threat from drugs, weapons, and suspected terrorists.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030092300 +0000" stop="20261030094800 +0000">
-    <title lang="zh">Border Control: Spain S8 Ep01</title>
-    <desc>At the borders of Spain, it's the job of the Security and Customs Services to detect threats from drugs, weapons, and suspected terrorists.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030094800 +0000" stop="20261030101800 +0000">
-    <title lang="zh">Border Control: Spain S8 Ep02</title>
-    <desc>At the borders of Spain, it's the job of the Security and Customs Services to detect threats from drugs, weapons, and suspected terrorists.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030101800 +0000" stop="20261030111300 +0000">
-    <title lang="zh">Deadliest Catch S21 Ep15</title>
-    <desc>Sig suffers a life-threatening event at sea. Keith's future is in jeopardy at the hospital in anchorage while Monte loses steering in 20ft seas.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030111300 +0000" stop="20261030113800 +0000">
-    <title lang="zh">Port Control: Spain S1 Ep09</title>
-    <desc>A look at the daily challenges of the hard-working men and women in charge of the operations at some of the busiest harbors in Spain.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030113800 +0000" stop="20261030120800 +0000">
-    <title lang="zh">Port Control: Spain S1 Ep10</title>
-    <desc>A look at the daily challenges of the hard-working men and women in charge of the operations at some of the busiest harbors in Spain.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030120800 +0000" stop="20261030123300 +0000">
-    <title lang="zh">Crimes Gone Viral S2 Ep14</title>
-    <desc>A woman is out walking when two strangers suddenly jump out of a car and try to grab her dog. And, a barefoot man begs a convenience store employee for help.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030123300 +0000" stop="20261030130300 +0000">
-    <title lang="zh">Crimes Gone Viral S2 Ep15</title>
-    <desc>A thief meets his match when he steals a feisty grandmother's purse, and she chases him down. Plus, a woman is the victim of a shocking hit and run.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030130300 +0000" stop="20261030140300 +0000">
-    <title lang="zh">Who Hired the Hitman? S1 Ep03</title>
-    <desc>NYPD follows a bloody trail of murder attempts against a real estate entrepreneur with shady ties, but the mastermind is closer than they realised.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030140300 +0000" stop="20261030145300 +0000">
-    <title lang="zh">The Curious Case Of... S2 Ep01</title>
-    <desc>Across states and years, one woman crafts shifting identities, medical dramas, and crises that pull entire communities into her escalating deception.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030145300 +0000" stop="20261030161300 +0000">
-    <title lang="zh">The Curious Case Of... S1 Ep01</title>
-    <desc>Jackass star Bam grapples with addiction, and Lima takes over his treatment. Online advocate BJ attacks Lima's motives, and a vicious battle ensues.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030161300 +0000" stop="20261030164300 +0000">
-    <title lang="zh">Port Control: Spain S1 Ep10</title>
-    <desc>A look at the daily challenges of the hard-working men and women in charge of the operations at some of the busiest harbors in Spain.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030164300 +0000" stop="20261030173800 +0000">
-    <title lang="zh">Who Hired the Hitman? S1 Ep03</title>
-    <desc>NYPD follows a bloody trail of murder attempts against a real estate entrepreneur with shady ties, but the mastermind is closer than they realised.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030173800 +0000" stop="20261030183300 +0000">
-    <title lang="zh">The Curious Case Of... S2 Ep01</title>
-    <desc>Across states and years, one woman crafts shifting identities, medical dramas, and crises that pull entire communities into her escalating deception.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030183300 +0000" stop="20261030185800 +0000">
-    <title lang="zh">Crimes Gone Viral S2 Ep14</title>
-    <desc>A woman is out walking when two strangers suddenly jump out of a car and try to grab her dog. And, a barefoot man begs a convenience store employee for help.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030185800 +0000" stop="20261030202300 +0000">
-    <title lang="zh">The Curious Case Of... S1 Ep01</title>
-    <desc>Jackass star Bam grapples with addiction, and Lima takes over his treatment. Online advocate BJ attacks Lima's motives, and a vicious battle ensues.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030202300 +0000" stop="20261030211300 +0000">
-    <title lang="zh">Building Off the Grid S5 Ep05</title>
-    <desc>Some inexperienced builders have attempted ambitious off-the-grid builds. Can these novices overcome deadlines and mistakes to create the home of their dreams?</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030211300 +0000" stop="20261030220300 +0000">
-    <title lang="zh">Deadliest Catch S21 Ep15</title>
-    <desc>Sig suffers a life-threatening event at sea. Keith's future is in jeopardy at the hospital in anchorage while Monte loses steering in 20ft seas.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030220300 +0000" stop="20261030230300 +0000">
-    <title lang="zh">Building Off the Grid S3 Ep07</title>
-    <desc>A father-son duo builds a 720-square foot stick-frame home completely off the grid in Montana's Flathead Valley.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030230300 +0000" stop="20261030235300 +0000">
-    <title lang="zh">Building Off the Grid S3 Ep08</title>
-    <desc>A couple builds a home with self-sustaining features near the Ozark National Forest. But the mountainside terrain is in a location hit by flash foods.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261030235300 +0000" stop="20261031000000 +0000">
-    <title lang="zh">Building Off the Grid S4 Ep01</title>
-    <desc>A group of off-grid-living enthusiasts come together to build a 300-square-foot bungalow in California with a variety of eco-friendly features.</desc>
-    <date>2026-10-30</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031004300 +0000" stop="20261031013300 +0000">
-    <title lang="zh">Building Off the Grid S4 Ep02</title>
-    <desc>A cannabis farmer teams up with a bio architect and hemp expert to build an off-grid hemp cottage in the Coast Range mountains of California.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031013300 +0000" stop="20261031022300 +0000">
-    <title lang="zh">Building Off the Grid S4 Ep03</title>
-    <desc>A mother-and-son team pulls up stakes from the crowded confines of Orange County to build an off-grid family commune outside Keaau, Hawaii.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031022300 +0000" stop="20261031031300 +0000">
-    <title lang="zh">The Last Woodsmen S2 Ep14</title>
-    <desc>A winter storm is closing in, and disaster strikes when a boom boat sinks - Jared races to recover it before the final barge arrives.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031031300 +0000" stop="20261031040300 +0000">
-    <title lang="zh">River Monsters S3 Ep01</title>
-    <desc>Is the eight-foot beast in question a mere legend, or could it be the same, flesh and blood creature that has attacked divers and children?</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031040300 +0000" stop="20261031045300 +0000">
-    <title lang="zh">The Last Woodsmen S2 Ep14</title>
-    <desc>A winter storm is closing in, and disaster strikes when a boom boat sinks - Jared races to recover it before the final barge arrives.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031045300 +0000" stop="20261031051800 +0000">
-    <title lang="zh">The Answer Is Earth S1 Ep03</title>
-    <desc>Zhang Linghe experiences high-tech dredging, urban waste recycling, and eco-agriculture, showcasing China's systematic approach to environmental repair.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031051800 +0000" stop="20261031054300 +0000">
-    <title lang="zh">Greater Bay Area S2 Ep07</title>
-    <desc>The series of documentaries thoroughly reveal the planning and development of the Greater Bay Area.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031054300 +0000" stop="20261031073300 +0000">
-    <title lang="zh">Deadliest Catch S22 Ep01</title>
-    <desc>In the season premiere, captains find rare Red Kings in the stormy north. Sig deploys an underwater drone. Jake revives the legendary Cornelia Marie.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031073300 +0000" stop="20261031082800 +0000">
-    <title lang="zh">Who Hired the Hitman? S1 Ep03</title>
-    <desc>NYPD follows a bloody trail of murder attempts against a real estate entrepreneur with shady ties, but the mastermind is closer than they realised.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031082800 +0000" stop="20261031092300 +0000">
-    <title lang="zh">How to Catch a Dirtbag S1 Ep04</title>
-    <desc>Tizzy investigates a man filmed pulling a gun on a skateboarder, and a confrontation over a car charger leaves a woman seeking Tizzy's help.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031092300 +0000" stop="20261031101800 +0000">
-    <title lang="zh">Gold Rush: Mine Rescue With Freddy &amp; Juan S5 Ep09</title>
-    <desc>A widowed mine owner faces financial ruin on a gold-rich claim. Freddy and Juan scramble to uncover fortune before failure closes in.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031101800 +0000" stop="20261031120800 +0000">
-    <title lang="zh">Deadliest Catch S22 Ep01</title>
-    <desc>In the season premiere, captains find rare Red Kings in the stormy north. Sig deploys an underwater drone. Jake revives the legendary Cornelia Marie.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031120800 +0000" stop="20261031130300 +0000">
-    <title lang="zh">The Last Woodsmen S2 Ep14</title>
-    <desc>A winter storm is closing in, and disaster strikes when a boom boat sinks - Jared races to recover it before the final barge arrives.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031130300 +0000" stop="20261031135800 +0000">
-    <title lang="zh">Mystery at Blind Frog Ranch S5 Ep05</title>
-    <desc>James and Josh continue to decipher clues from the Rhodes journal map, revealing a huge stone door that may lead to the mysterious Golden Staircase.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031135800 +0000" stop="20261031145300 +0000">
-    <title lang="zh">Expedition Unknown S11 Ep09</title>
-    <desc>Josh hunts for millions in missing Confederate gold. First, he explores a possible robbery site. Then, he chases leads to Jefferson Davis's war chest.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031145300 +0000" stop="20261031154800 +0000">
-    <title lang="zh">Ghost Adventures S19 Ep01</title>
-    <desc>Zak and the crew encounter some of the most incredible poltergeist activity ever at a haunted costume shop in Hollywood, California.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031154800 +0000" stop="20261031164300 +0000">
-    <title lang="zh">The Curious Case Of... S2 Ep01</title>
-    <desc>Across states and years, one woman crafts shifting identities, medical dramas, and crises that pull entire communities into her escalating deception.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031164300 +0000" stop="20261031173800 +0000">
-    <title lang="zh">Homestead Rescue (Specials) S7 Ep01</title>
-    <desc>Marty, Misty, and Matt celebrate 100 rescues by looking back at their most memorable homesteads. Plus, they answer social media questions.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031173800 +0000" stop="20261031183300 +0000">
-    <title lang="zh">Who Hired the Hitman? S1 Ep03</title>
-    <desc>NYPD follows a bloody trail of murder attempts against a real estate entrepreneur with shady ties, but the mastermind is closer than they realised.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031183300 +0000" stop="20261031192800 +0000">
-    <title lang="zh">Kevin Hart's Muscle Car Crew S1 Ep05</title>
-    <desc>Kevin arranges for the Boyz to visit Irwindale Drift Track to learn from some champions how they make extreme use of brakes and suspension.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031192800 +0000" stop="20261031202300 +0000">
-    <title lang="zh">Filthy Fortunes S2 Ep02</title>
-    <desc>Matt tackles a hoard packed with vintage toys and hidden guns. Matt test-drives a '60s sports car and test-fires weapons. Total sales top $100,000.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031202300 +0000" stop="20261031211300 +0000">
-    <title lang="zh">Dual Survival S5 Ep01</title>
-    <desc>Joe and Matt face down the high desert canyons of Matt's home of 20 years: southern Utah.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031211300 +0000" stop="20261031220300 +0000">
-    <title lang="zh">Harpoon Hunters S1 Ep06</title>
-    <desc>Battling with Tyler for the lead, Joe partners with Niko. But when Niko's zapper fails at the worst possible moment, Tyler steps in to save the day.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031220300 +0000" stop="20261031230300 +0000">
-    <title lang="zh">Ghost Adventures S19 Ep01</title>
-    <desc>Zak and the crew encounter some of the most incredible poltergeist activity ever at a haunted costume shop in Hollywood, California.</desc>
-    <date>2026-10-31</date>
-  </programme>
-  <programme channel="mastro.discovery" start="20261031230300 +0000" stop="20261101000000 +0000">
-    <title lang="zh">Deadliest Catch S22 Ep01</title>
-    <desc>In the season premiere, captains find rare Red Kings in the stormy north. Sig deploys an underwater drone. Jake revives the legendary Cornelia Marie.</desc>
     <date>2026-10-31</date>
   </programme>
   <programme channel="mastro.prima" start="20261030003000 +0000" stop="20261030010000 +0000">
