@@ -21,7 +21,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.cartoonnetwork">
-    <display-name lang="馬來西亞">Cartoon Network HD</display-name>
+    <display-name lang="Malaysia">Cartoon Network HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <channel id="mastro.disneychannel">
@@ -57,7 +57,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091449370972_97.png" />
   </channel>
   <channel id="mastro.nickjr">
-    <display-name lang="馬來西亞">Nick Jr.</display-name>
+    <display-name lang="Malaysia">Nick Jr.</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609095621560902_62.png" />
   </channel>
   <channel id="mastro.nicktoons">
@@ -329,7 +329,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609090714567371_37.png" />
   </channel>
   <channel id="mastro.bloomberg">
-    <display-name lang="馬來西亞">Bloomberg TV HD</display-name>
+    <display-name lang="Malaysia">Bloomberg TV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609102618373574_12.png" />
   </channel>
   <channel id="mastro.8tv">
@@ -357,7 +357,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.france24">
-    <display-name lang="馬來西亞">France24</display-name>
+    <display-name lang="Malaysia">France24</display-name>
     <icon src="" />
   </channel>
   <channel id="mastro.daebak">
@@ -365,7 +365,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.axn">
-    <display-name lang="馬來西亞">AXN HD</display-name>
+    <display-name lang="Malaysia">AXN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080814582790_35.png" />
   </channel>
   <channel id="mastro.hitsnow">
@@ -385,7 +385,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609085327368966_31.png" />
   </channel>
   <channel id="mastro.kbsworld">
-    <display-name lang="馬來西亞">KBS World HD</display-name>
+    <display-name lang="Malaysia">KBS World HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080942280528_38.png" />
   </channel>
   <channel id="mastro.kplus">
@@ -449,11 +449,11 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080741009276_56.png" />
   </channel>
   <channel id="mastro.bbcearth">
-    <display-name lang="馬來西亞">BBC Earth</display-name>
+    <display-name lang="Malaysia">BBC Earth</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610053046333239_42.png" />
   </channel>
   <channel id="mastro.crimeinvestigation">
-    <display-name lang="馬來西亞">Crime &amp; Investigation HD</display-name>
+    <display-name lang="Malaysia">Crime &amp; Investigation HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091227898837_83.png" />
   </channel>
   <channel id="mastro.discovery">
@@ -481,7 +481,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080851873221_29.png" />
   </channel>
   <channel id="mastro.lovenature">
-    <display-name lang="馬來西亞">Love Nature</display-name>
+    <display-name lang="Malaysia">Love Nature</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610060923765852_46.png" />
   </channel>
   <channel id="mastro.natgeowild">
@@ -9774,6 +9774,11 @@
     <desc>Relive these 25 incredible Old Trafford moments.</desc>
     <date>2026-11-04</date>
   </programme>
+  <programme channel="mastro.mutv" start="20261105000000 +0000" stop="20261106000000 +0000">
+    <title lang="zh">UEFA Champions League 26/27</title>
+    <desc>Full coverage of our UEFA Champions League game against Roma.</desc>
+    <date>2026-11-05</date>
+  </programme>
   <programme channel="mastro.lfctv" start="20261103000000 +0000" stop="20261103020000 +0000">
     <title lang="zh">Liverpool v Arsenal: The Match</title>
     <desc>All the action as Liverpool take on Arsenal.</desc>
@@ -10158,6 +10163,11 @@
     <title lang="zh">Rush Scored Four</title>
     <desc>An LFC Original mini-documentary that relives the unforgettable afternoon at Goodison in 1982 when Ian Rush inspired the Reds to a famous 5-0 derby victory.</desc>
     <date>2026-11-04</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20261105000000 +0000" stop="20261106000000 +0000">
+    <title lang="zh">Fenerbahce v Liverpool: The Match</title>
+    <desc>All the action as Liverpool take on Fenerbahce.</desc>
+    <date>2026-11-05</date>
   </programme>
   <programme channel="mastro.rania" start="20261103000000 +0000" stop="20261103010000 +0000">
     <title lang="zh">Tajwid Cinta Ep200</title>
