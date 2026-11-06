@@ -15,92 +15,6 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/1850/image" />
     <url>http://www.fetchtv.com.au</url>
   </channel>
-  <programme start="20261104003000 +0000" stop="20261104063000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Paris Day 2</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E183</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour - This Week</title>
-    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
-    <episode-num system="onscreen">E43</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104070000 +0000" stop="20261104100000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Paris Evening 2</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E184</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104100000 +0000" stop="20261104180000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Paris Day 3</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E185</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104180000 +0000" stop="20261104230000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">Tennis: ATP Masters 1000</title>
-    <sub-title lang="en">Paris Evening 3</sub-title>
-    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1288971/image/334x188" />
-    <episode-num system="onscreen">E186</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour - This Week</title>
-    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
-    <episode-num system="onscreen">E43</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104233000 +0000" stop="20261104234500 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Miami Moments 2018-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104234500 +0000" stop="20261105000000 +0000" channel="mastro.beinsports1au">
-    <title lang="en">ATP Tour</title>
-    <sub-title lang="en">Champions of Miami 2018-2019</sub-title>
-    <desc lang="en">In this series of features, we look back at some of the most memorable moments, rivalries and achievements at ATP Masters events.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1877072/image/334x188" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20261105000000 +0000" stop="20261105010000 +0000" channel="mastro.beinsports1au">
     <title lang="en">ATP Classic</title>
     <sub-title lang="en">Federer v Nadal 2013</sub-title>
@@ -809,288 +723,120 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104002000 +0000" stop="20261104005000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Bundesliga Mini</title>
-    <sub-title lang="en">Leverkusen vs Stuttgart</sub-title>
-    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+  <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">Paris</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
-    <episode-num system="onscreen">E36</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
+    <episode-num system="onscreen">E25</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104005000 +0000" stop="20261104012000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Bundesliga Mini</title>
-    <sub-title lang="en">Werder Bremen vs Hoffenheim</sub-title>
-    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Review</title>
+    <sub-title lang="en">Hamburg</sub-title>
+    <desc lang="en">A look back at the best of the action from the tournament.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
-    <episode-num system="onscreen">E37</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267638/image/334x188" />
+    <episode-num system="onscreen">E14</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104012000 +0000" stop="20261104015000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Bundesliga Mini</title>
-    <sub-title lang="en">Schalke vs Leipzig</sub-title>
-    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+  <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
-    <episode-num system="onscreen">E38</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104015000 +0000" stop="20261104020000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Bundesliga Goals</title>
-    <sub-title lang="en">Team Goal</sub-title>
-    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104020000 +0000" stop="20261104035000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">West Brom vs Southampton</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
     <episode-num system="onscreen">E44</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104035000 +0000" stop="20261104054000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Scottish League Cup</title>
-    <sub-title lang="en">Rangers vs Aberdeen - SF</sub-title>
-    <desc lang="en">40 clubs battle through the high-stakes summer group stages, aiming for a spot in the knockouts against Scotland's European elite. Who will lift the first major silverware of the Scottish football season?</desc>
+  <programme start="20261111033000 +0000" stop="20261111050000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Masters 1000 Rolex Paris Masters</title>
+    <sub-title lang="en">Paris Final</sub-title>
+    <desc lang="en">Exclusive coverage of the 2026 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1600332/image/334x188" />
-    <episode-num system="onscreen">E12</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2407601/image/334x188" />
+    <episode-num system="onscreen">E196</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104054000 +0000" stop="20261104073000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Scottish League Cup</title>
-    <sub-title lang="en">Hearts vs Hibernian - SF</sub-title>
-    <desc lang="en">40 clubs battle through the high-stakes summer group stages, aiming for a spot in the knockouts against Scotland's European elite. Who will lift the first major silverware of the Scottish football season?</desc>
+  <programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1600332/image/334x188" />
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104073000 +0000" stop="20261104080000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">EFL Championship Highlights</title>
-    <sub-title lang="en">Matchday 13</sub-title>
-    <desc lang="en">Don't miss out on the thrilling action and highlights from the latest games in the 2026/27 season of the EFL Championship, League One, and League Two.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5323246/image/334x188" />
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104080000 +0000" stop="20261104095000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">West Brom vs Southampton</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
     <episode-num system="onscreen">E44</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104095000 +0000" stop="20261104100000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">EFL Classic</title>
-    <sub-title lang="en">Ipswich vs Norwich - 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the EFL Championship.</desc>
+  <programme start="20261111053000 +0000" stop="20261111083000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">ATP 250</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093036/image/334x188" />
-    <episode-num system="onscreen">S1 E10</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E290</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104100000 +0000" stop="20261104103000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Juventus vs Napoli</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+  <programme start="20261111083000 +0000" stop="20261111090000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP Tour - This Week</title>
+    <desc lang="en">Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E49</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/7633764/image/334x188" />
+    <episode-num system="onscreen">E44</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Atalanta vs Parma</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+  <programme start="20261111090000 +0000" stop="20261111120000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">ATP 250</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E50</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E291</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 10</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+  <programme start="20261111120000 +0000" stop="20261111170000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">ATP 250</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
-    <episode-num system="onscreen">E10</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E292</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Racing de Santander vs Real Madrid</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+  <programme start="20261111170000 +0000" stop="20261111220000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">ATP 250</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E54</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E293</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Athletic Bilbao vs Real Sociedad</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+  <programme start="20261111220000 +0000" stop="20261112010000 +0000" channel="mastro.beinsports1au">
+    <title lang="en">ATP 250</title>
+    <sub-title lang="en">ATP 250</sub-title>
+    <desc lang="en">Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E55</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Highlights</title>
-    <sub-title lang="en">Matchday 11</sub-title>
-    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261104130000 +0000" stop="20261104145000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Football: Süper Lig</title>
-    <sub-title lang="en">Konyaspor vs Galatasaray</sub-title>
-    <desc lang="en">Konyaspor meets Galatasaray in Super Lig.\nThe match is played at Konya Buyuksehir Stadyumu.\nMatch day 10.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709797/image/334x188" />
-    <episode-num system="onscreen">E37</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104145000 +0000" stop="20261104164000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Football: Süper Lig</title>
-    <sub-title lang="en">Fenerbahce vs Goztepe</sub-title>
-    <desc lang="en">beIN SPORTS brings you coverage of the 69th season of Turkish top-flight football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709797/image/334x188" />
-    <episode-num system="onscreen">E38</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104164000 +0000" stop="20261104183000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Football: Süper Lig</title>
-    <sub-title lang="en">Kasimpasa vs Besiktas</sub-title>
-    <desc lang="en">beIN SPORTS brings you coverage of the 69th season of Turkish top-flight football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709797/image/334x188" />
-    <episode-num system="onscreen">E40</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104183000 +0000" stop="20261104190000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Lazio vs Cagliari</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E48</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104190000 +0000" stop="20261104193000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 10</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104193000 +0000" stop="20261104200000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">LaLiga Highlights</title>
-    <sub-title lang="en">Matchday 11</sub-title>
-    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261104200000 +0000" stop="20261104220000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV</title>
-    <sub-title lang="en">Chelsea vs Man United</sub-title>
-    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104220000 +0000" stop="20261104223000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV: Match Day Review</title>
-    <sub-title lang="en">Chelsea vs Man United</sub-title>
-    <desc lang="en">Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092556/image/334x188" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104223000 +0000" stop="20261104230000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">MUTV</title>
-    <sub-title lang="en">Adidas '92 Homecoming</sub-title>
-    <desc lang="en">Behind the scenes documentary as Beckham, the Neville brothers, Scholes, Butt and Giggs are reunited at a very special launch event at Old Trafford.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275566/image/334x188" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104230000 +0000" stop="20261105005000 +0000" channel="mastro.beinsports2au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Bristol City vs Wolves</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
-    <episode-num system="onscreen">E45</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/5267332/image/334x188" />
+    <episode-num system="onscreen">E292</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -2343,299 +2089,178 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104003500 +0000" stop="20261104005000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">SPFL Premiership Highlights</title>
-    <sub-title lang="en">Matchday 12</sub-title>
-    <desc lang="en">Get ready for a thrilling recap of the latest round of games in the Scottish Professional Football League 2026/27 season.</desc>
+  <programme start="20261111000000 +0000" stop="20261111020000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Doubles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092567/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111020000 +0000" stop="20261111040000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Doubles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
     <episode-num system="onscreen">E12</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104005000 +0000" stop="20261104010000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Old Firm Classic</title>
-    <sub-title lang="en">Celtic vs Rangers 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
+  <programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA All Access</title>
+    <sub-title lang="en">Sunshine Swing</sub-title>
+    <desc lang="en">WTA All Access tells the compelling stories from the 2026 season of the WTA Tour.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275561/image/334x188" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104010000 +0000" stop="20261104013000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Lazio vs Cagliari</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E48</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104013000 +0000" stop="20261104032000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">Milan vs Inter</sub-title>
-    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
-    <episode-num system="onscreen">E93</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104032000 +0000" stop="20261104051000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">Juventus vs Napoli</sub-title>
-    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
-    <episode-num system="onscreen">E98</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104051000 +0000" stop="20261104070000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">Serie A: Udinese - Roma (M)</sub-title>
-    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
-    <episode-num system="onscreen">E92</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104070000 +0000" stop="20261104073000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Juventus vs Napoli</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E49</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104073000 +0000" stop="20261104080000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Mini Match - Serie A</title>
-    <sub-title lang="en">Atalanta vs Parma</sub-title>
-    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
-    <episode-num system="onscreen">E50</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104080000 +0000" stop="20261104083000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 10</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104083000 +0000" stop="20261104090000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Racing de Santander vs Real Madrid</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E54</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104090000 +0000" stop="20261104093000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Mini</title>
-    <sub-title lang="en">Athletic Bilbao vs Real Sociedad</sub-title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
-    <episode-num system="onscreen">E55</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104093000 +0000" stop="20261104100000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Highlights</title>
-    <sub-title lang="en">Matchday 11</sub-title>
-    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261104100000 +0000" stop="20261104103000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Best 11</title>
-    <sub-title lang="en">Javier Casquero</sub-title>
-    <desc lang="en">Javier Casquero is featured as one of the players selected in a LaLiga legend's ideal eleven in this episode.</desc>
-    <category lang="en">Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Best 11</title>
-    <sub-title lang="en">Gaizka Mendieta</sub-title>
-    <desc lang="en">Gaizka Mendieta selected his personal LaLiga Best 11 featuring iconic Spanish football stars, sharing his ultimate lineup across official LaLiga channels.</desc>
-    <category lang="en">Special Interest</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2712963/image/334x188" />
     <episode-num system="onscreen">E2</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104110000 +0000" stop="20261104125000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">West Brom vs Southampton</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
+  <programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Beijing</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
-    <episode-num system="onscreen">E44</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104125000 +0000" stop="20261104130000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Classic</title>
-    <sub-title lang="en">Ipswich vs Norwich - 2023/24</sub-title>
-    <desc lang="en">Rewind the clock and enjoy some of the classic matches from the EFL Championship.</desc>
+  <programme start="20261111050000 +0000" stop="20261111063000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Singles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093036/image/334x188" />
-    <episode-num system="onscreen">S1 E10</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Mini</title>
-    <sub-title lang="en">Werder Bremen vs Hoffenheim</sub-title>
-    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
+  <programme start="20261111063000 +0000" stop="20261111080000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Singles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
-    <episode-num system="onscreen">E37</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Mini</title>
-    <sub-title lang="en">Bayern vs Dortmund</sub-title>
-    <desc lang="en">Exclusive coverage from the highest tier and premier professional football league in Germany, the German Bundesliga.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275222/image/334x188" />
-    <episode-num system="onscreen">E39</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104140000 +0000" stop="20261104155000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Schalke vs Leipzig</sub-title>
-    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
-    <episode-num system="onscreen">E69</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104155000 +0000" stop="20261104174000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Leverkusen vs Stuttgart</sub-title>
-    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
-    <episode-num system="onscreen">E65</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104174000 +0000" stop="20261104193000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Frankfurt vs Hamburg</sub-title>
-    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
-    <episode-num system="onscreen">E72</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104193000 +0000" stop="20261104194000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Goals</title>
-    <sub-title lang="en">Counter-Attack Goal</sub-title>
-    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104194000 +0000" stop="20261104195200 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Bundesliga Goals</title>
-    <sub-title lang="en">Team Goal</sub-title>
-    <desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/5275652/image/334x188" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104195200 +0000" stop="20261104220000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">EFL Championship</title>
-    <sub-title lang="en">Bristol City vs Wolves</sub-title>
-    <desc lang="en">The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1282785/image/334x188" />
-    <episode-num system="onscreen">E45</episode-num>
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20261104220000 +0000" stop="20261104223000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">Serie A Full Impact</title>
-    <sub-title lang="en">Matchday 10</sub-title>
-    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
     <episode-num system="onscreen">E10</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104223000 +0000" stop="20261104230000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga Highlights</title>
-    <sub-title lang="en">Matchday 11</sub-title>
-    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+  <programme start="20261111080000 +0000" stop="20261111093000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Doubles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
     <episode-num system="onscreen">E11</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20261104230000 +0000" stop="20261105005000 +0000" channel="mastro.beinsports3au">
-    <title lang="en">LaLiga</title>
-    <sub-title lang="en">Levante vs Atletico Madrid</sub-title>
-    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+  <programme start="20261111093000 +0000" stop="20261111110000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Doubles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/1494354/image/334x188" />
-    <episode-num system="onscreen">E102</episode-num>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111123000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Singles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111123000 +0000" stop="20261111140000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 3 Singles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111140000 +0000" stop="20261111155000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Cologne vs Leverkusen</sub-title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
+    <episode-num system="onscreen">E79</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111155000 +0000" stop="20261111174000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Hoffenheim vs Schalke</sub-title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
+    <episode-num system="onscreen">E81</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111174000 +0000" stop="20261111193000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">Bundesliga</title>
+    <sub-title lang="en">Freiburg vs FC Union</sub-title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1180428/image/334x188" />
+    <episode-num system="onscreen">E80</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Big Ten Highlights</title>
+    <sub-title lang="en">Wuhan</sub-title>
+    <desc lang="en">Relive the best of the action from the Final of the 10 key events in the WTA calendar:  the 'Big Ten\.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16092159/image/334x188" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111220000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 4 Singles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111220000 +0000" stop="20261112000000 +0000" channel="mastro.beinsports2au">
+    <title lang="en">WTA Tennis Finals</title>
+    <sub-title lang="en">Day 4 Singles</sub-title>
+    <desc lang="en">The top 8 singles players and doubles pairs travel to Riyadh, Saudi Arabia to face each other in the final event of the season to decide the 2026 champions.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1506825/image/334x188" />
+    <episode-num system="onscreen">E14</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -4157,6 +3782,290 @@
     <category lang="en">Sports</category>
     <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
     <episode-num system="onscreen">E110</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111003000 +0000" stop="20261111022000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Inter vs Como 1907</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E109</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111022000 +0000" stop="20261111041000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Napoli vs Lazio</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E106</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111041000 +0000" stop="20261111060000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Genoa vs Milan</sub-title>
+    <desc lang="en">The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1699946/image/334x188" />
+    <episode-num system="onscreen">E107</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111060000 +0000" stop="20261111063000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Roma vs Juventus 2025/26</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E135</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111063000 +0000" stop="20261111070000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Juventus vs Inter 2025/26</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E129</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111070000 +0000" stop="20261111073000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Napoli vs Lazio</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E52</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111073000 +0000" stop="20261111080000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Mini Match - Serie A</title>
+    <sub-title lang="en">Inter vs Como 1907</sub-title>
+    <desc lang="en">Exclusive coverage from every round of the Serie A, Italy's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093195/image/334x188" />
+    <episode-num system="onscreen">E54</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111080000 +0000" stop="20261111083000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Matchday 11</sub-title>
+    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111083000 +0000" stop="20261111090000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Atletico Madrid vs Barcelona</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E60</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111090000 +0000" stop="20261111093000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Valencia vs Real Madrid</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E58</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Matchday 12</sub-title>
+    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Best 11</title>
+    <sub-title lang="en">Javier Casquero</sub-title>
+    <desc lang="en">Javier Casquero is featured as one of the players selected in a LaLiga legend's ideal eleven in this episode.</desc>
+    <category lang="en">Special Interest</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/6388975/image/334x188" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Full Impact</title>
+    <sub-title lang="en">Matchday 11</sub-title>
+    <desc lang="en">Full Impact captures the excitement and tension of the weekend highlights, delivering an unparalleled review of Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/1356549/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111113000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">UEFA Nations League: Preview Show</title>
+    <sub-title lang="en">MD5 &amp; MD6</sub-title>
+    <desc lang="en">Take a look with us at the preview of the upcoming UEFA Nations League matches.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2260876/image/334x188" />
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Atletico Madrid vs Barcelona</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E60</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Mini</title>
+    <sub-title lang="en">Valencia vs Real Madrid</sub-title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093006/image/334x188" />
+    <episode-num system="onscreen">E58</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Highlights</title>
+    <sub-title lang="en">Matchday 12</sub-title>
+    <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/2318878/image/334x188" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261111130000 +0000" stop="20261111145000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Atalanta vs Napoli - 2023/24</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111145000 +0000" stop="20261111164000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Verona vs Inter - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111164000 +0000" stop="20261111183000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Napoli vs Milan - 2022/23</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111183000 +0000" stop="20261111190000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Inter vs Fiorentina - 2020/21</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E84</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">Serie A Classics</title>
+    <sub-title lang="en">Milan vs Roma - 2021/22</sub-title>
+    <desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3236171/image/334x188" />
+    <episode-num system="onscreen">S1 E102</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">This is Paris</title>
+    <desc lang="en">An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709794/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111220000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">PSG TV</title>
+    <sub-title lang="en">PSG vs Troyes</sub-title>
+    <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/16093803/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">This is Paris</title>
+    <desc lang="en">An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/3709794/image/334x188" />
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20261111223000 +0000" stop="20261112002000 +0000" channel="mastro.beinsports3au">
+    <title lang="en">LaLiga Classics</title>
+    <sub-title lang="en">Barcelona vs Athletic Bilbao - 2015/16</sub-title>
+    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/4822111/image/334x188" />
+    <episode-num system="onscreen">S1 E89</episode-num>
     <rating system="AU">
       <value>NR</value>
     </rating>
@@ -11382,6 +11291,26 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
+  <programme start="20261106040000 +0000" stop="20261106100000 +0000" channel="mastro.premierleague3">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 10: Brighton and Hove Albion vs Brentford at 2200hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0000" stop="20261106220000 +0000" channel="mastro.premierleague3">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 10: Brighton and Hove Albion vs Brentford at 2200hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20261106220000 +0000" stop="20261107040000 +0000" channel="mastro.premierleague3">
     <title lang="en">Astro Premier League 3</title>
     <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 10: Brighton and Hove Albion vs Brentford at 2200hrs.</desc>
@@ -11438,6 +11367,26 @@
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague3_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0000" stop="20261106100000 +0000" channel="mastro.premierleague4">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 10: Brighton and Hove Albion vs Brentford at 2200hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague4_2024_IVP_LAND_1280x720.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0000" stop="20261106220000 +0000" channel="mastro.premierleague4">
+    <title lang="en">Astro Premier League 3</title>
+    <desc lang="en">Catch the live broadcast of Premier League 2026/27: Match Week 10: Brighton and Hove Albion vs Brentford at 2200hrs.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague4_2024_IVP_LAND_1280x720.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -11538,900 +11487,646 @@
     <display-name>Zee Thirai</display-name>
     <icon src="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25,h_500,w_500/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" />
   </channel>
-  <programme start="20261105010000 +0530" stop="20261105030000 +0530" channel="mastro.disneyinter" catchup-id="101038025">
+  <programme start="20261106010000 +0530" stop="20261106030000 +0530" channel="mastro.disneyinter" catchup-id="101073698">
     <title>Stuck in the Middle</title>
-    <desc>Harley, a young genius, uses her skills and creativity to stand out in her large family.</desc>
+    <desc>Inventor, experimenter and persuader harley maneuvers her way through the bustle that comes with being part of her happy family of nine, from the unique vantage point of being a tween middle. S01E113.</desc>
   </programme>
-  <programme start="20261105030000 +0530" stop="20261105050000 +0530" channel="mastro.disneyinter" catchup-id="101038017">
+  <programme start="20261106030000 +0530" stop="20261106050000 +0530" channel="mastro.disneyinter" catchup-id="101073693">
     <title>Wizards Beyond Waverly Place</title>
     <desc>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie.</desc>
   </programme>
-  <programme start="20261105050000 +0530" stop="20261105060000 +0530" channel="mastro.disneyinter" catchup-id="101038012">
+  <programme start="20261106050000 +0530" stop="20261106060000 +0530" channel="mastro.disneyinter" catchup-id="101073694">
     <title>Liv and Maddie</title>
     <desc>When Maddie's twin sister Liv returns to high school, her life turns chaotic.</desc>
   </programme>
-  <programme start="20261105060000 +0530" stop="20261105070000 +0530" channel="mastro.disneyinter" catchup-id="101038024">
+  <programme start="20261106060000 +0530" stop="20261106070000 +0530" channel="mastro.disneyinter" catchup-id="101073695">
     <title>Liv and Maddie</title>
     <desc>When Maddie's twin sister Liv returns to high school, her life turns chaotic.</desc>
   </programme>
-  <programme start="20261105070000 +0530" stop="20261105083000 +0530" channel="mastro.disneyinter" catchup-id="101038026">
+  <programme start="20261106070000 +0530" stop="20261106083000 +0530" channel="mastro.disneyinter" catchup-id="101073678">
     <title>Power Packed Mornings</title>
     <desc>.</desc>
   </programme>
-  <programme start="20261105083000 +0530" stop="20261105093000 +0530" channel="mastro.disneyinter" catchup-id="101038010">
+  <programme start="20261106083000 +0530" stop="20261106093000 +0530" channel="mastro.disneyinter" catchup-id="101073681">
     <title>Power Packed Mornings</title>
     <desc>.</desc>
   </programme>
-  <programme start="20261105093000 +0530" stop="20261105110000 +0530" channel="mastro.disneyinter" catchup-id="101038007">
+  <programme start="20261106093000 +0530" stop="20261106110000 +0530" channel="mastro.disneyinter" catchup-id="101073683">
     <title>Miraculous: Tales of Ladybug &amp; Cat Noir</title>
     <desc>Marinette's takes an impromptu trip to her homeland, unaware of the challenges ahead.</desc>
   </programme>
-  <programme start="20261105110000 +0530" stop="20261105120000 +0530" channel="mastro.disneyinter" catchup-id="101038014">
+  <programme start="20261106110000 +0530" stop="20261106120000 +0530" channel="mastro.disneyinter" catchup-id="101073682">
     <title>Big City Greens</title>
     <desc>The mischievous Cricket Green and his family move from the country to the big city.</desc>
   </programme>
-  <programme start="20261105120000 +0530" stop="20261105130000 +0530" channel="mastro.disneyinter" catchup-id="101038008">
+  <programme start="20261106120000 +0530" stop="20261106130000 +0530" channel="mastro.disneyinter" catchup-id="101073689">
     <title>Bizaardvark</title>
-    <desc>Two best friends put their talents to use while making vlogs for their comedy channel. S01E04.</desc>
+    <desc>Two best friends put their talents to use while making vlogs for their comedy channel. S01E05.</desc>
   </programme>
-  <programme start="20261105130000 +0530" stop="20261105133000 +0530" channel="mastro.disneyinter" catchup-id="101038021">
+  <programme start="20261106130000 +0530" stop="20261106133000 +0530" channel="mastro.disneyinter" catchup-id="101073687">
     <title>Wizards Beyond Waverly Place</title>
     <desc>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie.</desc>
   </programme>
-  <programme start="20261105133000 +0530" stop="20261105140000 +0530" channel="mastro.disneyinter" catchup-id="101038022">
+  <programme start="20261106133000 +0530" stop="20261106140000 +0530" channel="mastro.disneyinter" catchup-id="101073692">
     <title>Wizards Beyond Waverly Place</title>
     <desc>Justin Russo must shed his mortality in order to mentor his wizard niece, Billie.</desc>
   </programme>
-  <programme start="20261105140000 +0530" stop="20261105143000 +0530" channel="mastro.disneyinter" catchup-id="101038023">
+  <programme start="20261106140000 +0530" stop="20261106143000 +0530" channel="mastro.disneyinter" catchup-id="101073686">
     <title>Stuck in the Middle</title>
-    <desc>Harley, a young genius, uses her skills and creativity to stand out in her large family.</desc>
+    <desc>Inventor, experimenter and persuader harley maneuvers her way through the bustle that comes with being part of her happy family of nine, from the unique vantage point of being a tween middle. S01E113.</desc>
   </programme>
-  <programme start="20261105143000 +0530" stop="20261105153000 +0530" channel="mastro.disneyinter" catchup-id="101038018">
+  <programme start="20261106143000 +0530" stop="20261106153000 +0530" channel="mastro.disneyinter" catchup-id="101073684">
     <title>Stuck in the Middle</title>
-    <desc>Harley, a young genius, uses her skills and creativity to stand out in her large family.</desc>
+    <desc>Inventor, experimenter and persuader harley maneuvers her way through the bustle that comes with being part of her happy family of nine, from the unique vantage point of being a tween middle. S01E113.</desc>
   </programme>
-  <programme start="20261105153000 +0530" stop="20261105160000 +0530" channel="mastro.disneyinter" catchup-id="101038028">
+  <programme start="20261106153000 +0530" stop="20261106160000 +0530" channel="mastro.disneyinter" catchup-id="101073696">
     <title>Bunk'd</title>
     <desc>Emma, Ravi and Zuri Ross head to a summer camp where their parents met for the first time.</desc>
   </programme>
-  <programme start="20261105160000 +0530" stop="20261105163000 +0530" channel="mastro.disneyinter" catchup-id="101038009">
+  <programme start="20261106160000 +0530" stop="20261106163000 +0530" channel="mastro.disneyinter" catchup-id="101073680">
     <title>Bunk'd</title>
     <desc>Emma, Ravi and Zuri Ross head to a summer camp where their parents met for the first time.</desc>
   </programme>
-  <programme start="20261105163000 +0530" stop="20261105180000 +0530" channel="mastro.disneyinter" catchup-id="101038016">
+  <programme start="20261106163000 +0530" stop="20261106180000 +0530" channel="mastro.disneyinter" catchup-id="101073699">
     <title>Stuck in the Middle</title>
-    <desc>Harley, a young genius, uses her skills and creativity to stand out in her large family.</desc>
+    <desc>Inventor, experimenter and persuader harley maneuvers her way through the bustle that comes with being part of her happy family of nine, from the unique vantage point of being a tween middle. S01E113.</desc>
   </programme>
-  <programme start="20261105180000 +0530" stop="20261105193000 +0530" channel="mastro.disneyinter" catchup-id="101038019">
+  <programme start="20261106180000 +0530" stop="20261106193000 +0530" channel="mastro.disneyinter" catchup-id="101073690">
     <title>Bizaardvark</title>
     <desc>Two best friends put their talents to use while making vlogs for their comedy channel.</desc>
   </programme>
-  <programme start="20261105193000 +0530" stop="20261105200000 +0530" channel="mastro.disneyinter" catchup-id="101038011">
+  <programme start="20261106193000 +0530" stop="20261106200000 +0530" channel="mastro.disneyinter" catchup-id="101073691">
     <title>The Suite Life on Deck</title>
     <desc>Twin brothers Zack and Cody board the luxury SS Tipton liner alongside London.</desc>
   </programme>
-  <programme start="20261105200000 +0530" stop="20261105203000 +0530" channel="mastro.disneyinter" catchup-id="101038027">
+  <programme start="20261106200000 +0530" stop="20261106203000 +0530" channel="mastro.disneyinter" catchup-id="101073688">
     <title>The Suite Life on Deck</title>
     <desc>Twin brothers Zack and Cody board the luxury SS Tipton liner alongside London.</desc>
   </programme>
-  <programme start="20261105203000 +0530" stop="20261105220000 +0530" channel="mastro.disneyinter" catchup-id="101038015">
+  <programme start="20261106203000 +0530" stop="20261106220000 +0530" channel="mastro.disneyinter" catchup-id="101073697">
     <title>Liv and Maddie</title>
     <desc>When Maddie's twin sister Liv returns to high school, her life turns chaotic.</desc>
   </programme>
-  <programme start="20261105220000 +0530" stop="20261105230000 +0530" channel="mastro.disneyinter" catchup-id="101038020">
+  <programme start="20261106220000 +0530" stop="20261106230000 +0530" channel="mastro.disneyinter" catchup-id="101073685">
     <title>Stuck in the Middle</title>
-    <desc>Harley, a young genius, uses her skills and creativity to stand out in her large family.</desc>
+    <desc>Inventor, experimenter and persuader harley maneuvers her way through the bustle that comes with being part of her happy family of nine, from the unique vantage point of being a tween middle. S01E113.</desc>
   </programme>
-  <programme start="20261105230000 +0530" stop="20261106010000 +0530" channel="mastro.disneyinter" catchup-id="101038013">
+  <programme start="20261106230000 +0530" stop="20261107010000 +0530" channel="mastro.disneyinter" catchup-id="101073679">
     <title>Liv and Maddie</title>
     <desc>When Maddie's twin sister Liv returns to high school, her life turns chaotic.</desc>
   </programme>
-  <programme start="20261105011300 +0530" stop="20261105025500 +0530" channel="mastro.starmovies" catchup-id="101167169">
-    <title>Mojin The Treasure Valley</title>
-    <desc>Tomb raider Hu Bayi must find the lost tomb of Emperor Xian on a monster-infested island.</desc>
+  <programme start="20261106003900 +0530" stop="20261106021600 +0530" channel="mastro.starmovies" catchup-id="101209791">
+    <title>Percy Jackson: Sea of Monsters</title>
+    <desc>Percy Jackson and his friends try to find the Golden Fleece in the Sea of Monsters.</desc>
   </programme>
-  <programme start="20261105025500 +0530" stop="20261105042300 +0530" channel="mastro.starmovies" catchup-id="101208313">
-    <title>George and the Dragon</title>
-    <desc>Knight George is forced to go back to his old ways to rescue King Edgar's daughter.</desc>
+  <programme start="20261106021600 +0530" stop="20261106035000 +0530" channel="mastro.starmovies" catchup-id="101209790">
+    <title>King Of Serpant</title>
+    <desc>A man's small village faces certain death unless he hunts and kills a giant python.</desc>
   </programme>
-  <programme start="20261105042300 +0530" stop="20261105060700 +0530" channel="mastro.starmovies" catchup-id="101208311">
-    <title>Samson</title>
-    <desc>A Nazirite finds himself entangled in a prince's wicked plot, leading him to seek revenge.</desc>
-  </programme>
-  <programme start="20261105060700 +0530" stop="20261105072100 +0530" channel="mastro.starmovies" catchup-id="101208304">
-    <title>Super Typhoon</title>
-    <desc>A goddess unleashes a typhoon upon the world as punishment for humanity's transgressions.</desc>
-  </programme>
-  <programme start="20261105072100 +0530" stop="20261105085100 +0530" channel="mastro.starmovies" catchup-id="101208314">
-    <title>Inside Out</title>
-    <desc>Riley and her five core emotions struggle to cope with her new life in San Francisco.</desc>
-  </programme>
-  <programme start="20261105085100 +0530" stop="20261105110600 +0530" channel="mastro.starmovies" catchup-id="101208310">
-    <title>Guardians of the Galaxy Vol. 2</title>
-    <desc>The Guardians uncover an unnerving truth about Ego, Peter Quill's long-lost father.</desc>
-  </programme>
-  <programme start="20261105110600 +0530" stop="20261105123700 +0530" channel="mastro.starmovies" catchup-id="101208306">
-    <title>Taken 2</title>
-    <desc>A retired CIA operative faces the wrath of the father of a man he once killed.</desc>
-  </programme>
-  <programme start="20261105123700 +0530" stop="20261105142300 +0530" channel="mastro.starmovies" catchup-id="101208308">
-    <title>Transformers One</title>
-    <desc>Optimus Prime and Megatron alter Cybertron's fate before becoming bitter rivals.</desc>
-  </programme>
-  <programme start="20261105142300 +0530" stop="20261105161100 +0530" channel="mastro.starmovies" catchup-id="101208305">
-    <title>The Omen</title>
-    <desc>A man faces grave issues after he replaces his wife's stillborn with an orphaned baby.</desc>
-  </programme>
-  <programme start="20261105161100 +0530" stop="20261105183100 +0530" channel="mastro.starmovies" catchup-id="101208315">
-    <title>Captain America: Civil War</title>
-    <desc>Captain America and Iron Man clash over a law to regulate superhuman activities.</desc>
-  </programme>
-  <programme start="20261105183100 +0530" stop="20261105204500 +0530" channel="mastro.starmovies" catchup-id="101208309">
-    <title>Pirates of the Caribbean: On Stranger Tides</title>
-    <desc>Captain Jack Sparrow sets sail in search of the legendary fountain of youth.</desc>
-  </programme>
-  <programme start="20261105204500 +0530" stop="20261105223600 +0530" channel="mastro.starmovies" catchup-id="101208307">
-    <title>Mulan</title>
-    <desc>A girl disguises herself as a male and joins the imperial army to save her father.</desc>
-  </programme>
-  <programme start="20261105223600 +0530" stop="20261106003900 +0530" channel="mastro.starmovies" catchup-id="101208312">
-    <title>X-Men: Days of Future Past</title>
-    <desc>Wolverine travels back in time to put a stop to the Sentinel programme and save mutants.</desc>
-  </programme>
-  <programme start="20261105005800 +0530" stop="20261105023900 +0530" channel="mastro.sonypix" catchup-id="101201884">
-    <title>Bad Boys: Ride or Die</title>
-    <desc>Miami's top cops tackle a high-stakes cartel case to clear late captain's name.</desc>
-  </programme>
-  <programme start="20261105023900 +0530" stop="20261105041300 +0530" channel="mastro.sonypix" catchup-id="101201885">
-    <title>XXX: State of the Union</title>
-    <desc>A former US Navy SEAL tries to stop a rogue military faction from toppling the government.</desc>
-  </programme>
-  <programme start="20261105041300 +0530" stop="20261105052800 +0530" channel="mastro.sonypix" catchup-id="101206811">
-    <title>Sisu</title>
-    <desc>As Aatami trudges towards retirement, a Nazi soldier poses a final hurdle.</desc>
-  </programme>
-  <programme start="20261105052800 +0530" stop="20261105065800 +0530" channel="mastro.sonypix" catchup-id="101206808">
-    <title>Daddio</title>
-    <desc>A woman has an insightful conversation with her driver while in the cab.</desc>
-  </programme>
-  <programme start="20261105065800 +0530" stop="20261105083700 +0530" channel="mastro.sonypix" catchup-id="101206806">
-    <title>The Smurfs 2</title>
-    <desc>The Smurfs set out to rescue Smurfette after Gargamel kidnaps her due to a secret spell.</desc>
-  </programme>
-  <programme start="20261105083700 +0530" stop="20261105102800 +0530" channel="mastro.sonypix" catchup-id="101206815">
-    <title>Men in Black: International</title>
-    <desc>Agents M and H of the MIB set out to save the planet from an alien invasion.</desc>
-  </programme>
-  <programme start="20261105102800 +0530" stop="20261105120400 +0530" channel="mastro.sonypix" catchup-id="101206809">
-    <title>Life</title>
-    <desc>A team of astronauts finds evidence of life on Mars that poses a grave threat to mankind.</desc>
-  </programme>
-  <programme start="20261105120400 +0530" stop="20261105134200 +0530" channel="mastro.sonypix" catchup-id="101206813">
-    <title>Goosebumps</title>
-    <desc>The 'Goosebumps' monsters come to life and R L Stine, Hannah and Zach must save everyone.</desc>
-  </programme>
-  <programme start="20261105134200 +0530" stop="20261105151300 +0530" channel="mastro.sonypix" catchup-id="101206807">
-    <title>Venom: Let There Be Carnage</title>
-    <desc>A serial killer's body gets taken over by the symbiote Carnage which leads to chaos.</desc>
-  </programme>
-  <programme start="20261105151300 +0530" stop="20261105171800 +0530" channel="mastro.sonypix" catchup-id="101206810">
-    <title>Erin Brockovich</title>
-    <desc>Erin Brockovich builds a case against a power company that pollutes a town's water supply.</desc>
-  </programme>
-  <programme start="20261105171800 +0530" stop="20261105193000 +0530" channel="mastro.sonypix" catchup-id="101206812">
-    <title>Spider-Man 3</title>
-    <desc>A symbiote bonds with Peter Parker, boosting his abilities and aggression.</desc>
-  </programme>
-  <programme start="20261105193000 +0530" stop="20261105210000 +0530" channel="mastro.sonypix" catchup-id="101206805">
-    <title>Smurfs: The Lost Village</title>
-    <desc>When Smurfette and her friends plan to find the lost village, Gargamel tries to stop them.</desc>
-  </programme>
-  <programme start="20261105210000 +0530" stop="20261105232800 +0530" channel="mastro.sonypix" catchup-id="101045195">
-    <title>Once Upon a Time... In Hollywood</title>
-    <desc>A fading actor and his stunt double struggle to restart their Hollywood careers.</desc>
-  </programme>
-  <programme start="20261105232800 +0530" stop="20261106012200 +0530" channel="mastro.sonypix" catchup-id="101206814">
-    <title>Charlie's Angels</title>
-    <desc>Charlie, a wealthy enigma, assigns three women to find Eric Knox, a software genius.</desc>
-  </programme>
-  <programme start="20261105001300 +0530" stop="20261105013400 +0530" channel="mastro.starmoviesselect" catchup-id="101167177">
-    <title>Gatlopp</title>
-    <desc>All hell breaks loose as old friends reunite and play a game with terrifying risks.</desc>
-  </programme>
-  <programme start="20261105013400 +0530" stop="20261105030600 +0530" channel="mastro.starmoviesselect" catchup-id="101167175">
-    <title>George and the Dragon</title>
-    <desc>Knight George is forced to go back to his old ways to rescue King Edgar's daughter.</desc>
-  </programme>
-  <programme start="20261105030600 +0530" stop="20261105031300 +0530" channel="mastro.starmoviesselect" catchup-id="101167178">
+  <programme start="20261106035000 +0530" stop="20261106035700 +0530" channel="mastro.starmovies" catchup-id="101250291">
     <title>Filler</title>
     <desc>Bringing the best in television.</desc>
   </programme>
-  <programme start="20261105031300 +0530" stop="20261105044000 +0530" channel="mastro.starmoviesselect" catchup-id="101167176">
-    <title>Breaking Infinity</title>
-    <desc>Scientist Liam time-jumps to a future he may have destroyed, guided by an old man.</desc>
+  <programme start="20261106035700 +0530" stop="20261106050800 +0530" channel="mastro.starmovies" catchup-id="101250296">
+    <title>Catch The Dragon</title>
+    <desc>A palaeontologist sets out to hunt dragons and uncover the truth about his father's death.</desc>
   </programme>
-  <programme start="20261105044000 +0530" stop="20261105051900 +0530" channel="mastro.starmoviesselect" catchup-id="101208279">
+  <programme start="20261106050800 +0530" stop="20261106074000 +0530" channel="mastro.starmovies" catchup-id="101250300">
+    <title>Indiana Jones and the Dial of Destiny</title>
+    <desc>Indiana Jones races against time to get his hands on a priceless Dial.</desc>
+  </programme>
+  <programme start="20261106074000 +0530" stop="20261106091800 +0530" channel="mastro.starmovies" catchup-id="101250298">
+    <title>The Croods</title>
+    <desc>When the family home of the Croods is destroyed, Guy, an inventive human boy, aids them.</desc>
+  </programme>
+  <programme start="20261106091800 +0530" stop="20261106110400 +0530" channel="mastro.starmovies" catchup-id="101250297">
+    <title>Predator 2</title>
+    <desc>Lieutenant Mike Harrigan faces a surge of violent crime while a hidden hunter stalks.</desc>
+  </programme>
+  <programme start="20261106110400 +0530" stop="20261106133800 +0530" channel="mastro.starmovies" catchup-id="101250293">
+    <title>Gladiator II</title>
+    <desc>Thrown into the Colosseum, Lucius must find the strength and honour to come into his own.</desc>
+  </programme>
+  <programme start="20261106133800 +0530" stop="20261106153100 +0530" channel="mastro.starmovies" catchup-id="101250292">
+    <title>Thor: The Dark World</title>
+    <desc>Thor embarks on a dangerous quest by reuniting with his old flame, Jane Foster.</desc>
+  </programme>
+  <programme start="20261106153100 +0530" stop="20261106173200 +0530" channel="mastro.starmovies" catchup-id="101250294">
+    <title>Home Alone 2: Lost in New York</title>
+    <desc>A young boy accidentally reaches New York City and bumps into two of his old enemies.</desc>
+  </programme>
+  <programme start="20261106173200 +0530" stop="20261106190500 +0530" channel="mastro.starmovies" catchup-id="101250290">
+    <title>Ready or Not</title>
+    <desc>A young bride and her husband's family play an innocuous game which turns deadly.</desc>
+  </programme>
+  <programme start="20261106190500 +0530" stop="20261106204500 +0530" channel="mastro.starmovies" catchup-id="101250289">
+    <title>Deadpool</title>
+    <desc>Mercenary Wade Wilson sets out to exact revenge on Ajax for disfiguring him.</desc>
+  </programme>
+  <programme start="20261106204500 +0530" stop="20261106221900 +0530" channel="mastro.starmovies" catchup-id="101250299">
+    <title>Turning Red</title>
+    <desc>A girl's life becomes extremely exciting after turning into a giant red panda.</desc>
+  </programme>
+  <programme start="20261106221900 +0530" stop="20261107001500 +0530" channel="mastro.starmovies" catchup-id="101250295">
+    <title>The First Omen</title>
+    <desc>The First Omen</desc>
+  </programme>
+  <programme start="20261106012200 +0530" stop="20261106025700 +0530" channel="mastro.sonypix" catchup-id="101209686">
+    <title>You Don't Mess With the Zohan</title>
+    <desc>Zohan stages his death and follows his dream of being a hairstylist in New York City.</desc>
+  </programme>
+  <programme start="20261106025700 +0530" stop="20261106042300 +0530" channel="mastro.sonypix" catchup-id="101209687">
+    <title>Harold and the Purple Crayon</title>
+    <desc>Harold's crayon brings drawings to life, but his ability causes chaos in the real world.</desc>
+  </programme>
+  <programme start="20261106042300 +0530" stop="20261106052300 +0530" channel="mastro.sonypix" catchup-id="101251051">
+    <title>Resident Evil</title>
+    <desc>Two associates of an elite commando team fight zombies controlled by an evil computer.</desc>
+  </programme>
+  <programme start="20261106052300 +0530" stop="20261106063800 +0530" channel="mastro.sonypix" catchup-id="101251054">
+    <title>Lake Placid vs. Anaconda</title>
+    <desc>A sheriff tries to save his town when a massive anaconda takes on a gigantic crocodile.</desc>
+  </programme>
+  <programme start="20261106063800 +0530" stop="20261106081500 +0530" channel="mastro.sonypix" catchup-id="101251050">
+    <title>A-X-L</title>
+    <desc>Miles's life takes an unusual turn when his pet A-X-L's creators come searching for it.</desc>
+  </programme>
+  <programme start="20261106081500 +0530" stop="20261106094000 +0530" channel="mastro.sonypix" catchup-id="101251052">
+    <title>Cloudy With a Chance of Meatballs</title>
+    <desc>A scientist invents a machine to help his fellow residents, only to create chaos.</desc>
+  </programme>
+  <programme start="20261106094000 +0530" stop="20261106115000 +0530" channel="mastro.sonypix" catchup-id="101251055">
+    <title>Godzilla</title>
+    <desc>A monster created due to a nuclear test lays waste to cannery ships to feed its brood.</desc>
+  </programme>
+  <programme start="20261106115000 +0530" stop="20261106141900 +0530" channel="mastro.sonypix" catchup-id="101251053">
+    <title>2012</title>
+    <desc>Jackson Curtis battles against all odds to keep his family safe during an apocalypse.</desc>
+  </programme>
+  <programme start="20261106141900 +0530" stop="20261106155100 +0530" channel="mastro.sonypix" catchup-id="101251058">
+    <title>Zombieland: Double Tap</title>
+    <desc>Columbus, Tallahassee, Wichita and Little Rock go on a mission to fight evolved zombies.</desc>
+  </programme>
+  <programme start="20261106155100 +0530" stop="20261106180600 +0530" channel="mastro.sonypix" catchup-id="101251057">
+    <title>Spider-Man: Across the Spider-Verse</title>
+    <desc>Miles Morales is pitted against a league of spider-people as he fights a new enemy.</desc>
+  </programme>
+  <programme start="20261106180600 +0530" stop="20261106192800 +0530" channel="mastro.sonypix" catchup-id="101251048">
+    <title>Hotel Transylvania: Transformania</title>
+    <desc>An invention transforms Dracula into a human and turns Johnny into a monster.</desc>
+  </programme>
+  <programme start="20261106192800 +0530" stop="20261106210000 +0530" channel="mastro.sonypix" catchup-id="101251056">
+    <title>Don't Breathe 2</title>
+    <desc>A visually challenged navy veteran taps into his darker instincts to save his daughter.</desc>
+  </programme>
+  <programme start="20261106210000 +0530" stop="20261106224500 +0530" channel="mastro.sonypix" catchup-id="101082524">
+    <title>Bloodshot</title>
+    <desc>A resurrected soldier uses his superhuman abilities to seek revenge and examine his past.</desc>
+  </programme>
+  <programme start="20261106224500 +0530" stop="20261107002200 +0530" channel="mastro.sonypix" catchup-id="101251049">
+    <title>Venom: The Last Dance</title>
+    <desc>Tirelessly pursued by both worlds, Eddie and Venom are left with a shattering last resort.</desc>
+  </programme>
+  <programme start="20261106000900 +0530" stop="20261106013700 +0530" channel="mastro.starmoviesselect" catchup-id="101209800">
+    <title>Unbending Mr. Fang</title>
+    <desc>A martial artist exacts revenge on the corrupt officials who frame him for corruption.</desc>
+  </programme>
+  <programme start="20261106013700 +0530" stop="20261106024900 +0530" channel="mastro.starmoviesselect" catchup-id="101209801">
+    <title>Mutant Python</title>
+    <desc>A python is determined to exact revenge after its altar is desecrated by a dead snake.</desc>
+  </programme>
+  <programme start="20261106024900 +0530" stop="20261106040500 +0530" channel="mastro.starmoviesselect" catchup-id="101209799">
+    <title>Mojin The Dragon Labyrinth</title>
+    <desc>When four adventurers go astray in Gulan County, they chase the truth behind a curse.</desc>
+  </programme>
+  <programme start="20261106040500 +0530" stop="20261106052500 +0530" channel="mastro.starmoviesselect" catchup-id="101209802">
+    <title>Bad Connection</title>
+    <desc>A downtrodden young waitress buys a stolen cell phone and discovers a snuff film on it.</desc>
+  </programme>
+  <programme start="20261106052500 +0530" stop="20261106053900 +0530" channel="mastro.starmoviesselect" catchup-id="101251063">
     <title>Filler</title>
     <desc>Bringing the best in television.</desc>
   </programme>
-  <programme start="20261105051900 +0530" stop="20261105070200 +0530" channel="mastro.starmoviesselect" catchup-id="101208282">
-    <title>A Knight's War</title>
-    <desc>A courageous knight embarks on a perilous mission to save a woman's soul.</desc>
+  <programme start="20261106053900 +0530" stop="20261106072600 +0530" channel="mastro.starmoviesselect" catchup-id="101251069">
+    <title>Journey to the West: Conquering the Demons</title>
+    <desc>A Buddhist teams up with a demon hunter to protect a small fishing village from demons.</desc>
   </programme>
-  <programme start="20261105070200 +0530" stop="20261105090000 +0530" channel="mastro.starmoviesselect" catchup-id="101208277">
-    <title>The Wish Of Fairy Fish</title>
-    <desc>Emelya's magical catch leads to an enchanting quest for love and wisdom.</desc>
+  <programme start="20261106072600 +0530" stop="20261106085700 +0530" channel="mastro.starmoviesselect" catchup-id="101251068">
+    <title>2025 Armageddon</title>
+    <desc>A militant alien race launches an attack on Earth using gigantic creatures and geological disasters.</desc>
   </programme>
-  <programme start="20261105090000 +0530" stop="20261105103600 +0530" channel="mastro.starmoviesselect" catchup-id="101049396">
-    <title>Ice Age: Collision Course</title>
-    <desc>When Scrat sets off an asteroid to Earth, Manny, Sid and Diego join forces to prevent it.</desc>
+  <programme start="20261106085700 +0530" stop="20261106103600 +0530" channel="mastro.starmoviesselect" catchup-id="101251066">
+    <title>The Pacifier</title>
+    <desc>A Navy SEAL is assigned to protect a scientist's children from their enemies.</desc>
   </programme>
-  <programme start="20261105103600 +0530" stop="20261105121800 +0530" channel="mastro.starmoviesselect" catchup-id="101208276">
-    <title>The Secret Kingdom</title>
-    <desc>Peter and Verity embark on a quest to unite five treasures to defeat the evil Shroud.</desc>
+  <programme start="20261106103600 +0530" stop="20261106120900 +0530" channel="mastro.starmoviesselect" catchup-id="101251065">
+    <title>G-Force</title>
+    <desc>A guinea pig and his team of trained rodents are sent on a mission to save the world.</desc>
   </programme>
-  <programme start="20261105121800 +0530" stop="20261105134900 +0530" channel="mastro.starmoviesselect" catchup-id="101208280">
-    <title>Gremlins</title>
-    <desc>When Billy forgets to follow three rules concerning his exotic pet, trouble ensues.</desc>
+  <programme start="20261106120900 +0530" stop="20261106141800 +0530" channel="mastro.starmoviesselect" catchup-id="101251062">
+    <title>Ride On</title>
+    <desc>Lao Luo, a bankrupt, washed-up stuntman finds fame after his fight at a bar goes viral.</desc>
   </programme>
-  <programme start="20261105134900 +0530" stop="20261105155100 +0530" channel="mastro.starmoviesselect" catchup-id="101208278">
-    <title>Cosmoball</title>
-    <desc>A massive spaceship named 'Cosmoball' hovers ominously above the planet after a huge war.</desc>
+  <programme start="20261106141800 +0530" stop="20261106160800 +0530" channel="mastro.starmoviesselect" catchup-id="101251064">
+    <title>The Interview</title>
+    <desc>Aaron and Dave, who run a popular late-night show, get a chance to interview Kim Jong-un.</desc>
   </programme>
-  <programme start="20261105155100 +0530" stop="20261105180600 +0530" channel="mastro.starmoviesselect" catchup-id="101208274">
-    <title>Die Hard</title>
-    <desc>A NYC cop tries to save hostages who have been trapped by terrorists.</desc>
+  <programme start="20261106160800 +0530" stop="20261106175400 +0530" channel="mastro.starmoviesselect" catchup-id="101251061">
+    <title>Frozen</title>
+    <desc>When the queen curses her kingdom with an eternal winter, her sister decides to free it.</desc>
   </programme>
-  <programme start="20261105180600 +0530" stop="20261105193100 +0530" channel="mastro.starmoviesselect" catchup-id="101208283">
-    <title>Toy Story</title>
-    <desc>Andy's favourite toy, Woody, hatches a plan to eliminate his new toy, Buzz Lightyear.</desc>
+  <programme start="20261106175400 +0530" stop="20261106192500 +0530" channel="mastro.starmoviesselect" catchup-id="101251070">
+    <title>The Simpsons Movie</title>
+    <desc>When Homer taints Springfield's water, the Simpsons are forced to flee town as outlaws.</desc>
   </programme>
-  <programme start="20261105193100 +0530" stop="20261105210000 +0530" channel="mastro.starmoviesselect" catchup-id="101208275">
-    <title>Ghost Shark</title>
-    <desc>A great white shark returns from the dead to seek vengeance on the town of Smallport.</desc>
+  <programme start="20261106192500 +0530" stop="20261106210000 +0530" channel="mastro.starmoviesselect" catchup-id="101251071">
+    <title>Guardians The Superheroes</title>
+    <desc>A group of superheroes must assemble to defeat an evil scientist and his robot army.</desc>
   </programme>
-  <programme start="20261105210000 +0530" stop="20261105224000 +0530" channel="mastro.starmoviesselect" catchup-id="101049400">
-    <title>Up</title>
-    <desc>A boy scout joins a 78-year-old on a quest to fulfil his late wife's last wish.</desc>
+  <programme start="20261106210000 +0530" stop="20261106231200 +0530" channel="mastro.starmoviesselect" catchup-id="101082786">
+    <title>Star Wars: The Empire Strikes Back</title>
+    <desc>The Rebel Alliance, led by Princess Leia, battles the Galactic Empire.</desc>
   </programme>
-  <programme start="20261105224000 +0530" stop="20261106000900 +0530" channel="mastro.starmoviesselect" catchup-id="101208281">
-    <title>The Adventures of Maid Marian</title>
-    <desc>Marian gets caught up in a mystery when she rushes to meet her lover Robin Hood.</desc>
+  <programme start="20261106231200 +0530" stop="20261107005700 +0530" channel="mastro.starmoviesselect" catchup-id="101251067">
+    <title>Cars 3</title>
+    <desc>A seasoned racer teams up with a technician to prove that he is still the fastest.</desc>
   </programme>
-  <programme start="20261105004200 +0530" stop="20261105015900 +0530" channel="mastro.moviesnow" catchup-id="101127394">
-    <title>Incoming</title>
-    <desc>A shuttle pilot and a doctor must stop a missile attack on Moscow by a terrorist group.</desc>
+  <programme start="20261106011700 +0530" stop="20261106024800 +0530" channel="mastro.moviesnow" catchup-id="101168351">
+    <title>The Trials of Cate McCall</title>
+    <desc>A lawyer and recovering alcoholic uncovers life-threatening secrets while handling a case.</desc>
   </programme>
-  <programme start="20261105015900 +0530" stop="20261105033000 +0530" channel="mastro.moviesnow" catchup-id="101127395">
-    <title>Final Score</title>
-    <desc>Former soldier Michael Knox uses all his skills to rescue his niece from terrorists.</desc>
+  <programme start="20261106024800 +0530" stop="20261106030000 +0530" channel="mastro.moviesnow" catchup-id="101168350">
+    <title>Benny Dayal-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E09.</desc>
   </programme>
-  <programme start="20261105033000 +0530" stop="20261105034200 +0530" channel="mastro.moviesnow" catchup-id="101166953">
-    <title>Shruti Hassan-The Love Laugh Live Show</title>
-    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E04.</desc>
+  <programme start="20261106030000 +0530" stop="20261106030900 +0530" channel="mastro.moviesnow" catchup-id="101209588">
+    <title>Mrunal Thakur-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E02.</desc>
   </programme>
-  <programme start="20261105034200 +0530" stop="20261105035300 +0530" channel="mastro.moviesnow" catchup-id="101166949">
+  <programme start="20261106030900 +0530" stop="20261106032100 +0530" channel="mastro.moviesnow" catchup-id="101209585">
     <title>Riteish &amp; Genelia Deshmukh-The Love Laugh Live Show</title>
     <desc>Riteish and Genelia Deshmukh share insights into their love life, marriage and parenting. S03 E03.</desc>
   </programme>
-  <programme start="20261105035300 +0530" stop="20261105040400 +0530" channel="mastro.moviesnow" catchup-id="101166951">
-    <title>Bhuvan Bam-The Love Laugh Live Show</title>
-    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E01.</desc>
-  </programme>
-  <programme start="20261105040400 +0530" stop="20261105052100 +0530" channel="mastro.moviesnow" catchup-id="101166957">
-    <title>Gun</title>
-    <desc>Gemini said Angel and Rich trade firearms after Angel's release from jail.</desc>
-  </programme>
-  <programme start="20261105052100 +0530" stop="20261105065600 +0530" channel="mastro.moviesnow" catchup-id="101166954">
-    <title>Freelancers</title>
-    <desc>A man joins the police force and works under his deceased father’s former partner.</desc>
-  </programme>
-  <programme start="20261105065600 +0530" stop="20261105090000 +0530" channel="mastro.moviesnow" catchup-id="101166952">
-    <title>Now You See Me 2</title>
-    <desc>Dylan secretly guides the Horsemen as they face a tech mogul's twisted plan.</desc>
-  </programme>
-  <programme start="20261105090000 +0530" stop="20261105113000 +0530" channel="mastro.moviesnow" catchup-id="101166950">
-    <title>Dune</title>
-    <desc>Visions haunt Paul Atreides as his family fights to gain control over Arrakis.</desc>
-  </programme>
-  <programme start="20261105113000 +0530" stop="20261105131300 +0530" channel="mastro.moviesnow" catchup-id="101166960">
-    <title>The Mummy</title>
-    <desc>Nick and Corporal Chris stumble upon the tomb of Princess Ahmanet during an air strike.</desc>
-  </programme>
-  <programme start="20261105131300 +0530" stop="20261105150700 +0530" channel="mastro.moviesnow" catchup-id="101166961">
-    <title>Hellboy II: The Golden Army</title>
-    <desc>Hellboy and his squad fight a mythical prince to save Earth from a lethal army.</desc>
-  </programme>
-  <programme start="20261105150700 +0530" stop="20261105165400 +0530" channel="mastro.moviesnow" catchup-id="101166958">
-    <title>Godzilla vs. Kong</title>
-    <desc>When Godzilla travels on a path of destruction and mayhem, humans turn to King Kong.</desc>
-  </programme>
-  <programme start="20261105165400 +0530" stop="20261105190700 +0530" channel="mastro.moviesnow" catchup-id="101166955">
-    <title>Hulk</title>
-    <desc>Lab accident turns Bruce Banner into Hulk, making him a target for exploitation.</desc>
-  </programme>
-  <programme start="20261105190700 +0530" stop="20261105204500 +0530" channel="mastro.moviesnow" catchup-id="101166959">
-    <title>Rambo III</title>
-    <desc>Rambo tries to rescue Colonel Samuel, who is held hostage in Afghanistan.</desc>
-  </programme>
-  <programme start="20261105204500 +0530" stop="20261105221300 +0530" channel="mastro.moviesnow" catchup-id="101042430">
-    <title>Minions</title>
-    <desc>Three minions' quest for a new master ends when they meet Scarlett Overkill.</desc>
-  </programme>
-  <programme start="20261105221300 +0530" stop="20261105234000 +0530" channel="mastro.moviesnow" catchup-id="101166956">
-    <title>The Scorpion King</title>
-    <desc>A desert warrior rises up against the evil army destroying his homeland.</desc>
-  </programme>
-  <programme start="20261105234000 +0530" stop="20261106011700 +0530" channel="mastro.moviesnow" catchup-id="101042429">
-    <title>Maximum Conviction</title>
-    <desc>Two former black ops operatives are required to transfer two female convicts to a prison.</desc>
-  </programme>
-  <programme start="20261105005000 +0530" stop="20261105023400 +0530" channel="mastro.mnplus" catchup-id="101166881">
-    <title>Woman in Gold</title>
-    <desc>Maria Altman struggles to reclaim her aunt's painting, which was seized by the Nazis.</desc>
-  </programme>
-  <programme start="20261105023400 +0530" stop="20261105041000 +0530" channel="mastro.mnplus" catchup-id="101166885">
-    <title>Charlie Countryman</title>
-    <desc>Charlie's mum's spirit sends him to Bucharest, where he fulfils a promise to a passenger.</desc>
-  </programme>
-  <programme start="20261105041000 +0530" stop="20261105045900 +0530" channel="mastro.mnplus" catchup-id="101090326">
+  <programme start="20261106032100 +0530" stop="20261106040500 +0530" channel="mastro.moviesnow" catchup-id="101209596">
     <title>Live-Mandira Bedi-The Love Laugh Live Show</title>
     <desc>The host invites prominent personalities and engages them in candid conversations.</desc>
   </programme>
-  <programme start="20261105045900 +0530" stop="20261105051000 +0530" channel="mastro.mnplus" catchup-id="101166875">
-    <title>Bhuvan Bam-The Love Laugh Live Show</title>
-    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E01.</desc>
+  <programme start="20261106040500 +0530" stop="20261106053200 +0530" channel="mastro.moviesnow" catchup-id="101209592">
+    <title>Lady Bloodfight</title>
+    <desc>A girl gets noticed by a martial artist, and he trains her for a competition.</desc>
   </programme>
-  <programme start="20261105051000 +0530" stop="20261105065400 +0530" channel="mastro.mnplus" catchup-id="101166880">
-    <title>Boychoir</title>
-    <desc>A demanding choir master pushes a gifted but troubled orphan to fulfil his true potential.</desc>
-  </programme>
-  <programme start="20261105065400 +0530" stop="20261105091200 +0530" channel="mastro.mnplus" catchup-id="101166874">
-    <title>The Great Gatsby</title>
-    <desc>Nick gets interested in the exuberant life of Jay Gatsby, a mysterious millionaire.</desc>
-  </programme>
-  <programme start="20261105091200 +0530" stop="20261105111900 +0530" channel="mastro.mnplus" catchup-id="101166882">
-    <title>Pride and Prejudice</title>
-    <desc>While wealthy suitors excite her mother, independent Elizabeth Bennet counters Mr Darcy.</desc>
-  </programme>
-  <programme start="20261105111900 +0530" stop="20261105135600 +0530" channel="mastro.mnplus" catchup-id="101166878">
-    <title>Elvis</title>
-    <desc>As fame grips Elvis Presley, racism within the USA is brought into the spotlight.</desc>
-  </programme>
-  <programme start="20261105135600 +0530" stop="20261105152800 +0530" channel="mastro.mnplus" catchup-id="101166884">
-    <title>Jennifer Lopez: Dance Again</title>
-    <desc>Documentary follows Jennifer Lopez's personal and professional journey.</desc>
-  </programme>
-  <programme start="20261105152800 +0530" stop="20261105172100 +0530" channel="mastro.mnplus" catchup-id="101166879">
-    <title>The Danish Girl</title>
-    <desc>The Danish Girl</desc>
-  </programme>
-  <programme start="20261105172100 +0530" stop="20261105191000 +0530" channel="mastro.mnplus" catchup-id="101166876">
-    <title>Big Eyes</title>
-    <desc>The husband of a phenomenal painter begins to wrongfully claim credit for her works.</desc>
-  </programme>
-  <programme start="20261105191000 +0530" stop="20261105210000 +0530" channel="mastro.mnplus" catchup-id="101166883">
-    <title>Monster's Ball</title>
-    <desc>Prison guard Hank falls in love with Leticia, the widow of a murderer he executed.</desc>
-  </programme>
-  <programme start="20261105210000 +0530" stop="20261105230200 +0530" channel="mastro.mnplus" catchup-id="101042259">
-    <title>Southpaw</title>
-    <desc>A once-celebrated boxer decides to fight for his daughter and revive his fading career.</desc>
-  </programme>
-  <programme start="20261105230200 +0530" stop="20261106010600 +0530" channel="mastro.mnplus" catchup-id="101166877">
-    <title>Julie &amp; Julia</title>
-    <desc>Though separated by time, Julia and Julie's passion for food intertwines their lives.</desc>
-  </programme>
-  <programme start="20261105005400 +0530" stop="20261105022900 +0530" channel="mastro.mnx" catchup-id="101166929">
-    <title>The Transporter Refueled</title>
-    <desc>A former mercenary joins forces with three women to bring down a Russian crime lord.</desc>
-  </programme>
-  <programme start="20261105022900 +0530" stop="20261105040000 +0530" channel="mastro.mnx" catchup-id="101166932">
-    <title>Absolute Deception</title>
-    <desc>A reporter teams up with an FBI agent to uncover the mystery of her husband's death.</desc>
-  </programme>
-  <programme start="20261105040000 +0530" stop="20261105040400 +0530" channel="mastro.mnx" catchup-id="101166928">
-    <title>Bhuvan Bam-The Love Laugh Live Show</title>
-    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E01.</desc>
-  </programme>
-  <programme start="20261105040400 +0530" stop="20261105044900 +0530" channel="mastro.mnx" catchup-id="101166930">
-    <title>Live-Mandira Bedi-The Love Laugh Live Show</title>
-    <desc>The host invites prominent personalities and engages them in candid conversations.</desc>
-  </programme>
-  <programme start="20261105044900 +0530" stop="20261105061500 +0530" channel="mastro.mnx" catchup-id="101166926">
-    <title>Mune</title>
-    <desc>Mune, Glim and Sohone, three friends, work together to retrieve the sun from Necross.</desc>
-  </programme>
-  <programme start="20261105061500 +0530" stop="20261105075800 +0530" channel="mastro.mnx" catchup-id="101206733">
-    <title>Kung Fu Yoga</title>
-    <desc>An archeology expert joins an Indian professor to look for a lost treasure of India.</desc>
-  </programme>
-  <programme start="20261105075800 +0530" stop="20261105095300 +0530" channel="mastro.mnx" catchup-id="101166931">
-    <title>American Made</title>
-    <desc>Barry Seal, CIA pilot who smuggles drugs, gets exposed in Iran-Contra scandal.</desc>
-  </programme>
-  <programme start="20261105095300 +0530" stop="20261105120500 +0530" channel="mastro.mnx" catchup-id="101166933">
-    <title>The Hunger Games: Mockingjay, Part 2</title>
-    <desc>Katniss Everdeen sets out to assassinate President Snow and liberate the people of Panem.</desc>
-  </programme>
-  <programme start="20261105120500 +0530" stop="20261105134100 +0530" channel="mastro.mnx" catchup-id="101127376">
-    <title>The Transporter Refueled</title>
-    <desc>A former mercenary joins forces with three women to bring down a Russian crime lord.</desc>
-  </programme>
-  <programme start="20261105134100 +0530" stop="20261105154600 +0530" channel="mastro.mnx" catchup-id="101206734">
-    <title>Spider-Man 2</title>
-    <desc>After losing his job, lover and his powers, Peter Parker feels dissatisfied with his life.</desc>
-  </programme>
-  <programme start="20261105154600 +0530" stop="20261105173000 +0530" channel="mastro.mnx" catchup-id="101166935">
-    <title>Death Race</title>
-    <desc>Millions watch as criminals with life sentences race armoured cars to earn their freedom.</desc>
-  </programme>
-  <programme start="20261105173000 +0530" stop="20261105191100 +0530" channel="mastro.mnx" catchup-id="101127373">
+  <programme start="20261106053200 +0530" stop="20261106071300 +0530" channel="mastro.moviesnow" catchup-id="101209594">
     <title>No Escape</title>
     <desc>Jack Dwyer's family struggle to survive a violent uprising in Southeast Asia.</desc>
   </programme>
-  <programme start="20261105191100 +0530" stop="20261105210000 +0530" channel="mastro.mnx" catchup-id="101206735">
-    <title>The Nun II</title>
-    <desc>In 1956 France, Sister Irene faces Valak as evil threatens the convent and town.</desc>
+  <programme start="20261106071300 +0530" stop="20261106083900 +0530" channel="mastro.moviesnow" catchup-id="101209597">
+    <title>I Am Wrath</title>
+    <desc>Stanley, an unemployed man, teams up with an old friend to avenge his wife's death.</desc>
   </programme>
-  <programme start="20261105210000 +0530" stop="20261105230100 +0530" channel="mastro.mnx" catchup-id="101042196">
-    <title>Gods of Egypt</title>
-    <desc>A flawed mortal and the sky God unite to challenge the merciless God of darkness.</desc>
+  <programme start="20261106083900 +0530" stop="20261106100600 +0530" channel="mastro.moviesnow" catchup-id="101209584">
+    <title>Johnny English Strikes Again</title>
+    <desc>British agent Johnny English springs back into action to find a mastermind hacker.</desc>
   </programme>
-  <programme start="20261105230100 +0530" stop="20261106004000 +0530" channel="mastro.mnx" catchup-id="101166927">
+  <programme start="20261106100600 +0530" stop="20261106113400 +0530" channel="mastro.moviesnow" catchup-id="101250100">
+    <title>A Quiet Place Part II</title>
+    <desc>In a post-apocalyptic world, Regan and her family set out to look for other survivors.</desc>
+  </programme>
+  <programme start="20261106113400 +0530" stop="20261106131400 +0530" channel="mastro.moviesnow" catchup-id="101209587">
+    <title>Rambo III</title>
+    <desc>Rambo tries to rescue Colonel Samuel, who is held hostage in Afghanistan.</desc>
+  </programme>
+  <programme start="20261106131400 +0530" stop="20261106152900 +0530" channel="mastro.moviesnow" catchup-id="101209589">
+    <title>The Karate Kid</title>
+    <desc>A young American boy in China tries to learn kung fu in order to stand up to a bully.</desc>
+  </programme>
+  <programme start="20261106152900 +0530" stop="20261106173400 +0530" channel="mastro.moviesnow" catchup-id="101250102">
+    <title>Shazam! Fury of the Gods</title>
+    <desc>Charged with powers, Shazam and his foster siblings battle the evil daughters of Atlas.</desc>
+  </programme>
+  <programme start="20261106173400 +0530" stop="20261106190200 +0530" channel="mastro.moviesnow" catchup-id="101250101">
+    <title>Despicable Me 3</title>
+    <desc>Gru and his twin brother find themselves at odds with a child artist-turned-villain.</desc>
+  </programme>
+  <programme start="20261106190200 +0530" stop="20261106204500 +0530" channel="mastro.moviesnow" catchup-id="101209591">
+    <title>The Mummy</title>
+    <desc>Nick and Corporal Chris stumble upon the tomb of Princess Ahmanet during an air strike.</desc>
+  </programme>
+  <programme start="20261106204500 +0530" stop="20261106221000 +0530" channel="mastro.moviesnow" catchup-id="101128829">
+    <title>Lucy</title>
+    <desc>A woman becomes a weapon and seeks revenge on the criminal empire that enslaved her.</desc>
+  </programme>
+  <programme start="20261106221000 +0530" stop="20261106235800 +0530" channel="mastro.moviesnow" catchup-id="101128821">
+    <title>Baby Driver</title>
+    <desc>Just as Baby vows to quit his shady life, he is called in for a job with an unstable crew.</desc>
+  </programme>
+  <programme start="20261106235800 +0530" stop="20261107012700 +0530" channel="mastro.moviesnow" catchup-id="101209595">
+    <title>Hunt to Kill</title>
+    <desc>A gang of thugs holds captive a US Border Patrol agent and his daughter in the wilderness.</desc>
+  </programme>
+  <programme start="20261106010600 +0530" stop="20261106025700 +0530" channel="mastro.mnplus" catchup-id="101168321">
+    <title>Nightcrawler</title>
+    <desc>Louis Bloom starts resorting to extreme tactics to record footage of crime scenes.</desc>
+  </programme>
+  <programme start="20261106025700 +0530" stop="20261106042500 +0530" channel="mastro.mnplus" catchup-id="101209501">
+    <title>Fallen</title>
+    <desc>Even after the execution of a demonic serial killer, murders matching his style continue.</desc>
+  </programme>
+  <programme start="20261106042500 +0530" stop="20261106043500 +0530" channel="mastro.mnplus" catchup-id="101078991">
+    <title>Benny Dayal-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E09.</desc>
+  </programme>
+  <programme start="20261106043500 +0530" stop="20261106044300 +0530" channel="mastro.mnplus" catchup-id="101168323">
+    <title>Kirti Kulhari &amp; Maanvi Gagroo-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E10.</desc>
+  </programme>
+  <programme start="20261106044300 +0530" stop="20261106063000 +0530" channel="mastro.mnplus" catchup-id="101168320">
+    <title>Woman in Gold</title>
+    <desc>Maria Altman struggles to reclaim her aunt's painting, which was seized by the Nazis.</desc>
+  </programme>
+  <programme start="20261106063000 +0530" stop="20261106075900 +0530" channel="mastro.mnplus" catchup-id="101168322">
+    <title>Jennifer Lopez: Dance Again</title>
+    <desc>Documentary follows Jennifer Lopez's personal and professional journey.</desc>
+  </programme>
+  <programme start="20261106075900 +0530" stop="20261106102500 +0530" channel="mastro.mnplus" catchup-id="101168314">
+    <title>King Richard</title>
+    <desc>Richard Williams goes to great lengths to help his daughters become tennis champions.</desc>
+  </programme>
+  <programme start="20261106102500 +0530" stop="20261106121000 +0530" channel="mastro.mnplus" catchup-id="101168315">
+    <title>Side Effects</title>
+    <desc>Emily suffers from unexpected side effects because of a wrongly prescribed medicine.</desc>
+  </programme>
+  <programme start="20261106121000 +0530" stop="20261106135300 +0530" channel="mastro.mnplus" catchup-id="101168324">
+    <title>Boychoir</title>
+    <desc>A demanding choir master pushes a gifted but troubled orphan to fulfil his true potential.</desc>
+  </programme>
+  <programme start="20261106135300 +0530" stop="20261106153900 +0530" channel="mastro.mnplus" catchup-id="101168318">
+    <title>The Family Fang</title>
+    <desc>Two siblings embark on a search to find their parents, who have mysteriously disappeared.</desc>
+  </programme>
+  <programme start="20261106153900 +0530" stop="20261106171400 +0530" channel="mastro.mnplus" catchup-id="101168313">
+    <title>Stand Up Guys</title>
+    <desc>A gangster's release from prison leads to a reunion with his two partners in crime.</desc>
+  </programme>
+  <programme start="20261106171400 +0530" stop="20261106185500 +0530" channel="mastro.mnplus" catchup-id="101168317">
+    <title>Speed Kills</title>
+    <desc>A wealthy speedboat racer's secret life lands him in trouble with law enforcement and drug lords.</desc>
+  </programme>
+  <programme start="20261106185500 +0530" stop="20261106210000 +0530" channel="mastro.mnplus" catchup-id="101078990">
+    <title>Philadelphia</title>
+    <desc>A man with AIDS hires a homophobic lawyer for a wrongful dismissal suit.</desc>
+  </programme>
+  <programme start="20261106210000 +0530" stop="20261106230800 +0530" channel="mastro.mnplus" catchup-id="101078988">
+    <title>The Prestige</title>
+    <desc>Two friends and fellow magicians become bitter enemies after a sudden tragedy.</desc>
+  </programme>
+  <programme start="20261106230800 +0530" stop="20261107005600 +0530" channel="mastro.mnplus" catchup-id="101245531">
+    <title>A Beautiful Day in the Neighborhood</title>
+    <desc>A contemptuous reporter associates with a polite presenter while penning a report on him.</desc>
+  </programme>
+  <programme start="20261106004000 +0530" stop="20261106020500 +0530" channel="mastro.mnx" catchup-id="101128862">
+    <title>Vehicle 19</title>
+    <desc>Trouble follows Michael, a parolee, when he picks the wrong rental car to meet his wife.</desc>
+  </programme>
+  <programme start="20261106020500 +0530" stop="20261106033500 +0530" channel="mastro.mnx" catchup-id="101209572">
+    <title>Reasonable Doubt</title>
+    <desc>A prosecutor's actions after a fatal accident result in a guilty man being set free.</desc>
+  </programme>
+  <programme start="20261106033500 +0530" stop="20261106034700 +0530" channel="mastro.mnx" catchup-id="101209574">
+    <title>Kirti Kulhari &amp; Maanvi Gagroo-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E10.</desc>
+  </programme>
+  <programme start="20261106034700 +0530" stop="20261106035700 +0530" channel="mastro.mnx" catchup-id="101209577">
+    <title>Benny Dayal-The Love Laugh Live Show</title>
+    <desc>The host invites prominent personalities and engages them in candid conversations. S03 E09.</desc>
+  </programme>
+  <programme start="20261106035700 +0530" stop="20261106053200 +0530" channel="mastro.mnx" catchup-id="101209579">
+    <title>Born to Fight</title>
+    <desc>Dan Barnes, a former professional boxer, takes up the responsibility to coach a teenager.</desc>
+  </programme>
+  <programme start="20261106053200 +0530" stop="20261106071000 +0530" channel="mastro.mnx" catchup-id="101209583">
+    <title>Alex Cross</title>
+    <desc>Alex uncovers a web of conspiracy in his desperate search for a serial killer.</desc>
+  </programme>
+  <programme start="20261106071000 +0530" stop="20261106090700 +0530" channel="mastro.mnx" catchup-id="101209576">
+    <title>Nightcrawler</title>
+    <desc>Louis Bloom starts resorting to extreme tactics to record footage of crime scenes.</desc>
+  </programme>
+  <programme start="20261106090700 +0530" stop="20261106103400 +0530" channel="mastro.mnx" catchup-id="101209575">
+    <title>Vehicle 19</title>
+    <desc>Trouble follows Michael, a parolee, when he picks the wrong rental car to meet his wife.</desc>
+  </programme>
+  <programme start="20261106103400 +0530" stop="20261106122200 +0530" channel="mastro.mnx" catchup-id="101209571">
+    <title>G.I. Joe: Retaliation</title>
+    <desc>The GI Joes set out to save the world while being targeted by their own government.</desc>
+  </programme>
+  <programme start="20261106122200 +0530" stop="20261106135300 +0530" channel="mastro.mnx" catchup-id="101209573">
+    <title>Shrek 2</title>
+    <desc>Trouble invades the paradise when Fiona's father attempts to separate Shrek and Fiona.</desc>
+  </programme>
+  <programme start="20261106135300 +0530" stop="20261106153200 +0530" channel="mastro.mnx" catchup-id="101209570">
     <title>Doom</title>
     <desc>Space Marines travel to Mars to inspect a remote research base.</desc>
   </programme>
-  <programme start="20261105013000 +0530" stop="20261105020000 +0530" channel="mastro.unite8sports2" catchup-id="101091070">
-    <title>Quarter-Final 2: Spain vs. Belgium-FIFA World Cup 2026 Highlights</title>
-    <desc>Quarter-Final 2: Spain vs. Belgium;</desc>
+  <programme start="20261106153200 +0530" stop="20261106172900 +0530" channel="mastro.mnx" catchup-id="101209581">
+    <title>Kong: Skull Island</title>
+    <desc>After being attacked by an ape on Skull Island, the survivors regroup to explore the area.</desc>
   </programme>
-  <programme start="20261105020000 +0530" stop="20261105030000 +0530" channel="mastro.unite8sports2" catchup-id="101091068">
-    <title>Bundesliga Highlights</title>
-    <desc>Highlights of the Bundesliga, wherein professional football teams compete for the title.</desc>
+  <programme start="20261106172900 +0530" stop="20261106190600 +0530" channel="mastro.mnx" catchup-id="101209580">
+    <title>Superfast!</title>
+    <desc>Undercover agent Lucas White endeavours to join Vin Serento's gang of street racers.</desc>
   </programme>
-  <programme start="20261105030000 +0530" stop="20261105033000 +0530" channel="mastro.unite8sports2" catchup-id="101091069">
-    <title>Quarter-Final 3: Norway vs. England-FIFA World Cup 2026 Highlights</title>
-    <desc>Quarter-Final 3: Norway vs. England;</desc>
+  <programme start="20261106190600 +0530" stop="20261106210000 +0530" channel="mastro.mnx" catchup-id="101209578">
+    <title>American Made</title>
+    <desc>Barry Seal, CIA pilot who smuggles drugs, gets exposed in Iran-Contra scandal.</desc>
   </programme>
-  <programme start="20261105033000 +0530" stop="20261105053000 +0530" channel="mastro.unite8sports2" catchup-id="101091074">
-    <title>Bundesliga Soccer</title>
-    <desc>Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
+  <programme start="20261106210000 +0530" stop="20261106223600 +0530" channel="mastro.mnx" catchup-id="101128856">
+    <title>The Angry Birds Movie</title>
+    <desc>A trio of birds decides to inspect the mysterious presence of green pigs on their island.</desc>
   </programme>
-  <programme start="20261105053000 +0530" stop="20261105060000 +0530" channel="mastro.unite8sports2" catchup-id="101091071">
-    <title>Vancouver Anchors vs Toronto Sixers-Canada Super 60 Cricket League</title>
-    <desc>Vancouver Anchors vs Toronto Sixers;Highlights of the matches played between cricket teams at the 2025 Canada Super 60.</desc>
+  <programme start="20261106223600 +0530" stop="20261107001600 +0530" channel="mastro.mnx" catchup-id="101209582">
+    <title>Teenage Mutant Ninja Turtles</title>
+    <desc>Mutant ninja turtles defend New York City against threatening crime lord.</desc>
   </programme>
-  <programme start="20261105060000 +0530" stop="20261105063000 +0530" channel="mastro.unite8sports2" catchup-id="101052874">
-    <title>Round of 16: Mexico vs. England-FIFA World Cup 2026 Highlights</title>
-    <desc>Round of 16: Mexico vs. England;</desc>
-  </programme>
-  <programme start="20261105063000 +0530" stop="20261105070000 +0530" channel="mastro.unite8sports2" catchup-id="101052857">
-    <title>SC Freiburg vs FC Bayern Munich-Bundesliga Highlights</title>
-    <desc>SC Freiburg vs FC Bayern Munich;Highlights of the Bundesliga, wherein professional football teams compete for the title.</desc>
-  </programme>
-  <programme start="20261105070000 +0530" stop="20261105073000 +0530" channel="mastro.unite8sports2" catchup-id="101052872">
-    <title>Bayern Munich vs Borussia Dortmund-Bundesliga Highlights</title>
-    <desc>Bayern Munich vs Borussia Dortmund;Highlights of the Bundesliga, wherein professional football teams compete for the title.</desc>
-  </programme>
-  <programme start="20261105073000 +0530" stop="20261105080000 +0530" channel="mastro.unite8sports2" catchup-id="101052843">
+  <programme start="20261106000000 +0530" stop="20261106003000 +0530" channel="mastro.unite8sports2" catchup-id="101130355">
     <title>Semi Final 1-2026 FIFA U-17 Women's World Cup Highlights</title>
     <desc>Semi Final 1;</desc>
   </programme>
-  <programme start="20261105080000 +0530" stop="20261105083000 +0530" channel="mastro.unite8sports2" catchup-id="101052844">
-    <title>Bundesliga Special Show</title>
-    <desc>Bundesliga Special Show</desc>
+  <programme start="20261106003000 +0530" stop="20261106023000 +0530" channel="mastro.unite8sports2" catchup-id="101130356">
+    <title>Brazil U17 vs. Nigeria U17-2026 FIFA U-17 Women's World Cup</title>
+    <desc>Brazil U17 vs. Nigeria U17;</desc>
   </programme>
-  <programme start="20261105083000 +0530" stop="20261105090000 +0530" channel="mastro.unite8sports2" catchup-id="101052861">
-    <title>Semi Final 2-2026 FIFA U-17 Women's World Cup Highlights</title>
-    <desc>Semi Final 2;</desc>
+  <programme start="20261106023000 +0530" stop="20261106030000 +0530" channel="mastro.unite8sports2" catchup-id="101130351">
+    <title>Semi-Final: France vs Spain-FIFA World Cup 2026 Highlights</title>
+    <desc>Semi-Final: France vs Spain;</desc>
   </programme>
-  <programme start="20261105090000 +0530" stop="20261105093000 +0530" channel="mastro.unite8sports2" catchup-id="101052864">
-    <title>Best of October-Bundesliga Soccer</title>
-    <desc>Best of October;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
-  </programme>
-  <programme start="20261105093000 +0530" stop="20261105100000 +0530" channel="mastro.unite8sports2" catchup-id="101052854">
+  <programme start="20261106030000 +0530" stop="20261106033000 +0530" channel="mastro.unite8sports2" catchup-id="101130354">
     <title>Quarter-Final 4: Argentina vs. Switzerland-FIFA World Cup 2026</title>
     <desc>Quarter-Final 4: Argentina vs. Switzerland;</desc>
   </programme>
-  <programme start="20261105100000 +0530" stop="20261105103000 +0530" channel="mastro.unite8sports2" catchup-id="101052848">
-    <title>Malappuram FC vs Thrissur Magic FC-Super League Kerala Highlights</title>
-    <desc>Malappuram FC vs Thrissur Magic FC;</desc>
+  <programme start="20261106033000 +0530" stop="20261106053000 +0530" channel="mastro.unite8sports2" catchup-id="101130350">
+    <title>Bundesliga Soccer</title>
+    <desc>Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
   </programme>
-  <programme start="20261105103000 +0530" stop="20261105113000 +0530" channel="mastro.unite8sports2" catchup-id="101052851">
-    <title>Bundesliga Highlights</title>
-    <desc>Highlights of the Bundesliga, wherein professional football teams compete for the title.</desc>
+  <programme start="20261106053000 +0530" stop="20261106060000 +0530" channel="mastro.unite8sports2" catchup-id="101130352">
+    <title>Montreal Tigers vs White Rock Warriorss-Canada Super 60 Cricket</title>
+    <desc>Montreal Tigers vs White Rock Warriorss;Highlights of the matches played between cricket teams at the 2025 Canada Super 60.</desc>
   </programme>
-  <programme start="20261105113000 +0530" stop="20261105120000 +0530" channel="mastro.unite8sports2" catchup-id="101052865">
-    <title>Semi Final 1-2026 FIFA U-17 Women's World Cup Highlights</title>
-    <desc>Semi Final 1;</desc>
+  <programme start="20261106060000 +0530" stop="20261106063000 +0530" channel="mastro.unite8sports2" catchup-id="101084196">
+    <title>Quarter-Final 3: Norway vs. England-FIFA World Cup 2026 Highlights</title>
+    <desc>Quarter-Final 3: Norway vs. England;</desc>
   </programme>
-  <programme start="20261105120000 +0530" stop="20261105123000 +0530" channel="mastro.unite8sports2" catchup-id="101091073">
-    <title>Kannur Warriors FC vs Calicut FC-Super League Kerala Highlights</title>
-    <desc>Kannur Warriors FC vs Calicut FC;</desc>
+  <programme start="20261106063000 +0530" stop="20261106070000 +0530" channel="mastro.unite8sports2" catchup-id="101084190">
+    <title>Final - Spain vs. Korea DPR-FIFA U-20 Women's World Cup 2026</title>
+    <desc>Final - Spain vs. Korea DPR;</desc>
   </programme>
-  <programme start="20261105123000 +0530" stop="20261105130000 +0530" channel="mastro.unite8sports2" catchup-id="101052858">
-    <title>Semi Final 2-2026 FIFA U-17 Women's World Cup Highlights</title>
-    <desc>Semi Final 2;</desc>
-  </programme>
-  <programme start="20261105130000 +0530" stop="20261105150000 +0530" channel="mastro.unite8sports2" catchup-id="101052868">
-    <title>Japan U17 vs. Korea DPR U17-2026 FIFA U-17 Women's World Cup</title>
-    <desc>Japan U17 vs. Korea DPR U17;From Complexe sportif Prince Moulay-Abdallah in Rabat, Morocco.</desc>
-  </programme>
-  <programme start="20261105150000 +0530" stop="20261105153000 +0530" channel="mastro.unite8sports2" catchup-id="101052862">
-    <title>Weekly Show-Bundesliga Soccer</title>
-    <desc>Weekly Show;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
-  </programme>
-  <programme start="20261105153000 +0530" stop="20261105160000 +0530" channel="mastro.unite8sports2" catchup-id="101052877">
-    <title>Forca Kochi FC vs. Thiruvananthapuram Kombans FC-Super League Kerala</title>
-    <desc>Forca Kochi FC vs. Thiruvananthapuram Kombans FC;</desc>
-  </programme>
-  <programme start="20261105160000 +0530" stop="20261105163000 +0530" channel="mastro.unite8sports2" catchup-id="101052850">
-    <title>Bundesliga Special Show</title>
-    <desc>Bundesliga Special Show</desc>
-  </programme>
-  <programme start="20261105163000 +0530" stop="20261105170000 +0530" channel="mastro.unite8sports2" catchup-id="101052860">
-    <title>Final: Spain vs Argentina-FIFA World Cup 2026 Highlights</title>
-    <desc>Final: Spain vs Argentina;</desc>
-  </programme>
-  <programme start="20261105170000 +0530" stop="20261105173000 +0530" channel="mastro.unite8sports2" catchup-id="101052863">
-    <title>Weekly Show-Bundesliga Soccer</title>
-    <desc>Weekly Show;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
-  </programme>
-  <programme start="20261105173000 +0530" stop="20261105180000 +0530" channel="mastro.unite8sports2" catchup-id="101052853">
-    <title>Kannur Warriors FC vs Calicut FC-Super League Kerala Highlights</title>
-    <desc>Kannur Warriors FC vs Calicut FC;</desc>
-  </programme>
-  <programme start="20261105180000 +0530" stop="20261105190000 +0530" channel="mastro.unite8sports2" catchup-id="101052879">
-    <title>Bundesliga Highlights</title>
-    <desc>Highlights of the Bundesliga, wherein professional football teams compete for the title.</desc>
-  </programme>
-  <programme start="20261105190000 +0530" stop="20261105193000 +0530" channel="mastro.unite8sports2" catchup-id="101052867">
-    <title>Forca Kochi FC vs. Thiruvananthapuram Kombans FC-Super League Kerala</title>
-    <desc>Forca Kochi FC vs. Thiruvananthapuram Kombans FC;</desc>
-  </programme>
-  <programme start="20261105193000 +0530" stop="20261105200000 +0530" channel="mastro.unite8sports2" catchup-id="101052847">
-    <title>Milan vs. Inter-Serie A Highlights</title>
-    <desc>Milan vs. Inter;Highlights of the intense match between Italian Serie A heavyweights Milan and Inter.</desc>
-  </programme>
-  <programme start="20261105200000 +0530" stop="20261105203000 +0530" channel="mastro.unite8sports2" catchup-id="101052871">
-    <title>Weekly Show-Bundesliga Soccer</title>
-    <desc>Weekly Show;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
-  </programme>
-  <programme start="20261105203000 +0530" stop="20261105210000 +0530" channel="mastro.unite8sports2" catchup-id="101052866">
-    <title>Semi Final 1-2026 FIFA U-17 Women's World Cup Highlights</title>
-    <desc>Semi Final 1;</desc>
-  </programme>
-  <programme start="20261105210000 +0530" stop="20261105213000 +0530" channel="mastro.unite8sports2" catchup-id="101091072">
+  <programme start="20261106070000 +0530" stop="20261106073000 +0530" channel="mastro.unite8sports2" catchup-id="101084188">
     <title>Best of October-Bundesliga Soccer</title>
     <desc>Best of October;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
   </programme>
-  <programme start="20261105213000 +0530" stop="20261105220000 +0530" channel="mastro.unite8sports2" catchup-id="101091075">
+  <programme start="20261106073000 +0530" stop="20261106080000 +0530" channel="mastro.unite8sports2" catchup-id="101084177">
     <title>Semi Final 2-2026 FIFA U-17 Women's World Cup Highlights</title>
     <desc>Semi Final 2;</desc>
   </programme>
-  <programme start="20261105220000 +0530" stop="20261105223000 +0530" channel="mastro.unite8sports2" catchup-id="101091076">
+  <programme start="20261106080000 +0530" stop="20261106083000 +0530" channel="mastro.unite8sports2" catchup-id="101084178">
+    <title>Weekly Show-Bundesliga Soccer</title>
+    <desc>Weekly Show;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
+  </programme>
+  <programme start="20261106083000 +0530" stop="20261106090000 +0530" channel="mastro.unite8sports2" catchup-id="101084203">
+    <title>Semi Final 1-2026 FIFA U-17 Women's World Cup Highlights</title>
+    <desc>Semi Final 1;</desc>
+  </programme>
+  <programme start="20261106090000 +0530" stop="20261106093000 +0530" channel="mastro.unite8sports2" catchup-id="101084176">
+    <title>Bundesliga Special Show</title>
+    <desc>Bundesliga Special Show</desc>
+  </programme>
+  <programme start="20261106093000 +0530" stop="20261106100000 +0530" channel="mastro.unite8sports2" catchup-id="101084184">
+    <title>Milan vs. Inter-Serie A Highlights</title>
+    <desc>Milan vs. Inter;Highlights of the intense match between Italian Serie A heavyweights Milan and Inter.</desc>
+  </programme>
+  <programme start="20261106100000 +0530" stop="20261106103000 +0530" channel="mastro.unite8sports2" catchup-id="101084197">
+    <title>Malappuram FC vs. Calicut FC-Super League Kerala Highlights</title>
+    <desc>Malappuram FC vs. Calicut FC;</desc>
+  </programme>
+  <programme start="20261106103000 +0530" stop="20261106110000 +0530" channel="mastro.unite8sports2" catchup-id="101084194">
+    <title>Semi Final 2-2026 FIFA U-17 Women's World Cup Highlights</title>
+    <desc>Semi Final 2;</desc>
+  </programme>
+  <programme start="20261106110000 +0530" stop="20261106113000 +0530" channel="mastro.unite8sports2" catchup-id="101084204">
+    <title>Bundesliga Special Show</title>
+    <desc>Bundesliga Special Show</desc>
+  </programme>
+  <programme start="20261106113000 +0530" stop="20261106120000 +0530" channel="mastro.unite8sports2" catchup-id="101084195">
     <title>Bayern Munich vs Borussia Dortmund-Bundesliga Highlights</title>
     <desc>Bayern Munich vs Borussia Dortmund;Highlights of the Bundesliga, wherein professional football teams compete for the title.</desc>
   </programme>
-  <programme start="20261105223000 +0530" stop="20261105230000 +0530" channel="mastro.unite8sports2" catchup-id="101052855">
-    <title>Milan vs. Inter-Serie A Highlights</title>
-    <desc>Milan vs. Inter;Highlights of the intense match between Italian Serie A heavyweights Milan and Inter.</desc>
+  <programme start="20261106120000 +0530" stop="20261106123000 +0530" channel="mastro.unite8sports2" catchup-id="101084191">
+    <title>Forca Kochi FC vs. Thiruvananthapuram Kombans FC-Super League Kerala</title>
+    <desc>Forca Kochi FC vs. Thiruvananthapuram Kombans FC;</desc>
   </programme>
-  <programme start="20261105230000 +0530" stop="20261105233000 +0530" channel="mastro.unite8sports2" catchup-id="101052873">
-    <title>Bundesliga Special Show</title>
-    <desc>Bundesliga Special Show</desc>
-  </programme>
-  <programme start="20261105233000 +0530" stop="20261106000000 +0530" channel="mastro.unite8sports2" catchup-id="101052869">
+  <programme start="20261106123000 +0530" stop="20261106130000 +0530" channel="mastro.unite8sports2" catchup-id="101084192">
     <title>Best of October-Bundesliga Soccer</title>
     <desc>Best of October;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
   </programme>
-  <programme start="20261105000100 +0530" stop="20261105020700 +0530" channel="mastro.zeethirai" catchup-id="101167758">
-    <title>Devil's Double Next Level</title>
-    <desc>A sharp-tongued film critic finds himself trapped inside a horror-laced movie.</desc>
+  <programme start="20261106130000 +0530" stop="20261106150000 +0530" channel="mastro.unite8sports2" catchup-id="101084179">
+    <title>Brazil U17 vs. Nigeria U17-2026 FIFA U-17 Women's World Cup</title>
+    <desc>Brazil U17 vs. Nigeria U17;</desc>
   </programme>
-  <programme start="20261105020700 +0530" stop="20261105023000 +0530" channel="mastro.zeethirai" catchup-id="101167759">
-    <title>Fillers</title>
-    <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies.</desc>
+  <programme start="20261106150000 +0530" stop="20261106153000 +0530" channel="mastro.unite8sports2" catchup-id="101084185">
+    <title>Malappuram FC vs. Calicut FC-Super League Kerala Highlights</title>
+    <desc>Malappuram FC vs. Calicut FC;</desc>
   </programme>
-  <programme start="20261105023000 +0530" stop="20261105030000 +0530" channel="mastro.zeethirai" catchup-id="101054249">
+  <programme start="20261106153000 +0530" stop="20261106160000 +0530" channel="mastro.unite8sports2" catchup-id="101084182">
+    <title>Milan vs. Inter-Serie A Highlights</title>
+    <desc>Milan vs. Inter;Highlights of the intense match between Italian Serie A heavyweights Milan and Inter.</desc>
+  </programme>
+  <programme start="20261106160000 +0530" stop="20261106163000 +0530" channel="mastro.unite8sports2" catchup-id="101084205">
+    <title>Semi Final 1-2026 FIFA U-17 Women's World Cup Highlights</title>
+    <desc>Semi Final 1;</desc>
+  </programme>
+  <programme start="20261106163000 +0530" stop="20261106170000 +0530" channel="mastro.unite8sports2" catchup-id="101084186">
+    <title>Weekly Show-Bundesliga Soccer</title>
+    <desc>Weekly Show;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
+  </programme>
+  <programme start="20261106170000 +0530" stop="20261106173000 +0530" channel="mastro.unite8sports2" catchup-id="101084189">
+    <title>Forca Kochi FC vs. Thrissur Magic FC-Super League Kerala Highlights</title>
+    <desc>Forca Kochi FC vs. Thrissur Magic FC;</desc>
+  </programme>
+  <programme start="20261106173000 +0530" stop="20261106180000 +0530" channel="mastro.unite8sports2" catchup-id="101084183">
+    <title>Semi Final 2-2026 FIFA U-17 Women's World Cup Highlights</title>
+    <desc>Semi Final 2;</desc>
+  </programme>
+  <programme start="20261106180000 +0530" stop="20261106190000 +0530" channel="mastro.unite8sports2" catchup-id="101084181">
+    <title>WXM Pro Wrestling Xtreme Mania</title>
+    <desc>Professional wrestlers participate in a wrestling event to win the coveted title.</desc>
+  </programme>
+  <programme start="20261106190000 +0530" stop="20261106191500 +0530" channel="mastro.unite8sports2" catchup-id="101084201">
+    <title>Filler</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20261106191500 +0530" stop="20261106214500 +0530" channel="mastro.unite8sports2" catchup-id="101084199">
+    <title>Malappuram FC vs. Forca Kochi FC-Super League Kerala</title>
+    <desc>Malappuram FC vs. Forca Kochi FC;From Payyanad Stadium in Malappuram, Kerala, India.</desc>
+  </programme>
+  <programme start="20261106214500 +0530" stop="20261106221500 +0530" channel="mastro.unite8sports2" catchup-id="101084193">
+    <title>Best of October-Bundesliga Soccer</title>
+    <desc>Best of October;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
+  </programme>
+  <programme start="20261106221500 +0530" stop="20261106230000 +0530" channel="mastro.unite8sports2" catchup-id="101084187">
+    <title>Milan vs. Inter-Serie A Highlights</title>
+    <desc>Milan vs. Inter;Highlights of the intense match between Italian Serie A heavyweights Milan and Inter.</desc>
+  </programme>
+  <programme start="20261106230000 +0530" stop="20261106233000 +0530" channel="mastro.unite8sports2" catchup-id="101084202">
+    <title>Weekly Show-Bundesliga Soccer</title>
+    <desc>Weekly Show;Eighteen professional football clubs compete against each other in the Bundesliga.</desc>
+  </programme>
+  <programme start="20261106233000 +0530" stop="20261107000000 +0530" channel="mastro.unite8sports2" catchup-id="101130353">
+    <title>Semi Final 1-2026 FIFA U-17 Women's World Cup Highlights</title>
+    <desc>Semi Final 1;</desc>
+  </programme>
+  <programme start="20261106000500 +0530" stop="20261106023000 +0530" channel="mastro.zeethirai" catchup-id="101209963">
+    <title>Akhanda 2</title>
+    <desc>Akhanda and his twin Mural Krishna confront a dangerous tantric practitioner sowing chaos.</desc>
+  </programme>
+  <programme start="20261106023000 +0530" stop="20261106030000 +0530" channel="mastro.zeethirai" catchup-id="101130929">
     <title>Free Ticket</title>
     <desc>A compilation of songs and snippets from popular and trending Tamil movies is played.</desc>
   </programme>
-  <programme start="20261105030000 +0530" stop="20261105053400 +0530" channel="mastro.zeethirai" catchup-id="101054242">
-    <title>Kaaviya Thalaivan</title>
-    <desc>Two rival artists at Sivadas Swamigal's drama troupe compete in everything they do.</desc>
+  <programme start="20261106030000 +0530" stop="20261106053200 +0530" channel="mastro.zeethirai" catchup-id="101130932">
+    <title>Veerame Vaagai Soodum</title>
+    <desc>An IPS aspirant uncovers a series of dark secrets while investigating his sister's murder.</desc>
   </programme>
-  <programme start="20261105053400 +0530" stop="20261105060000 +0530" channel="mastro.zeethirai" catchup-id="101167760">
+  <programme start="20261106053200 +0530" stop="20261106060000 +0530" channel="mastro.zeethirai" catchup-id="101209964">
     <title>Fillers</title>
     <desc>A comprehensive compilation of promotional videos and trailers of Bollywood movies.</desc>
   </programme>
-  <programme start="20261105060000 +0530" stop="20261105090000 +0530" channel="mastro.zeethirai" catchup-id="101054250">
-    <title>Anandham Vilayadum Veedu</title>
-    <desc>Two half-brothers lead harmonious lives, but an old nemesis threatens their unity.</desc>
+  <programme start="20261106060000 +0530" stop="20261106090000 +0530" channel="mastro.zeethirai" catchup-id="101130930">
+    <title>Iru Mugan</title>
+    <desc>RAW officials investigate the whereabouts of Love, who destroys Indians in Kuala Lumpur.</desc>
   </programme>
-  <programme start="20261105090000 +0530" stop="20261105120000 +0530" channel="mastro.zeethirai" catchup-id="101054247">
-    <title>V</title>
-    <desc>A mysterious killer challenges a decorated police officer to end his killing spree.</desc>
+  <programme start="20261106090000 +0530" stop="20261106120000 +0530" channel="mastro.zeethirai" catchup-id="101130935">
+    <title>Aakashaganga II</title>
+    <desc>After communicating with her dead mother, a woman learns the secrets of her own family.</desc>
   </programme>
-  <programme start="20261105120000 +0530" stop="20261105150000 +0530" channel="mastro.zeethirai" catchup-id="101054243">
-    <title>Periya Kudumbam</title>
-    <desc>An attempt is made to break the bond between three brothers by their own cousins.</desc>
+  <programme start="20261106120000 +0530" stop="20261106153000 +0530" channel="mastro.zeethirai" catchup-id="101130937">
+    <title>Sarkarin Elam</title>
+    <desc>Mahi uncovers a banking scandal while trying to retrieve money from her deceitful partner.</desc>
   </programme>
-  <programme start="20261105150000 +0530" stop="20261105180000 +0530" channel="mastro.zeethirai" catchup-id="101054244">
-    <title>Mohini</title>
-    <desc>Vaishnavi is possessed by a lookalike who is thirsty for vengeance.</desc>
+  <programme start="20261106153000 +0530" stop="20261106180000 +0530" channel="mastro.zeethirai" catchup-id="101130931">
+    <title>Pheonix</title>
+    <desc>A lawyer’s new home quickly turns into a nightmare of terrifying paranormal activity.</desc>
   </programme>
-  <programme start="20261105180000 +0530" stop="20261105210000 +0530" channel="mastro.zeethirai" catchup-id="101054246">
-    <title>Thirunaal</title>
-    <desc>A henchman must choose between his boss and supporting his lover's father.</desc>
+  <programme start="20261106180000 +0530" stop="20261106210000 +0530" channel="mastro.zeethirai" catchup-id="101130933">
+    <title>Kuttram 23</title>
+    <desc>ACP Vetrimaaran investigates a missing woman and the murder of a Church priest.</desc>
   </programme>
-  <programme start="20261105210000 +0530" stop="20261106000000 +0530" channel="mastro.zeethirai" catchup-id="101054245">
-    <title>House Mates</title>
-    <desc>Newlyweds Karthik and Anu face eerie disturbances in their new apartment.</desc>
+  <programme start="20261106210000 +0530" stop="20261107000700 +0530" channel="mastro.zeethirai" catchup-id="101130934">
+    <title>Demonte Colony 2</title>
+    <desc>A group of friends who return to a cursed location to uncover the truth behind the spirits.</desc>
   </programme>
   <channel id="mastro.babyshark">
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png" />
   </channel>
-  <programme channel="mastro.babyshark" start="20261105213900 +0000" stop="20261105224300 +0000">
-    <title>Reading Stories With Pinkfong</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">6176c614178213001ad95d49</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Police cars, fire trucks, dump trucks, and many car friends are excited to tell exciting stories.</desc>
-    <icon src="https://images.pluto.tv/series/6176c612178213001ad95d15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20140101</date>
-    <series-id system="pluto">6176c612178213001ad95d15</series-id>
-    <sub-title>Pinkfong Car Stories</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261105224300 +0000" stop="20261105231100 +0000">
-    <title>Pinkfong Chart Show</title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="pluto">6167011af3593c001aa3f187</episode-num>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Dear friend, tell us about your worries. We are all ears. Are you so itchy?</desc>
-    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20180101</date>
-    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
-    <sub-title>Pinkfong Chart Show Ep8. The Very Itchy Day!</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261105231100 +0000" stop="20261105233700 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E34</episode-num>
-    <episode-num system="pluto">64ad9f6e060e830008c182c9</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>We are the Shark Family! Full of colors, Shark Family! Dance along and match what color each family member!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Baby Sharks Color Songs</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261105233700 +0000" stop="20261106000200 +0000">
-    <title>Pinkfong Word Play</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">6176c60e178213001ad95c0e</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Word Play is full of word songs that help improve children's comprehension.</desc>
-    <icon src="https://images.pluto.tv/series/6176c60d178213001ad95bee/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20170101</date>
-    <series-id system="pluto">6176c60d178213001ad95bee</series-id>
-    <sub-title>Pinkfong Word Play Ep.3</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106000200 +0000" stop="20261106002300 +0000">
-    <title>Bebefinn 2 ep7</title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <episode-num system="pluto">66c4b3b457d82b001307d5e3</episode-num>
-    <episode-num system="original-air-date">20230323000000 +0000</episode-num>
-    <desc>Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family filled with joyful songs.</desc>
-    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230323</date>
-    <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106002300 +0000" stop="20261106005900 +0000">
-    <title>Halloween Dance With Baby Shark</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">6259eaeddb330c00140b6d58</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>HALLOWEEN SHARK DANCE! How well can you follow the Halloween Sharks dance?</desc>
-    <icon src="https://images.pluto.tv/series/625774e087cec4001357d247/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">625774e087cec4001357d247</series-id>
-    <sub-title>Halloween Dance with Baby Shark Ep.2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106005900 +0000" stop="20261106012800 +0000">
-    <title>Hogi's Story Theater</title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="pluto">66b697088dfe2a00136b0d1f</episode-num>
-    <episode-num system="original-air-date">20220720000000 +0000</episode-num>
-    <desc>You're watching Hogi's Story Theater compilation, an educational and interactive series prepared to you by Pinkfong &amp; Hogi!</desc>
-    <icon src="https://images.pluto.tv/series/66b684cc94a1840013f6eb7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220720</date>
-    <series-id system="pluto">66b684cc94a1840013f6eb7a</series-id>
-    <sub-title>Hogi's Story Theater 5</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106012800 +0000" stop="20261106021100 +0000">
-    <title>Vampire Wedding With Hogi</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">625866c787cec40013580d37</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Come, and join Jeni and Billi's wedding ceremony!</desc>
-    <icon src="https://images.pluto.tv/series/625866c087cec40013580d30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">625866c087cec40013580d30</series-id>
-    <sub-title>Vampire Wedding with Hogi Ep.1</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106021100 +0000" stop="20261106030400 +0000">
-    <title>Pinkfong Songs For Children</title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <episode-num system="pluto">64ad9ed724ade5000892b8c0</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Have fun with Baby Shark and the Shark Family!</desc>
-    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
-    <sub-title>Baby Shark's Day at Home &amp; School</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106030400 +0000" stop="20261106042300 +0000">
-    <title>Pinkfong &amp; Baby Shark's Space Adventure</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6258493edb330c00140b0681</episode-num>
-    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
-    <desc>Pinkfong &amp; Baby Shark are going to space!!! Follow Pinkfong &amp; Baby Shark's space journey as they visit exciting new planets to help find the special star for Pinkfong! Join their adventure now!</desc>
-    <icon src="https://images.pluto.tv/series/62584938db330c00140b067a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20210101</date>
-    <series-id system="pluto">62584938db330c00140b067a</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106042300 +0000" stop="20261106050700 +0000">
-    <title>Pinkfong’s Snack Time</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">66b650b894a1840013e51ff5</episode-num>
-    <episode-num system="original-air-date">20220602000000 +0000</episode-num>
-    <desc>Friends sent a secret recipe to Little Chef Pinkfong! You can make any snack delicious, Shall we learn how to make snacks with exciting songs and rhythms?</desc>
-    <icon src="https://images.pluto.tv/series/66b650b494a1840013e51eda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220602</date>
-    <series-id system="pluto">66b650b494a1840013e51eda</series-id>
-    <sub-title>Pinkfong's Snack Time: Episode 02</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106050700 +0000" stop="20261106054100 +0000">
-    <title>Bebefinn Nursery Rhymes</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b253c197009300137f39b0</episode-num>
-    <episode-num system="original-air-date">20220523000000 +0000</episode-num>
-    <desc>Baby Shark Doo Doo Doo!Sing with Bebefinn and family!</desc>
-    <icon src="https://images.pluto.tv/series/66b253c097009300137f3992/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220523</date>
-    <series-id system="pluto">66b253c097009300137f3992</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106054100 +0000" stop="20261106061100 +0000">
-    <title>Dance with Pinkfong</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">6164afdcd4b818001a69aacc</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>Watch to enjoy "Dance with Pinkfong!" a super fun nursery rhyme created by Pinkfong. Everybody! Let's sing with Pinkfong.</desc>
-    <icon src="https://images.pluto.tv/series/6164afd3d4b818001a69aa07/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">6164afd3d4b818001a69aa07</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106061100 +0000" stop="20261106063200 +0000">
-    <title>Learn Colors With Hogi</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">66be440762114000088e6f48</episode-num>
-    <episode-num system="original-air-date">20230529000000 +0000</episode-num>
-    <desc>Learn colors with Hogi and Wonderville Friends.</desc>
-    <icon src="https://images.pluto.tv/series/62577d508f17ad0013f66f0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230529</date>
-    <series-id system="pluto">62577d508f17ad0013f66f0f</series-id>
-    <sub-title>Learn colors with Hogi. Ep4</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106063200 +0000" stop="20261106070700 +0000">
-    <title>Hogi, The Detective</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">61687edfb8333a001ad694ed</episode-num>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>When something suspicious happens in Wonderville, everybody comes to Hogi for help, the best detective in town.</desc>
-    <icon src="https://images.pluto.tv/series/61687edeb8333a001ad694cb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20200101</date>
-    <series-id system="pluto">61687edeb8333a001ad694cb</series-id>
-    <sub-title>Hogi, the Detective Ep.1</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106070700 +0000" stop="20261106074200 +0000">
-    <title>Farm Animals Songs</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">63cf5389662ef90014d02b1d</episode-num>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>We invite you to Pinkfong Farm, full of farm animals, from a fun color game to a number game. Everything is double the fun with farm animals!</desc>
-    <icon src="https://images.pluto.tv/series/63cf5220ff32c10013a98886/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20220101</date>
-    <series-id system="pluto">63cf5220ff32c10013a98886</series-id>
-    <sub-title>Farm Animals Songs Ep.2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106074200 +0000" stop="20261106083200 +0000">
-    <title>Pinkfong Dinosaur Musical Stories</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">61730c03829284001a9400c8</episode-num>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Roar! Sing and stomp with Pinkfong Dinosaur Musical.</desc>
-    <icon src="https://images.pluto.tv/series/61730c02829284001a9400ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20160101</date>
-    <series-id system="pluto">61730c02829284001a9400ac</series-id>
-    <sub-title>Pinkfong Dinosaur Musical Stories Ep.1</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Kids' Music</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106083200 +0000" stop="20261106090400 +0000">
-    <title>Bebefinn 2 ep9</title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <episode-num system="pluto">66c4b511b20e7900139d72e4</episode-num>
-    <episode-num system="original-air-date">20230613000000 +0000</episode-num>
-    <desc>Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family filled with joyful songs.</desc>
-    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20230613</date>
-    <series-id system="pluto">63c73248eb85c50013390757</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
-  <programme channel="mastro.babyshark" start="20261106090400 +0000" stop="20261106093700 +0000">
-    <title>Veo, Veo</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">66b3eb94dc6f2f0013b089a2</episode-num>
-    <episode-num system="original-air-date">20221026000000 +0000</episode-num>
-    <desc>Friends, let's play Spy Spy and sing the fun songs with Pinkfong and Baby Shark!</desc>
-    <icon src="https://images.pluto.tv/series/66b3eb92dc6f2f0013b08984/tile_1765105572340.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20221026</date>
-    <series-id system="pluto">66b3eb92dc6f2f0013b08984</series-id>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Animated</category>
-  </programme>
   <programme channel="mastro.babyshark" start="20261106093700 +0000" stop="20261106102200 +0000">
     <title>Sing Along With Pinkfong &amp; Hogi And Baby Shark</title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -12442,9 +12137,9 @@
     <date>20180101</date>
     <series-id system="pluto">6176c602178213001ad958f8</series-id>
     <sub-title>Episode 2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261106102200 +0000" stop="20261106104700 +0000">
     <title>Pinkfong Storytime Theater</title>
@@ -12455,9 +12150,9 @@
     <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210101</date>
     <series-id system="pluto">6176c61e178213001ad96179</series-id>
-    <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261106104700 +0000" stop="20261106115500 +0000">
     <title>Pinkfong Songs For Children</title>
@@ -12469,9 +12164,9 @@
     <date>20200101</date>
     <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
     <sub-title>Let's Sing with Pinkfong</sub-title>
-    <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261106115500 +0000" stop="20261106122100 +0000">
     <title>Pinkfong Storytime Theater</title>
@@ -12482,9 +12177,9 @@
     <icon src="https://images.pluto.tv/series/6176c61e178213001ad96179/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210101</date>
     <series-id system="pluto">6176c61e178213001ad96179</series-id>
-    <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261106122100 +0000" stop="20261106125600 +0000">
     <title>Have You Seen My Siren</title>
@@ -12495,9 +12190,9 @@
     <icon src="https://images.pluto.tv/series/66b69ca65b669a0013295f33/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20210930</date>
     <series-id system="pluto">66b69ca65b669a0013295f33</series-id>
-    <category>Series</category>
-    <category>Children</category>
     <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261106125600 +0000" stop="20261106133800 +0000">
     <title>Baby Shark Is Trick-or-Treating</title>
@@ -12509,9 +12204,9 @@
     <date>20210101</date>
     <series-id system="pluto">62574c18db330c00140adfbe</series-id>
     <sub-title>Baby Shark is Trick-or-Treating Ep.2</sub-title>
-    <category>Series</category>
-    <category>Children</category>
     <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
   <programme channel="mastro.babyshark" start="20261106133800 +0000" stop="20261106142200 +0000">
     <title>Pinkfong Songs For Children</title>
@@ -12523,7 +12218,296 @@
     <date>20220101</date>
     <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
     <sub-title>Pinkfongs Preschool Songs</sub-title>
-    <category>Series</category>
     <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106142200 +0000" stop="20261106151600 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <episode-num system="pluto">64ad9ef224ade5000892b8f4</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Learn all about healthy habits with Baby Shark and Pinkfong!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Healthy Habits Songs 2</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106151600 +0000" stop="20261106154900 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E32</episode-num>
+    <episode-num system="pluto">64ad9f4ef5597c0008c37b85</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Sing, Dance and Learn Rhymes and Words with Pinkfong and Friends!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Fun Rhyming Songs</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106154900 +0000" stop="20261106161600 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="pluto">655413c8a78f0d001a19f81d</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Let's explore together from the deep, deep oceans to the infinite galaxy!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20170101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Outer Space Adventure Songs</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106161600 +0000" stop="20261106163400 +0000">
+    <title>Bebefinn</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">63c73249eb85c5001339075d</episode-num>
+    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
+    <desc>Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family filled with joyful songs.</desc>
+    <icon src="https://images.pluto.tv/series/63c73248eb85c50013390757/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20220101</date>
+    <series-id system="pluto">63c73248eb85c50013390757</series-id>
+    <sub-title>Bebefinn Ep.1</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106163400 +0000" stop="20261106170100 +0000">
+    <title>Baby Shark Brooklyn</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">6164afe0d4b818001a69ab32</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>A race to the finish! &amp; The case of the ghost at 94th and ocean!</desc>
+    <icon src="https://images.pluto.tv/series/6164afded4b818001a69ab18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6164afded4b818001a69ab18</series-id>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106170100 +0000" stop="20261106172800 +0000">
+    <title>Pinkfong Chart Show</title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="pluto">61670110f3593c001aa3ee7d</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>All the friends stronger have gathered! Lion King of Animals, Tyrannosaurus King of Dinosaurs, and Shark Hunters of the Seas! They compete to see who has the most strength. Who will be the first place in the contest?</desc>
+    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
+    <sub-title>Who is the Strongest</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106172800 +0000" stop="20261106180100 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E43</episode-num>
+    <episode-num system="pluto">64ad9ff4f5597c0008c37ca5</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Singing and dancing session with Pinkfong and friends!</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Nursery Rhymes With Baby Shark</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106180100 +0000" stop="20261106184000 +0000">
+    <title>Learn ABC with Baby Shark</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">62697673aa5b9a000716076e</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's learn ABC with Baby Shark and dinosaurs!</desc>
+    <icon src="https://images.pluto.tv/series/6170487e95ce3f001a330f04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">6170487e95ce3f001a330f04</series-id>
+    <sub-title>Learn ABC with Baby Shark - Dinosaur Ep.1</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106184000 +0000" stop="20261106192500 +0000">
+    <title>Dance with Pinkfong</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">6164afdcd4b818001a69aad9</episode-num>
+    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
+    <desc>Watch to enjoy "Dance with Pinkfong!" a super fun nursery rhyme created by Pinkfong. Everybody! Let's sing with Pinkfong.</desc>
+    <icon src="https://images.pluto.tv/series/6164afd3d4b818001a69aa07/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20190101</date>
+    <series-id system="pluto">6164afd3d4b818001a69aa07</series-id>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106192500 +0000" stop="20261106200000 +0000">
+    <title>Hogi, The Detective</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">61687edfb8333a001ad694df</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>The best detective Hogi, solves every problem, even the littlest ones!</desc>
+    <icon src="https://images.pluto.tv/series/61687edeb8333a001ad694cb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">61687edeb8333a001ad694cb</series-id>
+    <sub-title>Hogi, the Detective Ep.2</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106200000 +0000" stop="20261106203400 +0000">
+    <title>Learn ABC with Pinkfong</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">616a1fb86e3813001a8b0585</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Let's learn ABC with Pinkfong and animals!</desc>
+    <icon src="https://images.pluto.tv/series/616a1fb56e3813001a8b0517/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">616a1fb56e3813001a8b0517</series-id>
+    <sub-title>Animal Ep.2</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106203400 +0000" stop="20261106205100 +0000">
+    <title>Pinkfong and Hogi Dance Dance</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">616a1fb06e3813001a8b02c1</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Pinkfong and Hogi are looking for great dancers. Dancing is always fun!</desc>
+    <icon src="https://images.pluto.tv/series/616a1fae6e3813001a8b0275/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">616a1fae6e3813001a8b0275</series-id>
+    <sub-title>Pinkfong and Hogi Dance Dance Ep.3</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106205100 +0000" stop="20261106212700 +0000">
+    <title>Halloween Dance With Baby Shark</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">625774e387cec4001357d24e</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>HALLOWEEN SHARK DANCE! How well can you follow the Halloween Sharks dance?</desc>
+    <icon src="https://images.pluto.tv/series/625774e087cec4001357d247/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">625774e087cec4001357d247</series-id>
+    <sub-title>Halloween Dance with Baby Shark Ep.1</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106212700 +0000" stop="20261106215400 +0000">
+    <title>Pinkfong Chart Show</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6167011af3593c001aa3f13b</episode-num>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Dear friend, tell Pinkfong and Baby Shark about your worries. We are all ears. Are you always hungry?</desc>
+    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20180101</date>
+    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
+    <sub-title>Pinkfong Chart Show Ep2. Who's hungry?</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106215400 +0000" stop="20261106222100 +0000">
+    <title>Pinkfong Chart Show</title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="pluto">6167011af3593c001aa3f194</episode-num>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Dear friend, tell us about what you love. We are all ears. Are you love cars and vehicles?</desc>
+    <icon src="https://images.pluto.tv/series/6167010ef3593c001aa3ee63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20180101</date>
+    <series-id system="pluto">6167010ef3593c001aa3ee63</series-id>
+    <sub-title>Pinkfong Chart Show Ep9. I Love Vehicles</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106222100 +0000" stop="20261106225500 +0000">
+    <title>Pinkfong Animal Songs</title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="pluto">61730c1d829284001a94077d</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>A lazy sloth. Jingle bells in the jungle. Let's guess the animals. Did you see my pattern? Whose eggs?</desc>
+    <icon src="https://images.pluto.tv/series/61730c1c829284001a94076f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210101</date>
+    <series-id system="pluto">61730c1c829284001a94076f</series-id>
+    <sub-title>Pinkfong Animal Songs Ep.3</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106225500 +0000" stop="20261106234200 +0000">
+    <title>Hide 'n Seek with Shark Family</title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <episode-num system="pluto">66b4fdcc9322c000136af693</episode-num>
+    <episode-num system="original-air-date">20230711000000 +0000</episode-num>
+    <desc>Oh? Where did Baby Shark and Shark Family go? Help Pinkfong to find all the Shark Family!</desc>
+    <icon src="https://images.pluto.tv/series/63d023acff32c10013ada140/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20230711</date>
+    <series-id system="pluto">63d023acff32c10013ada140</series-id>
+    <sub-title>Shark Family, Dinosaur World.</sub-title>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261106234200 +0000" stop="20261107001000 +0000">
+    <title>Pinkfong Wonderstar</title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="pluto">63ced9311fdb9b00131d816b</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>Jenni likes things that sparkle. Where did all my tools go!</desc>
+    <icon src="https://images.pluto.tv/series/63c844804da5ab00131083b0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">63c844804da5ab00131083b0</series-id>
+    <sub-title>Pinkfong Wonderstar - Season 1 - Episode 007</sub-title>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261107001000 +0000" stop="20261107003700 +0000">
+    <title>Pinkfong Songs For Children</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">6553feb4e2a2d8001a9d95eb</episode-num>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>Get on the Pinkfong ride and let's go meet the buses.</desc>
+    <icon src="https://images.pluto.tv/series/64ad9a034ea48000082c9f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20160101</date>
+    <series-id system="pluto">64ad9a034ea48000082c9f2a</series-id>
+    <sub-title>Pinkfong Bus Songs</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261107003700 +0000" stop="20261107012700 +0000">
+    <title>Dance Adventure</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">66b3bbd094a1840013bf70cc</episode-num>
+    <episode-num system="original-air-date">20221021000000 +0000</episode-num>
+    <desc>Arrr-! Are you ready for a fun adventure? Come and let's sing and dance together! Arrr-!</desc>
+    <icon src="https://images.pluto.tv/series/63cf50b88c7f8e001a7edbc7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20221021</date>
+    <series-id system="pluto">63cf50b88c7f8e001a7edbc7</series-id>
+    <sub-title>Dance Adventure Episode 02</sub-title>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="mastro.babyshark" start="20261107012700 +0000" stop="20261107020500 +0000">
+    <title>Pinkfong Playfong</title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="pluto">61730bf8829284001a93fdad</episode-num>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>It's Playfong time! Pinkfong introduces ways to have fun.</desc>
+    <icon src="https://images.pluto.tv/series/61730bf6829284001a93fd5b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20200101</date>
+    <series-id system="pluto">61730bf6829284001a93fd5b</series-id>
+    <sub-title>Pinkfong Playfong Ep.4</sub-title>
+    <category>Kids' Music</category>
+    <category>Children</category>
+    <category>Series</category>
   </programme>
 </tv>
