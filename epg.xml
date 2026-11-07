@@ -21,7 +21,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.cartoonnetwork">
-    <display-name lang="馬來西亞">Cartoon Network HD</display-name>
+    <display-name lang="Malaysia">Cartoon Network HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091749240561_71.png" />
   </channel>
   <channel id="mastro.disneychannel">
@@ -53,11 +53,11 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609082834726364_16.png" />
   </channel>
   <channel id="mastro.nickelodeon">
-    <display-name lang="馬來西亞">Nickelodeon HD</display-name>
+    <display-name lang="Malaysia">Nickelodeon HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091449370972_97.png" />
   </channel>
   <channel id="mastro.nickjr">
-    <display-name lang="馬來西亞">Nick Jr.</display-name>
+    <display-name lang="Malaysia">Nick Jr.</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609095621560902_62.png" />
   </channel>
   <channel id="mastro.nicktoons">
@@ -313,7 +313,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.bernama">
-    <display-name lang="馬來西亞">BERNAMA</display-name>
+    <display-name lang="Malaysia">BERNAMA</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080936076627_89.png" />
   </channel>
   <channel id="mastro.abcaustralia">
@@ -329,7 +329,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609090714567371_37.png" />
   </channel>
   <channel id="mastro.bloomberg">
-    <display-name lang="馬來西亞">Bloomberg TV HD</display-name>
+    <display-name lang="Malaysia">Bloomberg TV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609102618373574_12.png" />
   </channel>
   <channel id="mastro.8tv">
@@ -365,7 +365,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.axn">
-    <display-name lang="馬來西亞">AXN HD</display-name>
+    <display-name lang="Malaysia">AXN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080814582790_35.png" />
   </channel>
   <channel id="mastro.hitsnow">
@@ -393,7 +393,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081148669803_10.png" />
   </channel>
   <channel id="mastro.tvn">
-    <display-name lang="馬來西亞">tvN HD</display-name>
+    <display-name lang="Malaysia">tvN HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png" />
   </channel>
   <channel id="mastro.boo">
@@ -417,7 +417,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081033632188_37.png" />
   </channel>
   <channel id="mastro.celestial">
-    <display-name lang="馬來西亞">Celestial Movies HD</display-name>
+    <display-name lang="Malaysia">Celestial Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080826681228_80.png" />
   </channel>
   <channel id="mastro.ria">
@@ -441,7 +441,7 @@
     <icon src="" />
   </channel>
   <channel id="mastro.tvnmovies">
-    <display-name lang="馬來西亞">tvN Movies HD</display-name>
+    <display-name lang="Malaysia">tvN Movies HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081207676227_21.png" />
   </channel>
   <channel id="mastro.afn">
@@ -453,7 +453,7 @@
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610053046333239_42.png" />
   </channel>
   <channel id="mastro.crimeinvestigation">
-    <display-name lang="馬來西亞">Crime &amp; Investigation HD</display-name>
+    <display-name lang="Malaysia">Crime &amp; Investigation HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609091227898837_83.png" />
   </channel>
   <channel id="mastro.discovery">
@@ -473,15 +473,15 @@
     <icon src="" />
   </channel>
   <channel id="mastro.hgtv">
-    <display-name lang="馬來西亞">HGTV HD</display-name>
+    <display-name lang="Malaysia">HGTV HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609081111592383_50.png" />
   </channel>
   <channel id="mastro.history">
-    <display-name lang="馬來西亞">History HD</display-name>
+    <display-name lang="Malaysia">History HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609080851873221_29.png" />
   </channel>
   <channel id="mastro.lovenature">
-    <display-name lang="馬來西亞">Love Nature</display-name>
+    <display-name lang="Malaysia">Love Nature</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/10/20240610060923765852_46.png" />
   </channel>
   <channel id="mastro.natgeowild">
@@ -9559,6 +9559,11 @@
     <desc>Highlights of the U18s game against Wolverhampton Wanderers.</desc>
     <date>2026-11-08</date>
   </programme>
+  <programme channel="mastro.mutv" start="20261109000000 +0000" stop="20261110000000 +0000">
+    <title lang="zh">PL Match: Aston Villa (H) 26/27</title>
+    <desc>Full coverage of our Premier League match against Aston Villa.</desc>
+    <date>2026-11-09</date>
+  </programme>
   <programme channel="mastro.lfctv" start="20261107000000 +0000" stop="20261107003000 +0000">
     <title lang="zh">The Champions League Review Show</title>
     <desc>Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Fenerbahce.</desc>
@@ -9833,6 +9838,11 @@
     <title lang="zh">We Are Liverpool: Lucas Leiva</title>
     <desc>The Brazilian relives the highs and lows of his Liverpool career.</desc>
     <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.lfctv" start="20261109000000 +0000" stop="20261110000000 +0000">
+    <title lang="zh">Crystal Palace v Liverpool: The Match</title>
+    <desc>All the action as Liverpool take on Crystal Palace.</desc>
+    <date>2026-11-09</date>
   </programme>
   <programme channel="mastro.rania" start="20261107000000 +0000" stop="20261107010000 +0000">
     <title lang="zh">Tajwid Cinta Ep204</title>
