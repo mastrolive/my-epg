@@ -68,10 +68,6 @@
     <display-name lang="US">Disney XD HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.jr">
-    <display-name lang="Malaysia">JR.</display-name>
-    <icon src="https://epg.pw/media/images/epg/2026/02/06/20260206030021576552_69.jpg" />
-  </channel>
   <channel id="mastro.metvtoons">
     <display-name lang="US">MeTV Toons</display-name>
     <icon src="" />
@@ -92,13 +88,13 @@
     <display-name lang="US">Nicktoons</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.rania">
-    <display-name lang="Malaysia">Astro Rania HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609101347186990_60.png" />
-  </channel>
   <channel id="mastro.teennick">
     <display-name lang="US">Teen Nick</display-name>
     <icon src="" />
+  </channel>
+  <channel id="mastro.rania">
+    <display-name lang="Malaysia">Astro Rania HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609101347186990_60.png" />
   </channel>
   <channel id="mastro.golf">
     <display-name lang="Malaysia">Golf Channel HD</display-name>
@@ -136,13 +132,13 @@
     <display-name lang="US">FS1 HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="mastro.aura">
-    <display-name lang="Malaysia">Astro Aura HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609101109273113_34.png" />
-  </channel>
   <channel id="mastro.fs2">
     <display-name lang="US">FS2 HD</display-name>
     <icon src="" />
+  </channel>
+  <channel id="mastro.aura">
+    <display-name lang="Malaysia">Astro Aura HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/09/20240609101109273113_34.png" />
   </channel>
   <channel id="mastro.foxsoccerplus">
     <display-name lang="US">Fox Soccer Plus HD</display-name>
@@ -9072,126 +9068,6 @@
     <desc>The Greens are taking over Thanksgiving.</desc>
     <date>2026-11-10</date>
   </programme>
-  <programme channel="mastro.jr" start="20261108160000 +0000" stop="20261108162300 +0000">
-    <title lang="zh">Maimao EP1</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108162300 +0000" stop="20261108162500 +0000">
-    <title lang="zh">Klip Video</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108162500 +0000" stop="20261108164800 +0000">
-    <title lang="zh">Maimao EP2</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108164800 +0000" stop="20261108171200 +0000">
-    <title lang="zh">Maimao EP3</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108171200 +0000" stop="20261108173600 +0000">
-    <title lang="zh">Anom : EP1</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108173600 +0000" stop="20261108175900 +0000">
-    <title lang="zh">Anom : EP2</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108175900 +0000" stop="20261108182300 +0000">
-    <title lang="zh">Alpha Gen Talents Huffaz EP 1</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108182300 +0000" stop="20261108184600 +0000">
-    <title lang="zh">Alpha Gen Talents Huffaz EP 2</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108184600 +0000" stop="20261108191100 +0000">
-    <title lang="zh">Krayon S5 : EP1</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108191100 +0000" stop="20261108193700 +0000">
-    <title lang="zh">Krayon S5 : EP2</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108193700 +0000" stop="20261108200000 +0000">
-    <title lang="zh">Cabaran Kapten Minda EP1</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261108200000 +0000" stop="20261109000000 +0000">
-    <title lang="zh">Cabaran Kapten Minda EP2</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109160000 +0000" stop="20261109162300 +0000">
-    <title lang="zh">Maimao EP1</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109162300 +0000" stop="20261109162500 +0000">
-    <title lang="zh">Klip Video</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109162500 +0000" stop="20261109164800 +0000">
-    <title lang="zh">Maimao EP2</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109164800 +0000" stop="20261109171200 +0000">
-    <title lang="zh">Maimao EP3</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109171200 +0000" stop="20261109173600 +0000">
-    <title lang="zh">Anom : EP1</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109173600 +0000" stop="20261109175900 +0000">
-    <title lang="zh">Anom : EP2</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109175900 +0000" stop="20261109182300 +0000">
-    <title lang="zh">Alpha Gen Talents Huffaz EP 1</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109182300 +0000" stop="20261109184600 +0000">
-    <title lang="zh">Alpha Gen Talents Huffaz EP 2</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109184600 +0000" stop="20261109191100 +0000">
-    <title lang="zh">Krayon S5 : EP1</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109191100 +0000" stop="20261109193700 +0000">
-    <title lang="zh">Krayon S5 : EP2</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109193700 +0000" stop="20261109200000 +0000">
-    <title lang="zh">Cabaran Kapten Minda EP1</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.jr" start="20261109200000 +0000" stop="20261110000000 +0000">
-    <title lang="zh">Cabaran Kapten Minda EP2</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
   <programme channel="mastro.metvtoons" start="20261108000000 +0000" stop="20261108003000 +0000">
     <title lang="zh">Horton Hears a Who</title>
     <desc>Horton the Elephant tries to protect a tiny community living on a flower from his neighbors who do not believe it even exists.</desc>
@@ -12022,281 +11898,6 @@
     <desc>SpongeBob and Squidward become stranded in the desert while delivering a pizza; SpongeBob loses his pineapple home.</desc>
     <date>2026-11-09</date>
   </programme>
-  <programme channel="mastro.rania" start="20261108000000 +0000" stop="20261108010000 +0000">
-    <title lang="zh">Tajwid Cinta Ep205</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108010000 +0000" stop="20261108013000 +0000">
-    <title lang="zh">Lampung Geh Ep24</title>
-    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108013000 +0000" stop="20261108020000 +0000">
-    <title lang="zh">Barakallah Ep22</title>
-    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108020000 +0000" stop="20261108030000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep370</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108030000 +0000" stop="20261108040000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep371</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108040000 +0000" stop="20261108050000 +0000">
-    <title lang="zh">Tajwid Cinta Ep206</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108050000 +0000" stop="20261108060000 +0000">
-    <title lang="zh">Jagoan Karaoke Ep01</title>
-    <desc>A unique variety competition show which show about people who love to sing at home, mixed with entertaining host.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108060000 +0000" stop="20261108070000 +0000">
-    <title lang="zh">Yuk Isbat Ep21</title>
-    <desc>Small talk about religion mixed with everyday problems that invites us to goodness at the same time is fun and funny.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108070000 +0000" stop="20261108073000 +0000">
-    <title lang="zh">Lampung Geh Ep25</title>
-    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108073000 +0000" stop="20261108080000 +0000">
-    <title lang="zh">Barakallah Ep23</title>
-    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108080000 +0000" stop="20261108090000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep372</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108090000 +0000" stop="20261108100000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep373</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108100000 +0000" stop="20261108110000 +0000">
-    <title lang="zh">Jagoan Karaoke Ep01</title>
-    <desc>A unique variety competition show which show about people who love to sing at home, mixed with entertaining host.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108110000 +0000" stop="20261108120000 +0000">
-    <title lang="zh">Halo Selebriti Ep96</title>
-    <desc>An infotainment program that discusses the lives of celebrities in depth</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108120000 +0000" stop="20261108130000 +0000">
-    <title lang="zh">Tajwid Cinta Ep206</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108130000 +0000" stop="20261108133000 +0000">
-    <title lang="zh">Lampung Geh Ep25</title>
-    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108133000 +0000" stop="20261108140000 +0000">
-    <title lang="zh">Barakallah Ep23</title>
-    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108140000 +0000" stop="20261108150000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep372</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108150000 +0000" stop="20261108160000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep373</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108160000 +0000" stop="20261108170000 +0000">
-    <title lang="zh">Jagoan Karaoke Ep01</title>
-    <desc>A unique variety competition show which show about people who love to sing at home, mixed with entertaining host.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108170000 +0000" stop="20261108174500 +0000">
-    <title lang="zh">Halo Selebriti Ep96</title>
-    <desc>An infotainment program that discusses the lives of celebrities in depth</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108174500 +0000" stop="20261108183900 +0000">
-    <title lang="zh">Tajwid Cinta Ep206</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108183900 +0000" stop="20261108190300 +0000">
-    <title lang="zh">Lampung Geh Ep25</title>
-    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108190300 +0000" stop="20261108192500 +0000">
-    <title lang="zh">Barakallah Ep23</title>
-    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108192500 +0000" stop="20261108200000 +0000">
-    <title lang="zh">Yummilicious Ep07</title>
-    <desc>A program that shows about Indonesian local cuisines, while learning about how to cook and its history as well as philosophy.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108200000 +0000" stop="20261108210000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep372</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108210000 +0000" stop="20261108220000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep373</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108220000 +0000" stop="20261108230000 +0000">
-    <title lang="zh">Tobat! Ep15</title>
-    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261108230000 +0000" stop="20261109000000 +0000">
-    <title lang="zh">Pelangi Untuk Nirmala Ep38</title>
-    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109000000 +0000" stop="20261109010000 +0000">
-    <title lang="zh">Tajwid Cinta Ep206</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109010000 +0000" stop="20261109020000 +0000">
-    <title lang="zh">Ketika Cinta Memanggilmu Ep90</title>
-    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109020000 +0000" stop="20261109030000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep372</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109030000 +0000" stop="20261109040000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep373</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109040000 +0000" stop="20261109050000 +0000">
-    <title lang="zh">Tajwid Cinta Ep207</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109050000 +0000" stop="20261109060000 +0000">
-    <title lang="zh">Tobat! Ep15</title>
-    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109060000 +0000" stop="20261109070000 +0000">
-    <title lang="zh">Yuk Isbat Ep22</title>
-    <desc>Small talk about religion mixed with everyday problems that invites us to goodness at the same time is fun and funny.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109070000 +0000" stop="20261109080000 +0000">
-    <title lang="zh">Ketika Cinta Memanggilmu Ep91</title>
-    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109080000 +0000" stop="20261109090000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep374</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109090000 +0000" stop="20261109100000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep375</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109100000 +0000" stop="20261109110000 +0000">
-    <title lang="zh">Tobat! Ep16</title>
-    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109110000 +0000" stop="20261109120000 +0000">
-    <title lang="zh">Pelangi Untuk Nirmala Ep39</title>
-    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109120000 +0000" stop="20261109130000 +0000">
-    <title lang="zh">Tajwid Cinta Ep207</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109130000 +0000" stop="20261109140000 +0000">
-    <title lang="zh">Ketika Cinta Memanggilmu Ep91</title>
-    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109140000 +0000" stop="20261109150000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep374</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109150000 +0000" stop="20261109160000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep375</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109160000 +0000" stop="20261109170000 +0000">
-    <title lang="zh">Tobat! Ep16</title>
-    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109170000 +0000" stop="20261109175700 +0000">
-    <title lang="zh">Pelangi Untuk Nirmala Ep39</title>
-    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109175700 +0000" stop="20261109185100 +0000">
-    <title lang="zh">Tajwid Cinta Ep207</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109185100 +0000" stop="20261109193700 +0000">
-    <title lang="zh">Ketika Cinta Memanggilmu Ep91</title>
-    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109193700 +0000" stop="20261109200200 +0000">
-    <title lang="zh">Yummilicious Ep08</title>
-    <desc>A program that shows about Indonesian local cuisines, while learning about how to cook and its history as well as philosophy.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109200200 +0000" stop="20261109210000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep374</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109210000 +0000" stop="20261109220000 +0000">
-    <title lang="zh">Cinta Setelah Cinta Ep375</title>
-    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109220000 +0000" stop="20261109230000 +0000">
-    <title lang="zh">Tobat! Ep16</title>
-    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261109230000 +0000" stop="20261110000000 +0000">
-    <title lang="zh">Pelangi Untuk Nirmala Ep39</title>
-    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.rania" start="20261110000000 +0000" stop="20261111000000 +0000">
-    <title lang="zh">Tajwid Cinta Ep207</title>
-    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
-    <date>2026-11-10</date>
-  </programme>
   <programme channel="mastro.teennick" start="20261108001500 +0000" stop="20261108004200 +0000">
     <title lang="zh">The Thundermans</title>
     <desc>Tired of hearing tales of Hiddenville's legendary mayor, the kids use a time machine to travel back 60 years to disprove the myths; but when they inadvertently alter the past, the effect spells disaster for their hometown.</desc>
@@ -12846,6 +12447,281 @@
     <title lang="zh">The Thundermans</title>
     <desc>Phoebe discovers that Max is the person behind the latest rebellious pranks at school, and refuses to reveal his secret to the principal.</desc>
     <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108000000 +0000" stop="20261108010000 +0000">
+    <title lang="zh">Tajwid Cinta Ep205</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108010000 +0000" stop="20261108013000 +0000">
+    <title lang="zh">Lampung Geh Ep24</title>
+    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108013000 +0000" stop="20261108020000 +0000">
+    <title lang="zh">Barakallah Ep22</title>
+    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108020000 +0000" stop="20261108030000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep370</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108030000 +0000" stop="20261108040000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep371</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108040000 +0000" stop="20261108050000 +0000">
+    <title lang="zh">Tajwid Cinta Ep206</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108050000 +0000" stop="20261108060000 +0000">
+    <title lang="zh">Jagoan Karaoke Ep01</title>
+    <desc>A unique variety competition show which show about people who love to sing at home, mixed with entertaining host.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108060000 +0000" stop="20261108070000 +0000">
+    <title lang="zh">Yuk Isbat Ep21</title>
+    <desc>Small talk about religion mixed with everyday problems that invites us to goodness at the same time is fun and funny.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108070000 +0000" stop="20261108073000 +0000">
+    <title lang="zh">Lampung Geh Ep25</title>
+    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108073000 +0000" stop="20261108080000 +0000">
+    <title lang="zh">Barakallah Ep23</title>
+    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108080000 +0000" stop="20261108090000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep372</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108090000 +0000" stop="20261108100000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep373</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108100000 +0000" stop="20261108110000 +0000">
+    <title lang="zh">Jagoan Karaoke Ep01</title>
+    <desc>A unique variety competition show which show about people who love to sing at home, mixed with entertaining host.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108110000 +0000" stop="20261108120000 +0000">
+    <title lang="zh">Halo Selebriti Ep96</title>
+    <desc>An infotainment program that discusses the lives of celebrities in depth</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108120000 +0000" stop="20261108130000 +0000">
+    <title lang="zh">Tajwid Cinta Ep206</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108130000 +0000" stop="20261108133000 +0000">
+    <title lang="zh">Lampung Geh Ep25</title>
+    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108133000 +0000" stop="20261108140000 +0000">
+    <title lang="zh">Barakallah Ep23</title>
+    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108140000 +0000" stop="20261108150000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep372</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108150000 +0000" stop="20261108160000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep373</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108160000 +0000" stop="20261108170000 +0000">
+    <title lang="zh">Jagoan Karaoke Ep01</title>
+    <desc>A unique variety competition show which show about people who love to sing at home, mixed with entertaining host.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108170000 +0000" stop="20261108174500 +0000">
+    <title lang="zh">Halo Selebriti Ep96</title>
+    <desc>An infotainment program that discusses the lives of celebrities in depth</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108174500 +0000" stop="20261108183900 +0000">
+    <title lang="zh">Tajwid Cinta Ep206</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108183900 +0000" stop="20261108190300 +0000">
+    <title lang="zh">Lampung Geh Ep25</title>
+    <desc>A travel documentary that explores the natural beauty and activities of Lampung.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108190300 +0000" stop="20261108192500 +0000">
+    <title lang="zh">Barakallah Ep23</title>
+    <desc>Barakallah is a tausiah program guided by a host and uztaz who will focus on discussing problems that are often experienced by the community to household problems.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108192500 +0000" stop="20261108200000 +0000">
+    <title lang="zh">Yummilicious Ep07</title>
+    <desc>A program that shows about Indonesian local cuisines, while learning about how to cook and its history as well as philosophy.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108200000 +0000" stop="20261108210000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep372</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108210000 +0000" stop="20261108220000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep373</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108220000 +0000" stop="20261108230000 +0000">
+    <title lang="zh">Tobat! Ep15</title>
+    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261108230000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">Pelangi Untuk Nirmala Ep38</title>
+    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109000000 +0000" stop="20261109010000 +0000">
+    <title lang="zh">Tajwid Cinta Ep206</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109010000 +0000" stop="20261109020000 +0000">
+    <title lang="zh">Ketika Cinta Memanggilmu Ep90</title>
+    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109020000 +0000" stop="20261109030000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep372</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109030000 +0000" stop="20261109040000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep373</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109040000 +0000" stop="20261109050000 +0000">
+    <title lang="zh">Tajwid Cinta Ep207</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109050000 +0000" stop="20261109060000 +0000">
+    <title lang="zh">Tobat! Ep15</title>
+    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109060000 +0000" stop="20261109070000 +0000">
+    <title lang="zh">Yuk Isbat Ep22</title>
+    <desc>Small talk about religion mixed with everyday problems that invites us to goodness at the same time is fun and funny.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109070000 +0000" stop="20261109080000 +0000">
+    <title lang="zh">Ketika Cinta Memanggilmu Ep91</title>
+    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109080000 +0000" stop="20261109090000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep374</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109090000 +0000" stop="20261109100000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep375</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109100000 +0000" stop="20261109110000 +0000">
+    <title lang="zh">Tobat! Ep16</title>
+    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109110000 +0000" stop="20261109120000 +0000">
+    <title lang="zh">Pelangi Untuk Nirmala Ep39</title>
+    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109120000 +0000" stop="20261109130000 +0000">
+    <title lang="zh">Tajwid Cinta Ep207</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109130000 +0000" stop="20261109140000 +0000">
+    <title lang="zh">Ketika Cinta Memanggilmu Ep91</title>
+    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109140000 +0000" stop="20261109150000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep374</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109150000 +0000" stop="20261109160000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep375</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109160000 +0000" stop="20261109170000 +0000">
+    <title lang="zh">Tobat! Ep16</title>
+    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109170000 +0000" stop="20261109175700 +0000">
+    <title lang="zh">Pelangi Untuk Nirmala Ep39</title>
+    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109175700 +0000" stop="20261109185100 +0000">
+    <title lang="zh">Tajwid Cinta Ep207</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109185100 +0000" stop="20261109193700 +0000">
+    <title lang="zh">Ketika Cinta Memanggilmu Ep91</title>
+    <desc>Amira, a poor girl from Banyuwangi, plans a future with Galang. Her father sells her to be Aksara's secret wife. Forced into a contract marriage, she is hidden as a maid and treated badly.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109193700 +0000" stop="20261109200200 +0000">
+    <title lang="zh">Yummilicious Ep08</title>
+    <desc>A program that shows about Indonesian local cuisines, while learning about how to cook and its history as well as philosophy.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109200200 +0000" stop="20261109210000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep374</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109210000 +0000" stop="20261109220000 +0000">
+    <title lang="zh">Cinta Setelah Cinta Ep375</title>
+    <desc>Starla and Niko are a perfect couple with two children. Niko is secretly having an affair with their old friend, Ayu. When Ayu's husband, Ilham, catches them, a high-speed chase ends in a tragic accident.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109220000 +0000" stop="20261109230000 +0000">
+    <title lang="zh">Tobat! Ep16</title>
+    <desc>A docudrama about the life journey of a person who faces reprimands, inner conflict, and efforts to get back on the right path.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261109230000 +0000" stop="20261110000000 +0000">
+    <title lang="zh">Pelangi Untuk Nirmala Ep39</title>
+    <desc>The friendship of two little girls named Pelangi and Nirmala. Nirmala and Pelangi's friendship was opposed by their parents because they were of different castes.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.rania" start="20261110000000 +0000" stop="20261111000000 +0000">
+    <title lang="zh">Tajwid Cinta Ep207</title>
+    <desc>Dafri returns to Indonesia to marry Alina, but his plans shatter when he is forced into an arranged marriage with Syifa. Bound by his father's debt of gratitude, Dafri faces endless conflicts and drama.</desc>
+    <date>2026-11-10</date>
   </programme>
   <programme channel="mastro.golf" start="20261108020000 +0000" stop="20261108060000 +0000">
     <title lang="zh">(L) TOTO Japan Classic 2026 Day 4</title>
@@ -14632,6 +14508,161 @@
     <desc>From Gainbridge Fieldhouse in Indianapolis.</desc>
     <date>2026-11-09</date>
   </programme>
+  <programme channel="mastro.fs2" start="20261108000000 +0000" stop="20261108020000 +0000">
+    <title lang="zh">2026 FIFA U-17 Women's World Cup</title>
+    <desc>Coverage of the tenth edition of the annual international women's soccer tournament contested by under-17 national teams. From Morocco.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108020000 +0000" stop="20261108040000 +0000">
+    <title lang="zh">Live: AFL Women's Premiership Football</title>
+    <desc>Elimination Final.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108040000 +0000" stop="20261108060000 +0000">
+    <title lang="zh">Live: AFL Women's Premiership Football</title>
+    <desc>Elimination Final.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108060000 +0000" stop="20261108063000 +0000">
+    <title lang="zh">UEFA Nations League Magazine</title>
+    <desc>The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108063000 +0000" stop="20261108083000 +0000">
+    <title lang="zh">College Basketball</title>
+    <desc>The Friars (1-0) and Cornhuskers (1-0) face off in a Basketball Hall of Fame Tip-Off game. The programs meet for the first time. Providence was picked to finish fifth in the Big East preseason poll. Nebraska was voted in the same spot in the Big Ten.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108083000 +0000" stop="20261108090000 +0000">
+    <title lang="zh">The Gronk &amp; Jules Show</title>
+    <desc>Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108090000 +0000" stop="20261108120000 +0000">
+    <title lang="zh">College Football</title>
+    <desc />
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108120000 +0000" stop="20261108130000 +0000">
+    <title lang="zh">College Football</title>
+    <desc>The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108130000 +0000" stop="20261108140000 +0000">
+    <title lang="zh">College Football</title>
+    <desc>The No. 5 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108140000 +0000" stop="20261108150000 +0000">
+    <title lang="zh">Endurocross</title>
+    <desc>From Ford Idaho Center Arena in Nampa, Idaho.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108150000 +0000" stop="20261108153000 +0000">
+    <title lang="zh">Wild World of Western Sports</title>
+    <desc>40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108153000 +0000" stop="20261108173000 +0000">
+    <title lang="zh">2026 FIFA U-17 Women's World Cup</title>
+    <desc>Final.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108173000 +0000" stop="20261108180000 +0000">
+    <title lang="zh">Live: Horse Racing</title>
+    <desc>Following all the action from the world of horse racing.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108180000 +0000" stop="20261108183000 +0000">
+    <title lang="zh">STIHL Timbersports</title>
+    <desc>From Milwaukee.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108183000 +0000" stop="20261108190000 +0000">
+    <title lang="zh">STIHL Timbersports</title>
+    <desc>From Milwaukee.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108190000 +0000" stop="20261108213000 +0000">
+    <title lang="zh">Live: Horse Racing</title>
+    <desc>Following all the action from the world of horse racing.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108213000 +0000" stop="20261108223000 +0000">
+    <title lang="zh">MotoGP Racing</title>
+    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108223000 +0000" stop="20261108230000 +0000">
+    <title lang="zh">MotoGP Racing</title>
+    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261108230000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">Endurocross</title>
+    <desc>From Orleans Arena in Las Vegas, Nev.</desc>
+    <date>2026-11-08</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109000000 +0000" stop="20261109010000 +0000">
+    <title lang="zh">Endurocross</title>
+    <desc>From Ford Idaho Center Arena in Nampa, Idaho.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109010000 +0000" stop="20261109030000 +0000">
+    <title lang="zh">NASCAR Craftsman Truck Series</title>
+    <desc>The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109030000 +0000" stop="20261109040000 +0000">
+    <title lang="zh">Live: SpeedFreaks</title>
+    <desc>Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109040000 +0000" stop="20261109070000 +0000">
+    <title lang="zh">College Football</title>
+    <desc />
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109070000 +0000" stop="20261109100000 +0000">
+    <title lang="zh">College Football</title>
+    <desc>The Bears (5-3, 3-2 Big 12) brace for Aiden Flora and the Cyclones (4-4, 2-3). Baylor leads the series 12-11 after Iowa State prevailed 43-21 in 2024. Flora rushed for 221 yards and two touchdowns in a 51-49 triumph over Oklahoma State last week.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109100000 +0000" stop="20261109130000 +0000">
+    <title lang="zh">College Football</title>
+    <desc>The Rainbow Warriors (2-6, 1-4) visit the Miners (1-7, 0-4) for a Mountain West affair. The programs haven't met since 2004, when they were Western Athletic Conference foes. Hawaii traveled 4,255 miles to beat Northern Illinois 56-21 last week.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109130000 +0000" stop="20261109160000 +0000">
+    <title lang="zh">College Football</title>
+    <desc>The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109160000 +0000" stop="20261109180000 +0000">
+    <title lang="zh">Women's College Volleyball</title>
+    <desc>From UW Field House in Madison, Wis.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109180000 +0000" stop="20261109200000 +0000">
+    <title lang="zh">Women's College Volleyball</title>
+    <desc>From Alaska Airlines Arena in Seattle.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109200000 +0000" stop="20261109220000 +0000">
+    <title lang="zh">Women's College Basketball</title>
+    <desc>The No. 10 Iowa Hawkeyes (2-0) visit the No. 2 UConn Huskies (1-1) in Storrs. Iowa enters this game after a 73-45 win over Towson behind 21 points and five assists from Dani Carnegie. UConn beat Cornell 100-35 behind 19 points from Sarah Strong.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261109220000 +0000" stop="20261110000000 +0000">
+    <title lang="zh">NASCAR Craftsman Truck Series</title>
+    <desc>The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.</desc>
+    <date>2026-11-09</date>
+  </programme>
+  <programme channel="mastro.fs2" start="20261110000000 +0000" stop="20261111000000 +0000">
+    <title lang="zh">MotoGP Racing</title>
+    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
+    <date>2026-11-10</date>
+  </programme>
   <programme channel="mastro.aura" start="20261108003000 +0000" stop="20261108013000 +0000">
     <title lang="zh">Cinta Karena Cinta Ep67</title>
     <desc>15 years ago, Jenar found himself in a tragic event that claimed the lives of his family. Mila, who is Jenar's older sister, is still alive after Ayu's adoption. Jenar's life changes after meeting Mirza, a man who is attracted to her.</desc>
@@ -14950,161 +14981,6 @@
   <programme channel="mastro.aura" start="20261110000000 +0000" stop="20261111000000 +0000">
     <title lang="zh">Age Kareba Makassar Ep50</title>
     <desc>An exciting journey exploring the culinary riches, tourist destinations and unique traditions in various corners of Makassar, Indonesia's port city.</desc>
-    <date>2026-11-10</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108000000 +0000" stop="20261108020000 +0000">
-    <title lang="zh">2026 FIFA U-17 Women's World Cup</title>
-    <desc>Coverage of the tenth edition of the annual international women's soccer tournament contested by under-17 national teams. From Morocco.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108020000 +0000" stop="20261108040000 +0000">
-    <title lang="zh">Live: AFL Women's Premiership Football</title>
-    <desc>Elimination Final.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108040000 +0000" stop="20261108060000 +0000">
-    <title lang="zh">Live: AFL Women's Premiership Football</title>
-    <desc>Elimination Final.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108060000 +0000" stop="20261108063000 +0000">
-    <title lang="zh">UEFA Nations League Magazine</title>
-    <desc>The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108063000 +0000" stop="20261108083000 +0000">
-    <title lang="zh">College Basketball</title>
-    <desc>The Friars (1-0) and Cornhuskers (1-0) face off in a Basketball Hall of Fame Tip-Off game. The programs meet for the first time. Providence was picked to finish fifth in the Big East preseason poll. Nebraska was voted in the same spot in the Big Ten.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108083000 +0000" stop="20261108090000 +0000">
-    <title lang="zh">The Gronk &amp; Jules Show</title>
-    <desc>Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108090000 +0000" stop="20261108120000 +0000">
-    <title lang="zh">College Football</title>
-    <desc />
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108120000 +0000" stop="20261108130000 +0000">
-    <title lang="zh">College Football</title>
-    <desc>The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108130000 +0000" stop="20261108140000 +0000">
-    <title lang="zh">College Football</title>
-    <desc>The No. 5 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108140000 +0000" stop="20261108150000 +0000">
-    <title lang="zh">Endurocross</title>
-    <desc>From Ford Idaho Center Arena in Nampa, Idaho.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108150000 +0000" stop="20261108153000 +0000">
-    <title lang="zh">Wild World of Western Sports</title>
-    <desc>40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108153000 +0000" stop="20261108173000 +0000">
-    <title lang="zh">2026 FIFA U-17 Women's World Cup</title>
-    <desc>Final.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108173000 +0000" stop="20261108180000 +0000">
-    <title lang="zh">Live: Horse Racing</title>
-    <desc>Following all the action from the world of horse racing.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108180000 +0000" stop="20261108183000 +0000">
-    <title lang="zh">STIHL Timbersports</title>
-    <desc>From Milwaukee.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108183000 +0000" stop="20261108190000 +0000">
-    <title lang="zh">STIHL Timbersports</title>
-    <desc>From Milwaukee.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108190000 +0000" stop="20261108213000 +0000">
-    <title lang="zh">Live: Horse Racing</title>
-    <desc>Following all the action from the world of horse racing.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108213000 +0000" stop="20261108223000 +0000">
-    <title lang="zh">MotoGP Racing</title>
-    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108223000 +0000" stop="20261108230000 +0000">
-    <title lang="zh">MotoGP Racing</title>
-    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261108230000 +0000" stop="20261109000000 +0000">
-    <title lang="zh">Endurocross</title>
-    <desc>From Orleans Arena in Las Vegas, Nev.</desc>
-    <date>2026-11-08</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109000000 +0000" stop="20261109010000 +0000">
-    <title lang="zh">Endurocross</title>
-    <desc>From Ford Idaho Center Arena in Nampa, Idaho.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109010000 +0000" stop="20261109030000 +0000">
-    <title lang="zh">NASCAR Craftsman Truck Series</title>
-    <desc>The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109030000 +0000" stop="20261109040000 +0000">
-    <title lang="zh">Live: SpeedFreaks</title>
-    <desc>Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109040000 +0000" stop="20261109070000 +0000">
-    <title lang="zh">College Football</title>
-    <desc />
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109070000 +0000" stop="20261109100000 +0000">
-    <title lang="zh">College Football</title>
-    <desc>The Bears (5-3, 3-2 Big 12) brace for Aiden Flora and the Cyclones (4-4, 2-3). Baylor leads the series 12-11 after Iowa State prevailed 43-21 in 2024. Flora rushed for 221 yards and two touchdowns in a 51-49 triumph over Oklahoma State last week.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109100000 +0000" stop="20261109130000 +0000">
-    <title lang="zh">College Football</title>
-    <desc>The Rainbow Warriors (2-6, 1-4) visit the Miners (1-7, 0-4) for a Mountain West affair. The programs haven't met since 2004, when they were Western Athletic Conference foes. Hawaii traveled 4,255 miles to beat Northern Illinois 56-21 last week.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109130000 +0000" stop="20261109160000 +0000">
-    <title lang="zh">College Football</title>
-    <desc>The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109160000 +0000" stop="20261109180000 +0000">
-    <title lang="zh">Women's College Volleyball</title>
-    <desc>From UW Field House in Madison, Wis.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109180000 +0000" stop="20261109200000 +0000">
-    <title lang="zh">Women's College Volleyball</title>
-    <desc>From Alaska Airlines Arena in Seattle.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109200000 +0000" stop="20261109220000 +0000">
-    <title lang="zh">Women's College Basketball</title>
-    <desc>The No. 10 Iowa Hawkeyes (2-0) visit the No. 2 UConn Huskies (1-1) in Storrs. Iowa enters this game after a 73-45 win over Towson behind 21 points and five assists from Dani Carnegie. UConn beat Cornell 100-35 behind 19 points from Sarah Strong.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261109220000 +0000" stop="20261110000000 +0000">
-    <title lang="zh">NASCAR Craftsman Truck Series</title>
-    <desc>The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.</desc>
-    <date>2026-11-09</date>
-  </programme>
-  <programme channel="mastro.fs2" start="20261110000000 +0000" stop="20261111000000 +0000">
-    <title lang="zh">MotoGP Racing</title>
-    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
     <date>2026-11-10</date>
   </programme>
   <programme channel="mastro.foxsoccerplus" start="20261108010000 +0000" stop="20261108030000 +0000">
