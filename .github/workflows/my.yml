@@ -17,7 +17,8 @@ jobs:
 
       - name: Download, Filter & Update MY EPG
         run: |
-          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o archive.tar.gz
+          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/epg.xml.gz" -o epg.xml.gz
+          curl -L "https://github.com/AqFad2811/epg/raw/refs/heads/main/compressed/rtmklik.xml.gz" -o rtmklik.xml.gz
           
           python3 -c '
           import tarfile
@@ -25,23 +26,25 @@ jobs:
           import os
           import xml.etree.ElementTree as ET
 
-          # Cuba buka sebagai tar archive terlebih dahulu (jika fail .tar.gz)
-          extracted_xml = "source_my.xml"
-          try:
-              with tarfile.open("archive.tar.gz", "r:*") as tar:
-                  # Cari fail xml di dalam arkib tar
-                  member = next((m for m in tar.getmembers() if m.name.endswith(".xml")), None)
-                  if member:
-                      f = tar.extractfile(member)
-                      with open(extracted_xml, "wb") as out:
-                          out.write(f.read())
-                  else:
-                      raise Exception("Tiada fail XML dijumpai dalam arkib tar")
-          except Exception as e:
-              print("Bukan fail tar, mencuba sebagai gzip biasa...", e)
-              # Jika bukan tar, cuba sebagai fail .gz biasa
-              with gzip.open("archive.tar.gz", "rb") as f_in, open(extracted_xml, "wb") as f_out:
-                  f_out.write(f_in.read())
+          files = ["epg.xml.gz", "rtmklik.xml.gz"]
+          extracted_files = []
+
+          # Ekstrak semua fail yang dimuat turun
+          for i, file in enumerate(files):
+              extracted_xml = f"source_{i}.xml"
+              extracted_files.append(extracted_xml)
+              try:
+                  with tarfile.open(file, "r:*") as tar:
+                      member = next((m for m in tar.getmembers() if m.name.endswith(".xml")), None)
+                      if member:
+                          f = tar.extractfile(member)
+                          with open(extracted_xml, "wb") as out:
+                              out.write(f.read())
+                      else:
+                          raise Exception("Tiada fail XML")
+              except Exception:
+                  with gzip.open(file, "rb") as f_in, open(extracted_xml, "wb") as f_out:
+                      f_out.write(f_in.read())
 
           CHANNEL_MAP = {
               "DramaHebat": "mastro.dramahebat",
@@ -52,6 +55,7 @@ jobs:
               "DramaHotpot": "mastro.dramahotpot",
               "TravelandTaste": "mastro.traveltaste",
               "OhMyCeria": "mastro.ohmyceria",
+              "Jr": "mastro.jr",
               "AstroArena": "mastro.arena",
               "AstroStadium": "mastro.arena2",
               "AstroArenaBola": "mastro.arenabola",
@@ -68,28 +72,34 @@ jobs:
               "Sukan+": "mastro.sukanplus"
           }
 
-          tree = ET.parse(extracted_xml)
-          root = tree.getroot()
-          new_root = ET.Element("tv", root.attrib)
+          new_root = None
 
-          for channel in root.findall("channel"):
-              old_id = channel.get("id")
-              if old_id in CHANNEL_MAP:
-                  channel.set("id", CHANNEL_MAP[old_id])
-                  new_root.append(channel)
+          # Proses dan gabungkan semua fail XML yang telah diekstrak
+          for xml_file in extracted_files:
+              tree = ET.parse(xml_file)
+              root = tree.getroot()
+              
+              if new_root is None:
+                  new_root = ET.Element("tv", root.attrib)
 
-          for programme in root.findall("programme"):
-              old_channel = programme.get("channel")
-              if old_channel in CHANNEL_MAP:
-                  programme.set("channel", CHANNEL_MAP[old_channel])
-                  new_root.append(programme)
+              for channel in root.findall("channel"):
+                  old_id = channel.get("id")
+                  if old_id in CHANNEL_MAP:
+                      channel.set("id", CHANNEL_MAP[old_id])
+                      new_root.append(channel)
+
+              for programme in root.findall("programme"):
+                  old_channel = programme.get("channel")
+                  if old_channel in CHANNEL_MAP:
+                      programme.set("channel", CHANNEL_MAP[old_channel])
+                      new_root.append(programme)
 
           new_tree = ET.ElementTree(new_root)
           ET.indent(new_tree, space="  ")
           new_tree.write("my.xml", encoding="utf-8", xml_declaration=True)
           '
 
-          rm -f archive.tar.gz source_my.xml
+          rm -f epg.xml.gz rtmklik.xml.gz source_0.xml source_1.xml
 
       - name: Commit and Push Changes
         run: |
