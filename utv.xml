@@ -28,6 +28,10 @@
     <display-name lang="en">PESONA</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=160&amp;updatedTime=0&amp;dt=Web" />
   </channel>
+  <channel id="mastro.zeethirai">
+    <display-name lang="en">Zee Thirai</display-name>
+    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=160&amp;updatedTime=0&amp;dt=Web" />
+  </channel>
   <channel id="mastro.hbo">
     <display-name lang="en">HBO</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=160&amp;updatedTime=0&amp;dt=Web" />
@@ -10937,6 +10941,558 @@
     <category lang="en">Drama</category>
     <rating system="FCB">
       <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261118223000 +0000" stop="20261119013000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Enakkul Oruvan</title>
+    <desc lang="en">Vicky, an insomniac, tries a dream-enhancing pill, only to find his subconscious fantasies bleeding into reality, blurring the lines between dreams and chaos.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261119013000 +0000" stop="20261119043000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Vithaikkaaran</title>
+    <desc lang="en">Revolve around smuggling and how protagonist is given the charge to retrieve certain withheld goods.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261119043000 +0000" stop="20261119080000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Adade Sundara</title>
+    <desc lang="en">A boy from conservative Hindu Brahmin family and a girl from an orthodox Christian family fall in love. To get married they both lie to their parents but the lies leads to a series of comical situatio</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261119080000 +0000" stop="20261119103000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Achamindri</title>
+    <desc lang="en">Sakthi, a pickpocket, and Sathya, a police officer, team up to uncover the person behind a series of deaths and bring them to justice.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261119103000 +0000" stop="20261119133000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Identity</title>
+    <desc lang="en">A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.</desc>
+    <category lang="en">Mystery</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261119133000 +0000" stop="20261119163000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Ghosty</title>
+    <desc lang="en">Police officer, pursuing outlaw who escaped her father's custody 20 years ago, accidentally shoots someone else in a failed shootout.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261119163000 +0000" stop="20261119190000 +0000" channel="mastro.zeethirai">
+    <title lang="en">35 Chinna Vishayam Illa</title>
+    <desc lang="en">Saraswathi's happy family is tested when her son Arjun must score 35 in Math to stay in school, despite his lifelong struggle with the subject.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261119193000 +0000" stop="20261119200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261119200000 +0000" stop="20261119223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kappal</title>
+    <desc lang="en">Vaibhav wants love, but a strange promise not to marry blocks his path. He escapes to Chennai to find love, but faces foes when Sonam enters his life.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261119223000 +0000" stop="20261120013000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Sir</title>
+    <desc lang="en">Ashwin, a US-returned architect, falls for Ratna, his widowed maid. As she pursues her dream of becoming a fashion designer, their love quietly challenges tradition and class.</desc>
+    <category lang="en">Family</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261120013000 +0000" stop="20261120043000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Tuck Jagadish</title>
+    <desc lang="en">Bhudevipuram has a long history of families warring over ancestral property. However, when its headman's family falls into the same trap, his younger son decides to break the village's age-old legacy.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261120043000 +0000" stop="20261120080000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Endrendrum Punnagai</title>
+    <desc lang="en">Goutham grows up hating women after his mother abandons him during his childhood. Though he decides to stay single while his friends marry, Priya changes his mind about singlehood.</desc>
+    <category lang="en">Romance</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261120080000 +0000" stop="20261120103000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Asuraguru</title>
+    <desc lang="en">The life of a high-tech robber with exceptional skills of evading the law changes when a private detective tries to get a hold of him.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261120103000 +0000" stop="20261120133000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Mapla Singam</title>
+    <desc lang="en">Amidst the rivalry of two castes in a village, a leader's daughter falls in love with a boy from the rival caste. Things take a turn when her cousin Anbu falls in love with the boy's sister.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120163000 +0000" channel="mastro.zeethirai">
+    <title lang="en">V</title>
+    <desc lang="en">When aliens land on Earth claiming to help humanity, they seem friendly at first. But as they integrate into society, their hidden agenda starts to unfold.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261120163000 +0000" stop="20261120190000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Yaan</title>
+    <desc lang="en">Chandru, a jobless man, vows to get a job after the father of his girlfriend opposes their relationship. His joy on getting a job in an Islamic nation ends when he is nabbed there for carrying drugs.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261120200000 +0000" stop="20261120223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Yaanai</title>
+    <desc lang="en">In Ramnad, PRV juggles life with his two wives and kids while facing blame from another family for his brother's death. Tensions rise as their stories intertwine.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261120223000 +0000" stop="20261121020000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kedikkellam Kedi</title>
+    <desc lang="en">Sreenu wins Shruthi's love after driving away rival Bhavani, but trouble follows when Rajanna kidnaps her and demands Sreenu marry his daughter, forcing him into a dangerous dilemma.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121053000 +0000" channel="mastro.zeethirai">
+    <title lang="en">India Pakistan</title>
+    <desc lang="en">Two aspiring lawyers, not knowing that both are of the same profession, share the same office. Things take a turn when they work on the same case.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121090000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Valimai</title>
+    <desc lang="en">A city's crime rate rises due to a notorious motorcycle club. When chaos ensues, police officer Arjun takes charge to restore law and order.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261121090000 +0000" stop="20261121120000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Bhaskar Oru Rascal</title>
+    <desc lang="en">Two kids, each from a single-parent home, team up to bring their moms and dads together, hoping to create the happy, complete family they've always wanted.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121150000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kolamaavu Kokila</title>
+    <desc lang="en">A young girl in Tamil Nadu turns to the local drug gang to save her dying mother, risking danger, loyalty, and her own future dramatically today.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261121150000 +0000" stop="20261121170000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Theeni</title>
+    <desc lang="en">Dev, an overweight but genius chef, falls in love with his charming colleague, Tara. However, their love story takes a turn when Maya, a happy-go-lucky woman, enters their lives.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Jaihind 2</title>
+    <desc lang="en">Karate teacher Abhinandan becomes a media sensation after advocating for government takeover of private schools to ensure equal education opportunities, facing threats from school owners.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261121200000 +0000" stop="20261121223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Lakshmi</title>
+    <desc lang="en">Lakshmi dreams of winning a national level dance competition but is scared to participate as her mother despises dancing. However, things take a turn when she meets Krishna, a cafe owner.</desc>
+    <category lang="en">Family</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261122020000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Love Story</title>
+    <desc lang="en">A Christian Zumba instructor falls in love with a starry-eyed upper caste Hindu girl. In their quest for happiness, however, they must first overcome a massive caste divide.</desc>
+    <category lang="en">Romance</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122053000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Bangalore Naatkal</title>
+    <desc lang="en">Three cousins, Arjun, Divya, and Kannan, move to Bangalore for different reasons. Their journey is filled with challenges that alter their lives irrevocably.</desc>
+    <category lang="en">Romance</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261122053000 +0000" stop="20261122090000 +0000" channel="mastro.zeethirai">
+    <title lang="en">2</title>
+    <desc lang="en">After mobiles start mysteriously flying out of the hands of people in Chennai, Dr Vaseegaran summons his trusted robot Chitti to ward off the bird-shaped supernatural powers of Pakshirajan.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261122090000 +0000" stop="20261122120000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Magalir Mattum</title>
+    <desc lang="en">Prabhavati, a filmmaker, with help from her friends takes her mother-in-law, Gomatha, on a surprise trip to reunite with her school friends.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122150000 +0000" channel="mastro.zeethirai">
+    <title lang="en">CBI 5</title>
+    <desc lang="en">After a series of murders take place one after another, a police officer decides to investigate the case himself and bring the killer to justice.</desc>
+    <category lang="en">Mystery</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261122150000 +0000" stop="20261122170000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Danny</title>
+    <desc lang="en">Police inspector Kunthavai teams up with Danny, a clever police dog, to solve a murder mystery involving a dangerous gang of serial killers in this thrilling investigation.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261122170000 +0000" stop="20261122193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Happy Birthday</title>
+    <desc lang="en">A fearless man, entrenched in violence, must transform his life for love when he meets a sweet young woman. Will he succeed in leaving his past behind?</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261122200000 +0000" stop="20261122223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kishkindapuri</title>
+    <desc lang="en">During a ghost tour, visitors enter a radio station and awaken a dormant spirit. Trapped inside, they must find a way out as supernatural forces threaten them.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261122223000 +0000" stop="20261123013000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Yaman</title>
+    <desc lang="en">After losing his father to a bunch of scheming politicians, a young man decides to wade into the corrupt and unscrupulous world of politics to avenge his death.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261123013000 +0000" stop="20261123043000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kanaa</title>
+    <desc lang="en">Kousalya, a farmer's daughter, dreams of becoming an international cricketer and winning the World Cup. With her father's support, she faces numerous challenges in her pursuit.</desc>
+    <category lang="en">Sports</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123080000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Veeran</title>
+    <desc lang="en">A 15-year-old boy living in Veeranor, gets struck by lightning and goes into a short coma. After recovery, he gradually realizes that he has superpowers of lightning and mind control.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123103000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Theerkatharisi</title>
+    <desc lang="en">A mysterious stranger repeatedly calls the police control room, tipping them off about impending crimes and accidents.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261123103000 +0000" stop="20261123133000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Ravanasura</title>
+    <desc lang="en">Junior lawyer, Ravindra, agrees to help a business magnate clear her father's name of murder, but his true colors are revealed as more bodies appear.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261123133000 +0000" stop="20261123163000 +0000" channel="mastro.zeethirai">
+    <title lang="en">KGF: Chapter 2</title>
+    <desc lang="en">Rocky successfully rises as the leader and saviour of the people of the Kolar Gold Fields. But, in his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat Khalil and Ramika Sen.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123190000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Nota</title>
+    <desc lang="en">After a CM is charged with corruption, he is forced to pass the baton to his son. He with no political experience, finds himself stuck to the chair.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261123193000 +0000" stop="20261123200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Vikram Vedha</title>
+    <desc lang="en">Vikram, A Pragmatic Policeman, And His Partner Simon Are On The Hunt To Capture Vedha. When Vedha Voluntarily Surrenders, He Offers To Tell Vikram A Story, Throwing Vikram's Life Into Disarray.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261123223000 +0000" stop="20261124013000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Thirumanam</title>
+    <desc lang="en">Very much concerned about his family's financial status, Arivudainambi is unhappy with the way his sister's wedding to a wealthy man is being done.</desc>
+    <category lang="en">Romance</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261124013000 +0000" stop="20261124043000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Sivalinga</title>
+    <desc lang="en">Raheem gets killed when he tries to save a blind man in a train. When the police close the case stating suicide, Raheem's girlfriend asks Shivalingeshwaran, a CID officer, to investigate the death.</desc>
+    <category lang="en">Horror</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261124043000 +0000" stop="20261124080000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Turbo</title>
+    <desc lang="en">A snail named Turbo gains super-speed. He dreams of racing in the Indianapolis 500. With his friends, he defies odds to prove anyone can achieve their dreams.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124103000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Ten Hours</title>
+    <desc lang="en">A bus murder investigation unfolds, revealing possible scenarios and suspects. As people are questioned, deeper secrets surface, suggesting hidden motives and surprising links within the case.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261124103000 +0000" stop="20261124133000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Regai</title>
+    <desc lang="en">SI Vetri finds severed hands in an ice cart. A fingerprint links them to his friend Amuthan, believed dead. His probe exposes a medical trial cover-up staged as accidents.</desc>
+    <category lang="en">Crime</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261124133000 +0000" stop="20261124163000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kalki 2898 Ad</title>
+    <desc lang="en">The future of those in the dystopian city of Kasi is altered when the destined arrival of Lord Vishnu's final avatar launches a war against darkness.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261124163000 +0000" stop="20261124190000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Identity</title>
+    <desc lang="en">A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.</desc>
+    <category lang="en">Mystery</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261124193000 +0000" stop="20261124200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Thiruttu Payale 2</title>
+    <desc lang="en">An honest police officer, under orders from a senior official, records conversations of elite professionals. While on duty, he discovers an online sociopath and decides to reveal his identity.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261124223000 +0000" stop="20261125013000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Minmini</title>
+    <desc lang="en">Follows two youngsters who carry survivors' guilt.</desc>
+    <category lang="en">Drama</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261125013000 +0000" stop="20261125043000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kalavani 2</title>
+    <desc lang="en">Arivazhagan files his candidature for the panchayat elections hoping to profit from the two competing parties, comprising of his uncle and his lady-love's father.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261125043000 +0000" stop="20261125080000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Kathar Basha Endra Muthuramalingam</title>
+    <desc lang="en">Nana, a powerful gangster, vies for control of a village. However, Kathar, an honest man, strives for peace, resulting in a clash between the two.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125103000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Vadacurry</title>
+    <desc lang="en">Sathish, who is ashamed of his cheap phone, gives in to temptation when he finds one lying unattended in a shop and steals it. Unfortunately for him, the phone belongs to someone dangerous.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261125103000 +0000" stop="20261125133000 +0000" channel="mastro.zeethirai">
+    <title lang="en">The Road</title>
+    <desc lang="en">How a national highway becomes a primary conflict in the lives of Meera, a journalist, and Maya, a college professor, and makes their life upside down.</desc>
+    <category lang="en">Thriller</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261125133000 +0000" stop="20261125163000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Vantha Rajavathaan Varuven</title>
+    <desc lang="en">Aadhi, posing as a driver, tries to reunite his grandfather with his estranged daughter Nandhini, but unexpected troubles arise in the process.</desc>
+    <category lang="en">Action</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261125163000 +0000" stop="20261125190000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Mapla Singam</title>
+    <desc lang="en">Amidst the rivalry of two castes in a village, a leader's daughter falls in love with a boy from the rival caste. Things take a turn when her cousin Anbu falls in love with the boy's sister.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125193000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261125193000 +0000" stop="20261125200000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+    <rating system="FCB">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125223000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Ghosty</title>
+    <desc lang="en">Police officer, pursuing outlaw who escaped her father's custody 20 years ago, accidentally shoots someone else in a failed shootout.</desc>
+    <category lang="en">Comedy</category>
+    <rating system="FCB">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20261125223000 +0000" stop="20261126013000 +0000" channel="mastro.zeethirai">
+    <title lang="en">Megha</title>
+    <desc lang="en">Forensic officer Mugilan falls in love with Megha. But she disappears when Mugilan discovers incriminating evidence against a corrupt police officer.</desc>
+    <category lang="en">Romance</category>
+    <rating system="FCB">
+      <value>13</value>
     </rating>
   </programme>
   <programme start="20261118221000 +0000" stop="20261118235000 +0000" channel="mastro.hbo">
